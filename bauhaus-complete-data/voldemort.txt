@@ -1,0 +1,1156 @@
+Version 1 (/home/d2jain/bhprojects/voldemort)
+This is for clone class 1
+  CloneClass 1 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:608)23
+(test/unit/voldemort/client/ClientRegistryTest.java:663)23
+  CloneClass 2 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:406)35
+(test/unit/voldemort/client/ClientRegistryTest.java:448)35
+(test/unit/voldemort/client/ClientRegistryTest.java:547)35
+  CloneClass 3 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:348)5
+(test/unit/voldemort/client/AdminServiceBasicTest.java:172)5
+  CloneClass 4 (Type 1)
+(test/unit/voldemort/client/AdminFetchTest.java:144)11
+(test/unit/voldemort/client/AdminFetchTest.java:167)11
+  CloneClass 5 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:280)18
+(test/unit/voldemort/client/AdminServiceBasicTest.java:608)18
+  CloneClass 12 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1023)18
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1060)18
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1096)18
+  CloneClass 13 (Type 1)
+(test/unit/voldemort/store/routed/GetallNodeReachTest.java:159)3
+(test/unit/voldemort/store/routed/GetallNodeReachTest.java:220)4
+(test/unit/voldemort/store/routed/GetallNodeReachTest.java:282)3
+  CloneClass 14 (Type 1)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:800)37
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:937)38
+  CloneClass 15 (Type 1)
+(test/common/voldemort/store/RandomlyFailingDelegatingStore.java:22)19
+(test/common/voldemort/store/RandomlyFailingDelegatingStore.java:70)19
+  CloneClass 16 (Type 1)
+(test/unit/voldemort/client/ClientJmxTest.java:119)10
+(test/unit/voldemort/client/ClientJmxTest.java:153)10
+(test/unit/voldemort/client/ClientJmxTest.java:183)10
+(test/unit/voldemort/client/ClientJmxTest.java:213)10
+  CloneClass 17 (Type 1)
+(test/unit/voldemort/store/invalidmetadata/InvalidMetadataCheckingStoreTest.java:49)9
+(test/unit/voldemort/store/invalidmetadata/InvalidMetadataCheckingStoreTest.java:73)8
+(test/unit/voldemort/store/invalidmetadata/InvalidMetadataCheckingStoreTest.java:99)8
+  CloneClass 18 (Type 1)
+(test/common/voldemort/TestUtils.java:353)25
+(test/common/voldemort/TestUtils.java:386)25
+  CloneClass 19 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:133)12
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:175)12
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:227)12
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:296)12
+  CloneClass 20 (Type 1)
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:469)10
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:507)10
+  CloneClass 21 (Type 1)
+(test/integration/voldemort/socketpool/SimpleSocketPoolTest.java:91)18
+(test/integration/voldemort/socketpool/SimpleSocketPoolTest.java:137)18
+  CloneClass 22 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:762)10
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:883)11
+  CloneClass 23 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:456)7
+(test/unit/voldemort/client/AdminServiceBasicTest.java:506)7
+(test/unit/voldemort/client/AdminServiceBasicTest.java:597)7
+  CloneClass 25 (Type 1)
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:354)21
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:637)21
+  CloneClass 26 (Type 1)
+(test/unit/voldemort/store/AbstractStorageEngineTest.java:70)7
+(test/unit/voldemort/store/AbstractStorageEngineTest.java:90)7
+  CloneClass 27 (Type 1)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:133)6
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:172)6
+  CloneClass 28 (Type 1)
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:85)12
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:158)12
+  CloneClass 29 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:643)6
+(test/unit/voldemort/client/ClientRegistryTest.java:694)7
+  CloneClass 30 (Type 1)
+(test/unit/voldemort/store/routed/GetallNodeReachTest.java:81)6
+(test/unit/voldemort/store/routed/GetallNodeReachTest.java:127)10
+(test/unit/voldemort/store/routed/GetallNodeReachTest.java:250)6
+  CloneClass 31 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:130)3
+(test/unit/voldemort/client/ClientRegistryTest.java:145)3
+(test/unit/voldemort/client/ClientRegistryTest.java:412)3
+(test/unit/voldemort/client/ClientRegistryTest.java:454)3
+(test/unit/voldemort/client/ClientRegistryTest.java:553)3
+(test/unit/voldemort/client/ClientRegistryTest.java:707)3
+  CloneClass 32 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1100)9
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1153)8
+  CloneClass 33 (Type 1)
+(test/unit/voldemort/store/readonly/swapper/StoreSwapperTest.java:165)15
+(test/unit/voldemort/store/readonly/swapper/StoreSwapperTest.java:209)15
+  CloneClass 34 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:631)8
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:676)8
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:705)8
+  CloneClass 35 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:444)4
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:570)4
+  CloneClass 36 (Type 1)
+(test/integration/voldemort/performance/MysqlGrowth.java:128)13
+(test/integration/voldemort/performance/MysqlBench.java:173)13
+  CloneClass 37 (Type 1)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:285)14
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:338)13
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:397)12
+  CloneClass 38 (Type 1)
+(test/unit/voldemort/store/readonly/ReadOnlyStorageEngineTest.java:135)20
+(test/unit/voldemort/store/readonly/ReadOnlyStorageEngineTest.java:163)20
+(test/unit/voldemort/store/readonly/ReadOnlyStorageEngineTest.java:191)23
+  CloneClass 39 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:418)4
+(test/unit/voldemort/client/AdminServiceBasicTest.java:485)4
+(test/unit/voldemort/client/AdminServiceBasicTest.java:502)4
+(test/unit/voldemort/client/AdminServiceBasicTest.java:573)4
+(test/unit/voldemort/client/AdminServiceBasicTest.java:593)4
+  CloneClass 40 (Type 1)
+(test/long/voldemort/client/rebalance/RebalanceLongTest.java:66)9
+(test/unit/voldemort/client/rebalance/RebalanceTest.java:75)11
+  CloneClass 43 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1349)11
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1388)11
+  CloneClass 44 (Type 1)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:272)12
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:324)13
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:375)21
+  CloneClass 45 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:145)8
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:187)8
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:239)8
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:308)10
+  CloneClass 47 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:870)16
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:926)17
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1034)17
+  CloneClass 48 (Type 1)
+(test/integration/voldemort/performance/benchmark/Metrics.java:60)8
+(test/integration/voldemort/performance/benchmark/Metrics.java:71)8
+  CloneClass 49 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1432)11
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1450)11
+  CloneClass 50 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:163)10
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:281)11
+  CloneClass 51 (Type 1)
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:58)13
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:133)13
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:185)13
+  CloneClass 52 (Type 1)
+(test/integration/voldemort/cluster/failuredetector/TimedUnavailabilityTest.java:67)9
+(test/integration/voldemort/cluster/failuredetector/FlappingTest.java:77)9
+  CloneClass 53 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:453)5
+(test/unit/voldemort/client/AdminServiceBasicTest.java:470)5
+  CloneClass 54 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:385)7
+(test/unit/voldemort/client/AdminServiceBasicTest.java:446)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:530)5
+  CloneClass 55 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:434)13
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:569)13
+  CloneClass 57 (Type 1)
+(test/unit/voldemort/serialization/avro/versioned/AvroBackwardsCompatibilityTest.java:51)15
+(test/unit/voldemort/serialization/avro/versioned/AvroBackwardsCompatibilityTest.java:77)15
+  CloneClass 58 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:800)4
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1068)3
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1122)3
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1173)3
+  CloneClass 59 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:648)11
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:684)12
+  CloneClass 60 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:941)12
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1133)12
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1235)12
+  CloneClass 61 (Type 1)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:155)11
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:198)11
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:250)11
+  CloneClass 62 (Type 1)
+(test/unit/voldemort/store/system/AsyncMetadataVersionManagerTest.java:73)26
+(test/unit/voldemort/client/EndToEndRebootstrapTest.java:75)24
+  CloneClass 66 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:456)16
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:583)16
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:752)16
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:906)16
+  CloneClass 67 (Type 1)
+(test/common/voldemort/store/RandomlyFailingDelegatingStore.java:46)19
+(test/common/voldemort/store/RandomlyFailingDelegatingStore.java:94)19
+  CloneClass 68 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:320)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:394)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:665)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:722)6
+  CloneClass 69 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:407)10
+(test/unit/voldemort/client/AdminServiceBasicTest.java:476)9
+(test/unit/voldemort/client/AdminServiceBasicTest.java:562)11
+  CloneClass 70 (Type 1)
+(test/common/voldemort/ServerTestUtils.java:350)5
+(test/common/voldemort/ServerTestUtils.java:410)5
+  CloneClass 71 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:418)6
+(test/unit/voldemort/client/ClientRegistryTest.java:434)6
+(test/unit/voldemort/client/ClientRegistryTest.java:460)6
+(test/unit/voldemort/client/ClientRegistryTest.java:476)6
+(test/unit/voldemort/client/ClientRegistryTest.java:559)6
+(test/unit/voldemort/client/ClientRegistryTest.java:575)6
+(test/unit/voldemort/client/ClientRegistryTest.java:713)6
+(test/unit/voldemort/client/ClientRegistryTest.java:729)6
+  CloneClass 72 (Type 1)
+(test/integration/voldemort/performance/RequestFileFilter.java:125)9
+(test/integration/voldemort/performance/MysqlBench.java:69)8
+  CloneClass 73 (Type 1)
+(test/unit/voldemort/server/EndToEndTest.java:137)8
+(test/unit/voldemort/server/EndToEndTest.java:159)8
+  CloneClass 74 (Type 1)
+(test/unit/voldemort/store/bdb/PartitionPrefixedBdbStorageEngineTest.java:65)12
+(test/unit/voldemort/store/bdb/BdbPartitionListIteratorTest.java:57)13
+  CloneClass 75 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:238)19
+(test/unit/voldemort/client/AdminServiceBasicTest.java:746)19
+  CloneClass 76 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:122)6
+(test/unit/voldemort/client/ClientRegistryTest.java:192)7
+(test/unit/voldemort/client/ClientRegistryTest.java:281)7
+(test/unit/voldemort/client/ClientRegistryTest.java:399)7
+  CloneClass 77 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1022)9
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1093)9
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1192)9
+  CloneClass 79 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1140)4
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1148)4
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1155)4
+  CloneClass 80 (Type 1)
+(test/unit/voldemort/store/configuration/FileBackedCachingStorageEngineTest.java:114)8
+(test/unit/voldemort/store/configuration/ConfigurationStorageEngineTest.java:82)8
+  CloneClass 81 (Type 1)
+(test/integration/voldemort/socketpool/SimpleSocketPoolTest.java:42)9
+(test/integration/voldemort/socketpool/SimpleSocketPoolTest.java:67)9
+(test/integration/voldemort/socketpool/SimpleSocketPoolTest.java:194)9
+  CloneClass 82 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:870)15
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1223)14
+  CloneClass 83 (Type 1)
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:215)10
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:279)10
+  CloneClass 84 (Type 1)
+(test/unit/voldemort/store/metadata/MetadataStoreTest.java:100)9
+(test/unit/voldemort/store/metadata/MetadataStoreTest.java:113)10
+  CloneClass 86 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:189)10
+(test/unit/voldemort/client/ClientRegistryTest.java:278)10
+(test/unit/voldemort/client/ClientRegistryTest.java:396)10
+  CloneClass 87 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1361)9
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1374)9
+  CloneClass 90 (Type 1)
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:591)8
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:631)8
+  CloneClass 92 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:872)11
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:928)12
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1036)12
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1243)12
+  CloneClass 94 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:318)5
+(test/unit/voldemort/client/AdminServiceBasicTest.java:451)5
+  CloneClass 95 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:390)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:660)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:718)3
+  CloneClass 96 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:748)10
+(test/unit/voldemort/store/AbstractStoreTest.java:281)7
+  CloneClass 97 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:846)5
+(test/unit/voldemort/client/AdminServiceBasicTest.java:876)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1203)5
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1228)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1574)4
+  CloneClass 99 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1021)11
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1191)11
+  CloneClass 100 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:357)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:403)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:429)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:449)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:499)3
+  CloneClass 101 (Type 1)
+(test/unit/voldemort/store/readonly/ReadOnlyStorageEngineTest.java:600)11
+(test/unit/voldemort/store/readonly/ReadOnlyStorageEngineTest.java:619)11
+(test/unit/voldemort/store/readonly/ReadOnlyStorageEngineTest.java:641)11
+  CloneClass 102 (Type 1)
+(test/integration/voldemort/performance/BdbGrowth.java:142)8
+(test/integration/voldemort/performance/MysqlGrowth.java:101)8
+  CloneClass 103 (Type 1)
+(test/unit/voldemort/server/socket/NioStatsJmxTest.java:59)6
+(test/integration/voldemort/performance/RoutedStoreParallelismTest.java:144)7
+  CloneClass 104 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1349)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1361)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1374)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1388)6
+  CloneClass 105 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:221)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:238)6
+  CloneClass 106 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:122)7
+(test/unit/voldemort/client/ClientRegistryTest.java:192)8
+(test/unit/voldemort/client/ClientRegistryTest.java:281)9
+  CloneClass 107 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:342)19
+(test/unit/voldemort/client/ClientRegistryTest.java:479)20
+(test/unit/voldemort/client/ClientRegistryTest.java:578)20
+(test/unit/voldemort/client/ClientRegistryTest.java:732)22
+  CloneClass 108 (Type 1)
+(test/unit/voldemort/cluster/failuredetector/BannagePeriodFailureDetectorTest.java:63)8
+(test/unit/voldemort/cluster/failuredetector/BannagePeriodFailureDetectorTest.java:71)8
+  CloneClass 109 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:320)10
+(test/unit/voldemort/client/AdminServiceBasicTest.java:394)9
+(test/unit/voldemort/client/AdminServiceBasicTest.java:722)10
+  CloneClass 110 (Type 1)
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:327)19
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:349)21
+  CloneClass 111 (Type 1)
+(test/unit/voldemort/client/SocketStoreClientFactoryMbeanTest.java:96)6
+(test/unit/voldemort/client/SocketStoreClientFactoryMbeanTest.java:123)6
+  CloneClass 112 (Type 1)
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:173)17
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:358)17
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:482)16
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:583)17
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:641)17
+  CloneClass 114 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:323)13
+(test/unit/voldemort/client/AdminServiceBasicTest.java:459)13
+(test/unit/voldemort/client/AdminServiceBasicTest.java:543)14
+  CloneClass 115 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:388)13
+(test/unit/voldemort/client/ClientRegistryTest.java:529)13
+(test/unit/voldemort/client/ClientRegistryTest.java:681)13
+  CloneClass 116 (Type 1)
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:311)16
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:333)16
+  CloneClass 117 (Type 1)
+(test/unit/voldemort/store/invalidmetadata/InvalidMetadataCheckingStoreTest.java:69)19
+(test/unit/voldemort/store/invalidmetadata/InvalidMetadataCheckingStoreTest.java:95)20
+  CloneClass 118 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:513)4
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:717)4
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:799)4
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:998)4
+  CloneClass 120 (Type 1)
+(test/unit/voldemort/client/ClientJmxTest.java:180)23
+(test/unit/voldemort/client/ClientJmxTest.java:210)23
+  CloneClass 121 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:812)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:823)7
+(test/unit/voldemort/client/AdminServiceBasicTest.java:834)6
+  CloneClass 122 (Type 1)
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:174)11
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:359)11
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:483)11
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:505)11
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:584)11
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:642)11
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1553)12
+  CloneClass 124 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:482)6
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:611)9
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:664)9
+  CloneClass 125 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1058)13
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1112)13
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1163)13
+  CloneClass 127 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:433)10
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:551)10
+  CloneClass 128 (Type 1)
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:121)15
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:189)15
+  CloneClass 129 (Type 1)
+(test/unit/voldemort/store/memory/SlowStorageEngineTest.java:75)5
+(test/unit/voldemort/store/memory/InMemoryStorageEngineTest.java:43)5
+  CloneClass 130 (Type 1)
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:395)8
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:506)8
+  CloneClass 131 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:611)13
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:664)13
+  CloneClass 132 (Type 1)
+(test/unit/voldemort/client/AdminServiceFilterTest.java:109)13
+(test/unit/voldemort/client/AdminServiceMultiJVMTest.java:118)11
+  CloneClass 133 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1056)30
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1110)30
+  CloneClass 134 (Type 1)
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:317)10
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:458)10
+  CloneClass 135 (Type 1)
+(test/unit/voldemort/store/readonly/ReadOnlyStorageEngineTest.java:619)13
+(test/unit/voldemort/store/readonly/ReadOnlyStorageEngineTest.java:641)13
+  CloneClass 137 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:109)12
+(test/unit/voldemort/client/ClientRegistryTest.java:176)12
+(test/unit/voldemort/client/ClientRegistryTest.java:265)12
+  CloneClass 138 (Type 1)
+(test/unit/voldemort/store/system/AsyncMetadataVersionManagerTest.java:73)23
+(test/unit/voldemort/store/system/SystemStoreTest.java:63)23
+(test/unit/voldemort/client/EndToEndRebootstrapTest.java:75)22
+  CloneClass 140 (Type 1)
+(test/unit/voldemort/client/ClientJmxTest.java:116)13
+(test/unit/voldemort/client/ClientJmxTest.java:180)13
+(test/unit/voldemort/client/ClientJmxTest.java:210)13
+  CloneClass 141 (Type 1)
+(test/unit/voldemort/store/routed/action/ConfigureNodesTest.java:41)5
+(test/unit/voldemort/store/routed/action/ConfigureNodesTest.java:63)5
+  CloneClass 142 (Type 1)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:853)14
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:987)14
+  CloneClass 143 (Type 1)
+(test/unit/voldemort/store/routed/GetallNodeReachTest.java:64)18
+(test/unit/voldemort/store/routed/GetallNodeReachTest.java:169)24
+  CloneClass 144 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:415)4
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:541)4
+  CloneClass 145 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:513)21
+(test/unit/voldemort/client/ClientRegistryTest.java:610)21
+(test/unit/voldemort/client/ClientRegistryTest.java:665)21
+  CloneClass 146 (Type 1)
+(test/unit/voldemort/client/SocketStoreClientFactoryMbeanTest.java:99)23
+(test/unit/voldemort/client/SocketStoreClientFactoryMbeanTest.java:129)22
+  CloneClass 147 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:323)10
+(test/unit/voldemort/client/AdminServiceBasicTest.java:397)9
+(test/unit/voldemort/client/AdminServiceBasicTest.java:459)10
+(test/unit/voldemort/client/AdminServiceBasicTest.java:543)11
+  CloneClass 148 (Type 1)
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:66)11
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:78)11
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:141)11
+  CloneClass 149 (Type 1)
+(test/unit/voldemort/store/rebalancing/RedirectingStoreTest.java:114)9
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:216)8
+  CloneClass 151 (Type 1)
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:221)12
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:698)12
+  CloneClass 153 (Type 1)
+(test/unit/voldemort/store/routed/ReadRepairerTest.java:219)6
+(test/unit/voldemort/store/routed/ReadRepairerTest.java:227)6
+  CloneClass 154 (Type 1)
+(test/unit/voldemort/store/bdb/BdbSplitStorageEngineTest.java:194)10
+(test/unit/voldemort/store/bdb/BdbSplitStorageEngineTest.java:214)9
+  CloneClass 155 (Type 1)
+(test/unit/voldemort/store/rebalancing/RedirectingStoreTest.java:241)4
+(test/unit/voldemort/store/rebalancing/RedirectingStoreTest.java:252)4
+  CloneClass 157 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:351)9
+(test/unit/voldemort/client/AdminServiceBasicTest.java:422)10
+(test/unit/voldemort/client/AdminServiceBasicTest.java:492)10
+(test/unit/voldemort/client/AdminServiceBasicTest.java:581)11
+  CloneClass 158 (Type 1)
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:52)6
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:127)6
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:179)6
+  CloneClass 159 (Type 1)
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:311)13
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:333)13
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:355)15
+  CloneClass 160 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:288)25
+(test/unit/voldemort/client/ClientRegistryTest.java:320)25
+  CloneClass 161 (Type 1)
+(test/common/voldemort/ServerTestUtils.java:463)19
+(test/unit/voldemort/store/routed/HintedHandoffTest.java:127)19
+  CloneClass 162 (Type 1)
+(test/unit/voldemort/server/socket/ClientRequestExecutorPoolTest.java:140)8
+(test/unit/voldemort/server/socket/SocketPoolTest.java:143)8
+  CloneClass 164 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:798)4
+(test/unit/voldemort/client/AdminServiceBasicTest.java:819)6
+  CloneClass 165 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:278)10
+(test/unit/voldemort/client/ClientRegistryTest.java:396)10
+  CloneClass 166 (Type 1)
+(test/unit/voldemort/store/metadata/MetadataStoreTest.java:99)4
+(test/unit/voldemort/store/metadata/MetadataStoreTest.java:126)4
+(test/unit/voldemort/store/metadata/MetadataStoreTest.java:144)5
+  CloneClass 167 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:457)7
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:517)8
+  CloneClass 168 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:502)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:573)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:593)6
+  CloneClass 169 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:967)3
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1048)4
+  CloneClass 170 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:846)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1203)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1574)5
+  CloneClass 172 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:957)13
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1003)12
+  CloneClass 173 (Type 1)
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:112)9
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:223)10
+  CloneClass 174 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:377)11
+(test/unit/voldemort/client/ClientRegistryTest.java:518)11
+(test/unit/voldemort/client/ClientRegistryTest.java:615)11
+(test/unit/voldemort/client/ClientRegistryTest.java:670)11
+  CloneClass 175 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:359)4
+(test/unit/voldemort/client/AdminServiceBasicTest.java:501)4
+(test/unit/voldemort/client/AdminServiceBasicTest.java:592)4
+  CloneClass 176 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:562)10
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:736)10
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:890)10
+  CloneClass 178 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1272)46
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1327)46
+  CloneClass 180 (Type 1)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:156)11
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:185)12
+  CloneClass 181 (Type 1)
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:173)15
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:358)15
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:482)14
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:504)14
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:583)15
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:641)15
+  CloneClass 182 (Type 1)
+(test/unit/voldemort/routing/ConsistentRoutingStrategyTest.java:195)4
+(test/unit/voldemort/routing/ZoneRoutingStrategyTest.java:66)4
+  CloneClass 183 (Type 1)
+(test/unit/voldemort/client/AdminFetchTest.java:132)3
+(test/unit/voldemort/store/bdb/PartitionPrefixedBdbStorageEngineTest.java:159)3
+  CloneClass 184 (Type 1)
+(test/unit/voldemort/store/rebalancing/RedirectingStoreTest.java:332)8
+(test/unit/voldemort/store/rebalancing/RedirectingStoreTest.java:344)8
+  CloneClass 185 (Type 1)
+(test/integration/voldemort/performance/MysqlGrowth.java:113)10
+(test/integration/voldemort/performance/MysqlBench.java:138)10
+  CloneClass 186 (Type 1)
+(test/unit/voldemort/store/views/RangeFilterView.java:13)8
+(test/unit/voldemort/store/views/RangeFilterView.java:33)7
+  CloneClass 187 (Type 1)
+(test/unit/voldemort/routing/ConsistentRoutingStrategyTest.java:185)8
+(test/unit/voldemort/routing/ZoneRoutingStrategyTest.java:73)8
+  CloneClass 188 (Type 1)
+(test/unit/voldemort/store/rebalancing/RedirectingStoreTest.java:270)15
+(test/unit/voldemort/store/rebalancing/RedirectingStoreTest.java:300)14
+  CloneClass 189 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:845)7
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1202)7
+  CloneClass 192 (Type 1)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:1002)12
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:1015)12
+  CloneClass 193 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:109)11
+(test/unit/voldemort/client/ClientRegistryTest.java:176)11
+(test/unit/voldemort/client/ClientRegistryTest.java:265)11
+(test/unit/voldemort/client/ClientRegistryTest.java:371)11
+  CloneClass 194 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:485)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:502)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:573)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:593)6
+  CloneClass 195 (Type 1)
+(test/integration/voldemort/socketpool/SimpleSocketPoolTest.java:120)14
+(test/integration/voldemort/socketpool/SimpleSocketPoolTest.java:173)14
+  CloneClass 196 (Type 1)
+(test/unit/voldemort/store/metadata/MetadataStoreTest.java:99)5
+(test/unit/voldemort/store/metadata/MetadataStoreTest.java:126)5
+  CloneClass 197 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:628)11
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:673)11
+  CloneClass 198 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:241)23
+(test/unit/voldemort/client/ClientRegistryTest.java:347)23
+  CloneClass 199 (Type 1)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:121)6
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:155)6
+  CloneClass 201 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:927)12
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1119)12
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1221)12
+  CloneClass 202 (Type 1)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:122)10
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:134)10
+  CloneClass 203 (Type 1)
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:52)19
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:179)19
+  CloneClass 204 (Type 1)
+(test/unit/voldemort/store/readonly/ReadOnlyStorageEngineTest.java:134)21
+(test/unit/voldemort/store/readonly/ReadOnlyStorageEngineTest.java:190)24
+  CloneClass 205 (Type 1)
+(test/unit/voldemort/store/routed/HintedHandoffTest.java:244)4
+(test/unit/voldemort/store/routed/HintedHandoffTest.java:360)5
+  CloneClass 206 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:425)7
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:562)7
+  CloneClass 207 (Type 1)
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:62)4
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:137)4
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:189)4
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:249)4
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:257)4
+  CloneClass 208 (Type 1)
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:169)4
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:354)4
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:579)4
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:637)4
+  CloneClass 209 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:344)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:532)3
+  CloneClass 210 (Type 1)
+(test/unit/voldemort/store/rebalancing/RedirectingStoreTest.java:149)7
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:382)7
+  CloneClass 211 (Type 1)
+(test/unit/voldemort/server/socket/ClientRequestExecutorPoolTest.java:78)14
+(test/unit/voldemort/server/socket/SocketPoolTest.java:71)14
+  CloneClass 212 (Type 1)
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:152)14
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:337)14
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:562)14
+  CloneClass 213 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:186)12
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:234)12
+  CloneClass 214 (Type 1)
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:94)5
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:105)5
+  CloneClass 215 (Type 1)
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:152)11
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:286)11
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:337)11
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:562)11
+  CloneClass 216 (Type 1)
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:291)13
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:337)13
+  CloneClass 217 (Type 1)
+(test/long/voldemort/client/rebalance/RebalanceLongTest.java:76)29
+(test/unit/voldemort/client/rebalance/RebalanceTest.java:87)29
+  CloneClass 218 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:510)8
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:714)8
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:796)8
+  CloneClass 219 (Type 1)
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:452)12
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:523)12
+  CloneClass 220 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:576)23
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:745)23
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:899)23
+  CloneClass 221 (Type 1)
+(test/unit/voldemort/store/routed/GetallNodeReachTest.java:64)14
+(test/unit/voldemort/store/routed/GetallNodeReachTest.java:110)14
+(test/unit/voldemort/store/routed/GetallNodeReachTest.java:169)20
+  CloneClass 222 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:337)10
+(test/unit/voldemort/client/AdminServiceBasicTest.java:407)10
+(test/unit/voldemort/client/AdminServiceBasicTest.java:476)9
+(test/unit/voldemort/client/AdminServiceBasicTest.java:562)11
+  CloneClass 223 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1316)36
+(test/unit/voldemort/client/AdminServiceBasicTest.java:910)36
+  CloneClass 224 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:393)7
+(test/unit/voldemort/client/AdminServiceBasicTest.java:664)7
+(test/unit/voldemort/client/AdminServiceBasicTest.java:721)7
+  CloneClass 225 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:241)14
+(test/unit/voldemort/client/ClientRegistryTest.java:347)14
+(test/unit/voldemort/client/ClientRegistryTest.java:485)14
+(test/unit/voldemort/client/ClientRegistryTest.java:584)14
+(test/unit/voldemort/client/ClientRegistryTest.java:738)16
+  CloneClass 226 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:790)6
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1058)6
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1112)6
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1163)6
+  CloneClass 227 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:186)11
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:234)11
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1393)11
+  CloneClass 228 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:330)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:344)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:389)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:414)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:466)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:482)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:532)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:551)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:570)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:589)3
+  CloneClass 229 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:807)8
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1076)9
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1130)9
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1178)9
+  CloneClass 230 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:860)8
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:916)8
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1014)9
+  CloneClass 231 (Type 1)
+(test/unit/voldemort/store/slop/strategy/ProximityHandoffStrategyTest.java:30)6
+(test/unit/voldemort/store/slop/strategy/ProximityHandoffStrategyTest.java:52)6
+  CloneClass 232 (Type 1)
+(test/unit/voldemort/store/readonly/ReadOnlyStorageEngineTest.java:398)12
+(test/unit/voldemort/store/readonly/ReadOnlyStorageEngineTest.java:467)12
+  CloneClass 233 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:303)5
+(test/unit/voldemort/client/ClientRegistryTest.java:335)5
+(test/unit/voldemort/client/ClientRegistryTest.java:421)7
+(test/unit/voldemort/client/ClientRegistryTest.java:463)7
+(test/unit/voldemort/client/ClientRegistryTest.java:562)7
+(test/unit/voldemort/client/ClientRegistryTest.java:716)7
+  CloneClass 234 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1349)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1361)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1374)6
+  CloneClass 235 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:448)60
+(test/unit/voldemort/client/ClientRegistryTest.java:547)60
+  CloneClass 236 (Type 1)
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:221)11
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:266)12
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:410)11
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:698)11
+  CloneClass 237 (Type 1)
+(test/unit/voldemort/store/routed/action/ConfigureNodesLocalHostTest.java:93)9
+(test/unit/voldemort/store/routed/action/ConfigureNodesTest.java:50)9
+  CloneClass 238 (Type 1)
+(test/unit/voldemort/store/AbstractStoreTest.java:182)4
+(test/unit/voldemort/store/AbstractStoreTest.java:197)6
+  CloneClass 239 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:330)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:414)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:466)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:482)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:551)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:570)3
+(test/unit/voldemort/client/AdminServiceBasicTest.java:589)3
+  CloneClass 240 (Type 1)
+(test/unit/voldemort/store/readonly/swapper/StoreSwapperTest.java:242)41
+(test/unit/voldemort/store/readonly/swapper/StoreSwapperTest.java:292)41
+  CloneClass 242 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:351)10
+(test/unit/voldemort/client/AdminServiceBasicTest.java:422)11
+  CloneClass 243 (Type 1)
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:158)5
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:311)5
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:333)5
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:355)5
+  CloneClass 245 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1033)12
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1201)12
+  CloneClass 246 (Type 1)
+(test/unit/voldemort/store/system/SystemStoreTest.java:110)8
+(test/unit/voldemort/store/system/SystemStoreTest.java:129)8
+  CloneClass 247 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:376)16
+(test/unit/voldemort/client/AdminServiceBasicTest.java:521)14
+  CloneClass 249 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:330)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:466)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:482)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:551)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:570)6
+  CloneClass 250 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:804)15
+(test/unit/voldemort/client/AdminServiceBasicTest.java:827)14
+  CloneClass 251 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:173)22
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:225)22
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:294)24
+  CloneClass 253 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:318)4
+(test/unit/voldemort/client/AdminServiceBasicTest.java:451)4
+(test/unit/voldemort/client/AdminServiceBasicTest.java:535)4
+  CloneClass 254 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:926)18
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1034)18
+  CloneClass 255 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:812)18
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:971)18
+  CloneClass 256 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:136)9
+(test/unit/voldemort/client/ClientRegistryTest.java:215)9
+  CloneClass 257 (Type 1)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:156)10
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:173)10
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:185)10
+(test/unit/voldemort/store/rebalancing/RedirectingStoreTest.java:109)10
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:199)10
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:251)10
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:813)10
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:972)10
+  CloneClass 258 (Type 1)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:272)9
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:324)9
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:375)9
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:428)9
+  CloneClass 260 (Type 1)
+(test/unit/voldemort/store/routed/ReadRepairerTest.java:236)6
+(test/unit/voldemort/store/routed/ReadRepairerTest.java:247)6
+  CloneClass 262 (Type 1)
+(test/unit/voldemort/store/routed/action/GetAllConfigureNodesTest.java:61)9
+(test/unit/voldemort/store/routed/action/ConfigureNodesTest.java:49)8
+(test/unit/voldemort/store/routed/action/ConfigureNodesTest.java:72)8
+  CloneClass 263 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:565)7
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:739)7
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:858)7
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:893)7
+  CloneClass 264 (Type 1)
+(test/unit/voldemort/store/metadata/MetadataStoreTest.java:100)4
+(test/unit/voldemort/store/metadata/MetadataStoreTest.java:113)5
+(test/unit/voldemort/store/metadata/MetadataStoreTest.java:127)4
+  CloneClass 265 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:448)51
+(test/unit/voldemort/client/ClientRegistryTest.java:547)51
+(test/unit/voldemort/client/ClientRegistryTest.java:701)53
+  CloneClass 266 (Type 1)
+(test/unit/voldemort/store/routed/action/GetAllConfigureNodesTest.java:62)8
+(test/unit/voldemort/store/routed/action/ConfigureNodesLocalHostTest.java:93)7
+(test/unit/voldemort/store/routed/action/ConfigureNodesTest.java:50)7
+(test/unit/voldemort/store/routed/action/ConfigureNodesTest.java:73)7
+  CloneClass 267 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:739)10
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:858)10
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:893)10
+  CloneClass 269 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:403)7
+(test/unit/voldemort/client/AdminServiceBasicTest.java:732)7
+  CloneClass 270 (Type 1)
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:154)7
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:288)7
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:339)7
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:455)7
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:564)7
+  CloneClass 271 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:152)14
+(test/unit/voldemort/client/ClientRegistryTest.java:241)13
+(test/unit/voldemort/client/ClientRegistryTest.java:347)13
+(test/unit/voldemort/client/ClientRegistryTest.java:485)13
+(test/unit/voldemort/client/ClientRegistryTest.java:584)13
+(test/unit/voldemort/client/ClientRegistryTest.java:738)15
+  CloneClass 272 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:466)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:482)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:551)6
+(test/unit/voldemort/client/AdminServiceBasicTest.java:570)6
+  CloneClass 273 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:764)5
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:828)5
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:886)5
+  CloneClass 274 (Type 1)
+(test/unit/voldemort/client/ClientJmxTest.java:130)11
+(test/unit/voldemort/client/ClientJmxTest.java:164)9
+(test/unit/voldemort/client/ClientJmxTest.java:194)9
+(test/unit/voldemort/client/ClientJmxTest.java:224)9
+  CloneClass 275 (Type 1)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:172)11
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:184)11
+  CloneClass 276 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1035)9
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1102)9
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1203)9
+  CloneClass 277 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:128)8
+(test/unit/voldemort/client/ClientRegistryTest.java:143)7
+  CloneClass 278 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1060)21
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1096)22
+  CloneClass 279 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:351)10
+(test/unit/voldemort/client/AdminServiceBasicTest.java:422)11
+(test/unit/voldemort/client/AdminServiceBasicTest.java:492)11
+  CloneClass 280 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1525)8
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1595)11
+  CloneClass 281 (Type 1)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:156)10
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:173)10
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:185)10
+(test/unit/voldemort/store/rebalancing/RedirectingStoreTest.java:109)10
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:199)10
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:251)10
+  CloneClass 282 (Type 1)
+(test/unit/voldemort/store/rebalancing/RedirectingStoreTest.java:149)6
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:382)6
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:553)6
+  CloneClass 283 (Type 1)
+(test/unit/voldemort/client/ClientJmxTest.java:245)12
+(test/unit/voldemort/client/ClientJmxTest.java:270)14
+  CloneClass 284 (Type 1)
+(test/unit/voldemort/store/routed/HintedHandoffTest.java:336)9
+(test/unit/voldemort/store/routed/HintedHandoffTest.java:397)8
+  CloneClass 286 (Type 1)
+(test/long/voldemort/client/rebalance/RebalanceLongTest.java:56)9
+(test/unit/voldemort/client/rebalance/RebalanceTest.java:65)9
+  CloneClass 287 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:199)16
+(test/unit/voldemort/client/ClientRegistryTest.java:222)17
+  CloneClass 288 (Type 1)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:155)11
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:198)11
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:250)11
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:812)11
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:971)11
+  CloneClass 289 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:406)35
+(test/unit/voldemort/client/ClientRegistryTest.java:448)35
+(test/unit/voldemort/client/ClientRegistryTest.java:547)35
+(test/unit/voldemort/client/ClientRegistryTest.java:701)35
+  CloneClass 291 (Type 1)
+(test/unit/voldemort/store/routed/action/ConfigureNodesTest.java:47)10
+(test/unit/voldemort/store/routed/action/ConfigureNodesTest.java:70)10
+  CloneClass 293 (Type 1)
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:327)10
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:396)10
+  CloneClass 294 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:513)34
+(test/unit/voldemort/client/ClientRegistryTest.java:665)34
+  CloneClass 296 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:310)10
+(test/unit/voldemort/client/ClientRegistryTest.java:437)11
+  CloneClass 297 (Type 1)
+(test/unit/voldemort/store/rebalancing/RedirectingStoreTest.java:232)9
+(test/unit/voldemort/store/rebalancing/RedirectingStoreTest.java:319)9
+  CloneClass 298 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1468)5
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1478)5
+  CloneClass 300 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:351)12
+(test/unit/voldemort/client/AdminServiceBasicTest.java:492)13
+  CloneClass 301 (Type 1)
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:247)6
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:255)6
+  CloneClass 302 (Type 1)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1349)4
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1361)4
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1374)4
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1388)4
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1406)4
+  CloneClass 303 (Type 1)
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:356)19
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:480)18
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:639)19
+  CloneClass 305 (Type 1)
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:111)7
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:218)7
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:282)7
+  CloneClass 306 (Type 1)
+(test/integration/voldemort/socketpool/SimpleSocketPoolTest.java:42)20
+(test/integration/voldemort/socketpool/SimpleSocketPoolTest.java:67)20
+  CloneClass 307 (Type 1)
+(test/unit/voldemort/client/AdminFetchTest.java:190)13
+(test/unit/voldemort/client/AdminFetchTest.java:208)13
+  CloneClass 309 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:169)26
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:221)26
+  CloneClass 310 (Type 1)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:776)11
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:896)13
+  CloneClass 311 (Type 1)
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:295)11
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:381)11
+  CloneClass 312 (Type 1)
+(test/unit/voldemort/client/ClientRegistryTest.java:150)16
+(test/unit/voldemort/client/ClientRegistryTest.java:239)15
+  CloneClass 313 (Type 1)
+(test/unit/voldemort/cluster/failuredetector/BannagePeriodFailureDetectorTest.java:57)7
+(test/unit/voldemort/cluster/failuredetector/ThresholdFailureDetectorTest.java:63)7
+  CloneClass 314 (Type 1)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:731)37
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:885)37
+This is for clone class 2
+  CloneClass 10 (Type 2)
+(test/unit/voldemort/store/routed/GetallNodeReachTest.java:64)23
+(test/unit/voldemort/store/routed/GetallNodeReachTest.java:110)27
+  CloneClass 24 (Type 2)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:272)27
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:324)27
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:375)34
+  CloneClass 46 (Type 2)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:497)27
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:693)35
+  CloneClass 63 (Type 2)
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:221)27
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:266)27
+  CloneClass 64 (Type 2)
+(test/unit/voldemort/store/routed/GetallNodeReachTest.java:110)54
+(test/unit/voldemort/store/routed/GetallNodeReachTest.java:169)57
+  CloneClass 78 (Type 2)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:324)30
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:375)37
+  CloneClass 89 (Type 2)
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:358)22
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:504)21
+  CloneClass 119 (Type 2)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:539)18
+(test/unit/voldemort/client/AdminServiceBasicTest.java:558)18
+  CloneClass 123 (Type 2)
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:127)19
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:179)19
+  CloneClass 150 (Type 2)
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:169)21
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:579)21
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:637)21
+  CloneClass 152 (Type 2)
+(test/unit/voldemort/client/ClientRegistryTest.java:176)24
+(test/unit/voldemort/client/ClientRegistryTest.java:265)25
+  CloneClass 163 (Type 2)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:133)20
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:227)20
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:296)22
+  CloneClass 177 (Type 2)
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:52)29
+(test/unit/voldemort/utils/pool/QueuedKeyedResourcePoolTest.java:127)29
+  CloneClass 179 (Type 2)
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:125)80
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:535)80
+  CloneClass 190 (Type 2)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:471)82
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:573)83
+  CloneClass 191 (Type 2)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:414)8
+(test/unit/voldemort/client/AdminServiceBasicTest.java:589)8
+  CloneClass 241 (Type 2)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:859)27
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:915)28
+  CloneClass 248 (Type 2)
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:337)38
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:562)38
+  CloneClass 252 (Type 2)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:122)31
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:164)31
+  CloneClass 268 (Type 2)
+(test/unit/voldemort/client/ClientJmxTest.java:119)22
+(test/unit/voldemort/client/ClientJmxTest.java:153)20
+(test/unit/voldemort/client/ClientJmxTest.java:183)20
+(test/unit/voldemort/client/ClientJmxTest.java:213)20
+  CloneClass 292 (Type 2)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:790)14
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1058)13
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1112)13
+  CloneClass 295 (Type 2)
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:152)38
+(test/unit/voldemort/scheduled/StreamingSlopPusherTest.java:337)38
+This is for clone class 3
+  CloneClass 6 (Type 3)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:676)59
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:737)61
+  CloneClass 7 (Type 3)
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:326)31
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:468)30
+  CloneClass 8 (Type 3)
+(test/unit/voldemort/store/system/AsyncMetadataVersionManagerTest.java:135)36
+(test/unit/voldemort/store/system/AsyncMetadataVersionManagerTest.java:199)36
+  CloneClass 9 (Type 3)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1111)62
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1213)63
+  CloneClass 11 (Type 3)
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:889)42
+(test/unit/voldemort/client/rebalance/AbstractRebalanceTest.java:1038)43
+  CloneClass 41 (Type 3)
+(test/unit/voldemort/store/bdb/BdbSplitStorageEngineTest.java:92)38
+(test/unit/voldemort/store/bdb/BdbSplitStorageEngineTest.java:141)38
+  CloneClass 42 (Type 3)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1349)18
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1374)20
+  CloneClass 56 (Type 3)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:456)32
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:583)37
+  CloneClass 65 (Type 3)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1058)27
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1112)27
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1163)24
+  CloneClass 85 (Type 3)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:320)27
+(test/unit/voldemort/client/AdminServiceBasicTest.java:394)23
+  CloneClass 88 (Type 3)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:359)29
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:528)31
+  CloneClass 91 (Type 3)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:788)29
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:1162)28
+  CloneClass 93 (Type 3)
+(test/unit/voldemort/client/ClientRegistryTest.java:109)20
+(test/unit/voldemort/client/ClientRegistryTest.java:265)25
+  CloneClass 98 (Type 3)
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:266)34
+(test/unit/voldemort/client/rebalance/RebalanceClusterPlanTest.java:410)32
+  CloneClass 113 (Type 3)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:197)50
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:249)69
+  CloneClass 126 (Type 3)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:459)54
+(test/unit/voldemort/client/AdminServiceBasicTest.java:543)61
+  CloneClass 136 (Type 3)
+(test/unit/voldemort/scheduled/DataCleanupJobTest.java:135)12
+(test/unit/voldemort/scheduled/DataCleanupJobTest.java:153)12
+  CloneClass 139 (Type 3)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:927)26
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1119)26
+  CloneClass 156 (Type 3)
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:661)35
+(test/unit/voldemort/store/routed/RoutedStoreTest.java:696)35
+  CloneClass 171 (Type 3)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1463)15
+(test/unit/voldemort/client/AdminServiceBasicTest.java:1484)10
+  CloneClass 200 (Type 3)
+(test/unit/voldemort/client/ClientRegistryTest.java:109)21
+(test/unit/voldemort/client/ClientRegistryTest.java:176)25
+  CloneClass 244 (Type 3)
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:142)21
+(test/unit/voldemort/store/bdb/BdbCachePartitioningTest.java:299)17
+  CloneClass 259 (Type 3)
+(test/integration/voldemort/performance/BdbGrowth.java:79)47
+(test/integration/voldemort/performance/MysqlGrowth.java:55)42
+  CloneClass 261 (Type 3)
+(test/unit/voldemort/client/ClientRegistryTest.java:377)64
+(test/unit/voldemort/client/ClientRegistryTest.java:518)64
+(test/unit/voldemort/client/ClientRegistryTest.java:670)66
+  CloneClass 285 (Type 3)
+(test/unit/voldemort/client/ClientJmxTest.java:116)25
+(test/unit/voldemort/client/ClientJmxTest.java:180)23
+  CloneClass 290 (Type 3)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:364)39
+(test/unit/voldemort/client/AdminServiceBasicTest.java:683)49
+  CloneClass 299 (Type 3)
+(test/unit/voldemort/client/AdminServiceBasicTest.java:323)24
+(test/unit/voldemort/client/AdminServiceBasicTest.java:459)26
+  CloneClass 304 (Type 3)
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:927)26
+(test/unit/voldemort/client/rebalance/AdminRebalanceTest.java:1221)26
+  CloneClass 308 (Type 3)
+(test/unit/voldemort/client/ClientJmxTest.java:115)26
+(test/unit/voldemort/client/ClientJmxTest.java:210)23
+Found 836 clones in 314 cases.
+Net cloned lines = 6486

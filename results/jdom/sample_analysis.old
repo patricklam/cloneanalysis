@@ -1,0 +1,146 @@
+- If there are no control flow statements, the assertion flow analysis has trouble breaking down falsely large clone set.
+- Try catch block analysis proves to be very effective
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1
+A large number (38) of assertions are matched 
+   with a few number (8) of try blocks 
+   with a few number (8) of catch blocks 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+2
+A large number (23) of assertions are matched 
+   with a few number (2) of try blocks 
+   with a few number (2) of catch blocks 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (2).
+
+4
+A large number (11) of assertions are matched 
+   with a few number (9) of in-place boolean expressions as arguments 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+6
+A few number (9) of assertions are matched 
+   with a few number (4) of in-place boolean expressions as arguments 
+Valid clone set of a few number (3) of methods
+Relevant clone sets from call chain analysis exists (3).
+
+8
+A few number (8) of assertions are matched 
+   with a few number (5) of in-place boolean expressions as arguments 
+Valid clone set of a few number (3) of methods
+Relevant clone sets from call chain analysis exists (3).
+
+11
+A few number (6) of assertions are matched 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (6).
+
+14
+A few number (4) of assertions are matched 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (2).
+
+16
+A few number (3) of assertions are matched 
+   with a few number (2) of in-place boolean expressions as arguments 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+17
+A few number (2) of assertions are matched 
+Partial valid clone set of a few number (5) of methods
+   testIgnorableBoundaryWhitespaceTrue is a false positive 4/5 
+Relevant clone sets from call chain analysis exists (2).
+
+18
+A few number (2) of assertions are matched
+Valid clone set of a few number (2) of methods 
+   may be difficult to refactor
+      one is setter test and the other is getter test
+Relevant clone sets from call chain analysis exists (2).
+
+19
+A few number (2) of assertions are matched 
+   with one (1) try block 
+   with one (1) catch block 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+20
+A few number (2) of assertions are matched
+Partial valid clone set of a large number (11) of methods
+   {
+      TestElement.test_TCM__boolean_removeContent_OrgJdomComment 
+      TestElement.test_TCM__boolean_removeContent_OrgJdomElement 
+      TestElement.test_TCM__boolean_removeContent_OrgJdomEntity 
+      TestElement.test_TCM__boolean_removeContent_OrgJdomProcessingInstruction
+   } is a clone set 4/11 
+   Although three methods with identical names test_TCM__boolean_equals_Object they are not really clone set.
+Relevant clone sets from call chain analysis exists (1).
+
+21
+One (1) assertion is matched 
+   with one (1) try block 
+   with one (1) catch block 
+Valid clone set of a few number (3) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+22
+One (1) assertion is matched
+Partial valid clone set of 9 methods
+   {
+      TestDocType.test_TCM__OrgJdomDocType_setPublicID_String 
+      TestDocType.test_TCM__OrgJdomDocType_setSystemID_String 
+      TestDocType.test_TCM__String_getPublicID 
+      TestDocType.test_TCM__String_getSystemID
+   } is a clone set 4/9 
+   {
+      TestXMLOutputter.test_HighSurrogatePair 
+      TestXMLOutputter.test_HighSurrogatePairDecimal 
+      TestXMLOutputter.test_RawSurrogatePair 
+      TestXMLOutputter.test_RawSurrogatePairUTF8
+   } is a clone set 4/9
+Relevant clone sets from call chain analysis exists (3).
+
+25
+A few number (8) of assertions are matched
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis does not exist (0).
+
+27
+A few number (4) of assertions are matched
+Valid clone set of a few number (2) of methods 
+   may be difficult to refactor
+      calling different functions
+Relevant clone sets from call chain analysis does not exist (0).
+
+28
+A few number (3) of assertions are matched
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis does not exist (0).
+
+30
+A few number (3) of assertions are matched
+   with one (1) try block 
+   with one (1) catch block 
+   with a few number (2) of in-place boolean expressions as arguments 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis does not exist (0).
+
+34
+One (1) assertion is matched 
+   with one (1) try block
+   with a few number (2) of catch blocks
+Valid clone set of a few number (3) of methods
+Relevant clone sets from call chain analysis does not exist (0).
+
+35
+One (1) assertion is matched 
+   with one (1) in-place boolean expression as arguments 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis does not exist (0).
+

@@ -1,0 +1,2306 @@
+Version 1 (/home/d2jain/bhprojects/poi)
+This is for clone class 1
+  CloneClass 1 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:510)4
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:518)4
+  CloneClass 2 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:195)3
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:342)4
+  CloneClass 3 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:304)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:393)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:540)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:676)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:749)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:795)6
+  CloneClass 4 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:408)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:555)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:700)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1028)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1093)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1240)8
+  CloneClass 5 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:250)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:953)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1004)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1078)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1225)6
+  CloneClass 7 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:141)17
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:185)15
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:236)20
+  CloneClass 8 (Type 1)
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:190)9
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:227)9
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:348)9
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:393)9
+  CloneClass 9 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:519)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:591)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:655)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1204)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1276)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1340)6
+  CloneClass 10 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:704)7
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:745)8
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSMiniStore.java:302)8
+  CloneClass 11 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFSheet.java:228)6
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFSheet.java:244)6
+  CloneClass 12 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulaEvaluatorBugs.java:238)7
+(src/testcases/org/apache/poi/hssf/model/TestFormulaParser.java:691)8
+(src/testcases/org/apache/poi/hssf/model/TestFormulaParserEval.java:77)8
+  CloneClass 13 (Type 1)
+(src/testcases/org/apache/poi/util/TestShortList.java:496)15
+(src/testcases/org/apache/poi/util/TestIntList.java:495)15
+  CloneClass 14 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:34)2
+(src/testcases/org/apache/poi/hpsf/basic/TestBasic.java:61)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisRecord.java:34)5
+  CloneClass 16 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestBarRecord.java:61)9
+(src/testcases/org/apache/poi/hssf/record/chart/TestAreaRecord.java:54)9
+  CloneClass 17 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestCellStyle.java:70)5
+(src/testcases/org/apache/poi/hssf/usermodel/TestWorkbook.java:84)5
+(src/testcases/org/apache/poi/hssf/usermodel/TestWorkbook.java:125)5
+(src/testcases/org/apache/poi/hssf/usermodel/TestWorkbook.java:418)5
+  CloneClass 18 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:357)9
+(src/testcases/org/apache/poi/poifs/storage/TestBlockListImpl.java:231)20
+  CloneClass 19 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:770)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:779)4
+  CloneClass 20 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/TestWrite.java:160)8
+(src/testcases/org/apache/poi/hpsf/basic/TestWrite.java:202)7
+  CloneClass 21 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:115)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:140)6
+  CloneClass 22 (Type 1)
+(src/testcases/org/apache/poi/util/TestHexDump.java:50)6
+(src/testcases/org/apache/poi/util/TestHexDump.java:92)5
+(src/testcases/org/apache/poi/util/TestHexDump.java:132)5
+(src/testcases/org/apache/poi/util/TestHexDump.java:170)5
+  CloneClass 23 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestWorkbook.java:47)10
+(src/testcases/org/apache/poi/hssf/model/TestWorkbook.java:79)9
+  CloneClass 24 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestEscherRecordFactory.java:44)11
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:251)11
+  CloneClass 25 (Type 1)
+(src/testcases/org/apache/poi/util/TestHexDump.java:53)5
+(src/testcases/org/apache/poi/util/TestHexDump.java:93)5
+(src/testcases/org/apache/poi/util/TestHexDump.java:132)5
+(src/testcases/org/apache/poi/util/TestHexDump.java:171)5
+  CloneClass 27 (Type 1)
+(src/testcases/org/apache/poi/util/TestShortList.java:307)10
+(src/testcases/org/apache/poi/util/TestShortList.java:349)10
+(src/testcases/org/apache/poi/util/TestShortList.java:403)10
+  CloneClass 28 (Type 1)
+(src/testcases/org/apache/poi/util/TestShortList.java:287)18
+(src/testcases/org/apache/poi/util/TestIntList.java:287)18
+  CloneClass 29 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetUpdateArrayFormulas.java:287)9
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetUpdateArrayFormulas.java:328)9
+  CloneClass 30 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestIndexFunctionFromSpreadsheet.java:221)27
+(src/testcases/org/apache/poi/ss/formula/atp/TestYearFracCalculatorFromSpreadsheet.java:150)27
+(src/testcases/org/apache/poi/ss/formula/functions/TestLookupFunctionsFromSpreadsheet.java:306)28
+(src/testcases/org/apache/poi/ss/formula/eval/TestFormulasFromSpreadsheet.java:267)27
+  CloneClass 31 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestSheetAdditional.java:42)4
+(src/testcases/org/apache/poi/hssf/model/TestSheetAdditional.java:51)4
+  CloneClass 32 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestFilteringDirectoryNode.java:102)6
+(src/testcases/org/apache/poi/poifs/filesystem/TestFilteringDirectoryNode.java:126)6
+  CloneClass 33 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:521)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:709)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1037)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1206)5
+  CloneClass 34 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/aggregates/TestPageSettingsBlock.java:62)13
+(src/testcases/org/apache/poi/hssf/record/aggregates/TestPageSettingsBlock.java:106)13
+  CloneClass 35 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:198)4
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:202)4
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:330)4
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:354)4
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:366)4
+  CloneClass 37 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:197)5
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:365)5
+  CloneClass 38 (Type 1)
+(src/testcases/org/apache/poi/util/TestShortList.java:356)11
+(src/testcases/org/apache/poi/util/TestIntList.java:356)11
+  CloneClass 41 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestDataValidation.java:328)3
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestDataValidation.java:342)3
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestDataValidation.java:454)3
+  CloneClass 43 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:120)5
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:131)4
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:188)5
+  CloneClass 44 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestIndexFunctionFromSpreadsheet.java:221)28
+(src/testcases/org/apache/poi/ss/formula/atp/TestYearFracCalculatorFromSpreadsheet.java:150)28
+  CloneClass 45 (Type 1)
+(src/testcases/org/apache/poi/util/TestShortField.java:98)6
+(src/testcases/org/apache/poi/util/TestShortField.java:159)6
+  CloneClass 46 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:140)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:250)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:304)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:393)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:540)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:676)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:749)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:795)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:953)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1004)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1078)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1225)5
+  CloneClass 47 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFDateUtil.java:360)4
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFDateUtil.java:368)4
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFDateUtil.java:376)4
+  CloneClass 48 (Type 1)
+(src/testcases/org/apache/poi/TestPOIDocumentMain.java:158)6
+(src/testcases/org/apache/poi/TestPOIDocumentMain.java:167)4
+  CloneClass 49 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1409)21
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1635)21
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2238)21
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2451)21
+  CloneClass 50 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:540)4
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:548)4
+  CloneClass 51 (Type 1)
+(src/testcases/org/apache/poi/util/TestShortList.java:280)10
+(src/testcases/org/apache/poi/util/TestShortList.java:485)10
+  CloneClass 52 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocumentInputStream.java:348)5
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocumentInputStream.java:439)5
+  CloneClass 53 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestPOIFSProperties.java:44)8
+(src/testcases/org/apache/poi/hssf/usermodel/TestPOIFSProperties.java:68)7
+  CloneClass 54 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:400)15
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:448)15
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:583)15
+  CloneClass 56 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulaEvaluatorBugs.java:239)6
+(src/testcases/org/apache/poi/hssf/model/TestFormulaParser.java:629)6
+(src/testcases/org/apache/poi/hssf/model/TestFormulaParser.java:693)6
+(src/testcases/org/apache/poi/hssf/model/TestFormulaParserEval.java:79)6
+  CloneClass 57 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFSheet.java:192)8
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFSheet.java:203)7
+  CloneClass 58 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestSmallBlockTableReader.java:36)275
+(src/testcases/org/apache/poi/poifs/property/TestPropertyTable.java:172)276
+  CloneClass 59 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestEmptyDocument.java:40)6
+(src/testcases/org/apache/poi/poifs/filesystem/TestEmptyDocument.java:65)6
+  CloneClass 60 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:250)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:304)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:393)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:540)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:676)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:749)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:795)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:953)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1004)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1078)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1225)6
+  CloneClass 61 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestCommonObjectDataSubRecord.java:69)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestObjectLinkRecord.java:56)4
+(src/testcases/org/apache/poi/hssf/record/TestFontRecord.java:103)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisOptionsRecord.java:86)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:83)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestLinkedDataRecord.java:188)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestFontBasisRecord.java:63)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestBarRecord.java:65)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestAreaRecord.java:58)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestFontIndexRecord.java:52)4
+(src/testcases/org/apache/poi/hssf/record/TestSCLRecord.java:51)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesLabelsRecord.java:63)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesListRecord.java:51)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestTextRecord.java:112)4
+(src/testcases/org/apache/poi/hssf/record/TestExtendedFormatRecord.java:115)4
+(src/testcases/org/apache/poi/hssf/record/TestExtendedFormatRecord.java:127)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisLineFormatRecord.java:51)4
+(src/testcases/org/apache/poi/hssf/record/TestEndSubRecord.java:42)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestFrameRecord.java:59)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisParentRecord.java:62)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisRecord.java:64)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestLineFormatRecord.java:66)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestAreaFormatRecord.java:72)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestChartRecord.java:61)4
+(src/testcases/org/apache/poi/hssf/record/TestTableRecord.java:89)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestNumberFormatIndexRecord.java:52)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestTickRecord.java:82)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestCategorySeriesAxisRecord.java:66)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestPlotAreaRecord.java:47)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestUnitsRecord.java:52)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestDefaultDataLabelTextPropertiesRecord.java:52)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisUsedRecord.java:51)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesChartGroupIndexRecord.java:50)4
+(src/testcases/org/apache/poi/hssf/record/TestStringRecord.java:56)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestDatRecord.java:59)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesToChartGroupRecord.java:51)4
+(src/testcases/org/apache/poi/hssf/record/TestPaneRecord.java:61)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestLegendRecord.java:86)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesIndexRecord.java:54)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesRecord.java:66)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestDataFormatRecord.java:63)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestPlotGrowthRecord.java:54)4
+  CloneClass 62 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:478)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:506)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:614)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:642)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1163)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1191)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1299)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1327)7
+  CloneClass 63 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:415)6
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:555)6
+  CloneClass 64 (Type 1)
+(src/testcases/org/apache/poi/util/TestShortList.java:307)11
+(src/testcases/org/apache/poi/util/TestShortList.java:349)11
+  CloneClass 65 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:440)8
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:499)6
+  CloneClass 66 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:934)6
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestFormulaEvaluator.java:158)6
+  CloneClass 67 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestSSTRecord.java:182)10
+(src/testcases/org/apache/poi/hssf/record/TestSSTRecord.java:216)10
+  CloneClass 69 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestBugs.java:1662)19
+(src/testcases/org/apache/poi/hssf/usermodel/TestBugs.java:1701)19
+  CloneClass 70 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/atp/TestNetworkdaysFunction.java:53)8
+(src/testcases/org/apache/poi/ss/formula/atp/TestWorkdayFunction.java:54)8
+  CloneClass 71 (Type 1)
+(src/testcases/org/apache/poi/util/TestHexDump.java:93)32
+(src/testcases/org/apache/poi/util/TestHexDump.java:132)32
+  CloneClass 72 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestMatch.java:55)10
+(src/testcases/org/apache/poi/ss/formula/functions/TestMatch.java:180)10
+  CloneClass 74 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFPicture.java:98)2
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFPicture.java:109)2
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFPicture.java:132)2
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFPicture.java:147)2
+  CloneClass 75 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestRowStyle.java:108)18
+(src/testcases/org/apache/poi/hssf/usermodel/TestCellStyle.java:170)17
+  CloneClass 76 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1440)26
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1666)26
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1873)26
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2090)26
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2259)26
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2472)26
+  CloneClass 77 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:1455)34
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:1969)34
+  CloneClass 78 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestFormulaParser.java:325)10
+(src/testcases/org/apache/poi/hssf/model/TestFormulaParser.java:396)12
+(src/testcases/org/apache/poi/hssf/model/TestFormulaParser.java:435)10
+  CloneClass 79 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:39)9
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:249)4
+  CloneClass 80 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:543)7
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:654)7
+  CloneClass 82 (Type 1)
+(src/testcases/org/apache/poi/poifs/eventfilesystem/TestPOIFSReaderRegistry.java:93)6
+(src/testcases/org/apache/poi/poifs/eventfilesystem/TestPOIFSReaderRegistry.java:134)6
+  CloneClass 84 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:94)4
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:106)4
+  CloneClass 86 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestDrawingGroupRecord.java:85)5
+(src/testcases/org/apache/poi/hssf/record/TestDrawingGroupRecord.java:95)5
+  CloneClass 89 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:53)4
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:278)4
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:310)4
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSMiniStore.java:149)4
+  CloneClass 90 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisOptionsRecord.java:35)2
+(src/testcases/org/apache/poi/hssf/record/TestCFHeaderRecord.java:70)8
+  CloneClass 91 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:285)4
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:289)6
+  CloneClass 93 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/TestBasic.java:62)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisRecord.java:36)4
+  CloneClass 94 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestWorkbook.java:84)7
+(src/testcases/org/apache/poi/hssf/usermodel/TestWorkbook.java:125)7
+(src/testcases/org/apache/poi/hssf/usermodel/TestWorkbook.java:418)7
+  CloneClass 95 (Type 1)
+(src/testcases/org/apache/poi/util/TestShortList.java:421)22
+(src/testcases/org/apache/poi/util/TestShortList.java:453)22
+  CloneClass 96 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestSheet.java:692)30
+(src/testcases/org/apache/poi/hssf/record/TestEscherAggregate.java:41)30
+  CloneClass 97 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:324)8
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:363)8
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:406)6
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:454)6
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:487)6
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:589)6
+  CloneClass 98 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:378)12
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:444)13
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:526)12
+  CloneClass 99 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1419)12
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1645)12
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1852)12
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2069)12
+  CloneClass 100 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:663)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:729)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1057)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1348)6
+  CloneClass 101 (Type 1)
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:190)9
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:348)9
+  CloneClass 102 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestCellComment.java:80)6
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestCellComment.java:93)4
+  CloneClass 103 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1419)11
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1645)11
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1852)11
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2069)11
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2248)11
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2461)11
+  CloneClass 104 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:353)12
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:558)11
+  CloneClass 105 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestRawDataBlockList.java:67)9
+(src/testcases/org/apache/poi/poifs/storage/TestRawDataBlock.java:92)9
+  CloneClass 107 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:434)9
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:528)8
+  CloneClass 108 (Type 1)
+(src/testcases/org/apache/poi/util/TestHexDump.java:52)6
+(src/testcases/org/apache/poi/util/TestHexDump.java:92)6
+(src/testcases/org/apache/poi/util/TestHexDump.java:170)6
+  CloneClass 109 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:203)6
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:331)7
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:354)7
+  CloneClass 110 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestCellComment.java:123)10
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestCellComment.java:160)10
+  CloneClass 111 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1809)11
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2026)11
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2210)11
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2423)11
+  CloneClass 113 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestEntryUtils.java:65)2
+(src/testcases/org/apache/poi/poifs/filesystem/TestEntryUtils.java:70)2
+  CloneClass 114 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2003)15
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2399)15
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2612)15
+  CloneClass 115 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1431)35
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1657)35
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1864)35
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2081)35
+  CloneClass 116 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestComment.java:165)8
+(src/testcases/org/apache/poi/hssf/usermodel/TestComment.java:183)7
+  CloneClass 117 (Type 1)
+(src/testcases/org/apache/poi/util/TestHexDump.java:46)6
+(src/testcases/org/apache/poi/util/TestHexDump.java:87)5
+(src/testcases/org/apache/poi/util/TestHexDump.java:126)5
+  CloneClass 118 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:591)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:655)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1276)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1340)7
+  CloneClass 119 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocumentInputStream.java:253)8
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocumentInputStream.java:265)10
+  CloneClass 121 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestBugs.java:862)14
+(src/testcases/org/apache/poi/hssf/usermodel/TestBugs.java:881)12
+  CloneClass 122 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestConditionalFormatting.java:40)8
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestConditionalFormatting.java:248)7
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestConditionalFormatting.java:263)7
+  CloneClass 123 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFSheetUpdateArrayFormulas.java:103)6
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFSheet.java:393)6
+  CloneClass 124 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:440)7
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:455)7
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:468)7
+  CloneClass 125 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:298)7
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:315)7
+  CloneClass 128 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestHSSFAnchor.java:110)9
+(src/testcases/org/apache/poi/hssf/model/TestHSSFAnchor.java:130)9
+(src/testcases/org/apache/poi/hssf/model/TestHSSFAnchor.java:178)9
+(src/testcases/org/apache/poi/hssf/model/TestHSSFAnchor.java:244)9
+  CloneClass 129 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFDateUtil.java:123)4
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFDateUtil.java:173)4
+  CloneClass 130 (Type 1)
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:549)15
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:722)15
+  CloneClass 131 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1569)15
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1791)15
+  CloneClass 132 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:518)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:654)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1203)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1339)7
+  CloneClass 133 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/TestWrite.java:221)17
+(src/testcases/org/apache/poi/hpsf/basic/TestWrite.java:295)17
+  CloneClass 134 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestHSSFAnchor.java:73)5
+(src/testcases/org/apache/poi/hssf/model/TestHSSFAnchor.java:80)5
+  CloneClass 135 (Type 1)
+(src/testcases/org/apache/poi/util/TestArrayUtil.java:240)9
+(src/testcases/org/apache/poi/util/TestArrayUtil.java:254)9
+  CloneClass 136 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:482)6
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:522)6
+  CloneClass 137 (Type 1)
+(src/testcases/org/apache/poi/util/TestHexDump.java:53)20
+(src/testcases/org/apache/poi/util/TestHexDump.java:93)20
+(src/testcases/org/apache/poi/util/TestHexDump.java:132)20
+  CloneClass 139 (Type 1)
+(src/testcases/org/apache/poi/ss/util/TestNumberComparer.java:100)6
+(src/testcases/org/apache/poi/ss/util/TestExpandedDouble.java:219)6
+  CloneClass 140 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocumentDescriptor.java:34)11
+(src/testcases/org/apache/poi/poifs/filesystem/TestPOIFSDocumentPath.java:215)14
+  CloneClass 142 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFSheet.java:725)6
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFSheet.java:739)8
+  CloneClass 143 (Type 1)
+(src/testcases/org/apache/poi/util/TestArrayUtil.java:81)13
+(src/testcases/org/apache/poi/util/TestArrayUtil.java:175)13
+  CloneClass 144 (Type 1)
+(src/testcases/org/apache/poi/util/TestLongField.java:157)4
+(src/testcases/org/apache/poi/util/TestShortField.java:131)4
+(src/testcases/org/apache/poi/util/TestIntegerField.java:139)4
+  CloneClass 145 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestPropertyBlock.java:51)14
+(src/testcases/org/apache/poi/poifs/storage/TestPropertyBlock.java:111)14
+  CloneClass 146 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:94)3
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:98)3
+  CloneClass 147 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:263)4
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:295)4
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSMiniStore.java:126)4
+  CloneClass 148 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetShiftRows.java:159)8
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetShiftRows.java:179)8
+  CloneClass 149 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestCell.java:80)6
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestCell.java:86)6
+  CloneClass 150 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:162)5
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:230)5
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:391)5
+  CloneClass 151 (Type 1)
+(src/testcases/org/apache/poi/ss/util/NumberComparingSpreadsheetGenerator.java:126)5
+(src/testcases/org/apache/poi/ss/util/TestNumberComparer.java:100)5
+(src/testcases/org/apache/poi/ss/util/TestExpandedDouble.java:219)5
+  CloneClass 153 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestTextRecord.java:109)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestTickRecord.java:79)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestUnitsRecord.java:49)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesChartGroupIndexRecord.java:47)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesRecord.java:64)7
+  CloneClass 155 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/atp/TestRandBetween.java:129)9
+(src/testcases/org/apache/poi/ss/formula/atp/TestRandBetween.java:139)8
+  CloneClass 156 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:39)7
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:82)7
+  CloneClass 157 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1809)146
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2026)146
+  CloneClass 158 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:174)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:927)6
+  CloneClass 161 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestDataValidation.java:333)3
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestDataValidation.java:347)3
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestDataValidation.java:459)3
+  CloneClass 163 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:35)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:60)5
+  CloneClass 164 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:270)9
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:308)10
+  CloneClass 165 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFPicture.java:131)5
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFPicture.java:146)5
+  CloneClass 167 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:426)4
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:444)4
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:501)4
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:332)6
+  CloneClass 168 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/aggregates/TestPageSettingsBlock.java:133)6
+(src/testcases/org/apache/poi/hssf/record/aggregates/TestPageSettingsBlock.java:182)6
+  CloneClass 169 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1497)16
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1723)16
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1936)16
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2153)16
+  CloneClass 170 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:520)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:592)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:607)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:656)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1205)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1277)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1292)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1341)5
+  CloneClass 171 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:255)5
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:358)5
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:596)5
+  CloneClass 172 (Type 1)
+(src/testcases/org/apache/poi/ddf/TestUnknownEscherRecord.java:120)7
+(src/testcases/org/apache/poi/ddf/TestUnknownEscherRecord.java:140)7
+  CloneClass 173 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestRawDataBlockList.java:67)9
+(src/testcases/org/apache/poi/poifs/storage/TestRawDataBlock.java:92)9
+(src/testcases/org/apache/poi/poifs/storage/TestRawDataBlock.java:146)9
+  CloneClass 174 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:33)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisRecord.java:33)6
+  CloneClass 175 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:35)2
+(src/testcases/org/apache/poi/hssf/record/chart/TestTickRecord.java:34)5
+  CloneClass 176 (Type 1)
+(src/testcases/org/apache/poi/poifs/property/TestDirectoryProperty.java:186)12
+(src/testcases/org/apache/poi/poifs/property/TestRootProperty.java:77)10
+  CloneClass 177 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/BaseTestExternalFunctions.java:58)7
+(src/testcases/org/apache/poi/ss/formula/eval/TestExternalFunction.java:59)7
+  CloneClass 178 (Type 1)
+(src/testcases/org/apache/poi/util/TestShortList.java:198)7
+(src/testcases/org/apache/poi/util/TestIntList.java:198)7
+  CloneClass 179 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:453)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:521)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:709)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1037)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1138)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1206)4
+  CloneClass 180 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:445)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:575)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1130)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1260)8
+  CloneClass 181 (Type 1)
+(src/testcases/org/apache/poi/util/TestArrayUtil.java:145)6
+(src/testcases/org/apache/poi/util/TestArrayUtil.java:159)6
+  CloneClass 182 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFSheet.java:520)5
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheet.java:431)5
+  CloneClass 183 (Type 1)
+(src/testcases/org/apache/poi/util/TestIntegerField.java:100)6
+(src/testcases/org/apache/poi/util/TestIntegerField.java:171)6
+  CloneClass 184 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:305)50
+(src/testcases/org/apache/poi/poifs/storage/TestBlockListImpl.java:172)51
+  CloneClass 185 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:318)15
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:357)15
+  CloneClass 186 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestSharedFormulaRecord.java:206)5
+(src/testcases/org/apache/poi/hssf/record/TestSharedFormulaRecord.java:219)5
+  CloneClass 188 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:187)7
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:231)7
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:274)7
+  CloneClass 189 (Type 1)
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:151)12
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:298)12
+  CloneClass 190 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestPOIFSDocumentPath.java:43)13
+(src/testcases/org/apache/poi/poifs/filesystem/TestPOIFSDocumentPath.java:125)13
+  CloneClass 191 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:404)11
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:452)11
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:485)11
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:587)11
+  CloneClass 192 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/TestWrite.java:750)18
+(src/testcases/org/apache/poi/hpsf/basic/TestWrite.java:802)18
+  CloneClass 193 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/aggregates/TestPageSettingsBlock.java:82)10
+(src/testcases/org/apache/poi/hssf/record/aggregates/TestPageSettingsBlock.java:164)10
+  CloneClass 194 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetUpdateArrayFormulas.java:342)8
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetUpdateArrayFormulas.java:384)8
+  CloneClass 195 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestWorkbook.java:527)4
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestWorkbook.java:547)3
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestWorkbook.java:575)3
+  CloneClass 196 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:490)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:518)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:626)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:654)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1175)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1203)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1311)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1339)6
+  CloneClass 197 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:139)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:303)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:367)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:748)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:794)6
+  CloneClass 199 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:89)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:118)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:205)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:234)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:263)6
+  CloneClass 200 (Type 1)
+(src/testcases/org/apache/poi/hssf/eventmodel/TestEventRecordFactory.java:58)6
+(src/testcases/org/apache/poi/hssf/eventmodel/TestEventRecordFactory.java:82)6
+  CloneClass 201 (Type 1)
+(src/testcases/org/apache/poi/util/TestLongField.java:113)7
+(src/testcases/org/apache/poi/util/TestShortField.java:106)7
+(src/testcases/org/apache/poi/util/TestIntegerField.java:108)7
+  CloneClass 203 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:198)7
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:330)7
+  CloneClass 205 (Type 1)
+(src/testcases/org/apache/poi/hssf/eventmodel/TestAbortableListener.java:50)13
+(src/testcases/org/apache/poi/hssf/eventmodel/TestAbortableListener.java:70)13
+  CloneClass 206 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:33)3
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisRecord.java:33)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestLineFormatRecord.java:33)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestChartRecord.java:33)4
+  CloneClass 207 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/BaseTestExternalFunctions.java:44)5
+(src/testcases/org/apache/poi/ss/formula/BaseTestExternalFunctions.java:58)5
+(src/testcases/org/apache/poi/ss/formula/eval/TestExternalFunction.java:45)5
+(src/testcases/org/apache/poi/ss/formula/eval/TestExternalFunction.java:59)5
+  CloneClass 209 (Type 1)
+(src/testcases/org/apache/poi/util/TestShortList.java:464)19
+(src/testcases/org/apache/poi/util/TestIntList.java:463)19
+  CloneClass 210 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:479)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:491)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:499)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:507)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:519)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:591)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:615)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:627)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:635)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:643)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:655)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1164)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1176)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1184)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1192)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1204)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1276)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1300)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1312)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1320)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1328)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1340)5
+  CloneClass 211 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetShiftRows.java:104)6
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetShiftRows.java:115)7
+  CloneClass 212 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFHeaderFooter.java:39)6
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFHeaderFooter.java:73)6
+  CloneClass 213 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/atp/TestYearFracCalculatorFromSpreadsheet.java:149)28
+(src/testcases/org/apache/poi/ss/formula/functions/TestLookupFunctionsFromSpreadsheet.java:305)29
+  CloneClass 214 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:392)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:539)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:675)7
+  CloneClass 215 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/atp/TestRandBetween.java:138)6
+(src/testcases/org/apache/poi/ss/formula/atp/TestRandBetween.java:147)6
+  CloneClass 216 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestPropertyBlock.java:95)8
+(src/testcases/org/apache/poi/poifs/storage/TestPropertyBlock.java:142)8
+  CloneClass 217 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:400)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:547)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1085)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1232)8
+  CloneClass 218 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFFormulaEvaluator.java:190)7
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFFormulaEvaluator.java:225)6
+  CloneClass 219 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestEscherRecordFactory.java:82)8
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:293)10
+  CloneClass 220 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocumentOutputStream.java:47)11
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocumentOutputStream.java:117)11
+  CloneClass 221 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:473)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:522)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:711)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1039)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1158)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1207)4
+  CloneClass 222 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:286)6
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:305)6
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:326)5
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:349)6
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:368)6
+  CloneClass 223 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:299)66
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:536)66
+  CloneClass 224 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestBugs.java:850)12
+(src/testcases/org/apache/poi/hssf/usermodel/TestBugs.java:867)13
+  CloneClass 225 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFPicture.java:109)3
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFPicture.java:132)3
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFPicture.java:147)3
+  CloneClass 226 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/eval/TestCircularReferences.java:123)7
+(src/testcases/org/apache/poi/ss/formula/TestEvaluationCache.java:583)5
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFFormulaEvaluator.java:62)6
+  CloneClass 227 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestSSTDeserializer.java:57)8
+(src/testcases/org/apache/poi/hssf/record/TestSSTDeserializer.java:101)7
+  CloneClass 228 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/Util.java:167)8
+(src/testcases/org/apache/poi/hpsf/basic/Util.java:229)8
+  CloneClass 230 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFDateUtil.java:356)8
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFDateUtil.java:372)8
+  CloneClass 231 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestCellComment.java:86)9
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestCellComment.java:102)10
+  CloneClass 232 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:426)4
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:444)4
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:501)4
+  CloneClass 233 (Type 1)
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:517)20
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:657)20
+  CloneClass 234 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:205)19
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:264)20
+  CloneClass 235 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestShapeGroup.java:188)5
+(src/testcases/org/apache/poi/hssf/usermodel/TestShapeGroup.java:212)5
+  CloneClass 236 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:281)3
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:313)3
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSMiniStore.java:142)3
+  CloneClass 237 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1977)18
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2173)18
+  CloneClass 238 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestIndexFunctionFromSpreadsheet.java:69)24
+(src/testcases/org/apache/poi/ss/formula/functions/TestLookupFunctionsFromSpreadsheet.java:91)24
+  CloneClass 239 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:454)3
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:473)3
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:522)3
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:711)3
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1039)3
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1139)3
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1158)3
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1207)3
+  CloneClass 241 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:198)4
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:354)4
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:366)4
+  CloneClass 242 (Type 1)
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:342)2
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:368)3
+  CloneClass 243 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:309)8
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:430)9
+  CloneClass 244 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/TestWrite.java:160)7
+(src/testcases/org/apache/poi/hpsf/basic/TestWrite.java:202)6
+(src/testcases/org/apache/poi/hpsf/basic/TestWrite.java:273)6
+  CloneClass 245 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/RawDataUtil.java:34)6
+(src/testcases/org/apache/poi/poifs/storage/RawDataUtil.java:75)6
+  CloneClass 247 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:491)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:499)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:627)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:635)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1176)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1184)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1312)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1320)7
+  CloneClass 249 (Type 1)
+(src/testcases/org/apache/poi/ss/util/TestCellRangeAddress.java:54)7
+(src/testcases/org/apache/poi/ss/util/TestCellRangeAddress.java:71)6
+  CloneClass 250 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/aggregates/TestPageSettingsBlock.java:82)9
+(src/testcases/org/apache/poi/hssf/record/aggregates/TestPageSettingsBlock.java:164)9
+(src/testcases/org/apache/poi/hssf/record/aggregates/TestPageSettingsBlock.java:326)9
+  CloneClass 251 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:495)4
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:503)4
+  CloneClass 252 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:521)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:593)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:608)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:657)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:709)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1037)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1206)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1278)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1293)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1342)4
+  CloneClass 253 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestCountFuncs.java:405)9
+(src/testcases/org/apache/poi/ss/formula/functions/TestCountFuncs.java:419)9
+  CloneClass 255 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestFeatRecord.java:47)10
+(src/testcases/org/apache/poi/hssf/record/TestFeatRecord.java:69)10
+  CloneClass 256 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestConditionalFormatting.java:288)17
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestConditionalFormatting.java:362)17
+  CloneClass 257 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestCellStyle.java:65)9
+(src/testcases/org/apache/poi/hssf/usermodel/TestCellStyle.java:185)9
+(src/testcases/org/apache/poi/hssf/usermodel/TestWorkbook.java:78)10
+(src/testcases/org/apache/poi/hssf/usermodel/TestWorkbook.java:119)10
+  CloneClass 259 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestCalendarFieldFunction.java:38)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestDate.java:38)6
+  CloneClass 260 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestCommonObjectDataSubRecord.java:67)6
+(src/testcases/org/apache/poi/hssf/record/chart/TestObjectLinkRecord.java:53)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisOptionsRecord.java:83)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:81)6
+(src/testcases/org/apache/poi/hssf/record/chart/TestLinkedDataRecord.java:186)6
+(src/testcases/org/apache/poi/hssf/record/chart/TestFontBasisRecord.java:61)6
+(src/testcases/org/apache/poi/hssf/record/chart/TestBarRecord.java:62)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestAreaRecord.java:55)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestFontIndexRecord.java:49)7
+(src/testcases/org/apache/poi/hssf/record/TestSCLRecord.java:48)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesLabelsRecord.java:60)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesListRecord.java:49)6
+(src/testcases/org/apache/poi/hssf/record/chart/TestTextRecord.java:109)7
+(src/testcases/org/apache/poi/hssf/record/TestExtendedFormatRecord.java:113)6
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisLineFormatRecord.java:48)7
+(src/testcases/org/apache/poi/hssf/record/TestEndSubRecord.java:40)6
+(src/testcases/org/apache/poi/hssf/record/chart/TestFrameRecord.java:56)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisParentRecord.java:59)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisRecord.java:61)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestLineFormatRecord.java:63)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestAreaFormatRecord.java:69)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestChartRecord.java:58)7
+(src/testcases/org/apache/poi/hssf/record/TestTableRecord.java:87)6
+(src/testcases/org/apache/poi/hssf/record/chart/TestNumberFormatIndexRecord.java:49)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestTickRecord.java:79)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestCategorySeriesAxisRecord.java:63)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestPlotAreaRecord.java:45)6
+(src/testcases/org/apache/poi/hssf/record/chart/TestUnitsRecord.java:49)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestDefaultDataLabelTextPropertiesRecord.java:49)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisUsedRecord.java:48)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesChartGroupIndexRecord.java:47)7
+(src/testcases/org/apache/poi/hssf/record/TestStringRecord.java:54)6
+(src/testcases/org/apache/poi/hssf/record/chart/TestDatRecord.java:56)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesToChartGroupRecord.java:48)7
+(src/testcases/org/apache/poi/hssf/record/TestPaneRecord.java:59)6
+(src/testcases/org/apache/poi/hssf/record/chart/TestLegendRecord.java:84)6
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesIndexRecord.java:51)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesRecord.java:64)6
+(src/testcases/org/apache/poi/hssf/record/chart/TestDataFormatRecord.java:60)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestPlotGrowthRecord.java:51)7
+  CloneClass 261 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestEndSubRecord.java:40)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestPlotAreaRecord.java:45)7
+  CloneClass 262 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestWorkbook.java:71)20
+(src/testcases/org/apache/poi/hssf/usermodel/TestWorkbook.java:110)22
+  CloneClass 263 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:745)10
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSMiniStore.java:302)10
+  CloneClass 264 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:985)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:992)6
+  CloneClass 266 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:198)4
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:330)4
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:354)4
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:366)4
+  CloneClass 267 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestFilteringDirectoryNode.java:75)8
+(src/testcases/org/apache/poi/poifs/filesystem/TestFilteringDirectoryNode.java:150)12
+  CloneClass 268 (Type 1)
+(src/testcases/org/apache/poi/util/TestLongField.java:104)7
+(src/testcases/org/apache/poi/util/TestLongField.java:199)7
+  CloneClass 270 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/aggregates/TestPageSettingsBlock.java:82)9
+(src/testcases/org/apache/poi/hssf/record/aggregates/TestPageSettingsBlock.java:326)9
+  CloneClass 271 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:320)41
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:433)42
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:557)42
+  CloneClass 273 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestSumif.java:43)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestSumifs.java:41)6
+  CloneClass 274 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestRow.java:227)7
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestRow.java:272)6
+  CloneClass 275 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/aggregates/TestPageSettingsBlock.java:139)4
+(src/testcases/org/apache/poi/hssf/record/aggregates/TestPageSettingsBlock.java:187)4
+  CloneClass 276 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/Util.java:135)10
+(src/testcases/org/apache/poi/hpsf/basic/Util.java:199)10
+  CloneClass 277 (Type 1)
+(src/testcases/org/apache/poi/util/TestArrayUtil.java:94)9
+(src/testcases/org/apache/poi/util/TestArrayUtil.java:122)9
+  CloneClass 278 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetUpdateArrayFormulas.java:66)9
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetUpdateArrayFormulas.java:147)10
+  CloneClass 279 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestAddress.java:70)8
+(src/testcases/org/apache/poi/ss/formula/functions/TestClean.java:57)8
+  CloneClass 280 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestCalendarFieldFunction.java:102)10
+(src/testcases/org/apache/poi/ss/formula/functions/TestDate.java:80)10
+  CloneClass 281 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:198)5
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:203)5
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:330)4
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:354)5
+  CloneClass 283 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestCommonObjectDataSubRecord.java:67)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestObjectLinkRecord.java:53)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisOptionsRecord.java:83)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:81)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestLinkedDataRecord.java:186)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestFontBasisRecord.java:61)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestBarRecord.java:62)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestAreaRecord.java:55)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestFontIndexRecord.java:49)8
+(src/testcases/org/apache/poi/hssf/record/TestSCLRecord.java:48)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesLabelsRecord.java:60)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesListRecord.java:49)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestTextRecord.java:109)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisLineFormatRecord.java:48)8
+(src/testcases/org/apache/poi/hssf/record/TestEndSubRecord.java:40)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestFrameRecord.java:56)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisParentRecord.java:59)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisRecord.java:61)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestLineFormatRecord.java:63)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestAreaFormatRecord.java:69)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestChartRecord.java:58)8
+(src/testcases/org/apache/poi/hssf/record/TestTableRecord.java:87)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestNumberFormatIndexRecord.java:49)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestTickRecord.java:79)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestCategorySeriesAxisRecord.java:63)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestPlotAreaRecord.java:45)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestUnitsRecord.java:49)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestDefaultDataLabelTextPropertiesRecord.java:49)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisUsedRecord.java:48)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesChartGroupIndexRecord.java:47)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestDatRecord.java:56)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesToChartGroupRecord.java:48)8
+(src/testcases/org/apache/poi/hssf/record/TestPaneRecord.java:59)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestLegendRecord.java:84)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesIndexRecord.java:51)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesRecord.java:64)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestDataFormatRecord.java:60)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestPlotGrowthRecord.java:51)8
+  CloneClass 284 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:349)16
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:368)16
+  CloneClass 285 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFPicture.java:82)4
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFPicture.java:98)2
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFPicture.java:109)2
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFPicture.java:132)2
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFPicture.java:147)2
+  CloneClass 286 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestFont.java:177)7
+(src/testcases/org/apache/poi/hssf/usermodel/TestBugs.java:948)7
+  CloneClass 287 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocument.java:104)5
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocument.java:109)5
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocument.java:117)6
+  CloneClass 288 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:81)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:110)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:139)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:168)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:197)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:226)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:255)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:281)5
+  CloneClass 289 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:607)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:656)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1292)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1341)7
+  CloneClass 290 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/TestWriteWellKnown.java:93)9
+(src/testcases/org/apache/poi/hpsf/basic/TestWriteWellKnown.java:642)11
+(src/testcases/org/apache/poi/hpsf/basic/AllDataFilesTester.java:62)9
+  CloneClass 291 (Type 1)
+(src/testcases/org/apache/poi/util/TestHexDump.java:74)12
+(src/testcases/org/apache/poi/util/TestHexDump.java:114)11
+(src/testcases/org/apache/poi/util/TestHexDump.java:153)11
+  CloneClass 292 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestComment.java:119)7
+(src/testcases/org/apache/poi/hssf/usermodel/TestComment.java:134)5
+  CloneClass 293 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:421)6
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:513)6
+  CloneClass 294 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetUpdateArrayFormulas.java:240)8
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetUpdateArrayFormulas.java:265)9
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetUpdateArrayFormulas.java:301)7
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetUpdateArrayFormulas.java:457)8
+  CloneClass 295 (Type 1)
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:112)12
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:248)12
+  CloneClass 296 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:498)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:634)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1183)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1319)8
+  CloneClass 297 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFOptimiser.java:51)9
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFOptimiser.java:152)8
+  CloneClass 298 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestLinkedDataRecord.java:186)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesListRecord.java:49)7
+  CloneClass 300 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisRecord.java:61)8
+(src/testcases/org/apache/poi/hssf/record/TestTableRecord.java:87)7
+  CloneClass 301 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/atp/TestRandBetween.java:129)5
+(src/testcases/org/apache/poi/ss/formula/atp/TestRandBetween.java:139)5
+(src/testcases/org/apache/poi/ss/formula/atp/TestRandBetween.java:148)5
+  CloneClass 302 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestRow.java:367)6
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestRow.java:379)6
+  CloneClass 304 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:404)11
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:485)11
+  CloneClass 305 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:141)17
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:236)20
+  CloneClass 306 (Type 1)
+(src/testcases/org/apache/poi/util/TestLongField.java:157)6
+(src/testcases/org/apache/poi/util/TestIntegerField.java:139)6
+  CloneClass 307 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:490)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:626)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1175)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1311)8
+  CloneClass 308 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestNamedRange.java:311)12
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestNamedRange.java:326)12
+  CloneClass 309 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:201)8
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:330)8
+  CloneClass 310 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:140)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:304)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:393)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:540)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:676)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:749)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:795)5
+  CloneClass 311 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/atp/TestNetworkdaysFunction.java:106)6
+(src/testcases/org/apache/poi/ss/formula/atp/TestWorkdayFunction.java:109)6
+  CloneClass 312 (Type 1)
+(src/testcases/org/apache/poi/hssf/extractor/TestExcelExtractor.java:269)14
+(src/testcases/org/apache/poi/hssf/extractor/TestExcelExtractor.java:296)14
+  CloneClass 313 (Type 1)
+(src/testcases/org/apache/poi/ddf/TestEscherOptRecord.java:40)7
+(src/testcases/org/apache/poi/ddf/TestEscherOptRecord.java:62)7
+  CloneClass 314 (Type 1)
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:112)7
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:151)7
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:190)7
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:227)7
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:248)7
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:298)7
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:348)7
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:393)7
+  CloneClass 315 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFFormulaEvaluator.java:180)6
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFFormulaEvaluator.java:218)7
+  CloneClass 316 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:35)1
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:37)1
+(src/testcases/org/apache/poi/hpsf/basic/TestBasic.java:62)3
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisRecord.java:35)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestTickRecord.java:35)3
+  CloneClass 317 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestWorkbook.java:527)6
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestWorkbook.java:547)5
+  CloneClass 319 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:702)9
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:743)10
+  CloneClass 320 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestText.java:115)4
+(src/testcases/org/apache/poi/ss/formula/functions/TestText.java:122)4
+  CloneClass 321 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestConditionalFormatting.java:242)13
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestConditionalFormatting.java:257)13
+  CloneClass 322 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestTextRecord.java:109)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisRecord.java:61)8
+(src/testcases/org/apache/poi/hssf/record/TestTableRecord.java:87)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestTickRecord.java:79)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestUnitsRecord.java:49)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesChartGroupIndexRecord.java:47)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesRecord.java:64)7
+  CloneClass 323 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:441)6
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:456)6
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:469)6
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:529)6
+  CloneClass 324 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:104)14
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:145)13
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:187)13
+  CloneClass 325 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:115)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:174)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:927)5
+  CloneClass 326 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:208)41
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:251)41
+  CloneClass 327 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisOptionsRecord.java:83)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:81)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestFrameRecord.java:56)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestDatRecord.java:56)8
+  CloneClass 328 (Type 1)
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:487)9
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:549)9
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:630)9
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:722)9
+  CloneClass 329 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestCommonObjectDataSubRecord.java:69)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestObjectLinkRecord.java:56)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisOptionsRecord.java:86)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:83)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestLinkedDataRecord.java:188)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestFontBasisRecord.java:63)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestBarRecord.java:65)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestAreaRecord.java:58)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestFontIndexRecord.java:52)5
+(src/testcases/org/apache/poi/hssf/record/TestSCLRecord.java:51)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesLabelsRecord.java:63)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesListRecord.java:51)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestTextRecord.java:112)5
+(src/testcases/org/apache/poi/hssf/record/TestExtendedFormatRecord.java:127)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisLineFormatRecord.java:51)5
+(src/testcases/org/apache/poi/hssf/record/TestEndSubRecord.java:42)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestFrameRecord.java:59)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisParentRecord.java:62)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisRecord.java:64)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestLineFormatRecord.java:66)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestAreaFormatRecord.java:72)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestChartRecord.java:61)5
+(src/testcases/org/apache/poi/hssf/record/TestTableRecord.java:89)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestNumberFormatIndexRecord.java:52)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestTickRecord.java:82)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestCategorySeriesAxisRecord.java:66)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestPlotAreaRecord.java:47)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestUnitsRecord.java:52)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestDefaultDataLabelTextPropertiesRecord.java:52)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisUsedRecord.java:51)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesChartGroupIndexRecord.java:50)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestDatRecord.java:59)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesToChartGroupRecord.java:51)5
+(src/testcases/org/apache/poi/hssf/record/TestPaneRecord.java:61)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestLegendRecord.java:86)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesIndexRecord.java:54)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesRecord.java:66)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestDataFormatRecord.java:63)5
+(src/testcases/org/apache/poi/hssf/record/chart/TestPlotGrowthRecord.java:54)5
+  CloneClass 330 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:473)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:522)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1158)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1207)5
+  CloneClass 331 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocumentDescriptor.java:68)42
+(src/testcases/org/apache/poi/poifs/filesystem/TestPOIFSDocumentPath.java:232)42
+  CloneClass 333 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:187)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:231)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:274)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:455)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:488)6
+  CloneClass 334 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:408)12
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:555)12
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1093)12
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1240)12
+  CloneClass 335 (Type 1)
+(src/testcases/org/apache/poi/util/TestByteField.java:98)6
+(src/testcases/org/apache/poi/util/TestByteField.java:150)6
+  CloneClass 336 (Type 1)
+(src/testcases/org/apache/poi/util/TestIntList.java:280)10
+(src/testcases/org/apache/poi/util/TestIntList.java:484)10
+  CloneClass 337 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheet.java:358)5
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheet.java:383)7
+  CloneClass 338 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:639)6
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:658)7
+  CloneClass 339 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFSheet.java:220)6
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFSheet.java:262)6
+  CloneClass 341 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:40)8
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:79)7
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:113)8
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:153)8
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:250)3
+  CloneClass 342 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:138)5
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:149)5
+  CloneClass 343 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:100)2
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:120)3
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:131)2
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:188)3
+  CloneClass 344 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:273)2
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:280)2
+  CloneClass 345 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestEscherRecordFactory.java:93)5
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:282)8
+  CloneClass 346 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:104)37
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:145)36
+  CloneClass 347 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:618)10
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:646)10
+  CloneClass 349 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheet.java:122)5
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheet.java:154)5
+  CloneClass 350 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestCountFuncs.java:509)9
+(src/testcases/org/apache/poi/ss/formula/functions/TestCountFuncs.java:527)10
+  CloneClass 351 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:249)10
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:952)10
+  CloneClass 352 (Type 1)
+(src/testcases/org/apache/poi/hssf/eventusermodel/TestMissingRecordAwareHSSFListener.java:118)22
+(src/testcases/org/apache/poi/hssf/eventusermodel/TestMissingRecordAwareHSSFListener.java:240)22
+  CloneClass 353 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestBugs.java:850)8
+(src/testcases/org/apache/poi/hssf/usermodel/TestBugs.java:867)9
+(src/testcases/org/apache/poi/hssf/usermodel/TestBugs.java:884)9
+  CloneClass 354 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocument.java:51)10
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocument.java:82)9
+  CloneClass 356 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:79)9
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:250)3
+  CloneClass 357 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:506)9
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:642)9
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1191)9
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1327)9
+  CloneClass 358 (Type 1)
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:227)9
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:393)9
+  CloneClass 359 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:525)4
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:533)4
+  CloneClass 360 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:592)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:607)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:656)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1277)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1292)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1341)6
+  CloneClass 361 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFDateUtil.java:102)5
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFDateUtil.java:152)5
+  CloneClass 362 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestUppercaseWorkbook.java:71)13
+(src/testcases/org/apache/poi/hssf/usermodel/TestUppercaseWorkbook.java:99)14
+  CloneClass 364 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:1840)35
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:2097)35
+  CloneClass 366 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetUpdateArrayFormulas.java:358)10
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetUpdateArrayFormulas.java:401)10
+  CloneClass 368 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestText.java:141)6
+(src/testcases/org/apache/poi/hssf/usermodel/TestText.java:169)7
+  CloneClass 369 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestRowStyle.java:53)8
+(src/testcases/org/apache/poi/hssf/usermodel/TestRowStyle.java:134)8
+  CloneClass 370 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:35)2
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:37)3
+(src/testcases/org/apache/poi/hssf/record/chart/TestTickRecord.java:34)5
+  CloneClass 371 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:84)4
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:88)6
+  CloneClass 372 (Type 1)
+(src/testcases/org/apache/poi/poifs/property/TestDirectoryProperty.java:276)18
+(src/testcases/org/apache/poi/poifs/property/TestRootProperty.java:110)18
+  CloneClass 373 (Type 1)
+(src/testcases/org/apache/poi/util/TestHexDump.java:74)8
+(src/testcases/org/apache/poi/util/TestHexDump.java:114)7
+(src/testcases/org/apache/poi/util/TestHexDump.java:153)7
+(src/testcases/org/apache/poi/util/TestHexDump.java:207)7
+  CloneClass 374 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:478)9
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:614)9
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1163)9
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1299)9
+  CloneClass 376 (Type 1)
+(src/testcases/org/apache/poi/util/TestIntList.java:420)22
+(src/testcases/org/apache/poi/util/TestIntList.java:452)22
+  CloneClass 377 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:140)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:250)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:304)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:368)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:393)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:540)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:676)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:749)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:795)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:953)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1004)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1078)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1225)5
+  CloneClass 378 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:104)14
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:145)13
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:187)13
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:239)17
+  CloneClass 379 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestCellStyle.java:65)10
+(src/testcases/org/apache/poi/hssf/usermodel/TestWorkbook.java:78)11
+(src/testcases/org/apache/poi/hssf/usermodel/TestWorkbook.java:119)11
+  CloneClass 380 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFWorkbook.java:122)7
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFWorkbook.java:151)7
+  CloneClass 382 (Type 1)
+(src/testcases/org/apache/poi/util/TestIntList.java:307)10
+(src/testcases/org/apache/poi/util/TestIntList.java:349)10
+(src/testcases/org/apache/poi/util/TestIntList.java:402)10
+  CloneClass 384 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetUpdateArrayFormulas.java:240)10
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetUpdateArrayFormulas.java:265)11
+  CloneClass 385 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulaEvaluatorDocs.java:65)14
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulaEvaluatorDocs.java:99)15
+  CloneClass 386 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:174)8
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:208)8
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:251)8
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:442)8
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:475)8
+  CloneClass 388 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFRichTextString.java:23)5
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFRichTextString.java:65)5
+  CloneClass 389 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:395)4
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:409)3
+  CloneClass 390 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestSharedFormulaRecord.java:150)5
+(src/testcases/org/apache/poi/hssf/record/TestSharedFormulaRecord.java:165)4
+  CloneClass 391 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFSheet.java:272)7
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFSheet.java:294)7
+  CloneClass 392 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:174)8
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:208)8
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:251)8
+  CloneClass 393 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/TestBasic.java:123)20
+(src/testcases/org/apache/poi/hpsf/basic/TestEmptyProperties.java:110)20
+  CloneClass 394 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:113)7
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:157)7
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:219)7
+  CloneClass 395 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestSSTDeserializer.java:37)5
+(src/testcases/org/apache/poi/ss/formula/ptg/TestArrayPtg.java:153)5
+  CloneClass 396 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestCellStyle.java:53)8
+(src/testcases/org/apache/poi/hssf/usermodel/TestCellStyle.java:164)8
+  CloneClass 397 (Type 1)
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:211)8
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:374)8
+  CloneClass 398 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestSharedFormulaRecord.java:198)7
+(src/testcases/org/apache/poi/hssf/record/TestSharedFormulaRecord.java:211)7
+  CloneClass 399 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestHSSFAnchor.java:33)9
+(src/testcases/org/apache/poi/hssf/model/TestHSSFAnchor.java:44)9
+  CloneClass 400 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocumentOutputStream.java:37)15
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocumentOutputStream.java:136)15
+  CloneClass 401 (Type 1)
+(src/testcases/org/apache/poi/poifs/property/TestDirectoryProperty.java:164)4
+(src/testcases/org/apache/poi/poifs/property/TestRootProperty.java:51)4
+  CloneClass 402 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestNpv.java:70)10
+(src/testcases/org/apache/poi/ss/formula/functions/TestIrr.java:83)10
+  CloneClass 403 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestBugs.java:1922)5
+(src/testcases/org/apache/poi/hssf/usermodel/TestBugs.java:1930)5
+  CloneClass 404 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:198)3
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:201)3
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:204)3
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:330)2
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:332)3
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:354)3
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:357)3
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:366)2
+  CloneClass 405 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:197)3
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:345)3
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:365)2
+  CloneClass 408 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:45)1
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:60)1
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:83)1
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:118)1
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:129)1
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:158)1
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:250)2
+  CloneClass 409 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestFeatRecord.java:55)14
+(src/testcases/org/apache/poi/hssf/record/TestFeatRecord.java:109)14
+  CloneClass 410 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFDateUtil.java:356)6
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFDateUtil.java:372)6
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFDateUtil.java:380)6
+  CloneClass 411 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:480)4
+(src/testcases/org/apache/poi/hssf/model/TestDrawingShapes.java:488)4
+  CloneClass 412 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:482)5
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:522)5
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSMiniStore.java:38)6
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSMiniStore.java:111)6
+  CloneClass 413 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:35)2
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:37)2
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisRecord.java:35)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestTickRecord.java:35)4
+  CloneClass 415 (Type 1)
+(src/testcases/org/apache/poi/util/TestShortList.java:314)11
+(src/testcases/org/apache/poi/util/TestIntList.java:314)11
+  CloneClass 416 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestEscherRecordFactory.java:94)4
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:286)4
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:303)4
+  CloneClass 417 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:57)4
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:282)4
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:314)4
+  CloneClass 419 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestRowStyle.java:43)9
+(src/testcases/org/apache/poi/hssf/usermodel/TestCellStyle.java:59)8
+  CloneClass 420 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/TestHPSFBugs.java:61)11
+(src/testcases/org/apache/poi/hpsf/basic/TestHPSFBugs.java:81)9
+  CloneClass 421 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/TestWrite.java:127)7
+(src/testcases/org/apache/poi/hpsf/basic/TestWrite.java:171)7
+  CloneClass 422 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:128)13
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:168)13
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:211)13
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:271)13
+  CloneClass 424 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:1264)45
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:2222)40
+  CloneClass 425 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFPicture.java:67)6
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFPicture.java:161)6
+  CloneClass 426 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:53)3
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:57)3
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:278)3
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:282)3
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:310)3
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:314)3
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSMiniStore.java:149)3
+  CloneClass 427 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/TestEvaluationCache.java:702)31
+(src/testcases/org/apache/poi/ss/formula/TestEvaluationCache.java:742)31
+  CloneClass 428 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:82)7
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:143)8
+  CloneClass 429 (Type 1)
+(src/testcases/org/apache/poi/util/TestByteField.java:100)6
+(src/testcases/org/apache/poi/util/TestLongField.java:107)6
+(src/testcases/org/apache/poi/util/TestShortField.java:100)6
+(src/testcases/org/apache/poi/util/TestIntegerField.java:102)6
+  CloneClass 430 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestBugs.java:1554)6
+(src/testcases/org/apache/poi/hssf/usermodel/TestBugs.java:1571)6
+  CloneClass 431 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:270)6
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:308)6
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:503)6
+  CloneClass 432 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/TestWriteWellKnown.java:92)14
+(src/testcases/org/apache/poi/hpsf/basic/AllDataFilesTester.java:61)12
+  CloneClass 433 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestIndexFunctionFromSpreadsheet.java:136)8
+(src/testcases/org/apache/poi/ss/formula/functions/TestLookupFunctionsFromSpreadsheet.java:158)8
+  CloneClass 434 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:342)7
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:380)7
+  CloneClass 435 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1361)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1587)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1809)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2026)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2210)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2423)6
+  CloneClass 436 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFRichTextString.java:28)7
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFRichTextString.java:37)7
+  CloneClass 437 (Type 1)
+(src/testcases/org/apache/poi/ddf/TestEscherOptRecord.java:46)3
+(src/testcases/org/apache/poi/ddf/TestEscherOptRecord.java:87)3
+  CloneClass 438 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:457)11
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:483)11
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:511)11
+  CloneClass 439 (Type 1)
+(src/testcases/org/apache/poi/ddf/TestEscherBlipRecord.java:60)7
+(src/testcases/org/apache/poi/ddf/TestEscherBlipRecord.java:110)7
+  CloneClass 441 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:267)9
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:500)9
+  CloneClass 442 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:43)6
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:61)6
+  CloneClass 443 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFWorkbook.java:178)5
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFWorkbook.java:208)5
+  CloneClass 444 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestCellComment.java:199)5
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestCellComment.java:208)4
+  CloneClass 445 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:293)5
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:308)5
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:332)5
+  CloneClass 447 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestBarRecord.java:62)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestAreaRecord.java:55)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestSeriesLabelsRecord.java:60)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestCategorySeriesAxisRecord.java:63)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestLegendRecord.java:84)7
+(src/testcases/org/apache/poi/hssf/record/chart/TestDataFormatRecord.java:60)8
+  CloneClass 448 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:95)12
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:177)12
+  CloneClass 449 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:479)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:491)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:499)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:507)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:519)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:615)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:627)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:635)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:643)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:655)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1164)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1176)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1184)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1192)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1204)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1300)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1312)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1320)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1328)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1340)5
+  CloneClass 450 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestObjRecord.java:63)7
+(src/testcases/org/apache/poi/hssf/record/TestObjRecord.java:101)5
+  CloneClass 451 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/atp/TestYearFracCalculatorFromSpreadsheet.java:149)28
+(src/testcases/org/apache/poi/ss/formula/functions/TestLookupFunctionsFromSpreadsheet.java:305)29
+(src/testcases/org/apache/poi/ss/formula/eval/TestFormulasFromSpreadsheet.java:266)28
+  CloneClass 452 (Type 1)
+(src/testcases/org/apache/poi/poifs/property/TestDirectoryProperty.java:170)14
+(src/testcases/org/apache/poi/poifs/property/TestRootProperty.java:64)11
+  CloneClass 453 (Type 1)
+(src/testcases/org/apache/poi/util/TestHexDump.java:50)7
+(src/testcases/org/apache/poi/util/TestHexDump.java:92)6
+(src/testcases/org/apache/poi/util/TestHexDump.java:170)6
+  CloneClass 455 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestText.java:161)8
+(src/testcases/org/apache/poi/hssf/usermodel/TestText.java:174)8
+  CloneClass 456 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocument.java:104)7
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocument.java:117)8
+  CloneClass 457 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:175)5
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:209)5
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:219)5
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:252)5
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:262)5
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:443)5
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:476)5
+  CloneClass 458 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestSSTRecord.java:1464)15
+(src/testcases/org/apache/poi/hssf/record/TestSSTRecord.java:1482)15
+  CloneClass 459 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestBugs.java:1935)4
+(src/testcases/org/apache/poi/hssf/usermodel/TestBugs.java:1943)6
+  CloneClass 460 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:308)6
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:339)6
+  CloneClass 461 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/TestWrite.java:201)7
+(src/testcases/org/apache/poi/hpsf/basic/TestWrite.java:271)8
+  CloneClass 462 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1540)15
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1764)15
+  CloneClass 463 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/atp/TestRandBetween.java:164)5
+(src/testcases/org/apache/poi/ss/formula/atp/TestRandBetween.java:171)5
+  CloneClass 464 (Type 1)
+(src/testcases/org/apache/poi/ss/util/NumberComparingSpreadsheetGenerator.java:77)6
+(src/testcases/org/apache/poi/ss/util/NumberRenderingSpreadsheetGenerator.java:95)6
+  CloneClass 465 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/TestWriteWellKnown.java:390)12
+(src/testcases/org/apache/poi/hpsf/basic/TestWriteWellKnown.java:518)12
+  CloneClass 466 (Type 1)
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:609)11
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:636)11
+  CloneClass 467 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:125)7
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:143)8
+  CloneClass 468 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:299)7
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:427)6
+  CloneClass 469 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocumentDescriptor.java:133)23
+(src/testcases/org/apache/poi/poifs/filesystem/TestPOIFSDocumentPath.java:285)23
+  CloneClass 470 (Type 1)
+(src/testcases/org/apache/poi/poifs/crypt/TestDecryptor.java:72)12
+(src/testcases/org/apache/poi/poifs/crypt/TestDecryptor.java:103)12
+  CloneClass 471 (Type 1)
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:112)12
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:151)12
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:248)12
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:298)12
+  CloneClass 472 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocumentInputStream.java:147)16
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocumentInputStream.java:231)13
+  CloneClass 473 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:35)2
+(src/testcases/org/apache/poi/hssf/record/chart/TestTickRecord.java:35)4
+  CloneClass 474 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFWorkbook.java:145)8
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFWorkbook.java:167)8
+  CloneClass 475 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:425)5
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:329)9
+  CloneClass 476 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestPOIFSProperties.java:52)12
+(src/testcases/org/apache/poi/hssf/usermodel/TestPOIFSProperties.java:77)11
+  CloneClass 477 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestIndexFunctionFromSpreadsheet.java:120)13
+(src/testcases/org/apache/poi/ss/formula/functions/TestLookupFunctionsFromSpreadsheet.java:142)13
+  CloneClass 478 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:373)17
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:498)18
+  CloneClass 479 (Type 1)
+(src/testcases/org/apache/poi/util/TestShortList.java:138)55
+(src/testcases/org/apache/poi/util/TestIntList.java:138)55
+  CloneClass 480 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetAutosizeColumn.java:71)7
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetAutosizeColumn.java:82)6
+  CloneClass 481 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/BaseTestExternalFunctions.java:44)9
+(src/testcases/org/apache/poi/ss/formula/eval/TestExternalFunction.java:45)9
+  CloneClass 482 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheet.java:194)6
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheet.java:205)5
+  CloneClass 483 (Type 1)
+(src/testcases/org/apache/poi/poifs/property/TestDocumentProperty.java:149)9
+(src/testcases/org/apache/poi/poifs/storage/TestPropertyBlock.java:195)9
+  CloneClass 484 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocumentInputStream.java:171)10
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocumentInputStream.java:185)10
+  CloneClass 485 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetUpdateArrayFormulas.java:301)7
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetUpdateArrayFormulas.java:457)8
+  CloneClass 486 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/TestMissingWorkbook.java:63)10
+(src/testcases/org/apache/poi/ss/formula/TestMissingWorkbook.java:86)10
+  CloneClass 487 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:118)7
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:158)7
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:201)7
+  CloneClass 488 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:35)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:60)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:368)5
+  CloneClass 489 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestCFHeaderRecord.java:104)10
+(src/testcases/org/apache/poi/hssf/record/TestCFHeaderRecord.java:161)9
+  CloneClass 490 (Type 1)
+(src/testcases/org/apache/poi/util/TestShortList.java:432)19
+(src/testcases/org/apache/poi/util/TestIntList.java:431)19
+  CloneClass 491 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:140)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:304)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:368)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:393)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:540)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:676)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:749)5
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:795)5
+  CloneClass 492 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetAutosizeColumn.java:156)9
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetAutosizeColumn.java:171)8
+  CloneClass 493 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1003)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1077)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1224)7
+  CloneClass 494 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestFormulaParser.java:691)8
+(src/testcases/org/apache/poi/hssf/model/TestFormulaParserEval.java:77)8
+  CloneClass 495 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:303)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:748)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:794)7
+  CloneClass 496 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestFontRecord.java:100)7
+(src/testcases/org/apache/poi/hssf/record/TestExtendedFormatRecord.java:124)7
+  CloneClass 498 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:283)9
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:302)9
+  CloneClass 499 (Type 1)
+(src/testcases/org/apache/poi/util/TestStringUtil.java:77)9
+(src/testcases/org/apache/poi/util/TestStringUtil.java:114)9
+  CloneClass 500 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:35)1
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:36)2
+(src/testcases/org/apache/poi/hpsf/basic/TestBasic.java:62)3
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisRecord.java:35)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestTickRecord.java:34)4
+  CloneClass 501 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestFontIndexRecord.java:49)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestNumberFormatIndexRecord.java:49)8
+  CloneClass 502 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:35)2
+(src/testcases/org/apache/poi/hssf/record/chart/TestValueRangeRecord.java:37)2
+(src/testcases/org/apache/poi/hssf/record/chart/TestAxisRecord.java:35)4
+(src/testcases/org/apache/poi/hssf/record/chart/TestTickRecord.java:34)5
+  CloneClass 503 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/common/TestUnicodeString.java:191)6
+(src/testcases/org/apache/poi/hssf/record/common/TestUnicodeString.java:247)6
+  CloneClass 504 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestFormulaEvaluator.java:269)13
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFFormulaEvaluator.java:72)13
+  CloneClass 505 (Type 1)
+(src/testcases/org/apache/poi/util/TestShortList.java:410)9
+(src/testcases/org/apache/poi/util/TestIntList.java:409)9
+  CloneClass 506 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:98)4
+(src/testcases/org/apache/poi/hssf/usermodel/TestPolygon.java:119)4
+  CloneClass 507 (Type 1)
+(src/testcases/org/apache/poi/ddf/TestEscherBlipRecord.java:46)4
+(src/testcases/org/apache/poi/ddf/TestEscherBlipRecord.java:56)4
+  CloneClass 508 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFSheet.java:239)5
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFSheet.java:288)5
+  CloneClass 509 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/aggregates/TestSharedValueManager.java:85)9
+(src/testcases/org/apache/poi/hssf/record/aggregates/TestSharedValueManager.java:115)9
+  CloneClass 510 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestShapeGroup.java:107)9
+(src/testcases/org/apache/poi/hssf/usermodel/TestShapeGroup.java:133)8
+  CloneClass 511 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestExtSSTRecord.java:821)4
+(src/testcases/org/apache/poi/hssf/record/TestSSTRecord.java:1450)4
+  CloneClass 512 (Type 1)
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:331)8
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:354)8
+  CloneClass 513 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:139)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:303)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:748)6
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:794)6
+  CloneClass 516 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocument.java:104)3
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocument.java:107)4
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocument.java:111)3
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocument.java:117)4
+(src/testcases/org/apache/poi/poifs/filesystem/TestDocument.java:121)4
+  CloneClass 517 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestNamedRange.java:242)11
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestNamedRange.java:259)12
+  CloneClass 518 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2009)14
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2193)14
+  CloneClass 520 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestCell.java:221)6
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestCell.java:232)5
+  CloneClass 521 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:198)6
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:330)5
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:354)6
+  CloneClass 524 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:77)12
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:106)12
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:135)12
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:164)12
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:193)12
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:222)12
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:251)12
+  CloneClass 525 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetAutosizeColumn.java:100)7
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestSheetAutosizeColumn.java:110)6
+  CloneClass 526 (Type 1)
+(src/testcases/org/apache/poi/ddf/TestEscherBlipRecord.java:92)4
+(src/testcases/org/apache/poi/ddf/TestEscherBlipRecord.java:106)4
+  CloneClass 527 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:197)5
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:241)5
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:284)5
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:463)6
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:496)6
+  CloneClass 528 (Type 1)
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:698)14
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:728)13
+  CloneClass 529 (Type 1)
+(src/testcases/org/apache/poi/util/TestArrayUtil.java:188)7
+(src/testcases/org/apache/poi/util/TestArrayUtil.java:202)7
+  CloneClass 530 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/chart/TestLineFormatRecord.java:63)8
+(src/testcases/org/apache/poi/hssf/record/chart/TestAreaFormatRecord.java:69)8
+  CloneClass 531 (Type 1)
+(src/testcases/org/apache/poi/util/TestHexDump.java:110)11
+(src/testcases/org/apache/poi/util/TestHexDump.java:149)11
+(src/testcases/org/apache/poi/util/TestHexDump.java:203)11
+  CloneClass 532 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:389)9
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:416)10
+  CloneClass 533 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFHyperlink.java:37)10
+(src/testcases/org/apache/poi/hssf/usermodel/TestHSSFHyperlink.java:82)9
+  CloneClass 535 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:480)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:492)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:500)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:508)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:520)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:592)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:607)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:616)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:628)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:636)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:644)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:656)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1165)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1177)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1185)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1193)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1205)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1277)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1292)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1301)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1313)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1321)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1329)4
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1341)4
+  CloneClass 536 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:152)10
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:221)9
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:355)9
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:382)9
+  CloneClass 537 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:282)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:291)8
+  CloneClass 538 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:152)10
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:221)9
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:382)9
+  CloneClass 539 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/common/TestUnicodeString.java:129)3
+(src/testcases/org/apache/poi/hssf/record/common/TestUnicodeString.java:138)3
+  CloneClass 540 (Type 1)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:565)8
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:578)6
+  CloneClass 541 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:141)17
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:185)15
+  CloneClass 542 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:303)8
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:794)8
+  CloneClass 543 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestDataValidation.java:259)6
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestDataValidation.java:301)6
+  CloneClass 545 (Type 1)
+(src/testcases/org/apache/poi/poifs/property/TestDirectoryProperty.java:286)7
+(src/testcases/org/apache/poi/poifs/property/TestDocumentProperty.java:83)9
+(src/testcases/org/apache/poi/poifs/property/TestRootProperty.java:120)7
+  CloneClass 546 (Type 1)
+(src/testcases/org/apache/poi/util/TestIntList.java:307)11
+(src/testcases/org/apache/poi/util/TestIntList.java:349)11
+  CloneClass 547 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestConditionalFormatting.java:560)12
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestConditionalFormatting.java:608)12
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestConditionalFormatting.java:669)12
+  CloneClass 548 (Type 1)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestWorkbook.java:586)7
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestWorkbook.java:596)7
+  CloneClass 549 (Type 1)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingManager.java:36)5
+(src/testcases/org/apache/poi/hssf/model/TestDrawingManager.java:49)5
+  CloneClass 550 (Type 1)
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:195)8
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:239)8
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:282)8
+  CloneClass 551 (Type 1)
+(src/testcases/org/apache/poi/hssf/record/TestSharedFormulaRecord.java:143)10
+(src/testcases/org/apache/poi/hssf/record/TestSharedFormulaRecord.java:174)9
+  CloneClass 552 (Type 1)
+(src/testcases/org/apache/poi/ddf/TestEscherBlipRecord.java:37)7
+(src/testcases/org/apache/poi/ddf/TestEscherBlipRecord.java:82)7
+  CloneClass 553 (Type 1)
+(src/testcases/org/apache/poi/util/TestShortList.java:337)6
+(src/testcases/org/apache/poi/util/TestIntList.java:337)6
+  CloneClass 554 (Type 1)
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:299)20
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:412)20
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:536)20
+  CloneClass 555 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestRawDataBlock.java:92)9
+(src/testcases/org/apache/poi/poifs/storage/TestRawDataBlock.java:146)9
+  CloneClass 556 (Type 1)
+(src/testcases/org/apache/poi/util/TestShortList.java:163)3
+(src/testcases/org/apache/poi/util/TestShortList.java:177)3
+(src/testcases/org/apache/poi/util/TestIntList.java:163)3
+(src/testcases/org/apache/poi/util/TestIntList.java:177)3
+  CloneClass 557 (Type 1)
+(src/testcases/org/apache/poi/poifs/storage/TestPropertyBlock.java:72)17
+(src/testcases/org/apache/poi/poifs/storage/TestPropertyBlock.java:125)17
+  CloneClass 558 (Type 1)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:60)7
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:368)7
+  CloneClass 559 (Type 1)
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:555)9
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:698)9
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:728)9
+  CloneClass 560 (Type 1)
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:83)6
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics2d.java:76)6
+This is for clone class 2
+  CloneClass 39 (Type 2)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1077)28
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1224)28
+  CloneClass 40 (Type 2)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:392)28
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:539)28
+  CloneClass 55 (Type 2)
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:118)23
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:201)23
+  CloneClass 81 (Type 2)
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:77)18
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:106)18
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:193)18
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:222)18
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:251)18
+  CloneClass 88 (Type 2)
+(src/testcases/org/apache/poi/ddf/TestUnknownEscherRecord.java:45)33
+(src/testcases/org/apache/poi/ddf/TestUnknownEscherRecord.java:84)33
+  CloneClass 127 (Type 2)
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:903)19
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestFormulaEvaluator.java:138)18
+  CloneClass 138 (Type 2)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:676)70
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1004)70
+  CloneClass 152 (Type 2)
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:135)18
+(src/testcases/org/apache/poi/ss/formula/functions/TestSubtotal.java:164)18
+  CloneClass 154 (Type 2)
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:248)48
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:298)48
+  CloneClass 159 (Type 2)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:258)28
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:290)28
+  CloneClass 166 (Type 2)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:393)141
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1078)141
+  CloneClass 187 (Type 2)
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:286)12
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:326)11
+  CloneClass 198 (Type 2)
+(src/testcases/org/apache/poi/util/TestLongField.java:107)13
+(src/testcases/org/apache/poi/util/TestShortField.java:100)13
+(src/testcases/org/apache/poi/util/TestIntegerField.java:102)13
+  CloneClass 208 (Type 2)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSStream.java:53)8
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:278)8
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:310)8
+  CloneClass 240 (Type 2)
+(src/testcases/org/apache/poi/util/TestLongField.java:107)19
+(src/testcases/org/apache/poi/util/TestIntegerField.java:102)19
+  CloneClass 246 (Type 2)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:478)18
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:506)18
+  CloneClass 248 (Type 2)
+(src/testcases/org/apache/poi/ddf/TestEscherBlipRecord.java:66)10
+(src/testcases/org/apache/poi/ddf/TestEscherBlipRecord.java:117)10
+  CloneClass 258 (Type 2)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1163)18
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1191)18
+  CloneClass 265 (Type 2)
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:442)28
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:475)28
+  CloneClass 269 (Type 2)
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:417)40
+(src/testcases/org/apache/poi/hssf/model/TestDrawingAggregate.java:499)39
+  CloneClass 303 (Type 2)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestDataValidation.java:328)8
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestDataValidation.java:342)8
+  CloneClass 340 (Type 2)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestDataValidation.java:328)8
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestDataValidation.java:454)8
+  CloneClass 348 (Type 2)
+(src/testcases/org/apache/poi/util/TestHexDump.java:46)27
+(src/testcases/org/apache/poi/util/TestHexDump.java:87)26
+  CloneClass 367 (Type 2)
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:221)14
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:382)14
+  CloneClass 375 (Type 2)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestDataValidation.java:342)9
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestDataValidation.java:454)9
+  CloneClass 387 (Type 2)
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:348)21
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:393)21
+  CloneClass 418 (Type 2)
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:112)37
+(src/testcases/org/apache/poi/ss/format/TestCellFormat.java:151)37
+  CloneClass 454 (Type 2)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2210)210
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2423)210
+  CloneClass 515 (Type 2)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1361)157
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1587)157
+  CloneClass 522 (Type 2)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:540)130
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1225)130
+  CloneClass 523 (Type 2)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:393)27
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:540)27
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1078)27
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1225)27
+  CloneClass 544 (Type 2)
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:73)13
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:146)15
+This is for clone class 3
+  CloneClass 6 (Type 3)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:295)11
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSMiniStore.java:126)15
+  CloneClass 15 (Type 3)
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:175)28
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:219)28
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:262)28
+  CloneClass 26 (Type 3)
+(src/testcases/org/apache/poi/util/TestHexDump.java:74)24
+(src/testcases/org/apache/poi/util/TestHexDump.java:153)23
+  CloneClass 36 (Type 3)
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:308)23
+(src/testcases/org/apache/poi/poifs/storage/TestBATBlock.java:332)23
+  CloneClass 42 (Type 3)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:591)29
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:635)25
+  CloneClass 68 (Type 3)
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:158)42
+(src/testcases/org/apache/poi/hssf/usermodel/TestEscherGraphics.java:201)55
+  CloneClass 73 (Type 3)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1723)52
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:2153)31
+  CloneClass 83 (Type 3)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1276)29
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1320)25
+  CloneClass 85 (Type 3)
+(src/testcases/org/apache/poi/hssf/model/TestHSSFAnchor.java:91)28
+(src/testcases/org/apache/poi/hssf/model/TestHSSFAnchor.java:160)27
+  CloneClass 87 (Type 3)
+(src/testcases/org/apache/poi/util/TestHexDump.java:46)11
+(src/testcases/org/apache/poi/util/TestHexDump.java:126)11
+  CloneClass 92 (Type 3)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:478)47
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:614)47
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1163)47
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1299)47
+  CloneClass 106 (Type 3)
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:64)39
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:152)33
+  CloneClass 112 (Type 3)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1276)30
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1312)22
+  CloneClass 120 (Type 3)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1276)23
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1328)20
+  CloneClass 126 (Type 3)
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:330)7
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:355)13
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:356)13
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:356)13
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:356)13
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:356)13
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:356)13
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:356)13
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:356)13
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:356)13
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:356)13
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:357)13
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:357)13
+  CloneClass 141 (Type 3)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1300)17
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1320)13
+  CloneClass 160 (Type 3)
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:86)40
+(src/testcases/org/apache/poi/poifs/filesystem/TestNPOIFSFileSystem.java:151)41
+  CloneClass 162 (Type 3)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:615)17
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:635)13
+  CloneClass 202 (Type 3)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:591)20
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:615)17
+  CloneClass 204 (Type 3)
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:198)10
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:354)16
+  CloneClass 229 (Type 3)
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:219)27
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:262)27
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:443)26
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:476)26
+  CloneClass 254 (Type 3)
+(src/testcases/org/apache/poi/util/TestShortList.java:45)25
+(src/testcases/org/apache/poi/util/TestIntList.java:45)25
+  CloneClass 272 (Type 3)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:591)30
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:627)22
+  CloneClass 282 (Type 3)
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:196)10
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:343)17
+  CloneClass 299 (Type 3)
+(src/testcases/org/apache/poi/hssf/usermodel/TestCellStyle.java:65)22
+(src/testcases/org/apache/poi/hssf/usermodel/TestCellStyle.java:185)21
+  CloneClass 318 (Type 3)
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:330)6
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:357)13
+  CloneClass 332 (Type 3)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1497)54
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1936)52
+  CloneClass 355 (Type 3)
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:174)28
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:442)27
+(src/testcases/org/apache/poi/ss/formula/functions/TestMathX.java:475)27
+  CloneClass 363 (Type 3)
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:40)21
+(src/testcases/org/apache/poi/hssf/record/TestHyperlinkRecord.java:113)17
+  CloneClass 365 (Type 3)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:491)33
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:591)41
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1176)33
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1276)41
+  CloneClass 381 (Type 3)
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:299)62
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:412)63
+(src/testcases/org/apache/poi/hpsf/basic/TestMetaDataIPI.java:536)63
+  CloneClass 383 (Type 3)
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestWorkbook.java:534)16
+(src/testcases/org/apache/poi/ss/usermodel/BaseTestWorkbook.java:562)16
+  CloneClass 406 (Type 3)
+(src/testcases/org/apache/poi/poifs/storage/TestBlockAllocationTableReader.java:198)10
+(src/testcases/org/apache/poi/poifs/property/TestPropertyFactory.java:354)16
+  CloneClass 407 (Type 3)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1276)20
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1300)17
+  CloneClass 414 (Type 3)
+(src/testcases/org/apache/poi/poifs/nio/TestDataSource.java:132)14
+(src/testcases/org/apache/poi/poifs/nio/TestDataSource.java:149)15
+  CloneClass 423 (Type 3)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1164)17
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1184)13
+  CloneClass 440 (Type 3)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:479)17
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:499)13
+  CloneClass 446 (Type 3)
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulaEvaluatorDocs.java:91)7
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulaEvaluatorDocs.java:121)6
+  CloneClass 497 (Type 3)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:591)23
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:643)20
+  CloneClass 514 (Type 3)
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:480)44
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:607)41
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1165)44
+(src/testcases/org/apache/poi/util/TestBinaryTree.java:1292)41
+  CloneClass 519 (Type 3)
+(src/testcases/org/apache/poi/util/TestHexDump.java:74)23
+(src/testcases/org/apache/poi/util/TestHexDump.java:114)23
+  CloneClass 534 (Type 3)
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:152)15
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:221)14
+(src/testcases/org/apache/poi/hssf/usermodel/TestFormulas.java:382)14
+Found 1740 clones in 560 cases.
+Net cloned lines = 10854

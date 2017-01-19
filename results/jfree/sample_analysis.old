@@ -1,0 +1,131 @@
+- Largely uniform assertions (e.g. 4, assertEquals(double,double,double)) without any control flows in general tend to produce false positves
+- Test methods can have exactly same assertion flow but test very different things
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+3
+A large number (11) of assertions are matched 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (6).
+
+4
+A large number (10) of assertions are matched 
+Partial valid clone set of a few number (3) of methods
+   {
+      DefaultBoxAndWhiskerCategoryDatasetTests.testAdd, 
+      DefaultBoxAndWhiskerCategoryDatasetTests.testAddUpdatesCachedRange
+   } is a clone set, 2/3
+Relevant clone sets from call chain analysis exists (9).
+
+11
+A few number (6) of assertions are matched 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (2).
+
+12
+A few number (6) of assertions are matched 
+   with a few number (3) of try block 
+   with a few number (3) of catch block 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+17
+A few number (5) of assertions are matched 
+Valid clone set of a few number (5) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+18
+A few number (4) of assertions are matched 
+Valid clone set of a large number (10) of methods 
+Relevant clone sets from call chain analysis exists (1).
+
+45
+A few number (2) of assertions are matched 
+   with one (1) in-place boolean expression as arguments 
+Valid clone set of a few number (5) of methods 
+Relevant clone sets from call chain analysis exists (1).
+
+47
+A few number (2) of assertions are matched 
+Partial valid clone set of a large number (20) of methods 
+   {
+      DateAxisTests.testSetRange
+      DateAxisTests.testSetMaximumDate
+      DateAxisTests.testSetMinimumDate
+   } is a clone set, 3/20
+   {
+      DialBackgroundTests.testSerialization
+      DialCapTests.testSerialization
+      DialTextAnnotationTests.testSerialization
+      StandardDialScaleTests.testSerialization
+      LookupPaintScaleTests.testSerialization
+      DefaultIntervalXYDatasetTests.testSerialization
+      DefaultWindDatasetTests.testSerialization
+      DefaultXYDatasetTests.testSerialization
+      DefaultXYZDatasetTests.testSerialization
+   } is a clone set, 9/20
+   {
+      TaskSeriesCollectionTests.testGetSeriesKey
+      TaskSeriesCollectionTests.testGetRowKey
+   } is a clone set, 2/20
+   {
+      DatasetUtilitiesTests.testFindMinimumRangeValue
+      DatasetUtilitiesTests.testFindMaximumRangeValue
+   } is a clone set, 2/20
+Relevant clone sets from call chain analysis exists (2).
+
+65
+A large number (16) of assertions are matched 
+Valid clone set of a few number (3) of methods 
+   the methods perform very different tasks
+Relevant clone sets from call chain analysis does not exist (0).
+
+75
+A large number (16) of assertions are matched 
+Valid clone set of a few number (3) of methods 
+   may be difficult to refactor
+Relevant clone sets from call chain analysis does not exist (0).
+
+88
+A few number (8) of assertions are matched 
+Valid clone set of a few number (2) of methods 
+Relevant clone sets from call chain analysis does not exist (0).
+
+92
+A few number (8) of assertions are matched 
+Valid clone set of a few number (3) of methods 
+Relevant clone sets from call chain analysis does not exist (0).
+
+137
+A few number (3) of assertions are matched 
+Valid clone set of a few number (2) of methods 
+   may be difficult to refactor
+Relevant clone sets from call chain analysis does not exist (0).
+
+147
+
+
+153
+A few number (2) of assertions are matched 
+Valid clone set of a few number (2) of methods 
+   may be difficult to refactor
+Relevant clone sets from call chain analysis does not exist (0).
+
+154
+A few number (2) of assertions are matched 
+Invalid clone set of a few number (2) of methods 
+Relevant clone sets from call chain analysis does not exist (0).
+
+157
+A few number (2) of assertions are matched 
+Invalid clone set of a few number (2) of methods 
+Relevant clone sets from call chain analysis does not exist (0).
+
+160
+
+
+164
+
+
+165
+
+

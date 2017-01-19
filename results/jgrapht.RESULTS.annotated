@@ -1,0 +1,98 @@
+Q: what does "size" mean?
+TODO: please only include 2 sig figs in scores
+somehow, later asserts should be more important than earlier asserts in a method
+
+[1] Set (score: 1.0, size: 3): "assertTrue(X.edgeSet().isEmpty())"
+org.jgrapht.graph.CloneTest.void testCloneSpecificsBug(): (org.jgrapht.graph.CloneTest.java:91) [5 asserts total]
+org.jgrapht.graph.SimpleDirectedGraphTest.void testReversedView(): (org.jgrapht.graph.SimpleDirectedGraphTest.java:407) [10 asserts total]
+
+[2] Set (score: 1.0, size: 2): "assertTrue(X.isStronglyConnected())"
+org.jgrapht.alg.ConnectivityInspectorTest.void testStronglyConnected1(): (org.jgrapht.alg.ConnectivityInspectorTest.java:222) [3 asserts]
+org.jgrapht.alg.ConnectivityInspectorTest.void testStronglyConnected2(): (org.jgrapht.alg.ConnectivityInspectorTest.java:279) [3 asserts]; has one more edge than testSC1; same expected answer, otherwise identical
+org.jgrapht.alg.ConnectivityInspectorTest.void testStronglyConnected3(): (org.jgrapht.alg.ConnectivityInspectorTest.java:337) [3 asserts]; larger strongly-connected component and weakly-connected component; different answers; lots of common boilerplate
+
+[3] Set (score: 1.0, size: 2): "assertTrue(isCover(X, g))"; same structure, different payload, 1 assert only
+org.jgrapht.alg.VertexCoversTest.void testFind2ApproximationCover(): (org.jgrapht.alg.VertexCoversTest.java:74) payload is "VertexCovers.find2ApproximationCover(g)"
+org.jgrapht.alg.VertexCoversTest.void testFindGreedyCover(): (org.jgrapht.alg.VertexCoversTest.java:89) payload is "VertexCovers.findGreedyCover(Graphs.undirectedGraph(g))"
+
+[4] Set (score: 1.0, size: 2): "assertEquals(g2.toString(), g.toString())" s /DefaultEdge/DefaultWeightedEdge, DefaultWeightedEdge needs one more param in GraphReader ctor, s /addEdge/setEdgeWeight, same payloads
+org.jgrapht.experimental.GraphReaderTest.void testGraphReader(): (org.jgrapht.experimental.GraphReaderTest.java:88) 
+org.jgrapht.experimental.GraphReaderTest.void testGraphReaderWeighted(): (org.jgrapht.experimental.GraphReaderTest.java:116) 
+
+[5] Set (score: 1.0, size: 2): "assertEquals(X.vertexSet(), Y.vertexSet())"; interestingly, unrelated classes. 
+org.jgrapht.experimental.dag.DirectedAcyclicGraphTest.void testCycleDetectionInRandomGraphBuild(): (org.jgrapht.experimental.dag.DirectedAcyclicGraphTest.java:141) --- has been constructed from scratch here
+org.jgrapht.graph.SimpleDirectedGraphTest.void verifyReversal(org.jgrapht.DirectedGraph,org.jgrapht.DirectedGraph,org.jgrapht.graph.DefaultEdge): (org.jgrapht.graph.SimpleDirectedGraphTest.java:426) --- private method; on parameters
+
+[6] Set (score: 1.0, size: 2): "assertTrue(EdgeTopologyCompare.compare(graphArray.get(0), graphArray.get(1)))" s /SimpleDirectedGraph/ListenableUndirectedGraph; different parameters to generateGraphs call.
+org.jgrapht.generate.RandomGraphGeneratorTest.void testGenerateDirectedGraph(): (org.jgrapht.generate.RandomGraphGeneratorTest.java:70) 
+org.jgrapht.generate.RandomGraphGeneratorTest.void testGenerateListenableUndirectedGraph(): (org.jgrapht.generate.RandomGraphGeneratorTest.java:89) 
+
+[7] Set (score: 1.0, size: 2): ***different asserts?!*** assertNotNull(g2.getEdge(one, two)) vs assertNull(r.getEdge(v1, v2))
+org.jgrapht.graph.CloneTest.void testCloneSpecificsBug(): (org.jgrapht.graph.CloneTest.java:88) 
+org.jgrapht.graph.SimpleDirectedGraphTest.void verifyReversal(org.jgrapht.DirectedGraph,org.jgrapht.DirectedGraph,org.jgrapht.graph.DefaultEdge): (org.jgrapht.graph.SimpleDirectedGraphTest.java:432) 
+
+[8] Set (score: 0.67, size: 3): "assertEquals(0, X.getCutpoints().size())"; methods fairly different, incidental assert
+org.jgrapht.alg.BiconnectivityInspectorTest.void testBiconnected(): (org.jgrapht.alg.BiconnectivityInspectorTest.java:65) [3 asserts]
+org.jgrapht.alg.BlockCutpointGraphTest.void testBiconnected(): (org.jgrapht.alg.BlockCutpointGraphTest.java:67) [2 asserts]
+
+[9] Set (score: 0.67, size: 3): "assertEquals(nbVertices - 2, X.getCutpoints().size())"; same graph generation setup
+org.jgrapht.alg.BiconnectivityInspectorTest.void testLinearGraph(int): (org.jgrapht.alg.BiconnectivityInspectorTest.java:88) 2 asserts
+org.jgrapht.alg.BlockCutpointGraphTest.void testLinearGraph(int): (org.jgrapht.alg.BlockCutpointGraphTest.java:121) 2 asserts + call to testGetBlock
+
+[10] Set (score: 0.67, size: 3): "assertEquals(2, X.getCutpoints().size())"; same as above 2 examples
+org.jgrapht.alg.BiconnectivityInspectorTest.void testNotBiconnected(): (org.jgrapht.alg.BiconnectivityInspectorTest.java:100) 
+org.jgrapht.alg.BlockCutpointGraphTest.void testNotBiconnected(): (org.jgrapht.alg.BlockCutpointGraphTest.java:135) 
+
+[11] Set (score: 0.67, size: 2): "assertEquals(UNDIRECTED, w.toString())"; DOT has a bunch more stuff going on, but same graphs in first 5 lines; w is a StringWriter in both cases, which has the same calls. exporter has different ctor arts.
+org.jgrapht.ext.DOTExporterTest.void testUndirected(): (org.jgrapht.ext.DOTExporterTest.java:110) 
+org.jgrapht.ext.GmlExporterTest.void testUndirected(): (org.jgrapht.ext.GmlExporterTest.java:117) 
+
+[12] Set (score: 0.5, size: 3): "assertEquals(nbPaths, ksp.getPaths(targetVertex).size())"; single assert; different ctor calls is the only difference; well, sometimes nbPaths is 2 and sometimes it is 3.
+org.jgrapht.alg.KSPExampleTest.void testFourReturnedPathsJGraphT(): (org.jgrapht.alg.KSPExampleTest.java:60) 
+org.jgrapht.alg.KSPExampleTest.void testThreeReturnedPathsJGraphT(): (org.jgrapht.alg.KSPExampleTest.java:72) 
+org.jgrapht.alg.KSPExampleTest.void testTwoReturnedPathsJGraphT(): (org.jgrapht.alg.KSPExampleTest.java:84) 
+
+[13] Set (score: 0.5, size: 2): "assertEquals(matching, bm.getMatching())" different graphs
+org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest.void testBipartiteMatching1(): (org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest.java:86) 2 asserts
+org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest.void testBipartiteMatching2(): (org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest.java:115) 2 asserts
+org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest.void testEmptyMatching(): (org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest.java:128) 1 assert; uses Collections.EMPTY_SET not a local variable
+
+[14] Set (score: 0.5, size: 2): "assertEquals(X, mc.getCutEdges())"; same method bodies, except they have different inputs; RealGraph and RealGraph2 are completely identical except for inputs, Disconnected has a bit less going on; Disconnected and GraphWithOneEdge are quite similar except for number of edges, of course
+org.jgrapht.alg.MinSourceSinkCutTest.void testDisconnectedGraph(): (org.jgrapht.alg.MinSourceSinkCutTest.java:221) 
+org.jgrapht.alg.MinSourceSinkCutTest.void testRealGraph(): (org.jgrapht.alg.MinSourceSinkCutTest.java:108) 
+org.jgrapht.alg.MinSourceSinkCutTest.void testRealGraph2(): (org.jgrapht.alg.MinSourceSinkCutTest.java:156) 
+
+[15] Set (score: 0.5, size: 2): [see above]
+org.jgrapht.alg.MinSourceSinkCutTest.void testDisconnectedGraph(): (org.jgrapht.alg.MinSourceSinkCutTest.java:216) 
+org.jgrapht.alg.MinSourceSinkCutTest.void testGraphWithOneEdge(): (org.jgrapht.alg.MinSourceSinkCutTest.java:180) 
+org.jgrapht.alg.MinSourceSinkCutTest.void testRealGraph(): (org.jgrapht.alg.MinSourceSinkCutTest.java:99) 
+org.jgrapht.alg.MinSourceSinkCutTest.void testRealGraph2(): (org.jgrapht.alg.MinSourceSinkCutTest.java:147) 
+
+[16] Set (score: 0.5, size: 2): [see above]
+org.jgrapht.alg.MinSourceSinkCutTest.void testDisconnectedGraph(): (org.jgrapht.alg.MinSourceSinkCutTest.java:217) 
+org.jgrapht.alg.MinSourceSinkCutTest.void testGraphWithOneEdge(): (org.jgrapht.alg.MinSourceSinkCutTest.java:181) 
+org.jgrapht.alg.MinSourceSinkCutTest.void testRealGraph(): (org.jgrapht.alg.MinSourceSinkCutTest.java:100) 
+org.jgrapht.alg.MinSourceSinkCutTest.void testRealGraph2(): (org.jgrapht.alg.MinSourceSinkCutTest.java:148) 
+
+[17] Set (score: 0.5, size: 2): "assertEquals(X0.outgoingEdgesOf(Y0), X1.incomingEdgesOf(Y1))" vs "assertEquals(X0.edgeSet(), X1.incomingEdgesOf(Y1))"
+org.jgrapht.graph.SimpleDirectedGraphTest.void testIncomingOutgoingEdgesOf(): (org.jgrapht.graph.SimpleDirectedGraphTest.java:315) 1 assert
+org.jgrapht.graph.SimpleDirectedGraphTest.void verifyReversal(org.jgrapht.DirectedGraph,org.jgrapht.DirectedGraph,org.jgrapht.graph.DefaultEdge): (org.jgrapht.graph.SimpleDirectedGraphTest.java:446) zillion asserts
+
+[18] Set (score: 0.5, size: 2): "assertEquals(X, Y.next())" vs "assertEquals(X, Y.nextElement())" structurally identical, different interfaces
+org.jgrapht.util.PrefetchIteratorTest.void testEnumInterface(): (org.jgrapht.util.PrefetchIteratorTest.java:72) 3 asserts
+org.jgrapht.util.PrefetchIteratorTest.void testIteratorInterface(): (org.jgrapht.util.PrefetchIteratorTest.java:55) 3 asserts
+
+[19] Set (score: 0.5, size: 0): "assertEquals(Double.POSITIVE_INFINITY, X.getCost(Y))" vs "assertEquals(array.asList(...), path.getPathEdgeList())"
+org.jgrapht.alg.BellmanFordShortestPathTest.void testConstructor(): (org.jgrapht.alg.BellmanFordShortestPathTest.java:102) 
+org.jgrapht.alg.DijkstraShortestPathTest.void testConstructor(): (org.jgrapht.alg.DijkstraShortestPathTest.java:73) 
+
+[20] Set (score: 0.5, size: 0): "assertNull(X.getPathEdgeList(Y))" structurally similar but not identical
+org.jgrapht.alg.BellmanFordShortestPathTest.void testConstructor(): (org.jgrapht.alg.BellmanFordShortestPathTest.java:101) 6 asserts
+org.jgrapht.alg.DijkstraShortestPathTest.void testConstructor(): (org.jgrapht.alg.DijkstraShortestPathTest.java:89) 4 asserts
+
+Total sets found: 20
+Total method count: 297
+Total methods found (with duplicates): 48
+Total methods found (without duplicates): 36
+Total asserts found (with duplicates): 48
+Total asserts found (without duplicates): 48

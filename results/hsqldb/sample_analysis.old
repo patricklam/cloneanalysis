@@ -1,0 +1,93 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1
+A large number (12) of assertions are matched 
+   with a large number (12) of try blocks
+   with a large number (12) of catch blocks
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+2
+A few number (9) of assertions are matched 
+   with a few number (2) of try blocks
+   with a few number (2) of catch blocks
+   with a few number (2) of loops
+   with a few number (2) of branchings
+      a few number (2) of if statements
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (2).
+
+9
+
+
+13
+A few number (5) of assertions are matched 
+   with one (1) try block
+   with one (1) catch block
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+17
+
+
+21
+
+
+22
+A few number (3) of assertions are matched 
+   with one (1) try block
+   with a few number (2) of catch blocks
+   with one (1) in-place boolean expression as arguments 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+24
+
+
+27
+A few number (2) of assertions are matched 
+   with one (1) branching
+      one (1) if statements
+   with a few number (2) of try blocks
+   with a few number (2) of catch blocks
+Valid clone set of a few number (3) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+29
+
+
+32
+
+
+41
+
+
+48
+One (1) assertion is matched 
+   with a few number (2) of loops
+   with a few number (2) of branchings
+      a few number (2) of if statements
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+51
+
+
+56
+
+
+58
+
+
+64
+
+
+66
+
+
+69
+
+
+80
+
+

@@ -1,0 +1,80 @@
+{
+   "jdom" :  {
+      "true"     : [33],
+      "false"    : [30, 31, 34, 40],
+      "partial"  : [32, 35, 36, 37, 38, 39]
+   },
+   "jgrapht" : {
+      "true"     : [15, 16],
+      "false"    : [17],
+      "partial"  : [12, 13, 14, 18, 19, 20]
+   },
+   "jmeter" : {
+      "true"     : [64, 67, 68],
+      "false"    : [61, 62, 63],
+      "partial"  : [65, 66, 69, 70, 71, 72, 73, 74, 75, 76, 77]
+   },
+   "weka" : {
+      "true"     : [51, 53, 55],
+      "false"    : [52],
+      "partial"  : [54, 56, 57]
+   },
+   "jfree" : {
+      "true"     : [152, 157, 158],
+      "false"    : [148, 153, 154, 166],
+      "partial"  : [147, 149, 150, 151, 155, 156, 159, 160, 161, 162, 163, 164, 165, 167, 168, 169, 170, 171, 172]
+   },
+   "gvis" : {
+      "true"     : [43, 45],
+      "false"    : [36, 40, 46],
+      "partial"  : [37, 38, 39, 41, 42, 44, 47, 48]
+   },
+   "hsqldb" : {
+      "true"     : [66, 69, 70],
+      "false"    : [68, 72, 73, 74, 76],
+      "partial"  : [67, 71, 75, 77, 78, 79, 80]
+   },
+   "poi" : {
+      "true"     : [198],
+      "false"    : [187, 188, 189, 190, 195, 199, 200, 201, 203, 205, 206, 209, 214, 215, 217, 218, 220],
+      "partial"  : [186, 191, 192, 193, 194, 196, 197, 202, 204, 207, 208, 210, 211, 212, 213, 216, 219, 221, 222, 223, 224, 225, 226, 227, 228]
+   },
+   "jodatime" : {
+      "true"     : [232, 233, 234, 252, 253],
+      "false"    : [],
+      "partial"  : [235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 254, 255, 256, 257, 258, 259]
+   },
+   "cc" : {
+      "true"     : [170, 175, 178],
+      "false"    : [167, 171, 172, 176, 177, 181, 183, 187, 191],
+      "partial"  : [168, 169, 173, 174, 179, 180, 182, 184, 185, 186, 188, 189, 190, 192, 193, 194],
+      "comments" : [
+            "168: partial (1,2,3) (5,6,7) same structure, different args",
+            "169: partial (2,3,4,5) and, or, either, neither (6, 7) bag vs hashbag (1,8) identical TestMultiHashMap vs TestMultiValueMap",
+            "170: s /LRUMap/LinkedMap",
+            "173: partial (3,4) (string, double), (5, 6) (Enumeration vs Iterator)",
+            "174: partial (2,3) (primitive vs String) (4, 5) (Enumeration vs Iterator) (8, 9) (true vs false)",
+            "175: exact same calls, different args",
+            "176: swap receiver objects on adjacent lines; let's call that an FP, can't refactor meaningfully.",
+            "177: (1,2) are similar but I'll say they're different; (3) is alone",
+            "178: s /Collection/Map",
+            "179: partial (6,7) plus other similarities",
+            "180: partial (2,3) differ by a 'list.setFast(true)' call",
+            "181: similar but not enough to be a clone (testSearch for ArrayList, TreeMap)",
+            "182: partial (5,6,7,8,9,10) ('testRemoveErrorN')",
+            "183: similar but not a true positive for any subset",
+            "184: partial (1,2); (3,4) is a very long test method, clearly cloned (add vs addAll), (5,6), (7,8,9)",
+            "185: partial (1,2) is verbosePrint vs debugPrint, (3,4) same, all 7 pairs actually.",
+            "186: partial (2,3) is s/reverse/randomize",
+            "187: 2 methods",
+            "188: 1 assertEquals(bool, bool), some arguable true positive subsets",
+            "189: 1 fail(); 53 methods, all have same structure (try/catch/fail()) but moderately different payload in the try{} block, arguably a true positive",
+            "190: 1 assertEquals(int, int); 4 methods, subset (2,3); 3 is a superset of 2",
+            "191: 1 assertEquals(String, int, int)",
+            "192: 1 assertSame(Object, Object); 10 methods, subsets (3,4,5,6) (4,7,8)",
+            "193: 1 assertEquals(object, object); 12 methods, subsets (2,3) (4,5,6) (8,9)",
+            "194: 1 assertTrue(bool); 13 methods, subsets (1,2) (5,6,7,8) (10, 11)"
+      ]
+   }
+}
+

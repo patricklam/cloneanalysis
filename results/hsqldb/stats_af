@@ -1,0 +1,395 @@
+{
+	"project" : "hsqldb",
+	"others" : {
+		"totalStaticCalls" : 1786,
+		"totalMethods" : 992,
+		"totalClasses" : 111,
+		"totalPackages" : 14,
+		"totalClassesNotDirectlyInheritingTestCase" : 93,
+		"totalClassesContainingNonEmptySetupOrTeardown" : 56,
+		"totalMethodsWithAtLeast5Asserts" : 105,
+		"totalMethodsWithBranches" : 314,
+		"totalMethodsWithLoops" : 141,
+		"totalMethodsWithNoStaticCalls" : 309,
+		"totalMethodsWithNetworkAccess" : 19,
+		"totalMethodsWithFilesystemAccess" : 8
+	},
+	"detail" : {
+		"sets" : {
+			"hist" : [
+				{
+					"_id" : true,
+					"count" : 58
+				},
+				{
+					"_id" : false,
+					"count" : 14
+				}
+			]
+		},
+		"packages" : {
+			"hist" : [
+				{
+					"_id" : 1,
+					"count" : 51
+				},
+				{
+					"_id" : 2,
+					"count" : 6
+				},
+				{
+					"_id" : 3,
+					"count" : 1
+				}
+			]
+		},
+		"classes" : {
+			"hist" : [
+				{
+					"_id" : 1,
+					"count" : 46
+				},
+				{
+					"_id" : 2,
+					"count" : 10
+				},
+				{
+					"_id" : 4,
+					"count" : 1
+				},
+				{
+					"_id" : 13,
+					"count" : 1
+				}
+			]
+		},
+		"methods" : {
+			"hist" : [
+				{
+					"_id" : 55,
+					"count" : 1
+				},
+				{
+					"_id" : 33,
+					"count" : 1
+				},
+				{
+					"_id" : 19,
+					"count" : 1
+				},
+				{
+					"_id" : 10,
+					"count" : 1
+				},
+				{
+					"_id" : 9,
+					"count" : 1
+				},
+				{
+					"_id" : 8,
+					"count" : 2
+				},
+				{
+					"_id" : 7,
+					"count" : 1
+				},
+				{
+					"_id" : 6,
+					"count" : 1
+				},
+				{
+					"_id" : 5,
+					"count" : 2
+				},
+				{
+					"_id" : 4,
+					"count" : 3
+				},
+				{
+					"_id" : 3,
+					"count" : 8
+				},
+				{
+					"_id" : 2,
+					"count" : 36
+				}
+			]
+		},
+		"asserts" : {
+			"hist" : [
+				{
+					"_id" : 19,
+					"count" : 1
+				},
+				{
+					"_id" : 12,
+					"count" : 1
+				},
+				{
+					"_id" : 9,
+					"count" : 1
+				},
+				{
+					"_id" : 7,
+					"count" : 4
+				},
+				{
+					"_id" : 6,
+					"count" : 2
+				},
+				{
+					"_id" : 5,
+					"count" : 6
+				},
+				{
+					"_id" : 4,
+					"count" : 7
+				},
+				{
+					"_id" : 3,
+					"count" : 3
+				},
+				{
+					"_id" : 2,
+					"count" : 16
+				},
+				{
+					"_id" : 1,
+					"count" : 17
+				}
+			]
+		},
+		"assertsPerMethod" : {
+			"hist" : [
+				{
+					"_id" : 19,
+					"count" : 2
+				},
+				{
+					"_id" : 12,
+					"count" : 2
+				},
+				{
+					"_id" : 9,
+					"count" : 2
+				},
+				{
+					"_id" : 7,
+					"count" : 10
+				},
+				{
+					"_id" : 6,
+					"count" : 9
+				},
+				{
+					"_id" : 5,
+					"count" : 16
+				},
+				{
+					"_id" : 4,
+					"count" : 22
+				},
+				{
+					"_id" : 3,
+					"count" : 9
+				},
+				{
+					"_id" : 2,
+					"count" : 75
+				},
+				{
+					"_id" : 1,
+					"count" : 126
+				}
+			]
+		},
+		"controlFlowSizes" : {
+			"hist" : [
+				{
+					"_id" : 24,
+					"count" : 1
+				},
+				{
+					"_id" : 14,
+					"count" : 4
+				},
+				{
+					"_id" : 13,
+					"count" : 1
+				},
+				{
+					"_id" : 12,
+					"count" : 1
+				},
+				{
+					"_id" : 10,
+					"count" : 3
+				},
+				{
+					"_id" : 9,
+					"count" : 1
+				},
+				{
+					"_id" : 8,
+					"count" : 2
+				},
+				{
+					"_id" : 6,
+					"count" : 1
+				},
+				{
+					"_id" : 5,
+					"count" : 8
+				},
+				{
+					"_id" : 4,
+					"count" : 6
+				},
+				{
+					"_id" : 3,
+					"count" : 4
+				},
+				{
+					"_id" : 2,
+					"count" : 17
+				},
+				{
+					"_id" : 1,
+					"count" : 7
+				},
+				{
+					"_id" : 0,
+					"count" : 2
+				}
+			]
+		},
+		"controlFlowSizesPerMethod" : {
+			"hist" : [
+				{
+					"_id" : 24,
+					"count" : 2
+				},
+				{
+					"_id" : 14,
+					"count" : 10
+				},
+				{
+					"_id" : 13,
+					"count" : 2
+				},
+				{
+					"_id" : 12,
+					"count" : 2
+				},
+				{
+					"_id" : 10,
+					"count" : 10
+				},
+				{
+					"_id" : 9,
+					"count" : 2
+				},
+				{
+					"_id" : 8,
+					"count" : 4
+				},
+				{
+					"_id" : 6,
+					"count" : 7
+				},
+				{
+					"_id" : 5,
+					"count" : 17
+				},
+				{
+					"_id" : 4,
+					"count" : 21
+				},
+				{
+					"_id" : 3,
+					"count" : 11
+				},
+				{
+					"_id" : 2,
+					"count" : 88
+				},
+				{
+					"_id" : 1,
+					"count" : 93
+				},
+				{
+					"_id" : 0,
+					"count" : 4
+				}
+			]
+		},
+		"uniquenesses" : {
+			"hist" : [
+				{
+					"_id" : 7,
+					"count" : 1
+				},
+				{
+					"_id" : 5,
+					"count" : 3
+				},
+				{
+					"_id" : 4,
+					"count" : 8
+				},
+				{
+					"_id" : 3,
+					"count" : 6
+				},
+				{
+					"_id" : 2,
+					"count" : 17
+				},
+				{
+					"_id" : 1,
+					"count" : 23
+				}
+			]
+		},
+		"uniquenessesPerMethod" : {
+			"hist" : [
+				{
+					"_id" : 7,
+					"count" : 2
+				},
+				{
+					"_id" : 5,
+					"count" : 7
+				},
+				{
+					"_id" : 4,
+					"count" : 20
+				},
+				{
+					"_id" : 3,
+					"count" : 16
+				},
+				{
+					"_id" : 2,
+					"count" : 46
+				},
+				{
+					"_id" : 1,
+					"count" : 182
+				}
+			]
+		},
+		"relevantCloneSets" : {
+			"hist" : [
+				{
+					"_id" : true,
+					"count" : 41
+				},
+				{
+					"_id" : false,
+					"count" : 17
+				}
+			]
+		}
+	}
+}

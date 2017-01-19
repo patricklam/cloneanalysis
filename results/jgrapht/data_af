@@ -1,0 +1,82 @@
+{
+	"project" : "jgrapht",
+	"data" : [
+		{
+			"_id" : "54448a05e4b0042ea82b2369",
+			"asserts" : 13,
+			"methods" : 2,
+			"packages" : 1,
+			"classes" : 1
+		},
+		{
+			"_id" : "54448a05e4b0042ea82b236a",
+			"asserts" : 6,
+			"methods" : 3,
+			"packages" : 1,
+			"classes" : 1
+		},
+		{
+			"_id" : "54448a05e4b0042ea82b236b",
+			"asserts" : 4,
+			"methods" : 2,
+			"packages" : 1,
+			"classes" : 1
+		},
+		{
+			"_id" : "54448a05e4b0042ea82b236d",
+			"asserts" : 3,
+			"methods" : 3,
+			"packages" : 1,
+			"classes" : 1
+		},
+		{
+			"_id" : "54448a05e4b0042ea82b236c",
+			"asserts" : 3,
+			"methods" : 5,
+			"packages" : 1,
+			"classes" : 1
+		},
+		{
+			"_id" : "54448a05e4b0042ea82b236f",
+			"asserts" : 2,
+			"methods" : 2,
+			"packages" : 1,
+			"classes" : 1
+		},
+		{
+			"_id" : "54448a05e4b0042ea82b236e",
+			"asserts" : 2,
+			"methods" : 2,
+			"packages" : 1,
+			"classes" : 1
+		},
+		{
+			"_id" : "54448a05e4b0042ea82b2373",
+			"asserts" : 1,
+			"methods" : 2,
+			"packages" : 1,
+			"classes" : 1
+		},
+		{
+			"_id" : "54448a05e4b0042ea82b2370",
+			"asserts" : 1,
+			"methods" : 2,
+			"packages" : 1,
+			"classes" : 1
+		},
+		{
+			"_id" : "54448a05e4b0042ea82b2372",
+			"asserts" : 1,
+			"methods" : 2,
+			"packages" : 1,
+			"classes" : 1
+		},
+		{
+			"_id" : "54448a05e4b0042ea82b2371",
+			"asserts" : 1,
+			"methods" : 2,
+			"packages" : 1,
+			"classes" : 1
+		}
+	]
+}

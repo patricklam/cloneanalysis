@@ -1,0 +1,109 @@
+Version 1 (/home/d2jain/bhprojects/jgrapht)
+This is for clone class 1
+  CloneClass 1 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/graph/SubgraphTest.java:100)8
+(jgrapht-core/src/test/java/org/jgrapht/graph/SubgraphTest.java:135)8
+  CloneClass 2 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/alg/KruskalMinimumSpanningTreeTest.java:98)20
+(jgrapht-core/src/test/java/org/jgrapht/alg/ShortestPathTestCase.java:139)20
+  CloneClass 3 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/alg/HopcroftKarpBipartiteMatchingTest.java:67)6
+(jgrapht-core/src/test/java/org/jgrapht/alg/HopcroftKarpBipartiteMatchingTest.java:95)6
+  CloneClass 5 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/graph/EqualsAndHashCodeTest.java:122)8
+(jgrapht-core/src/test/java/org/jgrapht/graph/EqualsAndHashCodeTest.java:282)7
+  CloneClass 6 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/alg/KruskalMinimumSpanningTreeTest.java:49)17
+(jgrapht-core/src/test/java/org/jgrapht/alg/ShortestPathTestCase.java:56)17
+  CloneClass 7 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/generate/GraphGeneratorTest.java:101)6
+(jgrapht-core/src/test/java/org/jgrapht/generate/GraphGeneratorTest.java:141)6
+  CloneClass 8 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/alg/BronKerboschCliqueFinderTest.java:56)10
+(jgrapht-core/src/test/java/org/jgrapht/alg/CycleDetectorTest.java:56)10
+  CloneClass 9 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/alg/StoerWagnerMinimumCutTest.java:72)15
+(jgrapht-core/src/test/java/org/jgrapht/alg/StoerWagnerMinimumCutTest.java:103)15
+  CloneClass 10 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/alg/KShortestPathCostTest.java:192)17
+(jgrapht-core/src/test/java/org/jgrapht/alg/KShortestPathCostTest.java:233)17
+  CloneClass 11 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/alg/MinSourceSinkCutTest.java:66)6
+(jgrapht-core/src/test/java/org/jgrapht/alg/MinSourceSinkCutTest.java:114)6
+  CloneClass 12 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/alg/BronKerboschCliqueFinderTest.java:108)9
+(jgrapht-core/src/test/java/org/jgrapht/alg/BronKerboschCliqueFinderTest.java:132)9
+  CloneClass 13 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/experimental/permutation/CompoundPermutationIterTest.java:85)11
+(jgrapht-core/src/test/java/org/jgrapht/experimental/permutation/CompoundPermutationIterTest.java:116)11
+  CloneClass 14 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/alg/BronKerboschCliqueFinderTest.java:76)9
+(jgrapht-core/src/test/java/org/jgrapht/alg/CycleDetectorTest.java:75)10
+  CloneClass 17 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/graph/SubgraphTest.java:82)5
+(jgrapht-core/src/test/java/org/jgrapht/graph/SubgraphTest.java:100)5
+(jgrapht-core/src/test/java/org/jgrapht/graph/SubgraphTest.java:135)5
+  CloneClass 19 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/alg/FloydWarshallShortestPathsTest.java:141)9
+(jgrapht-core/src/test/java/org/jgrapht/graph/SubgraphTest.java:161)7
+  CloneClass 21 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/alg/MinSourceSinkCutTest.java:96)7
+(jgrapht-core/src/test/java/org/jgrapht/alg/MinSourceSinkCutTest.java:144)7
+(jgrapht-core/src/test/java/org/jgrapht/alg/MinSourceSinkCutTest.java:177)7
+(jgrapht-core/src/test/java/org/jgrapht/alg/MinSourceSinkCutTest.java:213)7
+  CloneClass 23 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/experimental/isomorphism/IsomorphismInspectorTest.java:96)16
+(jgrapht-core/src/test/java/org/jgrapht/experimental/isomorphism/IsomorphismInspectorTest.java:146)12
+  CloneClass 24 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/experimental/alg/ColoringTest.java:63)11
+(jgrapht-core/src/test/java/org/jgrapht/experimental/alg/ColoringTest.java:83)11
+  CloneClass 25 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/alg/ConnectivityInspectorTest.java:188)14
+(jgrapht-core/src/test/java/org/jgrapht/alg/ConnectivityInspectorTest.java:245)14
+(jgrapht-core/src/test/java/org/jgrapht/alg/ConnectivityInspectorTest.java:304)14
+  CloneClass 26 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/graph/SubgraphTest.java:80)7
+(jgrapht-core/src/test/java/org/jgrapht/graph/SubgraphTest.java:133)7
+  CloneClass 27 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/generate/GraphGeneratorTest.java:85)6
+(jgrapht-core/src/test/java/org/jgrapht/generate/GraphGeneratorTest.java:101)6
+(jgrapht-core/src/test/java/org/jgrapht/generate/GraphGeneratorTest.java:141)6
+  CloneClass 28 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/alg/ConnectivityInspectorTest.java:175)11
+(jgrapht-core/src/test/java/org/jgrapht/alg/ConnectivityInspectorTest.java:231)11
+(jgrapht-core/src/test/java/org/jgrapht/alg/ConnectivityInspectorTest.java:288)11
+  CloneClass 29 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/alg/TransitiveClosureTest.java:61)14
+(jgrapht-core/src/test/java/org/jgrapht/alg/TransitiveClosureTest.java:93)14
+  CloneClass 30 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/alg/ConnectivityInspectorTest.java:204)22
+(jgrapht-core/src/test/java/org/jgrapht/alg/ConnectivityInspectorTest.java:261)22
+(jgrapht-core/src/test/java/org/jgrapht/alg/ConnectivityInspectorTest.java:318)23
+  CloneClass 31 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/alg/KShortestPathCompleteGraph6.java:102)6
+(jgrapht-core/src/test/java/org/jgrapht/alg/Picture1Graph.java:103)6
+  CloneClass 32 (Type 1)
+(jgrapht-core/src/test/java/org/jgrapht/graph/GenericGraphsTest.java:83)12
+(jgrapht-core/src/test/java/org/jgrapht/graph/GenericGraphsTest.java:110)12
+This is for clone class 2
+  CloneClass 16 (Type 2)
+(jgrapht-core/src/test/java/org/jgrapht/alg/MinSourceSinkCutTest.java:83)20
+(jgrapht-core/src/test/java/org/jgrapht/alg/MinSourceSinkCutTest.java:131)20
+  CloneClass 22 (Type 2)
+(jgrapht-core/src/test/java/org/jgrapht/graph/EqualsAndHashCodeTest.java:74)35
+(jgrapht-core/src/test/java/org/jgrapht/graph/EqualsAndHashCodeTest.java:117)35
+This is for clone class 3
+  CloneClass 4 (Type 3)
+(jgrapht-core/src/test/java/org/jgrapht/alg/ConnectivityInspectorTest.java:175)27
+(jgrapht-core/src/test/java/org/jgrapht/alg/ConnectivityInspectorTest.java:288)30
+  CloneClass 15 (Type 3)
+(jgrapht-core/src/test/java/org/jgrapht/graph/ListenableGraphTest.java:88)47
+(jgrapht-core/src/test/java/org/jgrapht/graph/ListenableGraphTest.java:148)47
+  CloneClass 18 (Type 3)
+(jgrapht-core/src/test/java/org/jgrapht/alg/ConnectivityInspectorTest.java:175)51
+(jgrapht-core/src/test/java/org/jgrapht/alg/ConnectivityInspectorTest.java:231)52
+  CloneClass 20 (Type 3)
+(jgrapht-core/src/test/java/org/jgrapht/alg/ConnectivityInspectorTest.java:231)28
+(jgrapht-core/src/test/java/org/jgrapht/alg/ConnectivityInspectorTest.java:288)30
+Found 71 clones in 32 cases.
+Net cloned lines = 837

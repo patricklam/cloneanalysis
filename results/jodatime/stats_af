@@ -1,0 +1,791 @@
+{
+	"project" : "jodatime",
+	"others" : {
+		"totalStaticCalls" : 17299,
+		"totalMethods" : 3838,
+		"totalClasses" : 121,
+		"totalPackages" : 6,
+		"totalClassesNotDirectlyInheritingTestCase" : 0,
+		"totalClassesContainingNonEmptySetupOrTeardown" : 115,
+		"totalMethodsWithAtLeast5Asserts" : 1229,
+		"totalMethodsWithBranches" : 295,
+		"totalMethodsWithLoops" : 17,
+		"totalMethodsWithNoStaticCalls" : 203,
+		"totalMethodsWithNetworkAccess" : 0,
+		"totalMethodsWithFilesystemAccess" : 0
+	},
+	"detail" : {
+		"sets" : {
+			"hist" : [
+				{
+					"_id" : true,
+					"count" : 230
+				},
+				{
+					"_id" : false,
+					"count" : 27
+				}
+			]
+		},
+		"packages" : {
+			"hist" : [
+				{
+					"_id" : 1,
+					"count" : 202
+				},
+				{
+					"_id" : 2,
+					"count" : 23
+				},
+				{
+					"_id" : 3,
+					"count" : 3
+				},
+				{
+					"_id" : 4,
+					"count" : 1
+				},
+				{
+					"_id" : 5,
+					"count" : 1
+				}
+			]
+		},
+		"classes" : {
+			"hist" : [
+				{
+					"_id" : 1,
+					"count" : 92
+				},
+				{
+					"_id" : 2,
+					"count" : 53
+				},
+				{
+					"_id" : 3,
+					"count" : 28
+				},
+				{
+					"_id" : 4,
+					"count" : 18
+				},
+				{
+					"_id" : 5,
+					"count" : 8
+				},
+				{
+					"_id" : 6,
+					"count" : 1
+				},
+				{
+					"_id" : 7,
+					"count" : 7
+				},
+				{
+					"_id" : 8,
+					"count" : 11
+				},
+				{
+					"_id" : 9,
+					"count" : 3
+				},
+				{
+					"_id" : 10,
+					"count" : 3
+				},
+				{
+					"_id" : 11,
+					"count" : 2
+				},
+				{
+					"_id" : 13,
+					"count" : 1
+				},
+				{
+					"_id" : 16,
+					"count" : 1
+				},
+				{
+					"_id" : 22,
+					"count" : 1
+				},
+				{
+					"_id" : 37,
+					"count" : 1
+				}
+			]
+		},
+		"methods" : {
+			"hist" : [
+				{
+					"_id" : 201,
+					"count" : 1
+				},
+				{
+					"_id" : 124,
+					"count" : 1
+				},
+				{
+					"_id" : 106,
+					"count" : 1
+				},
+				{
+					"_id" : 86,
+					"count" : 1
+				},
+				{
+					"_id" : 66,
+					"count" : 1
+				},
+				{
+					"_id" : 62,
+					"count" : 1
+				},
+				{
+					"_id" : 51,
+					"count" : 1
+				},
+				{
+					"_id" : 50,
+					"count" : 1
+				},
+				{
+					"_id" : 40,
+					"count" : 1
+				},
+				{
+					"_id" : 38,
+					"count" : 1
+				},
+				{
+					"_id" : 32,
+					"count" : 1
+				},
+				{
+					"_id" : 30,
+					"count" : 1
+				},
+				{
+					"_id" : 27,
+					"count" : 1
+				},
+				{
+					"_id" : 26,
+					"count" : 1
+				},
+				{
+					"_id" : 25,
+					"count" : 2
+				},
+				{
+					"_id" : 23,
+					"count" : 2
+				},
+				{
+					"_id" : 22,
+					"count" : 1
+				},
+				{
+					"_id" : 20,
+					"count" : 2
+				},
+				{
+					"_id" : 19,
+					"count" : 2
+				},
+				{
+					"_id" : 18,
+					"count" : 2
+				},
+				{
+					"_id" : 16,
+					"count" : 3
+				},
+				{
+					"_id" : 15,
+					"count" : 1
+				},
+				{
+					"_id" : 14,
+					"count" : 4
+				},
+				{
+					"_id" : 12,
+					"count" : 2
+				},
+				{
+					"_id" : 11,
+					"count" : 1
+				},
+				{
+					"_id" : 10,
+					"count" : 8
+				},
+				{
+					"_id" : 9,
+					"count" : 6
+				},
+				{
+					"_id" : 8,
+					"count" : 13
+				},
+				{
+					"_id" : 7,
+					"count" : 8
+				},
+				{
+					"_id" : 6,
+					"count" : 9
+				},
+				{
+					"_id" : 5,
+					"count" : 15
+				},
+				{
+					"_id" : 4,
+					"count" : 27
+				},
+				{
+					"_id" : 3,
+					"count" : 35
+				},
+				{
+					"_id" : 2,
+					"count" : 73
+				}
+			]
+		},
+		"asserts" : {
+			"hist" : [
+				{
+					"_id" : 57,
+					"count" : 1
+				},
+				{
+					"_id" : 50,
+					"count" : 1
+				},
+				{
+					"_id" : 44,
+					"count" : 1
+				},
+				{
+					"_id" : 34,
+					"count" : 1
+				},
+				{
+					"_id" : 33,
+					"count" : 1
+				},
+				{
+					"_id" : 32,
+					"count" : 1
+				},
+				{
+					"_id" : 30,
+					"count" : 1
+				},
+				{
+					"_id" : 27,
+					"count" : 3
+				},
+				{
+					"_id" : 26,
+					"count" : 1
+				},
+				{
+					"_id" : 24,
+					"count" : 1
+				},
+				{
+					"_id" : 23,
+					"count" : 1
+				},
+				{
+					"_id" : 22,
+					"count" : 2
+				},
+				{
+					"_id" : 21,
+					"count" : 1
+				},
+				{
+					"_id" : 18,
+					"count" : 1
+				},
+				{
+					"_id" : 17,
+					"count" : 3
+				},
+				{
+					"_id" : 16,
+					"count" : 5
+				},
+				{
+					"_id" : 15,
+					"count" : 8
+				},
+				{
+					"_id" : 14,
+					"count" : 3
+				},
+				{
+					"_id" : 13,
+					"count" : 4
+				},
+				{
+					"_id" : 12,
+					"count" : 8
+				},
+				{
+					"_id" : 11,
+					"count" : 5
+				},
+				{
+					"_id" : 10,
+					"count" : 12
+				},
+				{
+					"_id" : 9,
+					"count" : 12
+				},
+				{
+					"_id" : 8,
+					"count" : 20
+				},
+				{
+					"_id" : 7,
+					"count" : 8
+				},
+				{
+					"_id" : 6,
+					"count" : 19
+				},
+				{
+					"_id" : 5,
+					"count" : 23
+				},
+				{
+					"_id" : 4,
+					"count" : 30
+				},
+				{
+					"_id" : 3,
+					"count" : 16
+				},
+				{
+					"_id" : 2,
+					"count" : 30
+				},
+				{
+					"_id" : 1,
+					"count" : 7
+				}
+			]
+		},
+		"assertsPerMethod" : {
+			"hist" : [
+				{
+					"_id" : 57,
+					"count" : 7
+				},
+				{
+					"_id" : 50,
+					"count" : 3
+				},
+				{
+					"_id" : 44,
+					"count" : 2
+				},
+				{
+					"_id" : 34,
+					"count" : 2
+				},
+				{
+					"_id" : 33,
+					"count" : 2
+				},
+				{
+					"_id" : 32,
+					"count" : 2
+				},
+				{
+					"_id" : 30,
+					"count" : 4
+				},
+				{
+					"_id" : 27,
+					"count" : 7
+				},
+				{
+					"_id" : 26,
+					"count" : 2
+				},
+				{
+					"_id" : 24,
+					"count" : 8
+				},
+				{
+					"_id" : 23,
+					"count" : 8
+				},
+				{
+					"_id" : 22,
+					"count" : 10
+				},
+				{
+					"_id" : 21,
+					"count" : 3
+				},
+				{
+					"_id" : 18,
+					"count" : 2
+				},
+				{
+					"_id" : 17,
+					"count" : 8
+				},
+				{
+					"_id" : 16,
+					"count" : 22
+				},
+				{
+					"_id" : 15,
+					"count" : 25
+				},
+				{
+					"_id" : 14,
+					"count" : 35
+				},
+				{
+					"_id" : 13,
+					"count" : 15
+				},
+				{
+					"_id" : 12,
+					"count" : 31
+				},
+				{
+					"_id" : 11,
+					"count" : 16
+				},
+				{
+					"_id" : 10,
+					"count" : 67
+				},
+				{
+					"_id" : 9,
+					"count" : 159
+				},
+				{
+					"_id" : 8,
+					"count" : 230
+				},
+				{
+					"_id" : 7,
+					"count" : 67
+				},
+				{
+					"_id" : 6,
+					"count" : 136
+				},
+				{
+					"_id" : 5,
+					"count" : 207
+				},
+				{
+					"_id" : 4,
+					"count" : 210
+				},
+				{
+					"_id" : 3,
+					"count" : 122
+				},
+				{
+					"_id" : 2,
+					"count" : 453
+				},
+				{
+					"_id" : 1,
+					"count" : 242
+				}
+			]
+		},
+		"controlFlowSizes" : {
+			"hist" : [
+				{
+					"_id" : 240,
+					"count" : 1
+				},
+				{
+					"_id" : 164,
+					"count" : 1
+				},
+				{
+					"_id" : 54,
+					"count" : 1
+				},
+				{
+					"_id" : 42,
+					"count" : 1
+				},
+				{
+					"_id" : 34,
+					"count" : 1
+				},
+				{
+					"_id" : 28,
+					"count" : 1
+				},
+				{
+					"_id" : 27,
+					"count" : 1
+				},
+				{
+					"_id" : 20,
+					"count" : 1
+				},
+				{
+					"_id" : 15,
+					"count" : 1
+				},
+				{
+					"_id" : 12,
+					"count" : 2
+				},
+				{
+					"_id" : 11,
+					"count" : 5
+				},
+				{
+					"_id" : 10,
+					"count" : 2
+				},
+				{
+					"_id" : 9,
+					"count" : 2
+				},
+				{
+					"_id" : 8,
+					"count" : 7
+				},
+				{
+					"_id" : 7,
+					"count" : 3
+				},
+				{
+					"_id" : 6,
+					"count" : 4
+				},
+				{
+					"_id" : 5,
+					"count" : 3
+				},
+				{
+					"_id" : 4,
+					"count" : 7
+				},
+				{
+					"_id" : 3,
+					"count" : 13
+				},
+				{
+					"_id" : 2,
+					"count" : 30
+				},
+				{
+					"_id" : 1,
+					"count" : 23
+				},
+				{
+					"_id" : 0,
+					"count" : 120
+				}
+			]
+		},
+		"controlFlowSizesPerMethod" : {
+			"hist" : [
+				{
+					"_id" : 240,
+					"count" : 2
+				},
+				{
+					"_id" : 164,
+					"count" : 2
+				},
+				{
+					"_id" : 54,
+					"count" : 2
+				},
+				{
+					"_id" : 42,
+					"count" : 8
+				},
+				{
+					"_id" : 34,
+					"count" : 32
+				},
+				{
+					"_id" : 28,
+					"count" : 2
+				},
+				{
+					"_id" : 27,
+					"count" : 2
+				},
+				{
+					"_id" : 20,
+					"count" : 2
+				},
+				{
+					"_id" : 15,
+					"count" : 2
+				},
+				{
+					"_id" : 12,
+					"count" : 10
+				},
+				{
+					"_id" : 11,
+					"count" : 17
+				},
+				{
+					"_id" : 10,
+					"count" : 7
+				},
+				{
+					"_id" : 9,
+					"count" : 7
+				},
+				{
+					"_id" : 8,
+					"count" : 26
+				},
+				{
+					"_id" : 7,
+					"count" : 11
+				},
+				{
+					"_id" : 6,
+					"count" : 30
+				},
+				{
+					"_id" : 5,
+					"count" : 9
+				},
+				{
+					"_id" : 4,
+					"count" : 31
+				},
+				{
+					"_id" : 3,
+					"count" : 51
+				},
+				{
+					"_id" : 2,
+					"count" : 278
+				},
+				{
+					"_id" : 1,
+					"count" : 344
+				},
+				{
+					"_id" : 0,
+					"count" : 1232
+				}
+			]
+		},
+		"uniquenesses" : {
+			"hist" : [
+				{
+					"_id" : 11,
+					"count" : 1
+				},
+				{
+					"_id" : 8,
+					"count" : 6
+				},
+				{
+					"_id" : 7,
+					"count" : 3
+				},
+				{
+					"_id" : 6,
+					"count" : 3
+				},
+				{
+					"_id" : 5,
+					"count" : 5
+				},
+				{
+					"_id" : 4,
+					"count" : 21
+				},
+				{
+					"_id" : 3,
+					"count" : 53
+				},
+				{
+					"_id" : 2,
+					"count" : 87
+				},
+				{
+					"_id" : 1,
+					"count" : 51
+				}
+			]
+		},
+		"uniquenessesPerMethod" : {
+			"hist" : [
+				{
+					"_id" : 11,
+					"count" : 2
+				},
+				{
+					"_id" : 8,
+					"count" : 49
+				},
+				{
+					"_id" : 7,
+					"count" : 12
+				},
+				{
+					"_id" : 6,
+					"count" : 12
+				},
+				{
+					"_id" : 5,
+					"count" : 10
+				},
+				{
+					"_id" : 4,
+					"count" : 121
+				},
+				{
+					"_id" : 3,
+					"count" : 276
+				},
+				{
+					"_id" : 2,
+					"count" : 1002
+				},
+				{
+					"_id" : 1,
+					"count" : 623
+				}
+			]
+		},
+		"relevantCloneSets" : {
+			"hist" : [
+				{
+					"_id" : true,
+					"count" : 110
+				},
+				{
+					"_id" : false,
+					"count" : 120
+				}
+			]
+		}
+	}
+}

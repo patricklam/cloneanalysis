@@ -1,0 +1,1274 @@
+[1] Set (score: 1.00, ccsize: 5, packages: 1, classes: 2): 
+	<org.hsqldb.test.TestCollation: void testVerifyAvailability()>
+		<org.hsqldb.test.TestCollation.java:101, 8.96%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.test.TestCollation: void testVerifyCollation()>
+		<org.hsqldb.test.TestCollation.java:183, 23.08%> (predicates:{($z0 != 0)=false, ($i0 <= 0)=null, ($i1 <= 0)=null, ($i2 <= 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestDbBackup: void testAutoNaming()>
+		<org.hsqldb.test.TestDbBackup.java:545, 5.88%> (predicates:{(i0 == 0)=true, (i2 == 0)=true, (i4 == 1)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r95 := @caughtexception])
+		<org.hsqldb.test.TestDbBackup.java:551, 5.88%> (predicates:{(i0 == 0)=true, (i2 == 0)=true, (i4 == 1)=null, (i5 == 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r95 := @caughtexception])
+		<org.hsqldb.test.TestDbBackup.java:560, 5.88%> (predicates:{(i0 == 0)=true, (i2 == 0)=true, (i4 == 1)=null, (i5 == 0)=null, (i7 == 1)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r95 := @caughtexception])
+		<org.hsqldb.test.TestDbBackup.java:566, 5.88%> (predicates:{(i0 == 0)=true, (i2 == 0)=true, (i4 == 1)=null, (i5 == 0)=null, (i7 == 1)=null, (i8 == 1)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r95 := @caughtexception])
+[2] Set (score: 1.00, ccsize: 5, packages: 1, classes: 2): 
+	<org.hsqldb.test.TestINPredicateParameterizationAndCorrelation: void test()>
+		<org.hsqldb.test.TestINPredicateParameterizationAndCorrelation.java:116, 24.59%> (predicates:{(i0 < 10)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestLikePredicateOptimizations: void test()>
+		<org.hsqldb.test.TestLikePredicateOptimizations.java:137, 12.10%> (predicates:{(i0 < 10000)=false, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestLikePredicateOptimizations.java:150, 12.10%> (predicates:{(i0 < 10000)=false, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestLikePredicateOptimizations.java:167, 12.10%> (predicates:{(i0 < 10000)=false, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestLikePredicateOptimizations.java:199, 12.10%> (predicates:{(i0 < 10000)=false, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestLikePredicateOptimizations.java:216, 12.10%> (predicates:{(i0 < 10000)=false, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestLikePredicateOptimizations.java:233, 12.10%> (predicates:{(i0 < 10000)=false, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestLikePredicateOptimizations.java:249, 12.10%> (predicates:{(i0 < 10000)=false, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[3] Set (score: 1.00, ccsize: 5, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestTextTables: void testSectionSix()>
+		<org.hsqldb.test.TestTextTables.java:166, 16.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestTextTables.java:167, 19.44%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestTextTables.java:181, 16.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestTextTables.java:182, 19.44%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestTextTables.java:186, 16.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestTextTables.java:187, 19.44%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestTextTables.java:214, 16.67%> (predicates:{(i0 < 20)=false, (i5 < 20)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestTextTables.java:215, 19.44%> (predicates:{(i0 < 20)=false, (i5 < 20)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestTextTables.java:219, 16.67%> (predicates:{(i0 < 20)=false, (i5 < 20)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestTextTables.java:220, 19.44%> (predicates:{(i0 < 20)=false, (i5 < 20)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestTextTables.java:230, 16.67%> (predicates:{(i0 < 20)=false, (i5 < 20)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestTextTables.java:231, 19.44%> (predicates:{(i0 < 20)=false, (i5 < 20)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestTextTables.java:235, 16.67%> (predicates:{(i0 < 20)=false, (i5 < 20)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestTextTables.java:236, 19.44%> (predicates:{(i0 < 20)=false, (i5 < 20)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestTextTables: void testSectionFive()>
+		<org.hsqldb.test.TestTextTables.java:133, 35.29%> (predicates:{(i0 < 20)=false, (i3 < 20)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestTextTables.java:134, 41.18%> (predicates:{(i0 < 20)=false, (i3 < 20)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[4] Set (score: 1.00, ccsize: 4, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestStoredProcedure: void testSix()>
+		<org.hsqldb.test.TestStoredProcedure.java:351, 16.13%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestStoredProcedure.java:376, 16.13%> (predicates:{(z1 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestStoredProcedure: void testOne()>
+		<org.hsqldb.test.TestStoredProcedure.java:101, 29.41%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r14 := @caughtexception])
+	<org.hsqldb.test.TestStoredProcedure: void testThree()>
+		<org.hsqldb.test.TestStoredProcedure.java:201, 62.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestStoredProcedure: void testFour()>
+		<org.hsqldb.test.TestStoredProcedure.java:228, 41.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestStoredProcedure: void testFourParams()>
+		<org.hsqldb.test.TestStoredProcedure.java:265, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestStoredProcedure: void testFive()>
+		<org.hsqldb.test.TestStoredProcedure.java:308, 41.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[5] Set (score: 1.00, ccsize: 4, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestStoredProcedure: void testTwo()>
+		<org.hsqldb.test.TestStoredProcedure.java:169, 27.78%> (predicates:{(i0 != 3)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[$r9 := @caughtexception, $r11 := @caughtexception])
+	<org.hsqldb.test.TestStoredProcedure: void testFive()>
+		<org.hsqldb.test.TestStoredProcedure.java:321, 41.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestStoredProcedure: void testSix()>
+		<org.hsqldb.test.TestStoredProcedure.java:400, 16.13%> (predicates:{(z1 == 0)=null, (z9 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[6] Set (score: 1.00, ccsize: 3, packages: 6, classes: 9): 
+	<org.hsqldb.auth.AuthBeanMultiplexerTest: void testPrecedences()>
+		<org.hsqldb.auth.AuthBeanMultiplexerTest.java:116, 3.77%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<org.hsqldb.auth.AuthBeanMultiplexerTest.java:119, 3.77%> (predicates:{($z0 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.auth.AuthBeanMultiplexerTest.java:123, 3.77%> (predicates:{($z0 != 0)=null, ($z1 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r35 := @caughtexception, $r37 := @caughtexception])
+		<org.hsqldb.auth.AuthBeanMultiplexerTest.java:163, 3.77%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<org.hsqldb.auth.AuthBeanMultiplexerTest.java:166, 3.77%> (predicates:{($z0 != 0)=null, ($z1 != 0)=null, ($z2 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.auth.AuthBeanMultiplexerTest.java:182, 3.77%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.auth.AuthBeanMultiplexerTest: void testFunctions()>
+		<org.hsqldb.auth.AuthBeanMultiplexerTest.java:249, 5.06%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r34 := @caughtexception])
+	<org.hsqldb.auth.JaasAuthBeanTest: void testViaPrincipals()>
+		<org.hsqldb.auth.JaasAuthBeanTest.java:182, 5.63%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r27 := @caughtexception])
+	<org.hsqldb.auth.JaasAuthBeanTest: void testViaCredentials()>
+		<org.hsqldb.auth.JaasAuthBeanTest.java:232, 5.63%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r27 := @caughtexception])
+	<org.hsqldb.auth.SlaveAuthBeanTest: void testBasic()>
+		<org.hsqldb.auth.SlaveAuthBeanTest.java:154, 6.56%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r14 := @caughtexception])
+	<org.hsqldb.cmdline.SqltoolRBTest: void testNoPosParams()>
+		<org.hsqldb.cmdline.SqltoolRBTest.java:61, 44.44%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.cmdline.SqltoolRBTest: void testWithParams()>
+		<org.hsqldb.cmdline.SqltoolRBTest.java:75, 40.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testSetCatalog()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:436, 23.53%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testClose()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:530, 25.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:538, 25.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.lib.FileAccessResTest: void testOpenInputStreamElement()>
+		<org.hsqldb.lib.FileAccessResTest.java:81, 23.53%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r12 := @caughtexception])
+	<org.hsqldb.lib.tar.PIFGeneratorTest: void testXrecord()>
+		<org.hsqldb.lib.tar.PIFGeneratorTest.java:98, 19.05%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<org.hsqldb.lib.tar.PIFGeneratorTest.java:100, 19.05%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.lib.tar.PIFGeneratorTest: void testGrecord()>
+		<org.hsqldb.lib.tar.PIFGeneratorTest.java:125, 21.05%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<org.hsqldb.lib.tar.PIFGeneratorTest.java:127, 21.05%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.server.OdbcPacketInputStreamTest: void testTypeMix()>
+		<org.hsqldb.server.OdbcPacketInputStreamTest.java:73, 10.53%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+[7] Set (score: 1.00, ccsize: 3, packages: 2, classes: 3): 
+	<org.hsqldb.auth.AuthBeanMultiplexerTest: void testPrecedences()>
+		<org.hsqldb.auth.AuthBeanMultiplexerTest.java:132, 3.77%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r50 := @caughtexception, $r52 := @caughtexception])
+		<org.hsqldb.auth.AuthBeanMultiplexerTest.java:148, 3.77%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<org.hsqldb.auth.AuthBeanMultiplexerTest.java:199, 3.77%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testSetSavepoint()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:721, 22.22%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:737, 22.22%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testGetMetaData()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:848, 28.57%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+[8] Set (score: 1.00, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testSupportsResultSetConcurrency_TYPE_FORWARD_ONLY_CONCUR_READ_ONLY()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:1943, 75.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testSupportsResultSetConcurrency_TYPE_FORWARD_ONLY_CONCUR_UPDATABLE()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:1956, 75.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testSupportsResultSetConcurrency_TYPE_SCROLL_INSENSITIVE_CONCUR_READ_ONLY()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:1969, 75.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testSupportsResultSetConcurrency_TYPE_SCROLL_INSENSITIVE_CONCUR_UPDATABLE()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:1982, 75.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testSupportsResultSetConcurrency_TYPE_SCROLL_SENSITIVE_CONCUR_READ_ONLY()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:1995, 75.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testSupportsResultSetConcurrency_TYPE_SCROLL_SENSITIVE_CONCUR_UPDATABLE()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:2008, 75.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[9] Set (score: 1.00, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testSupportsResultSetHoldability_CLOSE_CURSORS_AT_COMMIT()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:2020, 85.71%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testSupportsResultSetHoldability_HOLD_CURSORS_OVER_COMMIT()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:2032, 85.71%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[10] Set (score: 1.00, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testSupportsResultSetType_TYPE_FORWARD_ONLY()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:2044, 85.71%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testSupportsResultSetType_TYPE_SCROLL_INSENSITIVE()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:2056, 85.71%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testSupportsResultSetType_TYPE_SCROLL_SENSITIVE()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:2068, 85.71%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[11] Set (score: 1.00, ccsize: 2, packages: 3, classes: 13): 
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetDouble()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:396, 16.67%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:407, 16.67%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testRegisterOutParameter()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:179, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testWasNull()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:205, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetString()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:227, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetBoolean()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:251, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetByte()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:275, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetShort()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:299, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetInt()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:323, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetLong()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:347, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetFloat()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:371, 27.27%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetBigDecimal()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:431, 30.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetBytes()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:458, 30.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetDate()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:484, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetTime()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:508, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetTimestamp()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:532, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetObject()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:558, 25.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetRef()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:611, 21.43%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetBlob()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:638, 23.08%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetClob()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:662, 25.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetArray()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:691, 23.08%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetURL()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:745, 21.43%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetNClob()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:1321, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetNString()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:1375, 37.50%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetNCharacterStream()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:1402, 37.50%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetCharacterStream()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:1427, 37.50%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementWhileClosedTest: void testClose()>
+		<org.hsqldb.jdbc.JDBCCallableStatementWhileClosedTest.java:1868, 60.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testPrepareStatement()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:166, 10.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:223, 10.00%> (predicates:{($i0 <= 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testSetAutoCommit()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:266, 30.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:274, 30.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testSetReadOnly()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:366, 16.67%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:378, 16.67%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testGetMetaData()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:352, 60.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testSetTransactionIsolation()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:527, 18.75%> (predicates:{(i0 < $i3)=false, ($i2 <= 0)=null, ($r14 != null)=null, ($i4 <= 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testCreateClob()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:808, 60.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testCreateBlob()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:821, 60.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testCreateNClob()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:834, 60.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testCreateSQLXML()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:847, 60.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testGetClientInfo()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:900, 37.50%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCDataSourceFactoryTest: void testGetObjectInstance()>
+		<org.hsqldb.jdbc.JDBCDataSourceFactoryTest.java:103, 25.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCNClobTest: void testSetString()>
+		<org.hsqldb.jdbc.JDBCNClobTest.java:145, 27.27%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCNClobTest: void testSetAsciiStream()>
+		<org.hsqldb.jdbc.JDBCNClobTest.java:173, 21.43%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCNClobTest: void testSetCharacterStream()>
+		<org.hsqldb.jdbc.JDBCNClobTest.java:202, 25.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCNClobTest: void testTruncate()>
+		<org.hsqldb.jdbc.JDBCNClobTest.java:216, 42.86%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCNClobTest: void testFree()>
+		<org.hsqldb.jdbc.JDBCNClobTest.java:229, 10.34%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r7 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testSetEscapeProcessing()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:140, 20.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:152, 20.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testGetMetaData()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:807, 21.43%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:839, 21.43%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testSetString()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:397, 42.86%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testSetRef()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:689, 42.86%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testSetArray()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:742, 23.08%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testSetArrayToNull()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:766, 50.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testSetRowId()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:908, 42.86%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testSetSQLXML()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:962, 42.86%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testGetCursorName()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:788, 30.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testRowUpdated()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1863, 17.65%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testRowInserted()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1904, 23.08%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateNull()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1986, 37.50%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateBoolean()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2006, 42.86%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateByte()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2026, 42.86%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateShort()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2046, 42.86%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateInt()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2066, 42.86%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateLong()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2086, 42.86%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateFloat()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2106, 42.86%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateDouble()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2127, 42.86%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateBigDecimal()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2147, 37.50%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateString()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2190, 42.86%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateBytes()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2212, 23.08%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateDate()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2234, 37.50%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateTime()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2254, 37.50%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateTimestamp()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2276, 37.50%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateAsciiStream()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2299, 30.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateBinaryStream()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2322, 30.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateCharacterStream()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2344, 37.50%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateObject()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2376, 27.27%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testInsertRow()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2441, 11.11%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r20 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateRow()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2471, 20.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r9 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testDeleteRow()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2511, 14.29%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r16 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testRefreshRow()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2534, 14.29%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r9 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testCancelRowUpdates()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2579, 12.50%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r9 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testMoveToInsertRow()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2614, 14.29%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r9 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testMoveToCurrentRow()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2650, 14.29%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r9 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateBlob()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2868, 17.65%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r13 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateClob()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2904, 14.29%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r15 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateArray()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2939, 14.29%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r16 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateNString()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:3060, 25.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r8 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateNClob()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:3097, 18.75%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUpdateNCharacterStream()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:3215, 17.65%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r11 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCSavepointTest: void testGetSavepointId()>
+		<org.hsqldb.jdbc.JDBCSavepointTest.java:98, 20.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testExecuteQuery()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:121, 25.00%> (predicates:{($i0 <= 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseBlobTestCase: void testFree()>
+		<org.hsqldb.jdbc.testbase.BaseBlobTestCase.java:105, 50.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseBlobTestCase: void testSetBinaryStream()>
+		<org.hsqldb.jdbc.testbase.BaseBlobTestCase.java:237, 27.27%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseBlobTestCase: void testSetBytes()>
+		<org.hsqldb.jdbc.testbase.BaseBlobTestCase.java:260, 42.86%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseBlobTestCase: void testTruncate()>
+		<org.hsqldb.jdbc.testbase.BaseBlobTestCase.java:282, 42.86%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseClobTestCase: void testFree()>
+		<org.hsqldb.jdbc.testbase.BaseClobTestCase.java:160, 10.71%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r6 := @caughtexception])
+	<org.hsqldb.jdbc.testbase.BaseClobTestCase: void testPosition()>
+		<org.hsqldb.jdbc.testbase.BaseClobTestCase.java:274, 50.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseClobTestCase: void testSetAsciiStream()>
+		<org.hsqldb.jdbc.testbase.BaseClobTestCase.java:303, 20.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseClobTestCase: void testSetCharacterStream()>
+		<org.hsqldb.jdbc.testbase.BaseClobTestCase.java:320, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseClobTestCase: void testSetString()>
+		<org.hsqldb.jdbc.testbase.BaseClobTestCase.java:334, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseClobTestCase: void testTruncate()>
+		<org.hsqldb.jdbc.testbase.BaseClobTestCase.java:346, 50.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseClobTestCase: void testPostionInResource()>
+		<org.hsqldb.jdbc.testbase.BaseClobTestCase.java:364, 14.29%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetExtraNameCharacters()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:474, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetNumericFunctions()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:800, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetSQLKeywords()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:893, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetStringFunctions()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:968, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetSystemFunctions()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:1014, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetTimeDateFunctions()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:1071, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.test.TestViewAsterisks: void test()>
+		<org.hsqldb.test.TestViewAsterisks.java:581, 75.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+[12] Set (score: 1.00, ccsize: 2, packages: 1, classes: 4): 
+	<org.hsqldb.test.TestMerge: void testMerge1()>
+		<org.hsqldb.test.TestMerge.java:146, 60.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.test.TestMerge: void testMerge2()>
+		<org.hsqldb.test.TestMerge.java:168, 60.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.test.TestMerge: void testMerge3()>
+		<org.hsqldb.test.TestMerge.java:191, 60.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.test.TestMerge: void testMerge4()>
+		<org.hsqldb.test.TestMerge.java:216, 60.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.test.TestMerge: void testMerge5()>
+		<org.hsqldb.test.TestMerge.java:241, 60.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.test.TestMerge: void testMerge6()>
+		<org.hsqldb.test.TestMerge.java:266, 60.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.test.TestMerge: void testMerge7()>
+		<org.hsqldb.test.TestMerge.java:291, 60.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.test.TestMerge: void testMerge8()>
+		<org.hsqldb.test.TestMerge.java:316, 60.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.test.TestMerge: void testMerge9()>
+		<org.hsqldb.test.TestMerge.java:341, 60.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.test.TestMerge: void testMerge10()>
+		<org.hsqldb.test.TestMerge.java:363, 60.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.test.TestMerge: void testMerge11()>
+		<org.hsqldb.test.TestMerge.java:388, 42.86%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.test.TestMultiInsert: void testMultiInsert()>
+		<org.hsqldb.test.TestMultiInsert.java:132, 12.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.test.TestQuotes: void testSetString()>
+		<org.hsqldb.test.TestQuotes.java:115, 5.26%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r34 := @caughtexception])
+	<org.hsqldb.test.TestSql: void testMetaData()>
+		<org.hsqldb.test.TestSql.java:340, 1.09%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.test.TestSql: void testDoubleNaN()>
+		<org.hsqldb.test.TestSql.java:496, 3.75%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+[13] Set (score: 0.80, ccsize: 4, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testGetColumnName()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:270, 120.00%> (predicates:{(i1 <= i0)=true, (r2 == null)=null, (z0 == 0)=null, (r3 == null)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testGetColumnLabel()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:336, 120.00%> (predicates:{(i1 <= i0)=true, (r2 == null)=null, (z0 == 0)=null, (r3 == null)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[14] Set (score: 0.75, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetCatalogSeparator()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:260, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetCatalogTerm()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:271, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetExtraNameCharacters()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:477, 66.67%> (predicates:{(r2 == null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetIdentifierQuoteString()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:516, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetNumericFunctions()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:803, 66.67%> (predicates:{(r2 == null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetProcedureTerm()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:844, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetSQLKeywords()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:896, 66.67%> (predicates:{(r2 == null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetSchemaTerm()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:921, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetSearchStringEscape()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:954, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetStringFunctions()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:971, 66.67%> (predicates:{(r2 == null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetSystemFunctions()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:1017, 66.67%> (predicates:{(r2 == null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetTimeDateFunctions()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:1074, 66.67%> (predicates:{(r2 == null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[15] Set (score: 0.75, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetDatabaseMajorVersion()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:359, 120.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetDatabaseMinorVersion()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:370, 120.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetDefaultTransactionIsolation()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:403, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetJDBCMajorVersion()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:555, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetJDBCMinorVersion()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:566, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxBinaryLiteralLength()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:577, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxCatalogNameLength()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:588, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxCharLiteralLength()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:599, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxColumnNameLength()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:610, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxColumnsInGroupBy()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:621, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxColumnsInIndex()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:632, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxColumnsInOrderBy()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:643, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxColumnsInSelect()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:654, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxColumnsInTable()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:665, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxConnections()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:676, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxCursorNameLength()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:687, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxIndexLength()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:698, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxProcedureNameLength()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:709, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxRowSize()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:720, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxSchemaNameLength()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:731, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxStatementLength()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:742, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxStatements()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:753, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxTableNameLength()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:764, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxTablesInSelect()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:775, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetMaxUserNameLength()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:786, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetResultSetHoldability()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:868, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetSQLStateType()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:910, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[16] Set (score: 0.67, ccsize: 5, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestStoredProcedure: void testFour()>
+		<org.hsqldb.test.TestStoredProcedure.java:235, 58.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestStoredProcedure.java:236, 58.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestStoredProcedure.java:243, 58.33%> (predicates:{($z5 == 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestStoredProcedure.java:244, 58.33%> (predicates:{($z5 == 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestStoredProcedure: void testFourParams()>
+		<org.hsqldb.test.TestStoredProcedure.java:272, 46.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestStoredProcedure.java:273, 46.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestStoredProcedure.java:280, 46.67%> (predicates:{($z4 == 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestStoredProcedure.java:281, 46.67%> (predicates:{($z4 == 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestStoredProcedure: void testThree()>
+		<org.hsqldb.test.TestStoredProcedure.java:208, 87.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestStoredProcedure.java:209, 87.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestStoredProcedure: void testFive()>
+		<org.hsqldb.test.TestStoredProcedure.java:313, 58.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestStoredProcedure.java:314, 58.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[17] Set (score: 0.67, ccsize: 4, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testCreateStatement_with_connection_holability_of_HOLD_CURSORS_OVER_COMMIT()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:121, 85.71%> (predicates:{($r3 != null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testCreateStatement_with_connection_holability_of_CLOSE_CURSORS_AT_COMMIT()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:147, 85.71%> (predicates:{($r3 != null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[18] Set (score: 0.67, ccsize: 4, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCNClobTest: void testSetAsciiStream()>
+		<org.hsqldb.jdbc.JDBCNClobTest.java:158, 42.86%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r8 := @caughtexception])
+		<org.hsqldb.jdbc.JDBCNClobTest.java:165, 42.86%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r8 := @caughtexception])
+		<org.hsqldb.jdbc.JDBCNClobTest.java:169, 42.86%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r8 := @caughtexception])
+		<org.hsqldb.jdbc.JDBCNClobTest.java:171, 42.86%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r8 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCNClobTest: void testSetCharacterStream()>
+		<org.hsqldb.jdbc.JDBCNClobTest.java:187, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r6 := @caughtexception])
+		<org.hsqldb.jdbc.JDBCNClobTest.java:194, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r6 := @caughtexception])
+		<org.hsqldb.jdbc.JDBCNClobTest.java:198, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r6 := @caughtexception])
+		<org.hsqldb.jdbc.JDBCNClobTest.java:200, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r6 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCNClobTest: void testSetString()>
+		<org.hsqldb.jdbc.JDBCNClobTest.java:140, 54.55%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r6 := @caughtexception])
+		<org.hsqldb.jdbc.JDBCNClobTest.java:142, 54.55%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r6 := @caughtexception])
+		<org.hsqldb.jdbc.JDBCNClobTest.java:143, 54.55%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r6 := @caughtexception])
+[19] Set (score: 0.67, ccsize: 4, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testExecuteUpdate()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:224, 87.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testSetAsciiStream()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:473, 70.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testSetUnicodeStream()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:507, 26.92%> (predicates:{(i1 < $i5)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[20] Set (score: 0.67, ccsize: 4, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.pool.JDBCXAConnectionTest: void testGetConnection()>
+		<org.hsqldb.jdbc.pool.JDBCXAConnectionTest.java:154, 28.57%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.pool.JDBCXAConnectionTest.java:159, 28.57%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.pool.JDBCXAConnectionTest: void testClose()>
+		<org.hsqldb.jdbc.pool.JDBCXAConnectionTest.java:208, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[21] Set (score: 0.67, ccsize: 4, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestSubselect: void testSimpleJoin()>
+		<org.hsqldb.test.TestSubselect.java:205, 11.86%> (predicates:{($z1 != 0)=true, (i1 > b0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestSubselect: void testAliasScope()>
+		<org.hsqldb.test.TestSubselect.java:434, 19.44%> (predicates:{($z1 != 0)=true, (i0 >= $i3)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[22] Set (score: 0.67, ccsize: 3, packages: 1, classes: 2): 
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testGetAutoCommit()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:286, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:294, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testReleaseSavepoint()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:748, 35.71%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r4 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCSavepointTest: void testGetSavepointId()>
+		<org.hsqldb.jdbc.JDBCSavepointTest.java:80, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r4 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCSavepointTest: void testGetSavepointName()>
+		<org.hsqldb.jdbc.JDBCSavepointTest.java:112, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r6 := @caughtexception])
+[23] Set (score: 0.67, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testSetReadOnly()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:371, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:383, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testIsReadOnly()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:415, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:423, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[24] Set (score: 0.67, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testCreateStatement_with_connection_holability_of_HOLD_CURSORS_OVER_COMMIT()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:116, 71.43%> (predicates:{($r3 != null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testCreateStatement_with_connection_holability_of_CLOSE_CURSORS_AT_COMMIT()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:142, 71.43%> (predicates:{($r3 != null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testGetHoldability()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:699, 140.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[25] Set (score: 0.67, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testSetPoolable()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:977, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:985, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testIsPoolable()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:997, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[26] Set (score: 0.67, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testExecuteUpdate()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:214, 75.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testSetNull()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:262, 166.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testSetNullArray()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:278, 125.00%> (predicates:{($z0 != 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testSetUnicodeStream()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:489, 19.23%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[27] Set (score: 0.67, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testGetRow()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1359, 40.00%> (predicates:{($z0 != 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1365, 40.00%> (predicates:{($z0 != 0)=false, ($z1 != 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1371, 33.33%> (predicates:{($z0 != 0)=false, ($z1 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1375, 33.33%> (predicates:{($z0 != 0)=false, ($z1 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1379, 40.00%> (predicates:{($z0 != 0)=false, ($z1 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testAbsolute()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1411, 54.55%> (predicates:{($z0 != 0)=false, (i1 >= 1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[28] Set (score: 0.67, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testIsBeforeFirst()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:939, 27.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:951, 27.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testWasNull()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:552, 15.63%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testIsAfterLast()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:984, 21.74%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[29] Set (score: 0.67, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testBeforeFirst()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1199, 38.46%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1212, 38.46%> (predicates:{($z1 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testPrevious()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1464, 62.50%> (predicates:{($z1 != 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1467, 62.50%> (predicates:{($z1 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[30] Set (score: 0.67, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCStatementTest: void testClose()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:154, 83.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCStatementTest.java:158, 83.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r4 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testIsClosed()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:551, 125.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCStatementTest.java:555, 125.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[31] Set (score: 0.67, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCStatementTest: void testExecute()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:308, 75.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCStatementTest.java:314, 75.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testGetMoreResults()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:359, 66.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[32] Set (score: 0.67, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.testbase.BaseBlobTestCase: void testLength()>
+		<org.hsqldb.jdbc.testbase.BaseBlobTestCase.java:154, 125.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseBlobTestCase: void testTruncate()>
+		<org.hsqldb.jdbc.testbase.BaseBlobTestCase.java:284, 71.43%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[33] Set (score: 0.67, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.testbase.BaseClobTestCase: void testSetCharacterStream()>
+		<org.hsqldb.jdbc.testbase.BaseClobTestCase.java:312, 55.56%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r4 := @caughtexception])
+		<org.hsqldb.jdbc.testbase.BaseClobTestCase.java:316, 55.56%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r4 := @caughtexception])
+		<org.hsqldb.jdbc.testbase.BaseClobTestCase.java:317, 55.56%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r4 := @caughtexception])
+	<org.hsqldb.jdbc.testbase.BaseClobTestCase: void testSetString()>
+		<org.hsqldb.jdbc.testbase.BaseClobTestCase.java:329, 55.56%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r4 := @caughtexception])
+		<org.hsqldb.jdbc.testbase.BaseClobTestCase.java:331, 55.56%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r4 := @caughtexception])
+		<org.hsqldb.jdbc.testbase.BaseClobTestCase.java:332, 55.56%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r4 := @caughtexception])
+[34] Set (score: 0.67, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.testbase.BaseClobTestCase: void testLength()>
+		<org.hsqldb.jdbc.testbase.BaseClobTestCase.java:262, 63.64%> (predicates:{(i1 < $i4)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseClobTestCase: void testTruncate()>
+		<org.hsqldb.jdbc.testbase.BaseClobTestCase.java:343, 83.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r3 := @caughtexception])
+[35] Set (score: 0.67, ccsize: 2, packages: 1, classes: 1): 
+	<org.hsqldb.auth.AuthFunctionTest: void testLocalUserAccountLocalRemote0Roles()>
+		<org.hsqldb.auth.AuthFunctionTest.java:311, 5.88%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r20 := @caughtexception])
+	<org.hsqldb.auth.AuthFunctionTest: void testPullSchema()>
+		<org.hsqldb.auth.AuthFunctionTest.java:480, 5.63%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r25 := @caughtexception])
+[36] Set (score: 0.67, ccsize: 2, packages: 1, classes: 1): 
+	<org.hsqldb.lib.DoubleIntIndexTest: void testIndexSortingWithOneNumber()>
+		<org.hsqldb.lib.DoubleIntIndexTest.java:52, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.lib.DoubleIntIndexTest: void testIndexSortingWithFixedNumbers()>
+		<org.hsqldb.lib.DoubleIntIndexTest.java:61, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[37] Set (score: 0.67, ccsize: 2, packages: 1, classes: 1): 
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testNullTermdString()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:323, 11.11%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:330, 11.11%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:335, 11.11%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:342, 11.11%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:347, 11.11%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testChar()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:265, 14.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:269, 14.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:273, 14.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testString()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:293, 12.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:301, 12.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testSizedString()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:372, 11.11%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:379, 11.11%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:392, 11.11%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[38] Set (score: 0.67, ccsize: 2, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestAcl: void testDenyAllWithIPs()>
+		<org.hsqldb.test.TestAcl.java:286, 33.33%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestAcl.java:288, 33.33%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestAcl: void testDenyAllWithNames()>
+		<org.hsqldb.test.TestAcl.java:274, 44.44%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestAcl: void testLocalhostOnlyWithIPs()>
+		<org.hsqldb.test.TestAcl.java:316, 33.33%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestAcl: void testNoLocalhostOnlyWithNames()>
+		<org.hsqldb.test.TestAcl.java:329, 44.44%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestAcl: void testNoLocalhostOnlyWithIPs()>
+		<org.hsqldb.test.TestAcl.java:342, 33.33%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestAcl: void testLocalNetOnlyWithIPs()>
+		<org.hsqldb.test.TestAcl.java:372, 33.33%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestAcl: void testNoLocalNetOnlyWithNames()>
+		<org.hsqldb.test.TestAcl.java:385, 44.44%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestAcl: void testNoLocalNetOnlyWithIPs()>
+		<org.hsqldb.test.TestAcl.java:398, 33.33%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[39] Set (score: 0.67, ccsize: 2, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestAcl: void testLocalhostOnlyWithNames()>
+		<org.hsqldb.test.TestAcl.java:300, 44.44%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestAcl: void testLocalhostOnlyWithIPs()>
+		<org.hsqldb.test.TestAcl.java:313, 33.33%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestAcl: void testNoLocalhostOnlyWithIPs()>
+		<org.hsqldb.test.TestAcl.java:345, 33.33%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestAcl: void testLocalNetOnlyWithNames()>
+		<org.hsqldb.test.TestAcl.java:358, 44.44%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestAcl: void testLocalNetOnlyWithIPs()>
+		<org.hsqldb.test.TestAcl.java:370, 33.33%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestAcl: void testNoLocalNetOnlyWithIPs()>
+		<org.hsqldb.test.TestAcl.java:401, 33.33%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[40] Set (score: 0.67, ccsize: 2, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestOdbcTypes: void testDateSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:510, 38.46%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r15 := @caughtexception, $r19 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testDateComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1275, 37.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r18 := @caughtexception, $r22 := @caughtexception])
+[41] Set (score: 0.67, ccsize: 2, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestSchemaParse: void testSanityCheck()>
+		<org.hsqldb.test.TestSchemaParse.java:337, 19.05%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:343, 19.05%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:344, 19.05%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:364, 19.05%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:366, 19.05%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestSchemaParse: void test2pTables()>
+		<org.hsqldb.test.TestSchemaParse.java:120, 2.61%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:123, 2.61%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:137, 2.61%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:145, 2.61%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestSchemaParse: void test2pViews()>
+		<org.hsqldb.test.TestSchemaParse.java:220, 9.09%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:222, 9.09%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:223, 9.09%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:234, 9.09%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestSchemaParse: void testBasicQueries()>
+		<org.hsqldb.test.TestSchemaParse.java:877, 19.05%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:878, 19.05%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:880, 19.05%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestSchemaParse: void test2pSequences()>
+		<org.hsqldb.test.TestSchemaParse.java:257, 21.05%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestSchemaParse: void test2pAliases()>
+		<org.hsqldb.test.TestSchemaParse.java:313, 26.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[42] Set (score: 0.60, ccsize: 6, packages: 1, classes: 3): 
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testUnwrap()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:944, 118.18%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCDataSourceTest: void testUnwrap()>
+		<org.hsqldb.jdbc.JDBCDataSourceTest.java:176, 118.18%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testUnwrap()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:567, 118.18%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[43] Set (score: 0.60, ccsize: 4, packages: 1, classes: 4): 
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testIsWrapperFor()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:956, 125.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCDataSourceTest: void testIsWrapperFor()>
+		<org.hsqldb.jdbc.JDBCDataSourceTest.java:188, 125.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCParameterMetaDataTest: void testIsWrapperFor()>
+		<org.hsqldb.jdbc.JDBCParameterMetaDataTest.java:213, 125.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testIsWrapperFor()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:580, 125.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[44] Set (score: 0.50, ccsize: 6, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestOdbcTypes: void testIntegerSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:150, 38.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r10 := @caughtexception, $r14 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTinyIntSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:179, 38.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r10 := @caughtexception, $r14 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testSmallIntSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:209, 38.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r10 := @caughtexception, $r14 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testBigIntSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:239, 38.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r10 := @caughtexception, $r14 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testFloatSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:303, 38.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r10 := @caughtexception, $r14 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testDoubleSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:332, 38.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r10 := @caughtexception, $r14 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testBooleanSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:361, 38.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r10 := @caughtexception, $r14 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testCharSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:390, 38.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r11 := @caughtexception, $r15 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testVarCharSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:419, 38.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r11 := @caughtexception, $r15 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testFixedStringSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:449, 38.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r11 := @caughtexception, $r15 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testDerivedStringSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:479, 38.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r11 := @caughtexception, $r15 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testDateSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:508, 30.77%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r15 := @caughtexception, $r19 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTimeSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:539, 36.36%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTimestampSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:600, 36.36%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTimestampWSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:630, 36.36%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+[45] Set (score: 0.50, ccsize: 5, packages: 1, classes: 2): 
+	<org.hsqldb.test.TestOdbcTypes: void testBooleanSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:363, 28.57%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r10 := @caughtexception, $r14 := @caughtexception])
+	<org.hsqldb.test.TestSql: void testUnionSubquery()>
+		<org.hsqldb.test.TestSql.java:727, 26.09%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[46] Set (score: 0.50, ccsize: 4, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCParameterMetaDataTest: void testGetParameterClassName()>
+		<org.hsqldb.jdbc.JDBCParameterMetaDataTest.java:88, 122.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCParameterMetaDataTest: void testGetParameterTypeName()>
+		<org.hsqldb.jdbc.JDBCParameterMetaDataTest.java:137, 122.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[47] Set (score: 0.50, ccsize: 4, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCParameterMetaDataTest: void testGetParameterMode()>
+		<org.hsqldb.jdbc.JDBCParameterMetaDataTest.java:113, 122.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCParameterMetaDataTest: void testGetParameterType()>
+		<org.hsqldb.jdbc.JDBCParameterMetaDataTest.java:125, 122.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCParameterMetaDataTest: void testGetPrecision()>
+		<org.hsqldb.jdbc.JDBCParameterMetaDataTest.java:151, 122.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCParameterMetaDataTest: void testGetScale()>
+		<org.hsqldb.jdbc.JDBCParameterMetaDataTest.java:163, 122.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCParameterMetaDataTest: void testIsNullable()>
+		<org.hsqldb.jdbc.JDBCParameterMetaDataTest.java:178, 122.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[48] Set (score: 0.50, ccsize: 4, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestOdbcTypes: void testBinaryComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1556, 17.39%> (predicates:{(r2 == null)=null, (r1 == null)=null, (i4 < $i7)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestOdbcTypes.java:1561, 17.39%> (predicates:{(r2 == null)=null, (r1 == null)=null, (i4 < $i7)=false, (i10 < $i13)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestOdbcTypes: void testVarBinaryComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1608, 17.39%> (predicates:{(r2 == null)=null, (r1 == null)=null, (i4 < $i7)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestOdbcTypes.java:1613, 17.39%> (predicates:{(r2 == null)=null, (r1 == null)=null, (i4 < $i7)=false, (i10 < $i13)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestOdbcTypes: void testBinarySimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:743, 25.00%> (predicates:{(r1 == null)=null, (r2 == null)=null, (i2 < $i5)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestOdbcTypes: void testVarBinarySimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:779, 25.00%> (predicates:{(r1 == null)=null, (r2 == null)=null, (i2 < $i5)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[49] Set (score: 0.50, ccsize: 3, packages: 2, classes: 3): 
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testIsWrapperFor()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:3242, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testIsWrapperFor()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:1194, 120.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testIsWrapperFor()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:549, 125.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[50] Set (score: 0.50, ccsize: 3, packages: 2, classes: 2): 
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testSetUnicodeStream()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:502, 50.00%> (predicates:{(i1 < $i5)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testGetColumnType()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:348, 111.11%> (predicates:{(i1 <= i0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testGetPrecision()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:377, 111.11%> (predicates:{(i1 <= i0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testGetScale()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:391, 111.11%> (predicates:{(i1 <= i0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testIsNullable()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:494, 111.11%> (predicates:{(i1 <= i0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[51] Set (score: 0.50, ccsize: 3, packages: 2, classes: 2): 
+	<org.hsqldb.jdbc.JDBCRowIdTest: void testToString()>
+		<org.hsqldb.jdbc.JDBCRowIdTest.java:112, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseArrayTestCase: void testToString()>
+		<org.hsqldb.jdbc.testbase.BaseArrayTestCase.java:409, 75.00%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[52] Set (score: 0.50, ccsize: 3, packages: 1, classes: 2): 
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testGetWarnings()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:591, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testGetWarnings()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:274, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[53] Set (score: 0.50, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testSetHoldability_HOLD_CURSORS_OVER_COMMIT()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:650, 140.00%> (predicates:{(r2 != null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testSetHoldability_CLOSE_CURSORS_AT_COMMIT()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:678, 140.00%> (predicates:{(r2 != null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[54] Set (score: 0.50, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testIsFirst()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1042, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1049, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1056, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1063, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1071, 33.33%> (predicates:{($z7 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1079, 33.33%> (predicates:{($z7 != 0)=false, ($z9 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1086, 33.33%> (predicates:{($z7 != 0)=false, ($z9 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1094, 33.33%> (predicates:{($z7 != 0)=false, ($z9 != 0)=false, ($z13 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1101, 33.33%> (predicates:{($z7 != 0)=false, ($z9 != 0)=false, ($z13 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testFirst()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1301, 75.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1305, 75.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[55] Set (score: 0.50, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testGetWarnings()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:736, 83.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testClearWarnings()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:762, 83.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[56] Set (score: 0.50, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testGetMetaData()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:810, 28.57%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testGetStatement()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:2681, 66.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[57] Set (score: 0.50, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testGetType_FORWARD_ONLY()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1684, 66.67%> (predicates:{(r2 != null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testGetType_SCROLL_INSENSITIVE()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1712, 60.00%> (predicates:{(r2 != null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testGetType_SCROLL_SENSITIVE()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1744, 60.00%> (predicates:{(r2 != null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[58] Set (score: 0.50, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCStatementTest: void testGetResultSet()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:329, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testGetConnection()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:520, 133.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[59] Set (score: 0.50, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.pool.JDBCPooledDataSourceTest: void testGetPooledConnection_String_String()>
+		<org.hsqldb.jdbc.pool.JDBCPooledDataSourceTest.java:164, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.pool.JDBCPooledDataSourceTest: void testGetReference()>
+		<org.hsqldb.jdbc.pool.JDBCPooledDataSourceTest.java:179, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.jdbc.pool.JDBCPooledDataSourceTest.java:180, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[60] Set (score: 0.50, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.testbase.BaseBlobTestCase: void testPosition_byte_array_pattern()>
+		<org.hsqldb.jdbc.testbase.BaseBlobTestCase.java:179, 35.71%> (predicates:{(i0 < $i10)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseBlobTestCase: void testPosition_blob_pattern()>
+		<org.hsqldb.jdbc.testbase.BaseBlobTestCase.java:193, 31.25%> (predicates:{(i0 < $i10)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[61] Set (score: 0.50, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetNumericFunctions()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:805, 44.44%> (predicates:{(r2 == null)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetSQLKeywords()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:898, 44.44%> (predicates:{(r2 == null)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetStringFunctions()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:973, 44.44%> (predicates:{(r2 == null)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetSystemFunctions()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:1019, 44.44%> (predicates:{(r2 == null)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testGetTimeDateFunctions()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:1076, 44.44%> (predicates:{(r2 == null)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[62] Set (score: 0.50, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.testbase.BaseDriverTestCase: void testConnect()>
+		<org.hsqldb.jdbc.testbase.BaseDriverTestCase.java:101, 28.57%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception])
+	<org.hsqldb.jdbc.testbase.BaseDriverTestCase: void testGetPropertyInfo()>
+		<org.hsqldb.jdbc.testbase.BaseDriverTestCase.java:138, 36.36%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[63] Set (score: 0.50, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testIsAutoIncrement()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:436, 111.11%> (predicates:{(i1 <= i0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testIsCaseSensitive()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:450, 111.11%> (predicates:{(i1 <= i0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testIsCurrency()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:465, 111.11%> (predicates:{(i1 <= i0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testIsDefinitelyWritable()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:480, 111.11%> (predicates:{(i1 <= i0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testIsReadOnly()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:508, 111.11%> (predicates:{(i1 <= i0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testIsSearchable()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:522, 111.11%> (predicates:{(i1 <= i0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testIsSigned()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:536, 111.11%> (predicates:{(i1 <= i0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testIsWritable()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:560, 111.11%> (predicates:{(i1 <= i0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[64] Set (score: 0.50, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestAcl: void testDefaultWithNames()>
+		<org.hsqldb.test.TestAcl.java:255, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestAcl: void testDefaultWithIPs()>
+		<org.hsqldb.test.TestAcl.java:261, 55.56%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[65] Set (score: 0.50, ccsize: 2, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testIsFirst()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1113, 27.78%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testIsLast()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1178, 35.71%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testBeforeFirst()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1222, 38.46%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testAfterLast()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1284, 29.41%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testFirst()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1314, 62.50%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testLast()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1341, 71.43%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testGetRow()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1388, 33.33%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testGetType_SCROLL_INSENSITIVE()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1725, 50.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testGetType_SCROLL_SENSITIVE()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1757, 50.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testGetConcurrency()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1823, 25.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r15 := @caughtexception])
+[66] Set (score: 0.50, ccsize: 2, packages: 1, classes: 1): 
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testChar()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:267, 18.52%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:271, 18.52%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testNullTermdString()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:332, 13.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:344, 13.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[67] Set (score: 0.50, ccsize: 2, packages: 1, classes: 1): 
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testTypeMix()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:111, 13.21%> (predicates:{(r3 != null)=true, ($i2 > -1)=false, ($i13 == 27)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testShort()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:165, 17.65%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testInt()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:191, 20.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testLong()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:217, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testeByte()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:241, 17.65%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testChar()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:260, 22.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[68] Set (score: 0.50, ccsize: 2, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestSchemaParse: void testSanityCheck()>
+		<org.hsqldb.test.TestSchemaParse.java:393, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:396, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:403, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:406, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:408, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:412, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:414, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:416, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:419, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:422, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:440, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:445, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:450, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:455, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestSchemaParse: void test2pTables()>
+		<org.hsqldb.test.TestSchemaParse.java:125, 3.27%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:130, 3.27%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:147, 3.27%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:152, 3.27%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestSchemaParse: void test2pViews()>
+		<org.hsqldb.test.TestSchemaParse.java:224, 11.36%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.test.TestSchemaParse.java:229, 11.36%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[69] Set (score: 0.48, ccsize: 5, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestOdbcTypes: void testIntegerSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:153, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r10 := @caughtexception, $r14 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTinyIntSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:183, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r10 := @caughtexception, $r14 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testSmallIntSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:213, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r10 := @caughtexception, $r14 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testBigIntSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:242, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r10 := @caughtexception, $r14 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testFloatSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:306, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r14 := @caughtexception, $r10 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testDoubleSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:335, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r14 := @caughtexception, $r10 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testBooleanSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:364, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r10 := @caughtexception, $r14 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testCharSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:393, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r15 := @caughtexception, $r11 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testVarCharSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:422, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r15 := @caughtexception, $r11 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testFixedStringSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:452, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r15 := @caughtexception, $r11 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testDerivedStringSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:482, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r11 := @caughtexception, $r15 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testDateSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:513, 26.92%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r19 := @caughtexception, $r15 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTimeSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:542, 31.82%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r16 := @caughtexception, $r12 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTimestampSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:604, 31.82%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTimestampWSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:634, 31.82%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testBitSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:663, 36.84%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r13 := @caughtexception, $r9 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testBitVaryingSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:691, 36.84%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r13 := @caughtexception, $r9 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testBinarySimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:724, 21.88%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r16 := @caughtexception, $r12 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testVarBinarySimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:759, 21.88%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r16 := @caughtexception, $r12 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testDaySecIntervalSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:797, 36.84%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r13 := @caughtexception, $r9 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testSecIntervalSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:830, 36.84%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r9 := @caughtexception, $r13 := @caughtexception])
+[70] Set (score: 0.48, ccsize: 5, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestOdbcTypes: void testCharSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:392, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r11 := @caughtexception, $r15 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testVarCharSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:421, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r11 := @caughtexception, $r15 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testFixedStringSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:451, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r11 := @caughtexception, $r15 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testDerivedStringSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:481, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r11 := @caughtexception, $r15 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testBitSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:662, 36.84%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r9 := @caughtexception, $r13 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testBitVaryingSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:690, 36.84%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r9 := @caughtexception, $r13 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testBinarySimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:721, 21.88%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testVarBinarySimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:756, 21.88%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testDaySecIntervalSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:793, 36.84%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r9 := @caughtexception, $r13 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testSecIntervalSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:826, 36.84%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r9 := @caughtexception, $r13 := @caughtexception])
+[71] Set (score: 0.48, ccsize: 5, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestOdbcTypes: void testTimestampSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:602, 36.36%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTimestampWSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:632, 36.36%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+[72] Set (score: 0.44, ccsize: 4, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCParameterMetaDataTest: void testUnwrap()>
+		<org.hsqldb.jdbc.JDBCParameterMetaDataTest.java:201, 122.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCParameterMetaDataTest: void testIsWrapperFor()>
+		<org.hsqldb.jdbc.JDBCParameterMetaDataTest.java:213, 125.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[73] Set (score: 0.42, ccsize: 4, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCParameterMetaDataTest: void testIsSigned()>
+		<org.hsqldb.jdbc.JDBCParameterMetaDataTest.java:190, 122.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCParameterMetaDataTest: void testIsWrapperFor()>
+		<org.hsqldb.jdbc.JDBCParameterMetaDataTest.java:213, 125.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[74] Set (score: 0.41, ccsize: 8, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestOdbcTypes: void testIntegerComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:867, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTinyIntComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:907, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testSmallIntComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:947, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testBigIntComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:988, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testFloatComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1033, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testDoubleComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1073, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testBooleanComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1113, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testCharComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1153, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r13 := @caughtexception, $r17 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testVarCharComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1193, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r13 := @caughtexception, $r17 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testDateComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1273, 31.25%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r18 := @caughtexception, $r22 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTimeComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1317, 38.46%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r14 := @caughtexception, $r18 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTimestampComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1364, 38.46%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r14 := @caughtexception, $r18 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTimestampWComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1406, 38.46%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r14 := @caughtexception, $r18 := @caughtexception])
+[75] Set (score: 0.40, ccsize: 7, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestOdbcTypes: void testIntegerComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:870, 36.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r16 := @caughtexception, $r12 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTinyIntComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:910, 36.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testSmallIntComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:951, 36.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testBigIntComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:991, 36.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testFloatComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1036, 36.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testDoubleComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1076, 36.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testBooleanComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1116, 36.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r16 := @caughtexception, $r12 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testCharComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1156, 36.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r17 := @caughtexception, $r13 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testVarCharComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1196, 36.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r17 := @caughtexception, $r13 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testDateComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1278, 28.13%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r22 := @caughtexception, $r18 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTimeComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1320, 34.62%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r18 := @caughtexception, $r14 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTimestampComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1367, 34.62%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r14 := @caughtexception, $r18 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTimestampWComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1409, 34.62%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r18 := @caughtexception, $r14 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testBinaryComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1537, 19.57%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r14 := @caughtexception, $r18 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testVarBinaryComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1589, 19.57%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r14 := @caughtexception, $r18 := @caughtexception])
+[76] Set (score: 0.40, ccsize: 7, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestOdbcTypes: void testCharComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1155, 36.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r13 := @caughtexception, $r17 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testVarCharComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1195, 36.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r13 := @caughtexception, $r17 := @caughtexception])
+[77] Set (score: 0.40, ccsize: 7, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestOdbcTypes: void testTimestampComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1366, 38.46%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r14 := @caughtexception, $r18 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testTimestampWComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1408, 38.46%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r14 := @caughtexception, $r18 := @caughtexception])
+[78] Set (score: 0.40, ccsize: 4, packages: 1, classes: 2): 
+	<org.hsqldb.jdbc.JDBCPreparedStatementTest: void testExecuteQuery()>
+		<org.hsqldb.jdbc.JDBCPreparedStatementTest.java:196, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testExecuteQuery()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:100, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[79] Set (score: 0.36, ccsize: 5, packages: 1, classes: 2): 
+	<org.hsqldb.test.TestOdbcService: void testSanity()>
+		<org.hsqldb.test.TestOdbcService.java:70, 72.73%> (predicates:{($z0 != 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[$r6 := @caughtexception])
+	<org.hsqldb.test.TestSubselect: void testSimpleJoin()>
+		<org.hsqldb.test.TestSubselect.java:207, 22.03%> (predicates:{($z1 != 0)=true, (i1 > b0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[80] Set (score: 0.36, ccsize: 5, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestOdbcTypes: void testFloatSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:305, 38.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r10 := @caughtexception, $r14 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testDoubleSimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:334, 38.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r10 := @caughtexception, $r14 := @caughtexception])
+[81] Set (score: 0.36, ccsize: 5, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestOdbcTypes: void testBinarySimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:740, 28.13%> (predicates:{(r1 == null)=null, (r2 == null)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.test.TestOdbcTypes: void testVarBinarySimpleRead()>
+		<org.hsqldb.test.TestOdbcTypes.java:776, 28.13%> (predicates:{(r1 == null)=null, (r2 == null)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[82] Set (score: 0.33, ccsize: 3, packages: 2, classes: 2): 
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUnwrap()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:3230, 83.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase: void testUnwrap()>
+		<org.hsqldb.jdbc.testbase.BaseDatabaseMetaDataTestCase.java:2314, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[83] Set (score: 0.33, ccsize: 3, packages: 2, classes: 2): 
+	<org.hsqldb.jdbc.JDBCRowIdTest: void testEquals()>
+		<org.hsqldb.jdbc.JDBCRowIdTest.java:89, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.util.preprocessor.PreprocessorTest: void testPreprocessBatch()>
+		<org.hsqldb.util.preprocessor.PreprocessorTest.java:110, 19.23%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[84] Set (score: 0.33, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testNext()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:500, 62.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testIsAfterLast()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1008, 21.74%> (predicates:{($z3 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[85] Set (score: 0.30, ccsize: 3, packages: 2, classes: 2): 
+	<org.hsqldb.jdbc.JDBCParameterMetaDataTest: void testIsSigned()>
+		<org.hsqldb.jdbc.JDBCParameterMetaDataTest.java:190, 122.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testIsSigned()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:536, 111.11%> (predicates:{(i1 <= i0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[86] Set (score: 0.29, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetString()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:230, 66.67%> (predicates:{($z0 != 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetNString()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:1378, 75.00%> (predicates:{($z0 != 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[87] Set (score: 0.29, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetBigDecimal()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:434, 60.00%> (predicates:{($z0 != 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetBytes()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:461, 60.00%> (predicates:{($z0 != 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetDate()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:487, 66.67%> (predicates:{($z0 != 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetTime()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:511, 66.67%> (predicates:{($z0 != 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetTimestamp()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:535, 66.67%> (predicates:{($z0 != 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetObject()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:561, 50.00%> (predicates:{($z0 != 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCCallableStatementTest: void testGetNClob()>
+		<org.hsqldb.jdbc.JDBCCallableStatementTest.java:1324, 66.67%> (predicates:{($z0 != 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[88] Set (score: 0.29, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testGetCatalog()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:476, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCConnectionTest: void testGetClientInfo()>
+		<org.hsqldb.jdbc.JDBCConnectionTest.java:903, 75.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[89] Set (score: 0.29, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testNext()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:505, 62.50%> (predicates:{($z1 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testClose()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:525, 31.25%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r4 := @caughtexception])
+[90] Set (score: 0.29, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testClearWarnings()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:762, 83.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testUnwrap()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:3230, 83.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[91] Set (score: 0.29, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCStatementTest: void testExecuteUpdate()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:137, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r3 := @caughtexception])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testGetMaxFieldSize()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:176, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testGetMaxRows()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:199, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testGetQueryTimeout()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:237, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testGetUpdateCount()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:345, 120.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testGetFetchDirection()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:417, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testGetFetchSize()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:442, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testGetResultSetConcurrency()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:454, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testGetResultSetType()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:466, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testGetResultSetHoldability()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:541, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[92] Set (score: 0.29, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.testbase.BaseArrayTestCase: void testGetBaseTypeName()>
+		<org.hsqldb.jdbc.testbase.BaseArrayTestCase.java:338, 75.00%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseArrayTestCase: void testToString()>
+		<org.hsqldb.jdbc.testbase.BaseArrayTestCase.java:409, 75.00%> (predicates:{(i0 < $i1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[93] Set (score: 0.29, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.testbase.BaseDriverTestCase: void testGetMajorVersion()>
+		<org.hsqldb.jdbc.testbase.BaseDriverTestCase.java:118, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDriverTestCase: void testGetMinorVersion()>
+		<org.hsqldb.jdbc.testbase.BaseDriverTestCase.java:127, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseDriverTestCase: void testGetPropertyInfo()>
+		<org.hsqldb.jdbc.testbase.BaseDriverTestCase.java:139, 54.55%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[94] Set (score: 0.27, ccsize: 7, packages: 1, classes: 1): 
+	<org.hsqldb.test.TestOdbcTypes: void testFloatComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1035, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+	<org.hsqldb.test.TestOdbcTypes: void testDoubleComplex()>
+		<org.hsqldb.test.TestOdbcTypes.java:1075, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception, $r16 := @caughtexception])
+[95] Set (score: 0.20, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testGetFetchSize()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:1660, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCResultSetTest: void testGetHoldability()>
+		<org.hsqldb.jdbc.JDBCResultSetTest.java:3007, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[96] Set (score: 0.19, ccsize: 5, packages: 1, classes: 1): 
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testShort()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:154, 23.53%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testInt()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:180, 26.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testLong()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:206, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testeByte()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:230, 23.53%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testReset()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:403, 114.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[97] Set (score: 0.17, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCRowIdTest: void testEquals()>
+		<org.hsqldb.jdbc.JDBCRowIdTest.java:89, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCRowIdTest: void testToString()>
+		<org.hsqldb.jdbc.JDBCRowIdTest.java:112, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCRowIdTest: void testHashCode()>
+		<org.hsqldb.jdbc.JDBCRowIdTest.java:125, 120.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[98] Set (score: 0.17, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testGetColumnCount()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:295, 150.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase: void testIsWrapperFor()>
+		<org.hsqldb.jdbc.testbase.BaseResultSetMetaDataTestCase.java:549, 125.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[99] Set (score: 0.15, ccsize: 8, packages: 1, classes: 1): 
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testShort()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:157, 32.35%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:163, 38.24%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testInt()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:183, 36.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:189, 43.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testLong()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:209, 45.83%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:215, 54.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.server.OdbcPacketOutputStreamTest: void testeByte()>
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:233, 32.35%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.hsqldb.server.OdbcPacketOutputStreamTest.java:239, 38.24%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[100] Set (score: 0.11, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCDataSourceTest: void testUnwrap()>
+		<org.hsqldb.jdbc.JDBCDataSourceTest.java:176, 118.18%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCDataSourceTest: void testIsWrapperFor()>
+		<org.hsqldb.jdbc.JDBCDataSourceTest.java:188, 125.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[101] Set (score: 0.11, ccsize: 3, packages: 1, classes: 1): 
+	<org.hsqldb.jdbc.JDBCStatementTest: void testUnwrap()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:567, 118.18%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.hsqldb.jdbc.JDBCStatementTest: void testIsWrapperFor()>
+		<org.hsqldb.jdbc.JDBCStatementTest.java:580, 125.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])

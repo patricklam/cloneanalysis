@@ -1,0 +1,525 @@
+Version 1 (/home/d2jain/bhprojects/jdom)
+This is for clone class 1
+  CloneClass 5 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1008)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1033)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1056)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1079)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1105)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1198)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1341)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1365)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1391)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1417)10
+  CloneClass 6 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:396)5
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:406)5
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:426)5
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:443)5
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:472)5
+  CloneClass 9 (Type 1)
+(test/src/java/org/jdom/test/cases/TestElement.java:678)11
+(test/src/java/org/jdom/test/cases/TestElement.java:703)11
+  CloneClass 10 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:426)5
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:443)5
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:472)5
+  CloneClass 11 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1073)18
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1335)18
+  CloneClass 14 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:952)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:970)9
+  CloneClass 20 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:452)12
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:658)12
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:820)12
+  CloneClass 23 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1166)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1230)9
+  CloneClass 26 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1142)5
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1175)5
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1239)5
+  CloneClass 28 (Type 1)
+(test/src/java/org/jdom/test/cases/TestAttribute.java:495)5
+(test/src/java/org/jdom/test/cases/TestAttribute.java:520)5
+  CloneClass 29 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1479)11
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1540)9
+  CloneClass 40 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:951)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1007)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1032)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1055)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1078)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1340)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1364)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1390)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1416)10
+  CloneClass 44 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:1002)9
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:1023)9
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:1077)9
+  CloneClass 45 (Type 1)
+(test/src/java/org/jdom/test/cases/TestElement.java:171)8
+(test/src/java/org/jdom/test/cases/TestElement.java:202)8
+  CloneClass 46 (Type 1)
+(test/src/java/org/jdom/test/cases/TestAttribute.java:486)9
+(test/src/java/org/jdom/test/cases/TestAttribute.java:511)9
+(test/src/java/org/jdom/test/cases/TestAttribute.java:737)9
+  CloneClass 55 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1153)11
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1186)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1218)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1250)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1290)10
+  CloneClass 57 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1153)12
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1218)11
+  CloneClass 60 (Type 1)
+(test/src/java/org/jdom/test/cases/TestFilterList.java:1061)5
+(test/src/java/org/jdom/test/cases/TestFilterList.java:1067)5
+  CloneClass 70 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1008)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1056)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1079)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1105)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1198)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1341)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1365)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1391)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1417)10
+  CloneClass 74 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:307)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:334)9
+  CloneClass 78 (Type 1)
+(test/src/java/org/jdom/test/cases/TestDocument.java:350)11
+(test/src/java/org/jdom/test/cases/TestElement.java:815)9
+  CloneClass 82 (Type 1)
+(test/src/java/org/jdom/test/cases/TestCDATA.java:339)14
+(test/src/java/org/jdom/test/cases/TestCDATA.java:487)14
+  CloneClass 87 (Type 1)
+(test/src/java/org/jdom/test/filterlist/FilterListRandomizer.java:767)18
+(test/src/java/org/jdom/test/filterlist/FilterListIteratorRandomizer.java:354)18
+  CloneClass 88 (Type 1)
+(test/src/java/org/jdom/test/cases/TestDocument.java:83)44
+(test/src/java/org/jdom/test/cases/TestDocument.java:145)43
+  CloneClass 101 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1002)17
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1073)17
+  CloneClass 105 (Type 1)
+(test/src/java/org/jdom/test/cases/TestElement.java:1165)8
+(test/src/java/org/jdom/test/cases/TestElement.java:1236)8
+  CloneClass 107 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1134)13
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1167)13
+  CloneClass 108 (Type 1)
+(test/src/java/org/jdom/test/cases/TestComment.java:105)12
+(test/src/java/org/jdom/test/cases/TestComment.java:221)13
+  CloneClass 114 (Type 1)
+(test/src/java/org/jdom/test/filterlist/FilterListRandomizer.java:853)9
+(test/src/java/org/jdom/test/filterlist/FilterListIteratorRandomizer.java:417)9
+  CloneClass 125 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1002)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1027)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1050)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1073)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1335)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1359)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1385)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1411)16
+  CloneClass 135 (Type 1)
+(test/src/java/org/jdom/test/cases/TestCDATA.java:353)14
+(test/src/java/org/jdom/test/cases/TestCDATA.java:501)14
+  CloneClass 147 (Type 1)
+(test/src/java/org/jdom/test/cases/TestFilterList.java:650)7
+(test/src/java/org/jdom/test/cases/TestFilterList.java:703)6
+  CloneClass 148 (Type 1)
+(test/src/java/org/jdom/test/cases/TestAttribute.java:486)10
+(test/src/java/org/jdom/test/cases/TestAttribute.java:737)11
+  CloneClass 163 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:952)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:970)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1008)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1033)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1056)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1079)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1105)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1134)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1167)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1198)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1341)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1365)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1391)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1417)9
+  CloneClass 166 (Type 1)
+(test/src/java/org/jdom/test/cases/TestDocument.java:361)5
+(test/src/java/org/jdom/test/cases/TestElement.java:824)3
+  CloneClass 170 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:294)4
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:310)4
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:337)4
+  CloneClass 176 (Type 1)
+(test/src/java/org/jdom/test/cases/TestAttribute.java:458)5
+(test/src/java/org/jdom/test/cases/TestAttribute.java:474)5
+(test/src/java/org/jdom/test/cases/TestAttribute.java:495)5
+(test/src/java/org/jdom/test/cases/TestAttribute.java:520)5
+  CloneClass 180 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:416)6
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:462)6
+  CloneClass 181 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:603)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:623)10
+  CloneClass 186 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:520)12
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:555)13
+  CloneClass 188 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1279)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1321)8
+  CloneClass 190 (Type 1)
+(test/src/java/org/jdom/test/cases/TestCDATA.java:498)12
+(test/src/java/org/jdom/test/cases/TestCDATA.java:512)11
+  CloneClass 191 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1002)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1027)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1073)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1335)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1359)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1385)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1411)16
+  CloneClass 202 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:335)34
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:869)34
+  CloneClass 206 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:448)15
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:466)15
+  CloneClass 209 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:414)7
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:480)7
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:491)7
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:505)7
+  CloneClass 211 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:292)12
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:821)12
+  CloneClass 212 (Type 1)
+(test/src/java/org/jdom/test/cases/TestAttribute.java:500)5
+(test/src/java/org/jdom/test/cases/TestAttribute.java:525)5
+  CloneClass 215 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1002)17
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1073)17
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1335)17
+  CloneClass 218 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:952)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:970)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1008)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1033)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1056)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1079)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1341)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1365)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1391)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1417)9
+  CloneClass 219 (Type 1)
+(test/src/java/org/jdom/test/cases/TestCDATA.java:253)13
+(test/src/java/org/jdom/test/cases/TestCDATA.java:401)13
+  CloneClass 220 (Type 1)
+(test/src/java/org/jdom/test/cases/TestAttribute.java:458)5
+(test/src/java/org/jdom/test/cases/TestAttribute.java:495)5
+  CloneClass 222 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:578)14
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:865)13
+  CloneClass 224 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:434)12
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:520)12
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:555)13
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:581)12
+  CloneClass 229 (Type 1)
+(test/src/java/org/jdom/test/cases/TestDocument.java:341)9
+(test/src/java/org/jdom/test/cases/TestElement.java:800)12
+  CloneClass 230 (Type 1)
+(test/src/java/org/jdom/test/cases/TestDocument.java:211)6
+(test/src/java/org/jdom/test/cases/TestDocument.java:370)6
+  CloneClass 231 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:952)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:970)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1008)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1033)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1056)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1079)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1105)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1198)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1341)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1365)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1391)9
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1417)9
+  CloneClass 234 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:283)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:298)8
+  CloneClass 239 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:272)3
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:292)3
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:797)4
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:821)3
+  CloneClass 247 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:1023)9
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:1077)9
+  CloneClass 248 (Type 1)
+(test/src/java/org/jdom/test/cases/TestDocument.java:302)11
+(test/src/java/org/jdom/test/cases/TestElement.java:755)11
+  CloneClass 252 (Type 1)
+(test/src/java/org/jdom/test/cases/TestElement.java:667)4
+(test/src/java/org/jdom/test/cases/TestElement.java:692)4
+  CloneClass 268 (Type 1)
+(test/src/java/org/jdom/test/cases/output/TestXMLOutputter.java:74)6
+(test/src/java/org/jdom/test/cases/output/TestXMLOutputter.java:87)6
+(test/src/java/org/jdom/test/cases/output/TestXMLOutputter.java:101)6
+  CloneClass 270 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:311)18
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:842)18
+  CloneClass 274 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1250)13
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1290)13
+  CloneClass 275 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:395)7
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:405)7
+  CloneClass 278 (Type 1)
+(test/src/java/org/jdom/test/cases/TestFilterList.java:658)7
+(test/src/java/org/jdom/test/cases/TestFilterList.java:710)7
+  CloneClass 279 (Type 1)
+(test/src/java/org/jdom/test/cases/TestCDATA.java:485)13
+(test/src/java/org/jdom/test/cases/TestCDATA.java:499)13
+  CloneClass 287 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:425)6
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:471)6
+  CloneClass 289 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:272)13
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:797)14
+  CloneClass 290 (Type 1)
+(test/src/java/org/jdom/test/cases/TestFilterList.java:779)10
+(test/src/java/org/jdom/test/cases/TestFilterList.java:824)10
+  CloneClass 295 (Type 1)
+(test/src/java/org/jdom/test/cases/TestAttribute.java:474)5
+(test/src/java/org/jdom/test/cases/TestAttribute.java:520)5
+  CloneClass 296 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1186)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1250)11
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1290)11
+  CloneClass 299 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:627)9
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:642)9
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:657)10
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:930)10
+  CloneClass 300 (Type 1)
+(test/src/java/org/jdom/test/filterlist/FilterListRandomizer.java:587)10
+(test/src/java/org/jdom/test/filterlist/FilterListRandomizer.java:621)10
+  CloneClass 302 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:790)11
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:814)10
+  CloneClass 305 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1264)15
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1306)15
+  CloneClass 312 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1097)20
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1190)20
+  CloneClass 314 (Type 1)
+(test/src/java/org/jdom/test/generate/ClassGenerator.java:248)18
+(test/src/java/org/jdom/test/generate/ClassGenerator.java:291)17
+  CloneClass 315 (Type 1)
+(test/src/java/org/jdom/test/cases/TestAttribute.java:726)6
+(test/src/java/org/jdom/test/cases/TestAttribute.java:746)6
+  CloneClass 321 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:434)14
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:581)14
+  CloneClass 323 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1359)20
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1385)20
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1411)20
+  CloneClass 325 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:657)14
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:819)14
+  CloneClass 328 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:426)9
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:443)9
+  CloneClass 335 (Type 1)
+(test/src/java/org/jdom/test/cases/TestElement.java:633)6
+(test/src/java/org/jdom/test/cases/TestElement.java:658)6
+(test/src/java/org/jdom/test/cases/TestElement.java:683)6
+(test/src/java/org/jdom/test/cases/TestElement.java:708)6
+  CloneClass 337 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:266)9
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:286)9
+  CloneClass 343 (Type 1)
+(test/src/java/org/jdom/test/cases/TestElement.java:173)6
+(test/src/java/org/jdom/test/cases/TestElement.java:204)6
+(test/src/java/org/jdom/test/cases/TestElement.java:236)6
+  CloneClass 346 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1002)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1027)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1073)16
+  CloneClass 348 (Type 1)
+(test/src/java/org/jdom/test/cases/output/TestXMLOutputter.java:74)8
+(test/src/java/org/jdom/test/cases/output/TestXMLOutputter.java:87)8
+  CloneClass 353 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1002)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1073)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1335)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1359)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1385)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1411)16
+  CloneClass 360 (Type 1)
+(test/src/java/org/jdom/test/cases/TestElement.java:633)9
+(test/src/java/org/jdom/test/cases/TestElement.java:658)9
+(test/src/java/org/jdom/test/cases/TestElement.java:683)9
+  CloneClass 366 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:993)9
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:1014)9
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:1068)9
+  CloneClass 367 (Type 1)
+(test/src/java/org/jdom/test/filterlist/FilterListRandomizer.java:587)10
+(test/src/java/org/jdom/test/filterlist/FilterListRandomizer.java:621)10
+(test/src/java/org/jdom/test/filterlist/FilterListRandomizer.java:653)10
+(test/src/java/org/jdom/test/filterlist/FilterListRandomizer.java:715)10
+  CloneClass 370 (Type 1)
+(test/src/java/org/jdom/test/cases/TestDocument.java:313)14
+(test/src/java/org/jdom/test/cases/TestElement.java:769)14
+  CloneClass 373 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:993)9
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:1014)9
+  CloneClass 384 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:434)12
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:520)12
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:555)13
+  CloneClass 385 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:285)7
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:812)8
+  CloneClass 394 (Type 1)
+(test/src/java/org/jdom/test/cases/TestElement.java:627)15
+(test/src/java/org/jdom/test/cases/TestElement.java:652)15
+  CloneClass 402 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:266)6
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:286)6
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:790)6
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:814)6
+  CloneClass 403 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:952)7
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:970)7
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1008)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1033)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1056)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1079)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1105)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1134)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1167)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1198)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1231)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1341)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1365)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1391)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1417)8
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1442)7
+  CloneClass 407 (Type 1)
+(test/src/java/org/jdom/test/cases/TestDocument.java:243)7
+(test/src/java/org/jdom/test/cases/TestDocument.java:507)7
+  CloneClass 408 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:522)8
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:538)8
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:558)8
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:627)8
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:642)8
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:657)8
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:930)8
+  CloneClass 411 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1002)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1050)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1073)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1335)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1359)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1385)16
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1411)16
+  CloneClass 413 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:416)5
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:462)5
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:482)5
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:493)5
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:507)5
+  CloneClass 416 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1607)7
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1625)7
+  CloneClass 418 (Type 1)
+(test/src/java/org/jdom/test/cases/TestNamespace.java:157)5
+(test/src/java/org/jdom/test/cases/TestNamespace.java:198)5
+  CloneClass 422 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:265)7
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:788)8
+  CloneClass 423 (Type 1)
+(test/src/java/org/jdom/test/cases/TestCDATA.java:337)13
+(test/src/java/org/jdom/test/cases/TestCDATA.java:351)13
+  CloneClass 428 (Type 1)
+(test/src/java/org/jdom/test/cases/TestElement.java:658)9
+(test/src/java/org/jdom/test/cases/TestElement.java:683)9
+  CloneClass 430 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1008)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1079)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1105)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1198)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1341)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1365)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1391)10
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1417)10
+  CloneClass 431 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:603)7
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:623)7
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1454)8
+  CloneClass 434 (Type 1)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:396)6
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:406)6
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:472)6
+This is for clone class 2
+  CloneClass 18 (Type 2)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1153)27
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1218)26
+  CloneClass 51 (Type 2)
+(test/src/java/org/jdom/test/cases/TestCDATA.java:485)25
+(test/src/java/org/jdom/test/cases/TestCDATA.java:499)24
+  CloneClass 123 (Type 2)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1186)20
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1218)21
+  CloneClass 194 (Type 2)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1134)13
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1231)13
+  CloneClass 264 (Type 2)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1153)23
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1186)21
+  CloneClass 371 (Type 2)
+(test/src/java/org/jdom/test/cases/TestDocument.java:350)16
+(test/src/java/org/jdom/test/cases/TestElement.java:815)12
+This is for clone class 3
+  CloneClass 115 (Type 3)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:1014)18
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:1068)18
+  CloneClass 143 (Type 3)
+(test/src/java/org/jdom/test/cases/TestFilterList.java:650)15
+(test/src/java/org/jdom/test/cases/TestFilterList.java:703)14
+  CloneClass 169 (Type 3)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:283)15
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:298)16
+  CloneClass 225 (Type 3)
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1250)37
+(test/src/java/org/jdom/test/cases/input/TestSAXHandler.java:1290)39
+  CloneClass 350 (Type 3)
+(test/src/java/org/jdom/test/cases/TestAttribute.java:495)10
+(test/src/java/org/jdom/test/cases/TestAttribute.java:520)10
+  CloneClass 363 (Type 3)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:993)18
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:1068)18
+  CloneClass 392 (Type 3)
+(test/src/java/org/jdom/test/cases/TestCDATA.java:339)28
+(test/src/java/org/jdom/test/cases/TestCDATA.java:487)28
+  CloneClass 400 (Type 3)
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:272)32
+(test/src/java/org/jdom/test/cases/input/TestSAXBuilder.java:797)36
+(test/build/src/org/jdom/test/cases/input/TestSAXBuilder.java:272)32
+(test/build/src/org/jdom/test/cases/input/TestSAXBuilder.java:797)36
+Found 393 clones in 126 cases.
+Net cloned lines = 4371

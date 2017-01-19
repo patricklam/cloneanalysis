@@ -1,0 +1,60 @@
+logs/cc.log
+BUILD SUCCESSFUL
+Total time: 8 minutes 54 seconds
+ 
+ 
+ 
+logs/gvis.log
+BUILD SUCCESSFUL
+Total time: 4 minutes 34 seconds
+ 
+ 
+ 
+logs/hsqldb.log
+BUILD SUCCESSFUL
+Total time: 3 minutes 55 seconds
+ 
+ 
+ 
+logs/jdom.log
+BUILD SUCCESSFUL
+Total time: 25 seconds
+ 
+ 
+ 
+logs/jfree.log
+BUILD SUCCESSFUL
+Total time: 2 minutes 32 seconds
+ 
+ 
+ 
+logs/jgrapht.log
+BUILD SUCCESSFUL
+Total time: 47 seconds
+ 
+ 
+ 
+logs/jmeter.log
+BUILD SUCCESSFUL
+Total time: 1 minute 16 seconds
+ 
+ 
+ 
+logs/jodatime.log
+BUILD SUCCESSFUL
+Total time: 17 minutes 56 seconds
+ 
+ 
+ 
+logs/poi.log
+BUILD SUCCESSFUL
+Total time: 8 minutes 59 seconds
+ 
+ 
+ 
+logs/weka.log
+BUILD SUCCESSFUL
+Total time: 1 minute 32 seconds
+ 
+ 
+ 

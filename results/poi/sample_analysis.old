@@ -1,0 +1,76 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+12
+A large number (10) of assertions are matched 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (2).
+
+46
+
+
+66
+
+
+69
+
+
+70
+
+
+102
+
+
+110
+
+
+123
+
+
+126
+A few number (4) of assertions are matched 
+Invalid clone set of a few number (2) of methods
+   the two methods test very different things and should not be refactored
+Relevant clone sets from call chain analysis does not exist (0).
+
+129
+
+
+137
+
+
+139
+
+
+150
+
+
+159
+
+
+164
+
+
+182
+
+
+203
+One (1) assertion is matched 
+   with one (1) branching
+      one (1) loop
+Partial valid clone set of a few number (4) of methods 
+   {
+      TestWordExtractor.testFootnote
+      TestWordExtractor.testEndnote
+      TestWordExtractor.testComments
+   } is a clone set, 3/4
+Relevant clone sets from call chain analysis does not exist (0).
+
+215
+
+
+219
+
+
+225
+
+

@@ -1,0 +1,183 @@
+Buildfile: /home/zfang/cloneanalysis/build.xml
+
+init:
+
+build:
+     [echo] CloneAnalysis: /home/zfang/cloneanalysis/build.xml
+
+main:
+     [echo] Analysing gvis
+     [java] Soot arguments:
+     [java] -cp lib/junit-4.11.jar:lib/rt.jar:lib/jce.jar:/home/zfang/projects/google-visualization/build/class/test:/home/zfang/projects/google-visualization/build/class/main:/home/zfang/projects/google-visualization/lib/servlet-api.jar:/home/zfang/projects/google-visualization/lib/easymock-2.5.jar:/home/zfang/projects/google-visualization/lib/guava-r07.jar:/home/zfang/projects/google-visualization/lib/icu4j-4_0_1.jar:/home/zfang/projects/google-visualization/lib/opencsv-1.8.jar:/home/zfang/projects/google-visualization/lib/commons-logging-1.1.1.jar:/home/zfang/projects/google-visualization/lib/commons-lang-2.4.jar:/home/zfang/projects/google-visualization/lib/javacc.jar -f jimple -w -full-resolver -print-tags -allow-phantom-refs -keep-line-number -p jop enabled:true -O -p cg.cha enabled:true -p cg.spark enabled:false -x junit.framework -dynamic-package com -dynamic-package com.google -dynamic-package com.google.visualization -dynamic-package com.google.visualization.datasource -dynamic-package com.google.visualization.datasource.render -dynamic-package com.google.visualization.datasource.datatable -dynamic-package com.google.visualization.datasource.datatable.value -dynamic-package com.google.visualization.datasource.query -dynamic-package com.google.visualization.datasource.query.parser -dynamic-package com.google.visualization.datasource.query.engine -dynamic-package com.google.visualization.datasource.query.scalarfunction -dynamic-package com.google.visualization.datasource.query.mocks -dynamic-package com.google.visualization.datasource.util -dynamic-package com.google.visualization.datasource.base com.google.visualization.datasource.QuerySplitterTest -process-dir /home/zfang/projects/google-visualization/build/class/test 
+     [java] Logging to file: /home/zfang/cloneanalysis/results/gvis/results
+     [java] Soot started on Sun Oct 19 21:10:51 PDT 2014
+     [java] Warning: java.dyn.InvokeDynamic is a phantom class!
+     [java] Warning: javax.annotation.Nullable is a phantom class!
+     [java] Warning: javax.annotation.concurrent.GuardedBy is a phantom class!
+     [java] Warning: javax.annotation.concurrent.Immutable is a phantom class!
+     [java] Warning: javax.annotation.ParametersAreNonnullByDefault is a phantom class!
+     [java] Warning: sun.security.ssl.SSLSocketImpl is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.WrapFactory is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.ClassShutter is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.Scriptable is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.Context is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.NativeJavaObject is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.Wrapper is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.RhinoException is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.ScriptableObject is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.JavaScriptException is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.ContextFactory is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.Undefined is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.Script is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.Function is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.Callable is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.ImporterTopLevel is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.Synchronizer is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.LazilyLoadedCtor is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.EvaluatorException is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.ScriptRuntime is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.NativeJavaClass is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.NativeJavaArray is a phantom class!
+     [java] Warning: sun.org.mozilla.javascript.NativeArray is a phantom class!
+     [java] No main class given. Inferred 'com.google.visualization.datasource.QuerySplitterTest' as main class.
+     [java] [Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+     [java] payload size: 384
+     [java] Executed 384 tasks for 0s
+     [java] payload size: 1932
+     [java] Executed 1932 tasks for 0s
+     [java] payload size: 1932
+     [java] Executed 901537 tasks for 24s
+     [java] Executed mergeStaticCalls for 0s
+     [java] payload size: 376
+     [java] Executed 376 tasks for 0s
+     [java] payload size: 376
+     [java] Executed 70500 tasks for 0s
+     [java] Executed mergeMethods for 0s
+     [java] 
+     [java] Logging to file: /home/zfang/cloneanalysis/results/gvis/all_methods
+     [java] 
+     [java] Logging to file: /home/zfang/cloneanalysis/results/gvis/method_sets_by_assert_flow
+     [java] 
+     [java] Logging to file: /home/zfang/cloneanalysis/results/gvis/methods_in_at_least_one_clone_set
+     [java] 
+     [java] Logging to file: /home/zfang/cloneanalysis/results/gvis/method_results
+     [java] 
+     [java] Logging to file: /home/zfang/cloneanalysis/results/gvis/method_stats
+     [java] 
+     [java] Logging to file: /home/zfang/cloneanalysis/results/gvis/class_stats
+     [java] Execution time for runSimilarityAnalysis: 25s
+     [java] Transforming com.google.visualization.datasource.base.StatusTypeTest... 
+     [java] Transforming com.google.visualization.datasource.base.DataSourceParametersTest... 
+     [java] Transforming com.google.visualization.datasource.base.BooleanFormatTest... 
+     [java] Transforming com.google.visualization.datasource.base.ResponseStatusTest... 
+     [java] Transforming com.google.visualization.datasource.base.TextFormatTest... 
+     [java] Transforming com.google.visualization.datasource.base.LocaleUtilTest... 
+     [java] Transforming com.google.visualization.datasource.base.ReasonTypeTest... 
+     [java] Transforming com.google.visualization.datasource.ResponseWriterTest... 
+     [java] Transforming com.google.visualization.datasource.render.CsvRendererTest... 
+     [java] Transforming com.google.visualization.datasource.render.JsonRendererTest... 
+     [java] Transforming com.google.visualization.datasource.render.EscapeUtilTest... 
+     [java] Transforming com.google.visualization.datasource.render.HtmlRendererTest... 
+     [java] Transforming com.google.visualization.datasource.DataSourceHelperTest... 
+     [java] Transforming com.google.visualization.datasource.query.scalarfunction.DateDiffTest... 
+     [java] Transforming com.google.visualization.datasource.query.scalarfunction.ToDateTest... 
+     [java] Transforming com.google.visualization.datasource.query.scalarfunction.LowerTest... 
+     [java] Transforming com.google.visualization.datasource.query.scalarfunction.UpperTest... 
+     [java] Transforming com.google.visualization.datasource.query.scalarfunction.TimeComponentExtractorTest... 
+     [java] Transforming com.google.visualization.datasource.query.CompoundFilterTest... 
+     [java] Transforming com.google.visualization.datasource.query.ColumnValueFilterTest... 
+     [java] Transforming com.google.visualization.datasource.query.mocks.MockDataSource... 
+     [java] Transforming com.google.visualization.datasource.query.mocks.MockDataSource$1... 
+     [java] Transforming com.google.visualization.datasource.query.parser.QueryBuilderTest... 
+     [java] Transforming com.google.visualization.datasource.query.ColumnColumnFilterTest... 
+     [java] Transforming com.google.visualization.datasource.query.ComparisonFilterTest$ConcreteComparisonFilter... 
+     [java] Transforming com.google.visualization.datasource.query.engine.ColumnValueAggregatorTest... 
+     [java] Transforming com.google.visualization.datasource.query.engine.QueryEngineTest... 
+     [java] Transforming com.google.visualization.datasource.query.engine.TableAggregatorTest... 
+     [java] Transforming com.google.visualization.datasource.query.engine.AggregationPathTest... 
+     [java] Transforming com.google.visualization.datasource.query.engine.ColumnTitleTest... 
+     [java] Transforming com.google.visualization.datasource.query.engine.AggregationNodeTest... 
+     [java] Transforming com.google.visualization.datasource.query.engine.ScalarFunctionColumnTitleTest... 
+     [java] Transforming com.google.visualization.datasource.query.engine.AggregationTreeTest... 
+     [java] Transforming com.google.visualization.datasource.query.ComparisonFilterTest... 
+     [java] Transforming com.google.visualization.datasource.query.QueryTest... 
+     [java] Transforming com.google.visualization.datasource.query.ScalarFunctionColumnTest... 
+     [java] Transforming com.google.visualization.datasource.util.MockResultSetMetaData... 
+     [java] Transforming com.google.visualization.datasource.util.SqlDataSourceHelperTest... 
+     [java] Transforming com.google.visualization.datasource.util.MockResultSet... 
+     [java] Transforming com.google.visualization.datasource.util.CsvDataSourceHelperTest... 
+     [java] Transforming com.google.visualization.datasource.DataSourceRequestTest... 
+     [java] Transforming com.google.visualization.datasource.datatable.TableCellTest... 
+     [java] Transforming com.google.visualization.datasource.datatable.ColumnDescriptionTest... 
+     [java] Transforming com.google.visualization.datasource.datatable.ValueFormatterTest... 
+     [java] Transforming com.google.visualization.datasource.datatable.DataTableTest... 
+     [java] Transforming com.google.visualization.datasource.datatable.TableRowTest... 
+     [java] Transforming com.google.visualization.datasource.datatable.value.NumberValueTest... 
+     [java] Transforming com.google.visualization.datasource.datatable.value.ValueTest... 
+     [java] Transforming com.google.visualization.datasource.datatable.value.TimeOfDayValueTest... 
+     [java] Transforming com.google.visualization.datasource.datatable.value.BooleanValueTest... 
+     [java] Transforming com.google.visualization.datasource.datatable.value.DateTimeValueTest... 
+     [java] Transforming com.google.visualization.datasource.datatable.value.ValueTypeTest... 
+     [java] Transforming com.google.visualization.datasource.datatable.value.DateValueTest... 
+     [java] Transforming com.google.visualization.datasource.datatable.value.TextValueTest... 
+     [java] Transforming com.google.visualization.datasource.QuerySplitterTest... 
+     [java] Writing to sootOutput/com.google.visualization.datasource.base.StatusTypeTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.base.DataSourceParametersTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.base.BooleanFormatTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.base.ResponseStatusTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.base.TextFormatTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.base.LocaleUtilTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.base.ReasonTypeTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.ResponseWriterTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.render.CsvRendererTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.render.JsonRendererTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.render.EscapeUtilTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.render.HtmlRendererTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.DataSourceHelperTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.scalarfunction.DateDiffTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.scalarfunction.ToDateTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.scalarfunction.LowerTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.scalarfunction.UpperTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.scalarfunction.TimeComponentExtractorTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.CompoundFilterTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.ColumnValueFilterTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.mocks.MockDataSource.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.mocks.MockDataSource$1.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.parser.QueryBuilderTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.ColumnColumnFilterTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.ComparisonFilterTest$ConcreteComparisonFilter.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.engine.ColumnValueAggregatorTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.engine.QueryEngineTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.engine.TableAggregatorTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.engine.AggregationPathTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.engine.ColumnTitleTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.engine.AggregationNodeTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.engine.ScalarFunctionColumnTitleTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.engine.AggregationTreeTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.ComparisonFilterTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.QueryTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.query.ScalarFunctionColumnTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.util.MockResultSetMetaData.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.util.SqlDataSourceHelperTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.util.MockResultSet.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.util.CsvDataSourceHelperTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.DataSourceRequestTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.datatable.TableCellTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.datatable.ColumnDescriptionTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.datatable.ValueFormatterTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.datatable.DataTableTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.datatable.TableRowTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.datatable.value.NumberValueTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.datatable.value.ValueTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.datatable.value.TimeOfDayValueTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.datatable.value.BooleanValueTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.datatable.value.DateTimeValueTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.datatable.value.ValueTypeTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.datatable.value.DateValueTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.datatable.value.TextValueTest.jimple
+     [java] Writing to sootOutput/com.google.visualization.datasource.QuerySplitterTest.jimple
+     [java] Soot finished on Sun Oct 19 21:15:25 PDT 2014
+     [java] Soot has run for 4 min. 34 sec.
+
+BUILD SUCCESSFUL
+Total time: 4 minutes 34 seconds

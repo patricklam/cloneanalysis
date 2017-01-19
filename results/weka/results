@@ -1,0 +1,989 @@
+[1] Set (score: 1.00, ccsize: 5, packages: 1, classes: 2): 
+	<weka.filters.unsupervised.attribute.CopyTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.CopyTest.java:65, 30.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<weka.filters.unsupervised.attribute.CopyTest.java:66, 30.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.CopyTest: void testTypical2()>
+		<weka.filters.unsupervised.attribute.CopyTest.java:74, 30.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<weka.filters.unsupervised.attribute.CopyTest.java:75, 30.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.ReorderTest: void testTypical3()>
+		<weka.filters.unsupervised.attribute.ReorderTest.java:85, 24.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<weka.filters.unsupervised.attribute.ReorderTest.java:86, 24.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<weka.filters.unsupervised.attribute.ReorderTest.java:87, 24.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.ReorderTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.ReorderTest.java:67, 35.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<weka.filters.unsupervised.attribute.ReorderTest.java:68, 35.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.ReorderTest: void testTypical2()>
+		<weka.filters.unsupervised.attribute.ReorderTest.java:76, 35.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<weka.filters.unsupervised.attribute.ReorderTest.java:77, 35.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[2] Set (score: 1.00, ccsize: 4, packages: 6, classes: 10): 
+	<weka.associations.AbstractAssociatorTest: void testZeroTraining()>
+		<weka.associations.AbstractAssociatorTest.java:525, 20.83%> (predicates:{(i0 <= 5)=true, ($z0 != 0)=true, (i0 != 5)=null, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.associations.AbstractAssociatorTest: void testBuildInitialization()>
+		<weka.associations.AbstractAssociatorTest.java:681, 20.83%> (predicates:{(i0 <= 5)=true, ($z0 != 0)=true, (i0 != 5)=null, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.associations.AbstractAssociatorTest: void testDatasetIntegrity()>
+		<weka.associations.AbstractAssociatorTest.java:719, 17.86%> (predicates:{(i0 <= 5)=true, ($z0 != 0)=true, (i0 != 5)=null, ($z9 != 0)=false, ($z10 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.attributeSelection.AbstractAttributeSelectionTest: void testZeroTraining()>
+		<weka.attributeSelection.AbstractAttributeSelectionTest.java:519, 21.74%> (predicates:{(i0 <= 4)=true, ($z0 != 0)=true, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.attributeSelection.AbstractAttributeSelectionTest: void testBuildInitialization()>
+		<weka.attributeSelection.AbstractAttributeSelectionTest.java:663, 21.74%> (predicates:{(i0 <= 4)=true, ($z0 != 0)=true, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.attributeSelection.AbstractAttributeSelectionTest: void testDatasetIntegrity()>
+		<weka.attributeSelection.AbstractAttributeSelectionTest.java:695, 18.52%> (predicates:{(i0 <= 4)=true, ($z0 != 0)=true, ($z9 != 0)=false, ($z10 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.classifiers.AbstractClassifierTest: void testZeroTraining()>
+		<weka.classifiers.AbstractClassifierTest.java:598, 21.74%> (predicates:{(i0 <= 4)=true, ($z0 != 0)=true, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.classifiers.AbstractClassifierTest: void testBuildInitialization()>
+		<weka.classifiers.AbstractClassifierTest.java:742, 21.74%> (predicates:{(i0 <= 4)=true, ($z0 != 0)=true, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.classifiers.AbstractClassifierTest: void testDatasetIntegrity()>
+		<weka.classifiers.AbstractClassifierTest.java:774, 18.52%> (predicates:{(i0 <= 4)=true, ($z0 != 0)=true, ($z9 != 0)=false, ($z10 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.classifiers.AbstractClassifierTest: void testUseOfTestClassValue()>
+		<weka.classifiers.AbstractClassifierTest.java:805, 22.73%> (predicates:{(i0 <= 4)=true, ($z0 != 0)=true, ($z7 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.classifiers.functions.supportVector.AbstractKernelTest: void testZeroTraining()>
+		<weka.classifiers.functions.supportVector.AbstractKernelTest.java:512, 21.74%> (predicates:{(i0 <= 4)=true, ($z0 != 0)=true, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.classifiers.functions.supportVector.AbstractKernelTest: void testBuildInitialization()>
+		<weka.classifiers.functions.supportVector.AbstractKernelTest.java:656, 21.74%> (predicates:{(i0 <= 4)=true, ($z0 != 0)=true, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.classifiers.functions.supportVector.AbstractKernelTest: void testDatasetIntegrity()>
+		<weka.classifiers.functions.supportVector.AbstractKernelTest.java:688, 18.52%> (predicates:{(i0 <= 4)=true, ($z0 != 0)=true, ($z9 != 0)=false, ($z10 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.core.OptionHandlersTest$OptionHandlerTest: void testListOptions()>
+		<weka.core.OptionHandlersTest$OptionHandlerTest.java:128, 45.45%> (predicates:{($r2 == null)=false, ($z0 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.OptionHandlersTest$OptionHandlerTest: void testSetOptions()>
+		<weka.core.OptionHandlersTest$OptionHandlerTest.java:140, 45.45%> (predicates:{($r2 == null)=false, ($z0 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.OptionHandlersTest$OptionHandlerTest: void testRemainingOptions()>
+		<weka.core.OptionHandlersTest$OptionHandlerTest.java:152, 45.45%> (predicates:{($r2 == null)=false, ($z0 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.OptionHandlersTest$OptionHandlerTest: void testCanonicalUserOptions()>
+		<weka.core.OptionHandlersTest$OptionHandlerTest.java:166, 45.45%> (predicates:{($r2 == null)=false, ($z0 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.OptionHandlersTest$OptionHandlerTest: void testResettingOptions()>
+		<weka.core.OptionHandlersTest$OptionHandlerTest.java:178, 45.45%> (predicates:{($r2 == null)=false, ($z0 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.TrieTest: void testCorrectBuild()>
+		<weka.core.TrieTest.java:130, 18.52%> (predicates:{($z1 != 0)=false, (i0 < $i5)=true, ($z2 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.core.tokenizers.AbstractTokenizerTest: void testBuildInitialization()>
+		<weka.core.tokenizers.AbstractTokenizerTest.java:207, 11.90%> (predicates:{(i0 < 2)=false, (i1 < $i3)=false, (i4 < $i9)=null, ($i5 != $i6)=null, (i7 < $i8)=null, ($z1 != 0)=null, (z0 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.tokenizers.AlphabeticTokenizerTest: void testNumberOfGeneratedTokens()>
+		<weka.core.tokenizers.AlphabeticTokenizerTest.java:58, 21.74%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<weka.core.tokenizers.AlphabeticTokenizerTest.java:68, 21.74%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.core.tokenizers.NGramTokenizerTest: void testNumberOfGeneratedTokens()>
+		<weka.core.tokenizers.NGramTokenizerTest.java:59, 15.63%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r14 := @caughtexception])
+		<weka.core.tokenizers.NGramTokenizerTest.java:68, 15.63%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r23 := @caughtexception])
+		<weka.core.tokenizers.NGramTokenizerTest.java:77, 15.63%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.core.tokenizers.WordTokenizerTest: void testNumberOfGeneratedTokens()>
+		<weka.core.tokenizers.WordTokenizerTest.java:57, 41.67%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+[3] Set (score: 1.00, ccsize: 4, packages: 5, classes: 5): 
+	<weka.associations.AbstractAssociatorTest: void testNClasses()>
+		<weka.associations.AbstractAssociatorTest.java:429, 21.74%> (predicates:{($z0 != 0)=true, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.attributeSelection.AbstractAttributeSelectionTest: void testNClasses()>
+		<weka.attributeSelection.AbstractAttributeSelectionTest.java:429, 21.74%> (predicates:{($z0 != 0)=true, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.classifiers.AbstractClassifierTest: void testNClasses()>
+		<weka.classifiers.AbstractClassifierTest.java:508, 21.74%> (predicates:{($z0 != 0)=true, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.classifiers.functions.supportVector.AbstractKernelTest: void testNClasses()>
+		<weka.classifiers.functions.supportVector.AbstractKernelTest.java:422, 21.74%> (predicates:{($z0 != 0)=true, ($z7 != 0)=false, ($z8 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.UtilsTest: void testSplittingAndJoining()>
+		<weka.core.UtilsTest.java:84, 22.73%> (predicates:{(i0 < $i4)=true, ($z0 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception])
+[4] Set (score: 1.00, ccsize: 4, packages: 1, classes: 2): 
+	<weka.filters.unsupervised.attribute.AddExpressionTest: void testDivide()>
+		<weka.filters.unsupervised.attribute.AddExpressionTest.java:94, 37.04%> (predicates:{(i0 < $i8)=true, ($b1 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.AddExpressionTest: void testBracketing()>
+		<weka.filters.unsupervised.attribute.AddExpressionTest.java:234, 29.41%> (predicates:{(i0 < $i7)=true, ($z0 != 0)=null, ($z1 != 0)=null, ($z2 != 0)=null, ($z3 == 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.AddExpressionTest: void testBODMAS()>
+		<weka.filters.unsupervised.attribute.AddExpressionTest.java:252, 25.00%> (predicates:{(i0 < $i7)=true, ($z0 != 0)=null, ($z1 != 0)=null, ($z2 != 0)=null, ($z3 == 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.FirstOrderTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.FirstOrderTest.java:93, 38.46%> (predicates:{(i0 < $i5)=true, ($z0 != 0)=null, ($z1 == 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.FirstOrderTest: void testTypical2()>
+		<weka.filters.unsupervised.attribute.FirstOrderTest.java:110, 38.46%> (predicates:{(i0 < $i5)=true, ($z0 != 0)=null, ($z1 == 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[5] Set (score: 1.00, ccsize: 4, packages: 1, classes: 2): 
+	<weka.filters.unsupervised.attribute.NumericToBinaryTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.NumericToBinaryTest.java:59, 13.89%> (predicates:{(i0 < $i10)=true, ($z0 == 0)=false, (i1 < $i9)=true, ($z2 == 0)=false, ($b6 != 0)=null, ($b7 != 0)=null, ($b8 != 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NumericTransformTest: void testDefault()>
+		<weka.filters.unsupervised.attribute.NumericTransformTest.java:72, 16.67%> (predicates:{(i0 < $i7)=true, (i1 < $i6)=true, ($z0 == 0)=false, ($z2 == 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[6] Set (score: 1.00, ccsize: 4, packages: 1, classes: 1): 
+	<weka.core.UtilsTest: void testQuoting()>
+		<weka.core.UtilsTest.java:119, 8.16%> (predicates:{($z0 != 0)=null, ($z1 != 0)=null, ($z3 == 0)=null, ($z4 == 0)=null, ($z7 == 0)=null, ($z8 == 0)=null, ($z11 == 0)=null, ($z12 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<weka.core.UtilsTest.java:124, 8.16%> (predicates:{($z0 != 0)=null, ($z1 != 0)=null, ($z3 == 0)=null, ($z4 == 0)=null, ($z7 == 0)=null, ($z8 == 0)=null, ($z11 == 0)=null, ($z12 == 0)=null, ($z15 == 0)=null, ($z16 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<weka.core.UtilsTest.java:129, 8.16%> (predicates:{($z0 != 0)=null, ($z1 != 0)=null, ($z3 == 0)=null, ($z4 == 0)=null, ($z7 == 0)=null, ($z8 == 0)=null, ($z11 == 0)=null, ($z12 == 0)=null, ($z15 == 0)=null, ($z16 == 0)=null, ($z19 == 0)=null, ($z20 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<weka.core.UtilsTest.java:134, 8.16%> (predicates:{($z0 != 0)=null, ($z1 != 0)=null, ($z3 == 0)=null, ($z4 == 0)=null, ($z7 == 0)=null, ($z8 == 0)=null, ($z11 == 0)=null, ($z12 == 0)=null, ($z15 == 0)=null, ($z16 == 0)=null, ($z19 == 0)=null, ($z20 == 0)=null, ($z23 == 0)=null, ($z24 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<weka.core.UtilsTest.java:139, 8.16%> (predicates:{($z0 != 0)=null, ($z1 != 0)=null, ($z3 == 0)=null, ($z4 == 0)=null, ($z7 == 0)=null, ($z8 == 0)=null, ($z11 == 0)=null, ($z12 == 0)=null, ($z15 == 0)=null, ($z16 == 0)=null, ($z19 == 0)=null, ($z20 == 0)=null, ($z23 == 0)=null, ($z24 == 0)=null, ($z27 == 0)=null, ($z28 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.UtilsTest: void testBackQuoting()>
+		<weka.core.UtilsTest.java:158, 26.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<weka.core.UtilsTest.java:162, 26.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<weka.core.UtilsTest.java:166, 26.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[7] Set (score: 1.00, ccsize: 3, packages: 14, classes: 26): 
+	<weka.associations.AbstractAssociatorTest: void testRegression()>
+		<weka.associations.AbstractAssociatorTest.java:827, 7.55%> (predicates:{($z1 == 0)=true, (i0 <= 5)=false, ($z2 != 0)=null, (i0 != 5)=null, ($z3 == 0)=null, ($z4 == 0)=null, ($z5 == 0)=null, ($z6 == 0)=null, ($z7 == 0)=null, ($i9 <= -1)=true, (z0 != 0)=null, (r22 != null)=true, ($z9 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r27 := @caughtexception])
+	<weka.attributeSelection.AbstractAttributeSelectionTest: void testRegression()>
+		<weka.attributeSelection.AbstractAttributeSelectionTest.java:795, 7.69%> (predicates:{($z1 == 0)=true, (i0 <= 4)=false, ($z2 != 0)=null, ($z3 == 0)=null, ($z4 == 0)=null, ($z5 == 0)=null, ($z6 == 0)=null, ($z7 == 0)=null, ($i8 <= -1)=true, (z0 != 0)=null, (r22 != null)=true, ($z9 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r27 := @caughtexception])
+	<weka.classifiers.AbstractClassifierTest: void testRegression()>
+		<weka.classifiers.AbstractClassifierTest.java:974, 6.90%> (predicates:{($z1 == 0)=true, (i0 <= 4)=false, ($z2 != 0)=null, ($z3 == 0)=null, ($z4 == 0)=null, ($z5 == 0)=null, ($z6 == 0)=null, ($z7 == 0)=null, ($i8 <= -1)=true, (z0 != 0)=null, (r28 != null)=true, ($z9 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r33 := @caughtexception])
+	<weka.classifiers.functions.supportVector.AbstractKernelTest: void testRegression()>
+		<weka.classifiers.functions.supportVector.AbstractKernelTest.java:796, 6.90%> (predicates:{($z1 == 0)=true, (i0 <= 4)=false, ($z2 != 0)=null, ($z3 == 0)=null, ($z4 == 0)=null, ($z5 == 0)=null, ($z6 == 0)=null, ($z7 == 0)=null, ($i8 <= -1)=true, (z0 != 0)=null, (r28 != null)=true, ($z9 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r33 := @caughtexception])
+	<weka.classifiers.misc.SerializedClassifierTest: void testRegression()>
+		<weka.classifiers.misc.SerializedClassifierTest.java:303, 8.16%> (predicates:{(r36 != null)=true, ($z0 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r41 := @caughtexception])
+	<weka.classifiers.pmml.consumer.AbstractPMMLClassifierTest: void testRegression()>
+		<weka.classifiers.pmml.consumer.AbstractPMMLClassifierTest.java:93, 8.89%> (predicates:{(i0 < $i2)=false, ($i1 <= -1)=true, (z0 != 0)=null, (r26 != null)=true, ($z1 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r31 := @caughtexception])
+	<weka.clusterers.AbstractClustererTest: void testRegression()>
+		<weka.clusterers.AbstractClustererTest.java:554, 9.52%> (predicates:{($z1 == 0)=true, ($z2 == 0)=null, ($z3 == 0)=null, ($z4 == 0)=null, ($z5 == 0)=null, ($z6 == 0)=null, ($i7 <= -1)=true, (z0 != 0)=null, (r14 != null)=true, ($z8 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r19 := @caughtexception])
+	<weka.core.converters.AbstractFileConverterTest: void testBatch()>
+		<weka.core.converters.AbstractFileConverterTest.java:253, 12.90%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r22 := @caughtexception])
+		<weka.core.converters.AbstractFileConverterTest.java:258, 12.90%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.core.converters.AbstractFileConverterTest: void testIncrementalLoader()>
+		<weka.core.converters.AbstractFileConverterTest.java:295, 10.81%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r27 := @caughtexception])
+		<weka.core.converters.AbstractFileConverterTest.java:300, 10.81%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.core.converters.AbstractFileConverterTest: void testURLSourcedLoader()>
+		<weka.core.converters.AbstractFileConverterTest.java:385, 11.43%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r25 := @caughtexception])
+		<weka.core.converters.AbstractFileConverterTest.java:390, 11.43%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.core.converters.AbstractFileConverterTest: void testLoaderWithStream()>
+		<weka.core.converters.AbstractFileConverterTest.java:417, 12.90%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r22 := @caughtexception])
+		<weka.core.converters.AbstractFileConverterTest.java:422, 12.90%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.core.converters.AbstractFileConverterTest: void testIncrementalSaver()>
+		<weka.core.converters.AbstractFileConverterTest.java:331, 14.81%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.core.neighboursearch.AbstractNearestNeighbourSearchTest: void testRegression()>
+		<weka.core.neighboursearch.AbstractNearestNeighbourSearchTest.java:392, 17.39%> (predicates:{(r12 != null)=true, ($z0 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r17 := @caughtexception])
+	<weka.core.tokenizers.AbstractTokenizerTest: void testRegression()>
+		<weka.core.tokenizers.AbstractTokenizerTest.java:283, 13.79%> (predicates:{(i0 < $i1)=false, (z0 != 0)=null, (r15 != null)=true, ($z1 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r20 := @caughtexception])
+	<weka.datagenerators.AbstractClusterDefinitionTest: void testOptions()>
+		<weka.datagenerators.AbstractClusterDefinitionTest.java:101, 40.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.datagenerators.AbstractDataGeneratorTest: void testOptions()>
+		<weka.datagenerators.AbstractDataGeneratorTest.java:135, 40.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.datagenerators.AbstractDataGeneratorTest: void testMakeData()>
+		<weka.datagenerators.AbstractDataGeneratorTest.java:147, 44.44%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.AbstractFilterTest: void testBuffered()>
+		<weka.filters.AbstractFilterTest.java:270, 8.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r15 := @caughtexception])
+		<weka.filters.AbstractFilterTest.java:277, 8.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<weka.filters.AbstractFilterTest.java:297, 8.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r33 := @caughtexception])
+		<weka.filters.AbstractFilterTest.java:304, 8.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.AbstractFilterTest: void testRegression()>
+		<weka.filters.AbstractFilterTest.java:401, 7.02%> (predicates:{(r4 != null)=true, ($z0 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception])
+		<weka.filters.AbstractFilterTest.java:415, 7.02%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r36 := @caughtexception])
+		<weka.filters.AbstractFilterTest.java:430, 7.02%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<weka.filters.AbstractFilterTest.java:438, 7.02%> (predicates:{(r4 != null)=null, ($z0 != 0)=null, (i0 < $i1)=false, ($r34 != null)=false, (r43 != null)=true, ($z5 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r48 := @caughtexception])
+	<weka.filters.AbstractFilterTest: void testIncremental()>
+		<weka.filters.AbstractFilterTest.java:332, 6.56%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<weka.filters.AbstractFilterTest.java:346, 6.56%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<weka.filters.AbstractFilterTest.java:364, 6.56%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.AbstractFilterTest: void testThroughput()>
+		<weka.filters.AbstractFilterTest.java:489, 4.82%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<weka.filters.AbstractFilterTest.java:506, 4.82%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.AbstractFilterTest: void testFilteredClassifier()>
+		<weka.filters.AbstractFilterTest.java:608, 28.57%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.AbstractTimeSeriesFilterTest: void testFilteredClassifier()>
+		<weka.filters.AbstractTimeSeriesFilterTest.java:140, 17.39%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.AddTest: void testType(int)>
+		<weka.filters.unsupervised.attribute.AddTest.java:74, 16.67%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r13 := @caughtexception])
+		<weka.filters.unsupervised.attribute.AddTest.java:81, 16.67%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.AddValuesTest: void testFilteredClassifier()>
+		<weka.filters.unsupervised.attribute.AddValuesTest.java:190, 20.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.ChangeDateFormatTest: void testFilteredClassifier()>
+		<weka.filters.unsupervised.attribute.ChangeDateFormatTest.java:133, 20.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testNominalClass()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:70, 16.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r14 := @caughtexception])
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:78, 16.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testNominalClassSingleAttribute()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:101, 14.81%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r16 := @caughtexception])
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:109, 14.81%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testNumericClass()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:130, 16.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r14 := @caughtexception])
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:138, 16.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testWithoutClass()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:158, 16.67%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r13 := @caughtexception])
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:166, 16.67%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testPerAttribute()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:190, 12.50%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r15 := @caughtexception])
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:198, 12.50%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testOffset()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:228, 11.76%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r17 := @caughtexception])
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:236, 11.76%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MakeIndicatorTest: void testFilteredClassifier()>
+		<weka.filters.unsupervised.attribute.MakeIndicatorTest.java:143, 20.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeManyValuesTest: void testFilteredClassifier()>
+		<weka.filters.unsupervised.attribute.MergeManyValuesTest.java:187, 20.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeTwoValuesTest: void testFilteredClassifier()>
+		<weka.filters.unsupervised.attribute.MergeTwoValuesTest.java:172, 20.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NominalToStringTest: void testFilteredClassifier()>
+		<weka.filters.unsupervised.attribute.NominalToStringTest.java:135, 20.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NumericCleanerTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.NumericCleanerTest.java:59, 17.39%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r13 := @caughtexception])
+		<weka.filters.unsupervised.attribute.NumericCleanerTest.java:67, 17.39%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.StringToNominalTest: void testFilteredClassifier()>
+		<weka.filters.unsupervised.attribute.StringToNominalTest.java:146, 20.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.SwapValuesTest: void testFilteredClassifier()>
+		<weka.filters.unsupervised.attribute.SwapValuesTest.java:158, 20.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RemoveFrequentValuesTest: void testFilteredClassifier()>
+		<weka.filters.unsupervised.instance.RemoveFrequentValuesTest.java:170, 20.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+[8] Set (score: 1.00, ccsize: 3, packages: 12, classes: 13): 
+	<weka.associations.AbstractAssociatorTest: void testRegression()>
+		<weka.associations.AbstractAssociatorTest.java:831, 7.55%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.attributeSelection.AbstractAttributeSelectionTest: void testRegression()>
+		<weka.attributeSelection.AbstractAttributeSelectionTest.java:799, 7.69%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.classifiers.AbstractClassifierTest: void testRegression()>
+		<weka.classifiers.AbstractClassifierTest.java:978, 6.90%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.classifiers.functions.supportVector.AbstractKernelTest: void testRegression()>
+		<weka.classifiers.functions.supportVector.AbstractKernelTest.java:800, 6.90%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.classifiers.misc.InputMappedClassifierTest: double[] testClassifier(weka.core.Instances,weka.classifiers.misc.InputMappedClassifier)>
+		<weka.classifiers.misc.InputMappedClassifierTest.java:253, 28.57%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.classifiers.misc.SerializedClassifierTest: void testRegression()>
+		<weka.classifiers.misc.SerializedClassifierTest.java:267, 8.16%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<weka.classifiers.misc.SerializedClassifierTest.java:285, 8.16%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<weka.classifiers.misc.SerializedClassifierTest.java:295, 8.16%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r41 := @caughtexception])
+		<weka.classifiers.misc.SerializedClassifierTest.java:307, 8.16%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.classifiers.pmml.consumer.AbstractPMMLClassifierTest: void testRegression()>
+		<weka.classifiers.pmml.consumer.AbstractPMMLClassifierTest.java:96, 8.89%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.clusterers.AbstractClustererTest: void testRegression()>
+		<weka.clusterers.AbstractClustererTest.java:558, 9.52%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.core.UtilsTest: void testSplittingAndJoining()>
+		<weka.core.UtilsTest.java:88, 18.18%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.core.neighboursearch.AbstractNearestNeighbourSearchTest: void testRegression()>
+		<weka.core.neighboursearch.AbstractNearestNeighbourSearchTest.java:384, 17.39%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r17 := @caughtexception])
+		<weka.core.neighboursearch.AbstractNearestNeighbourSearchTest.java:396, 17.39%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.core.neighboursearch.AbstractNearestNeighbourSearchTest: void testNumberOfNeighbors()>
+		<weka.core.neighboursearch.AbstractNearestNeighbourSearchTest.java:253, 13.79%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.core.tokenizers.AbstractTokenizerTest: void testRegression()>
+		<weka.core.tokenizers.AbstractTokenizerTest.java:287, 13.79%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.AbstractFilterTest: void testBatchFiltering()>
+		<weka.filters.AbstractFilterTest.java:628, 6.56%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r23 := @caughtexception])
+		<weka.filters.AbstractFilterTest.java:653, 6.56%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r42 := @caughtexception])
+		<weka.filters.AbstractFilterTest.java:687, 6.56%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.AbstractFilterTest: void testBatchFilteringSmaller()>
+		<weka.filters.AbstractFilterTest.java:707, 6.06%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r24 := @caughtexception])
+		<weka.filters.AbstractFilterTest.java:732, 6.06%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r42 := @caughtexception])
+		<weka.filters.AbstractFilterTest.java:771, 6.06%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.AbstractFilterTest: void testBatchFilteringLarger()>
+		<weka.filters.AbstractFilterTest.java:791, 5.97%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r24 := @caughtexception])
+		<weka.filters.AbstractFilterTest.java:816, 5.97%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[$r43 := @caughtexception])
+		<weka.filters.AbstractFilterTest.java:855, 5.97%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.AbstractFilterTest: void testRegression()>
+		<weka.filters.AbstractFilterTest.java:404, 7.02%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+		<weka.filters.AbstractFilterTest.java:441, 7.02%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest: void testDisjoint()>
+		<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest.java:104, 20.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest: void testDisjointRemoveUnused()>
+		<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest.java:125, 19.05%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest: void testOverlapping()>
+		<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest.java:146, 19.05%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest: void testOverlappingRemoveUnused()>
+		<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest.java:167, 19.05%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+[9] Set (score: 1.00, ccsize: 2, packages: 2, classes: 3): 
+	<weka.filters.AbstractFilterTest: void testBuffered()>
+		<weka.filters.AbstractFilterTest.java:315, 12.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testNominalClass()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:83, 24.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testNominalClassSingleAttribute()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:114, 22.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testNumericClass()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:143, 24.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testWithoutClass()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:171, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testPerAttribute()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:208, 18.75%> (predicates:{(i0 < $i2)=false, ($z1 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testOffset()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:246, 17.65%> (predicates:{(i0 < $i2)=false, ($z1 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NumericCleanerTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.NumericCleanerTest.java:71, 26.09%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[10] Set (score: 0.86, ccsize: 3, packages: 5, classes: 32): 
+	<weka.filters.AllFilterTest: void testTypical()>
+		<weka.filters.AllFilterTest.java:46, 87.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.MultiFilterTest: void testDefault()>
+		<weka.filters.MultiFilterTest.java:81, 87.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.MultiFilterTest: void testConfiguredVariant()>
+		<weka.filters.MultiFilterTest.java:104, 77.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.attribute.DiscretizeTest: void testTypical()>
+		<weka.filters.supervised.attribute.DiscretizeTest.java:72, 38.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.attribute.DiscretizeTest: void testTypical2()>
+		<weka.filters.supervised.attribute.DiscretizeTest.java:83, 31.82%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.instance.ResampleTest: void testSampleSizePercent()>
+		<weka.filters.supervised.instance.ResampleTest.java:57, 36.84%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.AddNoiseTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.AddNoiseTest.java:75, 38.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.CenterTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.CenterTest.java:50, 87.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.ClassAssignerTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.ClassAssignerTest.java:50, 87.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.DiscretizeTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.DiscretizeTest.java:65, 38.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.DiscretizeTest: void testTypical2()>
+		<weka.filters.unsupervised.attribute.DiscretizeTest.java:76, 31.82%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:65, 77.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testEquality()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:117, 30.43%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testAbs()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:138, 29.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testsqrt()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:159, 29.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testLog()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:180, 29.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testExp()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:201, 29.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testSin()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:222, 29.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testCos()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:243, 29.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testTan()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:264, 29.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testRint()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:285, 29.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testFloor()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:306, 29.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testPow2()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:327, 29.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testCeil()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:348, 29.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeManyValuesTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.MergeManyValuesTest.java:88, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeTwoValuesTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.MergeTwoValuesTest.java:69, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NominalToStringTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.NominalToStringTest.java:92, 58.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NormalizeTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.NormalizeTest.java:49, 29.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NumericToBinaryTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.NumericToBinaryTest.java:49, 19.44%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NumericToNominalTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.NumericToNominalTest.java:51, 70.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NumericTransformTest: void testDefault()>
+		<weka.filters.unsupervised.attribute.NumericTransformTest.java:66, 23.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.ObfuscateTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.ObfuscateTest.java:49, 19.44%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.PKIDiscretizeTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.PKIDiscretizeTest.java:64, 58.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.RemoveUselessTest: void testNoneRemoved()>
+		<weka.filters.unsupervised.attribute.RemoveUselessTest.java:69, 77.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.ReorderTest: void testTypical3()>
+		<weka.filters.unsupervised.attribute.ReorderTest.java:84, 28.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.ReplaceMissingValuesTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.ReplaceMissingValuesTest.java:49, 18.42%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.ReplaceMissingWithUserConstantTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.ReplaceMissingWithUserConstantTest.java:52, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.StandardizeTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.StandardizeTest.java:50, 35.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.StringToNominalTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.StringToNominalTest.java:71, 58.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.SwapValuesTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.SwapValuesTest.java:69, 20.59%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.NonSparseToSparseTest: void testTypical()>
+		<weka.filters.unsupervised.instance.NonSparseToSparseTest.java:50, 58.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RandomizeTest: void testTypical()>
+		<weka.filters.unsupervised.instance.RandomizeTest.java:48, 38.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RemovePercentageTest: void testTypical()>
+		<weka.filters.unsupervised.instance.RemovePercentageTest.java:59, 116.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.ResampleTest: void testSampleSizePercent()>
+		<weka.filters.unsupervised.instance.ResampleTest.java:49, 36.84%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.ReservoirSampleTest: void testTypical()>
+		<weka.filters.unsupervised.instance.ReservoirSampleTest.java:62, 38.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.SparseToNonSparseTest: void testTypical()>
+		<weka.filters.unsupervised.instance.SparseToNonSparseTest.java:50, 41.18%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.SubsetByExpressionTest: void testIsmissing()>
+		<weka.filters.unsupervised.instance.SubsetByExpressionTest.java:92, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.SubsetByExpressionTest: void testNotIsmissing()>
+		<weka.filters.unsupervised.instance.SubsetByExpressionTest.java:102, 70.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.SubsetByExpressionTest: void testClassIs()>
+		<weka.filters.unsupervised.instance.SubsetByExpressionTest.java:112, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.SubsetByExpressionTest: void testClassIs2()>
+		<weka.filters.unsupervised.instance.SubsetByExpressionTest.java:122, 77.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.SubsetByExpressionTest: void testAttIs()>
+		<weka.filters.unsupervised.instance.SubsetByExpressionTest.java:132, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.SubsetByExpressionTest: void testGreater()>
+		<weka.filters.unsupervised.instance.SubsetByExpressionTest.java:142, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.SubsetByExpressionTest: void testLess()>
+		<weka.filters.unsupervised.instance.SubsetByExpressionTest.java:152, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.SubsetByExpressionTest: void testGreaterOrEqual()>
+		<weka.filters.unsupervised.instance.SubsetByExpressionTest.java:162, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.SubsetByExpressionTest: void testLessOrEqual()>
+		<weka.filters.unsupervised.instance.SubsetByExpressionTest.java:172, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.SubsetByExpressionTest: void testEqual()>
+		<weka.filters.unsupervised.instance.SubsetByExpressionTest.java:182, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.SubsetByExpressionTest: void testAnd()>
+		<weka.filters.unsupervised.instance.SubsetByExpressionTest.java:192, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[11] Set (score: 0.86, ccsize: 3, packages: 1, classes: 2): 
+	<weka.filters.unsupervised.attribute.RemoveByNameTest: void testTypicalInverted()>
+		<weka.filters.unsupervised.attribute.RemoveByNameTest.java:118, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.StringToWordVectorTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.StringToWordVectorTest.java:49, 140.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[12] Set (score: 0.83, ccsize: 6, packages: 2, classes: 2): 
+	<weka.filters.supervised.attribute.DiscretizeTest: void testTypical()>
+		<weka.filters.supervised.attribute.DiscretizeTest.java:75, 61.11%> (predicates:{(i0 < $i5)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.attribute.DiscretizeTest: void testTypical2()>
+		<weka.filters.supervised.attribute.DiscretizeTest.java:86, 50.00%> (predicates:{(i0 < $i7)=true, (i0 == 2)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.DiscretizeTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.DiscretizeTest.java:68, 61.11%> (predicates:{(i0 < $i5)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.DiscretizeTest: void testTypical2()>
+		<weka.filters.unsupervised.attribute.DiscretizeTest.java:79, 50.00%> (predicates:{(i0 < $i7)=true, (i0 == 2)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[13] Set (score: 0.83, ccsize: 6, packages: 2, classes: 2): 
+	<weka.filters.supervised.attribute.DiscretizeTest: void testTypical()>
+		<weka.filters.supervised.attribute.DiscretizeTest.java:76, 61.11%> (predicates:{(i0 < $i5)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.attribute.DiscretizeTest: void testTypical2()>
+		<weka.filters.supervised.attribute.DiscretizeTest.java:87, 50.00%> (predicates:{(i0 < $i7)=true, (i0 == 2)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.DiscretizeTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.DiscretizeTest.java:69, 61.11%> (predicates:{(i0 < $i5)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.DiscretizeTest: void testTypical2()>
+		<weka.filters.unsupervised.attribute.DiscretizeTest.java:80, 50.00%> (predicates:{(i0 < $i7)=true, (i0 == 2)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[14] Set (score: 0.83, ccsize: 5, packages: 1, classes: 1): 
+	<weka.filters.unsupervised.attribute.RemoveTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.RemoveTest.java:58, 62.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.RemoveTest: void testTypical2()>
+		<weka.filters.unsupervised.attribute.RemoveTest.java:67, 62.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[15] Set (score: 0.80, ccsize: 6, packages: 1, classes: 1): 
+	<weka.filters.unsupervised.attribute.RemoveTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.RemoveTest.java:59, 68.75%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.RemoveTest: void testTypical2()>
+		<weka.filters.unsupervised.attribute.RemoveTest.java:68, 68.75%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.RemoveTest: void testNonInverted()>
+		<weka.filters.unsupervised.attribute.RemoveTest.java:76, 57.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.RemoveTest: void testNonInverted2()>
+		<weka.filters.unsupervised.attribute.RemoveTest.java:85, 78.57%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[16] Set (score: 0.80, ccsize: 4, packages: 4, classes: 30): 
+	<weka.filters.AllFilterTest: void testTypical()>
+		<weka.filters.AllFilterTest.java:47, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.MultiFilterTest: void testDefault()>
+		<weka.filters.MultiFilterTest.java:82, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.MultiFilterTest: void testConfigured()>
+		<weka.filters.MultiFilterTest.java:94, 80.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.MultiFilterTest: void testConfiguredVariant()>
+		<weka.filters.MultiFilterTest.java:105, 88.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.attribute.NominalToBinaryTest: void testTypical()>
+		<weka.filters.supervised.attribute.NominalToBinaryTest.java:59, 88.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.AddClusterTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.AddClusterTest.java:126, 80.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.AddNoiseTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.AddNoiseTest.java:76, 44.44%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.CenterTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.CenterTest.java:51, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.ClassAssignerTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.ClassAssignerTest.java:51, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:66, 88.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testEquality()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:118, 34.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testAbs()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:139, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testsqrt()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:160, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testLog()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:181, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testExp()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:202, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testSin()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:223, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testCos()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:244, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testTan()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:265, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testRint()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:286, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testFloor()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:307, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testPow2()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:328, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MathExpressionTest: void testCeil()>
+		<weka.filters.unsupervised.attribute.MathExpressionTest.java:349, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeManyValuesTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.MergeManyValuesTest.java:89, 28.57%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeTwoValuesTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.MergeTwoValuesTest.java:70, 28.57%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NominalToBinaryTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.NominalToBinaryTest.java:50, 88.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NominalToStringTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.NominalToStringTest.java:93, 66.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NormalizeTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.NormalizeTest.java:50, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NumericToBinaryTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.NumericToBinaryTest.java:50, 22.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NumericToNominalTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.NumericToNominalTest.java:52, 80.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NumericTransformTest: void testDefault()>
+		<weka.filters.unsupervised.attribute.NumericTransformTest.java:67, 26.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.ObfuscateTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.ObfuscateTest.java:50, 22.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.PKIDiscretizeTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.PKIDiscretizeTest.java:65, 66.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.RemoveByNameTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.RemoveByNameTest.java:86, 80.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.RemoveUselessTest: void testNoneRemoved()>
+		<weka.filters.unsupervised.attribute.RemoveUselessTest.java:70, 88.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.RemoveUselessTest: void testSomeRemoved()>
+		<weka.filters.unsupervised.attribute.RemoveUselessTest.java:77, 80.00%> (predicates:{($i0 <= $i1)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.ReplaceMissingValuesTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.ReplaceMissingValuesTest.java:50, 21.05%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.ReplaceMissingWithUserConstantTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.ReplaceMissingWithUserConstantTest.java:53, 38.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.StandardizeTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.StandardizeTest.java:51, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.StringToNominalTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.StringToNominalTest.java:72, 66.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.SwapValuesTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.SwapValuesTest.java:70, 23.53%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.NonSparseToSparseTest: void testTypical()>
+		<weka.filters.unsupervised.instance.NonSparseToSparseTest.java:51, 66.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RandomizeTest: void testTypical()>
+		<weka.filters.unsupervised.instance.RandomizeTest.java:49, 44.44%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.ReservoirSampleTest: void testTypical()>
+		<weka.filters.unsupervised.instance.ReservoirSampleTest.java:63, 44.44%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.SparseToNonSparseTest: void testTypical()>
+		<weka.filters.unsupervised.instance.SparseToNonSparseTest.java:51, 47.06%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.SubsetByExpressionTest: void testClassIs2()>
+		<weka.filters.unsupervised.instance.SubsetByExpressionTest.java:123, 88.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[17] Set (score: 0.80, ccsize: 4, packages: 1, classes: 1): 
+	<weka.filters.unsupervised.attribute.AddExpressionTest: void testAdd()>
+		<weka.filters.unsupervised.attribute.AddExpressionTest.java:60, 76.47%> (predicates:{(i0 < $i4)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.AddExpressionTest: void testSubtract()>
+		<weka.filters.unsupervised.attribute.AddExpressionTest.java:71, 76.47%> (predicates:{(i0 < $i4)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.AddExpressionTest: void testMultiply()>
+		<weka.filters.unsupervised.attribute.AddExpressionTest.java:82, 76.47%> (predicates:{(i0 < $i4)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.AddExpressionTest: void testDivide()>
+		<weka.filters.unsupervised.attribute.AddExpressionTest.java:97, 48.15%> (predicates:{(i0 < $i8)=true, ($b1 != 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.AddExpressionTest: void testBODMAS()>
+		<weka.filters.unsupervised.attribute.AddExpressionTest.java:255, 32.50%> (predicates:{(i0 < $i7)=true, ($z0 != 0)=false, ($z1 != 0)=false, ($z2 != 0)=false, ($z3 == 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[18] Set (score: 0.79, ccsize: 8, packages: 2, classes: 3): 
+	<weka.filters.AbstractTimeSeriesFilterTest: void testFillWithMissing()>
+		<weka.filters.AbstractTimeSeriesFilterTest.java:76, 45.24%> (predicates:{(i0 < $i9)=true, (i1 < $i8)=true, (i1 == 1)=false, (i1 == 2)=false, ($z0 == 0)=true, ($z2 == 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.AbstractTimeSeriesFilterTest: void testInstanceRange_X(int)>
+		<weka.filters.AbstractTimeSeriesFilterTest.java:107, 39.58%> (predicates:{(i1 < $i15)=true, (i0 <= 0)=null, (i2 < $i14)=true, (i2 == 1)=false, (i2 == 2)=false, ($z0 == 0)=true, ($z2 == 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.TimeSeriesDeltaTest: void testInverted()>
+		<weka.filters.unsupervised.attribute.TimeSeriesDeltaTest.java:72, 42.22%> (predicates:{(i0 < $i11)=true, (i1 < $i10)=true, (i1 == 4)=false, (i1 == 5)=false, (i1 == 6)=false, ($z0 == 0)=true, ($z2 == 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.TimeSeriesTranslateTest: void testInverted()>
+		<weka.filters.unsupervised.attribute.TimeSeriesTranslateTest.java:73, 42.22%> (predicates:{(i0 < $i11)=true, (i1 < $i10)=true, (i1 == 4)=false, (i1 == 5)=false, (i1 == 6)=false, ($z0 == 0)=true, ($z2 == 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[19] Set (score: 0.75, ccsize: 4, packages: 5, classes: 17): 
+	<weka.filters.AbstractTimeSeriesFilterTest: void testFillWithMissing()>
+		<weka.filters.AbstractTimeSeriesFilterTest.java:64, 19.05%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.AbstractTimeSeriesFilterTest: void testInstanceRange_X(int)>
+		<weka.filters.AbstractTimeSeriesFilterTest.java:95, 16.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.attribute.DiscretizeTest: void testInverted()>
+		<weka.filters.supervised.attribute.DiscretizeTest.java:99, 29.63%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.attribute.DiscretizeTest: void testNonInverted2()>
+		<weka.filters.supervised.attribute.DiscretizeTest.java:115, 29.63%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.attribute.DiscretizeTest: void testBetterEncoding()>
+		<weka.filters.supervised.attribute.DiscretizeTest.java:131, 80.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.attribute.DiscretizeTest: void testUseKononenko()>
+		<weka.filters.supervised.attribute.DiscretizeTest.java:139, 80.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.instance.SpreadSubsampleTest: void testAdjustWeights()>
+		<weka.filters.supervised.instance.SpreadSubsampleTest.java:68, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.AddNoiseTest: void testNoNoise()>
+		<weka.filters.unsupervised.attribute.AddNoiseTest.java:94, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.ChangeDateFormatTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.ChangeDateFormatTest.java:72, 34.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.ChangeDateFormatTest: void testSameFormat()>
+		<weka.filters.unsupervised.attribute.ChangeDateFormatTest.java:98, 34.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.DiscretizeTest: void testInverted()>
+		<weka.filters.unsupervised.attribute.DiscretizeTest.java:92, 29.63%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.DiscretizeTest: void testNonInverted2()>
+		<weka.filters.unsupervised.attribute.DiscretizeTest.java:108, 29.63%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.DiscretizeTest: void testBins()>
+		<weka.filters.unsupervised.attribute.DiscretizeTest.java:124, 36.36%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.DiscretizeTest: void testFindNumBins()>
+		<weka.filters.unsupervised.attribute.DiscretizeTest.java:139, 61.54%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MakeIndicatorTest: void testDefault()>
+		<weka.filters.unsupervised.attribute.MakeIndicatorTest.java:71, 28.57%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeManyValuesTest: void testDifferentRange()>
+		<weka.filters.unsupervised.attribute.MergeManyValuesTest.java:112, 26.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeManyValuesTest: void testMergeAll()>
+		<weka.filters.unsupervised.attribute.MergeManyValuesTest.java:136, 66.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeTwoValuesTest: void testFirstValueIndex()>
+		<weka.filters.unsupervised.attribute.MergeTwoValuesTest.java:90, 26.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeTwoValuesTest: void testSecondValueIndex()>
+		<weka.filters.unsupervised.attribute.MergeTwoValuesTest.java:111, 26.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NominalToStringTest: void testMissing()>
+		<weka.filters.unsupervised.attribute.NominalToStringTest.java:104, 34.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NumericTransformTest: void testInverted()>
+		<weka.filters.unsupervised.attribute.NumericTransformTest.java:91, 24.24%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.StringToNominalTest: void testMissing()>
+		<weka.filters.unsupervised.attribute.StringToNominalTest.java:83, 34.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.StringToNominalTest: void testRange()>
+		<weka.filters.unsupervised.attribute.StringToNominalTest.java:100, 21.62%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.SwapValuesTest: void testFirstValueIndex()>
+		<weka.filters.unsupervised.attribute.SwapValuesTest.java:86, 22.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.SwapValuesTest: void testSecondValueIndex()>
+		<weka.filters.unsupervised.attribute.SwapValuesTest.java:103, 22.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.TimeSeriesDeltaTest: void testInverted()>
+		<weka.filters.unsupervised.attribute.TimeSeriesDeltaTest.java:60, 17.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.TimeSeriesTranslateTest: void testInverted()>
+		<weka.filters.unsupervised.attribute.TimeSeriesTranslateTest.java:61, 17.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RemoveMisclassifiedTest: void testNominal()>
+		<weka.filters.unsupervised.instance.RemoveMisclassifiedTest.java:90, 114.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RemoveMisclassifiedTest: void testNumeric()>
+		<weka.filters.unsupervised.instance.RemoveMisclassifiedTest.java:97, 114.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RemoveWithValuesTest: void testNominal()>
+		<weka.filters.unsupervised.instance.RemoveWithValuesTest.java:62, 16.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RemoveWithValuesTest: void testNumeric()>
+		<weka.filters.unsupervised.instance.RemoveWithValuesTest.java:94, 24.24%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[20] Set (score: 0.75, ccsize: 4, packages: 1, classes: 2): 
+	<weka.filters.unsupervised.attribute.ClusterMembershipTest: void testNominal()>
+		<weka.filters.unsupervised.attribute.ClusterMembershipTest.java:110, 66.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.PartitionMembershipTest: void testNominal()>
+		<weka.filters.unsupervised.attribute.PartitionMembershipTest.java:110, 88.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[21] Set (score: 0.75, ccsize: 4, packages: 1, classes: 2): 
+	<weka.filters.unsupervised.attribute.MergeManyValuesTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.MergeManyValuesTest.java:98, 39.29%> (predicates:{(i1 < $i10)=true, ($b6 == 0)=null, ($b7 != 0)=false, (i0 != -1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeTwoValuesTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.MergeTwoValuesTest.java:79, 39.29%> (predicates:{(i1 < $i10)=true, ($b6 == 0)=null, ($b7 != 0)=false, (i0 != -1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[22] Set (score: 0.75, ccsize: 4, packages: 1, classes: 1): 
+	<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest: void testDisjoint()>
+		<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest.java:107, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest: void testDisjointRemoveUnused()>
+		<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest.java:128, 38.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest: void testOverlapping()>
+		<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest.java:149, 38.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest: void testOverlappingRemoveUnused()>
+		<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest.java:170, 38.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[23] Set (score: 0.75, ccsize: 4, packages: 1, classes: 1): 
+	<weka.filters.unsupervised.attribute.SortLabelsTest: void testCaseInsensitive()>
+		<weka.filters.unsupervised.attribute.SortLabelsTest.java:152, 78.57%> (predicates:{(i0 < $i2)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.SortLabelsTest: void testUnchangedOrder()>
+		<weka.filters.unsupervised.attribute.SortLabelsTest.java:163, 87.50%> (predicates:{(i0 < $i2)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[24] Set (score: 0.68, ccsize: 8, packages: 2, classes: 2): 
+	<weka.filters.supervised.attribute.DiscretizeTest: void testInverted()>
+		<weka.filters.supervised.attribute.DiscretizeTest.java:102, 48.15%> (predicates:{(i0 < $i7)=true, (i0 < 2)=null, ($z0 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.attribute.DiscretizeTest: void testNonInverted2()>
+		<weka.filters.supervised.attribute.DiscretizeTest.java:118, 48.15%> (predicates:{(i0 < $i7)=true, (i0 < 3)=null, ($z0 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.DiscretizeTest: void testInverted()>
+		<weka.filters.unsupervised.attribute.DiscretizeTest.java:95, 48.15%> (predicates:{(i0 < $i7)=true, (i0 < 2)=null, ($z0 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.DiscretizeTest: void testNonInverted2()>
+		<weka.filters.unsupervised.attribute.DiscretizeTest.java:111, 48.15%> (predicates:{(i0 < $i7)=true, (i0 < 3)=null, ($z0 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[25] Set (score: 0.68, ccsize: 8, packages: 2, classes: 2): 
+	<weka.filters.supervised.attribute.DiscretizeTest: void testInverted()>
+		<weka.filters.supervised.attribute.DiscretizeTest.java:103, 48.15%> (predicates:{(i0 < $i7)=true, (i0 < 2)=null, ($z0 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.attribute.DiscretizeTest: void testNonInverted2()>
+		<weka.filters.supervised.attribute.DiscretizeTest.java:119, 48.15%> (predicates:{(i0 < $i7)=true, (i0 < 3)=null, ($z0 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.DiscretizeTest: void testInverted()>
+		<weka.filters.unsupervised.attribute.DiscretizeTest.java:96, 48.15%> (predicates:{(i0 < $i7)=true, (i0 < 2)=null, ($z0 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.DiscretizeTest: void testNonInverted2()>
+		<weka.filters.unsupervised.attribute.DiscretizeTest.java:112, 48.15%> (predicates:{(i0 < $i7)=true, (i0 < 3)=null, ($z0 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[26] Set (score: 0.67, ccsize: 5, packages: 2, classes: 2): 
+	<weka.filters.supervised.instance.StratifiedRemoveFoldsTest: void testAllFolds()>
+		<weka.filters.supervised.instance.StratifiedRemoveFoldsTest.java:59, 61.54%> (predicates:{(i1 < 10)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RemoveFoldsTest: void testAllFolds()>
+		<weka.filters.unsupervised.instance.RemoveFoldsTest.java:52, 61.54%> (predicates:{(i1 < 10)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[27] Set (score: 0.67, ccsize: 4, packages: 2, classes: 4): 
+	<weka.filters.supervised.attribute.DiscretizeTest: void testTypical2()>
+		<weka.filters.supervised.attribute.DiscretizeTest.java:90, 27.27%> (predicates:{(i0 < $i7)=true, (i0 == 2)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.DiscretizeTest: void testTypical2()>
+		<weka.filters.unsupervised.attribute.DiscretizeTest.java:83, 27.27%> (predicates:{(i0 < $i7)=true, (i0 == 2)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NominalToStringTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.NominalToStringTest.java:97, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.StringToNominalTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.StringToNominalTest.java:76, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[28] Set (score: 0.67, ccsize: 4, packages: 1, classes: 1): 
+	<weka.core.InstancesTest: void testHeaderCopy()>
+		<weka.core.InstancesTest.java:145, 42.86%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.InstancesTest: void testFullCopy()>
+		<weka.core.InstancesTest.java:163, 39.13%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[29] Set (score: 0.67, ccsize: 4, packages: 1, classes: 1): 
+	<weka.filters.unsupervised.attribute.RenameAttributeTest: void testReplaceFirst()>
+		<weka.filters.unsupervised.attribute.RenameAttributeTest.java:129, 120.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.RenameAttributeTest: void testReplaceAll()>
+		<weka.filters.unsupervised.attribute.RenameAttributeTest.java:141, 120.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[30] Set (score: 0.67, ccsize: 3, packages: 2, classes: 2): 
+	<weka.filters.unsupervised.attribute.MakeIndicatorTest: void testDefault()>
+		<weka.filters.unsupervised.attribute.MakeIndicatorTest.java:78, 21.43%> (predicates:{(i0 < $i9)=true, ($b7 != 0)=null, ($b8 != 0)=null, ($z0 != $z1)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MakeIndicatorTest: void testNominalEncoding()>
+		<weka.filters.unsupervised.attribute.MakeIndicatorTest.java:95, 20.00%> (predicates:{(i0 < $i9)=true, ($b7 != 0)=null, ($b8 != 0)=null, ($z0 != $z1)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MakeIndicatorTest: void testMultiValueIndication()>
+		<weka.filters.unsupervised.attribute.MakeIndicatorTest.java:117, 15.79%> (predicates:{(i0 < $i10)=true, ($b7 == 0)=null, ($b8 == 0)=null, ($b9 != 0)=null, ($z0 != $z1)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.SparseToNonSparseTest: void testTypical()>
+		<weka.filters.unsupervised.instance.SparseToNonSparseTest.java:54, 35.29%> (predicates:{(i0 < $i6)=true, ($z0 == 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[31] Set (score: 0.67, ccsize: 3, packages: 1, classes: 1): 
+	<weka.core.RangeTest: void testInitialValueConstructor()>
+		<weka.core.RangeTest.java:109, 38.46%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.RangeTest: void testFirst()>
+		<weka.core.RangeTest.java:121, 62.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.RangeTest: void testLast()>
+		<weka.core.RangeTest.java:133, 62.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.RangeTest: void testFirstLast()>
+		<weka.core.RangeTest.java:145, 85.71%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.RangeTest: void testSimpleRange()>
+		<weka.core.RangeTest.java:158, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.RangeTest: void testMixedRange()>
+		<weka.core.RangeTest.java:173, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.RangeTest: void testUnorderedRange()>
+		<weka.core.RangeTest.java:188, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[32] Set (score: 0.67, ccsize: 3, packages: 1, classes: 1): 
+	<weka.core.SingleIndexTest: void testInitialValueConstructor()>
+		<weka.core.SingleIndexTest.java:108, 60.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.SingleIndexTest: void testFirst()>
+		<weka.core.SingleIndexTest.java:118, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.SingleIndexTest: void testLast()>
+		<weka.core.SingleIndexTest.java:129, 120.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[33] Set (score: 0.67, ccsize: 2, packages: 2, classes: 3): 
+	<weka.filters.supervised.attribute.AddClassificationTest: void testDefault()>
+		<weka.filters.supervised.attribute.AddClassificationTest.java:116, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testNominalClass()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:82, 20.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testNominalClassSingleAttribute()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:113, 18.52%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testNumericClass()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:142, 20.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testWithoutClass()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:170, 20.83%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testPerAttribute()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:207, 15.63%> (predicates:{(i0 < $i2)=false, ($z1 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.InterquartileRangeTest: void testOffset()>
+		<weka.filters.unsupervised.attribute.InterquartileRangeTest.java:245, 14.71%> (predicates:{(i0 < $i2)=false, ($z1 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NumericCleanerTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.NumericCleanerTest.java:70, 26.09%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[34] Set (score: 0.65, ccsize: 5, packages: 1, classes: 2): 
+	<weka.filters.unsupervised.attribute.MergeManyValuesTest: void testDifferentRange()>
+		<weka.filters.unsupervised.attribute.MergeManyValuesTest.java:122, 40.00%> (predicates:{(i1 < $i10)=true, ($b6 == 0)=null, ($b7 != 0)=false, (i0 != -1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeTwoValuesTest: void testFirstValueIndex()>
+		<weka.filters.unsupervised.attribute.MergeTwoValuesTest.java:100, 40.00%> (predicates:{(i1 < $i10)=true, ($b6 == 0)=null, ($b7 != 0)=false, (i0 != -1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeTwoValuesTest: void testSecondValueIndex()>
+		<weka.filters.unsupervised.attribute.MergeTwoValuesTest.java:121, 40.00%> (predicates:{(i1 < $i10)=true, ($b6 == 0)=null, ($b7 != 0)=false, (i0 != -1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[35] Set (score: 0.62, ccsize: 5, packages: 2, classes: 11): 
+	<weka.filters.AbstractTimeSeriesFilterTest: void testFillWithMissing()>
+		<weka.filters.AbstractTimeSeriesFilterTest.java:65, 21.43%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.AddNoiseTest: void testNoNoise()>
+		<weka.filters.unsupervised.attribute.AddNoiseTest.java:95, 45.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.ChangeDateFormatTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.ChangeDateFormatTest.java:73, 39.13%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.ChangeDateFormatTest: void testSameFormat()>
+		<weka.filters.unsupervised.attribute.ChangeDateFormatTest.java:99, 39.13%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MakeIndicatorTest: void testDefault()>
+		<weka.filters.unsupervised.attribute.MakeIndicatorTest.java:72, 32.14%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeManyValuesTest: void testDifferentRange()>
+		<weka.filters.unsupervised.attribute.MergeManyValuesTest.java:113, 30.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeManyValuesTest: void testMergeAll()>
+		<weka.filters.unsupervised.attribute.MergeManyValuesTest.java:137, 75.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeTwoValuesTest: void testFirstValueIndex()>
+		<weka.filters.unsupervised.attribute.MergeTwoValuesTest.java:91, 30.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeTwoValuesTest: void testSecondValueIndex()>
+		<weka.filters.unsupervised.attribute.MergeTwoValuesTest.java:112, 30.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NominalToStringTest: void testMissing()>
+		<weka.filters.unsupervised.attribute.NominalToStringTest.java:105, 39.13%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NumericTransformTest: void testInverted()>
+		<weka.filters.unsupervised.attribute.NumericTransformTest.java:92, 27.27%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.RemoveByNameTest: void testTypicalWithClass()>
+		<weka.filters.unsupervised.attribute.RemoveByNameTest.java:103, 81.82%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.StringToNominalTest: void testMissing()>
+		<weka.filters.unsupervised.attribute.StringToNominalTest.java:84, 39.13%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.StringToNominalTest: void testRange()>
+		<weka.filters.unsupervised.attribute.StringToNominalTest.java:101, 24.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.SwapValuesTest: void testFirstValueIndex()>
+		<weka.filters.unsupervised.attribute.SwapValuesTest.java:87, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.SwapValuesTest: void testSecondValueIndex()>
+		<weka.filters.unsupervised.attribute.SwapValuesTest.java:104, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[36] Set (score: 0.60, ccsize: 5, packages: 2, classes: 2): 
+	<weka.core.converters.AbstractFileConverterTest: void testSaverCommandlineArgs()>
+		<weka.core.converters.AbstractFileConverterTest.java:355, 46.15%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+	<weka.core.neighboursearch.AbstractNearestNeighbourSearchTest: void testBuildInitialization()>
+		<weka.core.neighboursearch.AbstractNearestNeighbourSearchTest.java:300, 12.00%> (predicates:{}, inLoop:false, inCatch:true, exceptionalSuccs:[])
+[37] Set (score: 0.59, ccsize: 8, packages: 2, classes: 3): 
+	<weka.filters.AbstractTimeSeriesFilterTest: void testFillWithMissing()>
+		<weka.filters.AbstractTimeSeriesFilterTest.java:81, 47.62%> (predicates:{(i0 < $i9)=true, (i1 < $i8)=true, (i1 == 1)=false, (i1 == 2)=false, ($z0 == 0)=true, ($z2 == 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.AbstractTimeSeriesFilterTest: void testInstanceRange_X(int)>
+		<weka.filters.AbstractTimeSeriesFilterTest.java:112, 41.67%> (predicates:{(i1 < $i15)=true, (i0 <= 0)=null, (i2 < $i14)=true, (i2 == 1)=false, (i2 == 2)=false, ($z0 == 0)=true, ($z2 == 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.TimeSeriesDeltaTest: void testInverted()>
+		<weka.filters.unsupervised.attribute.TimeSeriesDeltaTest.java:77, 44.44%> (predicates:{(i0 < $i11)=true, (i1 < $i10)=true, (i1 == 4)=false, (i1 == 5)=false, (i1 == 6)=false, ($z0 == 0)=true, ($z2 == 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.TimeSeriesTranslateTest: void testInverted()>
+		<weka.filters.unsupervised.attribute.TimeSeriesTranslateTest.java:78, 44.44%> (predicates:{(i0 < $i11)=true, (i1 < $i10)=true, (i1 == 4)=false, (i1 == 5)=false, (i1 == 6)=false, ($z0 == 0)=true, ($z2 == 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[38] Set (score: 0.58, ccsize: 5, packages: 1, classes: 1): 
+	<weka.filters.unsupervised.attribute.FirstOrderTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.FirstOrderTest.java:96, 46.15%> (predicates:{(i0 < $i5)=true, ($z0 != 0)=false, ($z1 == 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.FirstOrderTest: void testTypical2()>
+		<weka.filters.unsupervised.attribute.FirstOrderTest.java:113, 46.15%> (predicates:{(i0 < $i5)=true, ($z0 != 0)=false, ($z1 == 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[39] Set (score: 0.57, ccsize: 5, packages: 3, classes: 7): 
+	<weka.filters.supervised.instance.ResampleTest: void testSampleSizePercentNoReplacement()>
+		<weka.filters.supervised.instance.ResampleTest.java:72, 56.25%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.instance.ResampleTest: void testNoBias()>
+		<weka.filters.supervised.instance.ResampleTest.java:94, 23.08%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.instance.SpreadSubsampleTest: void testDistributionSpread_X(double)>
+		<weka.filters.supervised.instance.SpreadSubsampleTest.java:86, 25.71%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MakeIndicatorTest: void testNominalEncoding()>
+		<weka.filters.unsupervised.attribute.MakeIndicatorTest.java:88, 30.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeManyValuesTest: void testAttributeWithMissing()>
+		<weka.filters.unsupervised.attribute.MergeManyValuesTest.java:149, 24.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NumericTransformTest: void testClassNameAndMethodName()>
+		<weka.filters.unsupervised.attribute.NumericTransformTest.java:116, 26.47%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RemoveRangeTest: void testSpecifiedRange()>
+		<weka.filters.unsupervised.instance.RemoveRangeTest.java:51, 56.25%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.ResampleTest: void testSampleSizePercentNoReplacement()>
+		<weka.filters.unsupervised.instance.ResampleTest.java:64, 56.25%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[40] Set (score: 0.52, ccsize: 6, packages: 1, classes: 3): 
+	<weka.filters.unsupervised.attribute.MakeIndicatorTest: void testNominalEncoding()>
+		<weka.filters.unsupervised.attribute.MakeIndicatorTest.java:89, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeManyValuesTest: void testAttributeWithMissing()>
+		<weka.filters.unsupervised.attribute.MergeManyValuesTest.java:150, 27.03%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.NumericTransformTest: void testClassNameAndMethodName()>
+		<weka.filters.unsupervised.attribute.NumericTransformTest.java:117, 29.41%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[41] Set (score: 0.50, ccsize: 6, packages: 1, classes: 2): 
+	<weka.filters.supervised.instance.ResampleTest: void testNoBias()>
+		<weka.filters.supervised.instance.ResampleTest.java:98, 17.95%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.instance.SpreadSubsampleTest: void testDistributionSpread_X(double)>
+		<weka.filters.supervised.instance.SpreadSubsampleTest.java:90, 20.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[42] Set (score: 0.50, ccsize: 6, packages: 1, classes: 2): 
+	<weka.filters.unsupervised.instance.RemoveMisclassifiedTest: void testInverting()>
+		<weka.filters.unsupervised.instance.RemoveMisclassifiedTest.java:112, 71.43%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RemovePercentageTest: void testInverting()>
+		<weka.filters.unsupervised.instance.RemovePercentageTest.java:74, 62.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[43] Set (score: 0.50, ccsize: 5, packages: 1, classes: 1): 
+	<weka.core.InstancesTest: void testHeaderCopy()>
+		<weka.core.InstancesTest.java:146, 47.62%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.InstancesTest: void testFullCopy()>
+		<weka.core.InstancesTest.java:164, 43.48%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[44] Set (score: 0.50, ccsize: 4, packages: 1, classes: 2): 
+	<weka.filters.unsupervised.attribute.NominalToStringTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.NominalToStringTest.java:94, 58.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.StringToNominalTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.StringToNominalTest.java:73, 58.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[45] Set (score: 0.50, ccsize: 3, packages: 2, classes: 2): 
+	<weka.filters.supervised.instance.ResampleTest: void testSampleSizePercent()>
+		<weka.filters.supervised.instance.ResampleTest.java:58, 36.84%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.ResampleTest: void testSampleSizePercent()>
+		<weka.filters.unsupervised.instance.ResampleTest.java:50, 36.84%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[46] Set (score: 0.50, ccsize: 2, packages: 1, classes: 1): 
+	<weka.core.AlgVectorTest: void testLengthConstructor()>
+		<weka.core.AlgVectorTest.java:106, 120.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.AlgVectorTest: void testArrayConstructor()>
+		<weka.core.AlgVectorTest.java:115, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[47] Set (score: 0.50, ccsize: 2, packages: 1, classes: 1): 
+	<weka.core.InstancesTest: void testPartialCopy()>
+		<weka.core.InstancesTest.java:181, 76.92%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<weka.core.InstancesTest.java:184, 38.46%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.InstancesTest: void testHeaderCopy()>
+		<weka.core.InstancesTest.java:147, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.InstancesTest: void testFullCopy()>
+		<weka.core.InstancesTest.java:165, 47.83%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[48] Set (score: 0.48, ccsize: 5, packages: 2, classes: 3): 
+	<weka.filters.AbstractTimeSeriesFilterTest: void testFillWithMissing()>
+		<weka.filters.AbstractTimeSeriesFilterTest.java:73, 16.67%> (predicates:{(i0 < $i9)=true, (i1 < $i8)=true, (i1 == 1)=false, (i1 == 2)=false, ($z0 == 0)=false, ($z2 == 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.AbstractTimeSeriesFilterTest: void testInstanceRange_X(int)>
+		<weka.filters.AbstractTimeSeriesFilterTest.java:104, 14.58%> (predicates:{(i1 < $i15)=true, (i0 <= 0)=null, (i2 < $i14)=true, (i2 == 1)=false, (i2 == 2)=false, ($z0 == 0)=false, ($z2 == 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.TimeSeriesDeltaTest: void testInverted()>
+		<weka.filters.unsupervised.attribute.TimeSeriesDeltaTest.java:69, 15.56%> (predicates:{(i0 < $i11)=true, (i1 < $i10)=true, (i1 == 4)=false, (i1 == 5)=false, (i1 == 6)=false, ($z0 == 0)=false, ($z2 == 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.TimeSeriesTranslateTest: void testInverted()>
+		<weka.filters.unsupervised.attribute.TimeSeriesTranslateTest.java:70, 15.56%> (predicates:{(i0 < $i11)=true, (i1 < $i10)=true, (i1 == 4)=false, (i1 == 5)=false, (i1 == 6)=false, ($z0 == 0)=false, ($z2 == 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[49] Set (score: 0.46, ccsize: 4, packages: 2, classes: 2): 
+	<weka.filters.supervised.attribute.AddClassificationTest: void testDefault()>
+		<weka.filters.supervised.attribute.AddClassificationTest.java:116, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.KernelFilterTest: void testTypical()>
+		<weka.filters.unsupervised.attribute.KernelFilterTest.java:110, 77.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[50] Set (score: 0.46, ccsize: 4, packages: 1, classes: 1): 
+	<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest: void testDisjoint()>
+		<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest.java:108, 45.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest: void testDisjointRemoveUnused()>
+		<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest.java:129, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest: void testOverlapping()>
+		<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest.java:150, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest: void testOverlappingRemoveUnused()>
+		<weka.filters.unsupervised.attribute.PartitionedMultiFilterTest.java:171, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[51] Set (score: 0.46, ccsize: 4, packages: 1, classes: 1): 
+	<weka.filters.unsupervised.instance.ReservoirSampleTest: void testSubSample()>
+		<weka.filters.unsupervised.instance.ReservoirSampleTest.java:86, 42.86%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.ReservoirSampleTest: void testHeaderOnlyInput()>
+		<weka.filters.unsupervised.instance.ReservoirSampleTest.java:109, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[52] Set (score: 0.45, ccsize: 7, packages: 1, classes: 3): 
+	<weka.filters.unsupervised.attribute.MakeIndicatorTest: void testMultiValueIndication()>
+		<weka.filters.unsupervised.attribute.MakeIndicatorTest.java:111, 28.95%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeTwoValuesTest: void testAttributeWithMissing()>
+		<weka.filters.unsupervised.attribute.MergeTwoValuesTest.java:135, 28.21%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.SwapValuesTest: void testAttributeWithMissing()>
+		<weka.filters.unsupervised.attribute.SwapValuesTest.java:123, 20.75%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[53] Set (score: 0.40, ccsize: 7, packages: 2, classes: 3): 
+	<weka.filters.unsupervised.attribute.MergeTwoValuesTest: void testAttributeWithMissing()>
+		<weka.filters.unsupervised.attribute.MergeTwoValuesTest.java:140, 23.08%> (predicates:{(i1 < $i10)=true, ($z0 == 0)=false, ($b6 == 0)=null, ($b7 != 0)=null, (i0 != -1)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.SwapValuesTest: void testAttributeWithMissing()>
+		<weka.filters.unsupervised.attribute.SwapValuesTest.java:128, 26.42%> (predicates:{(i0 < $i9)=true, ($z2 == 0)=false, ($b5 != 0)=null, ($b6 != 0)=null, ($b7 != 0)=null, ($b8 != 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RemoveWithValuesTest: void testMatchMissingValues()>
+		<weka.filters.unsupervised.instance.RemoveWithValuesTest.java:119, 52.94%> (predicates:{($i3 <= 0)=null, (i0 < $i4)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[54] Set (score: 0.36, ccsize: 5, packages: 1, classes: 1): 
+	<weka.filters.supervised.instance.ResampleTest: void testNoBias()>
+		<weka.filters.supervised.instance.ResampleTest.java:91, 15.38%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.instance.ResampleTest: void testBiasToUniform()>
+		<weka.filters.supervised.instance.ResampleTest.java:113, 13.04%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[55] Set (score: 0.33, ccsize: 6, packages: 2, classes: 2): 
+	<weka.filters.supervised.instance.ResampleTest: void testSampleSizePercent()>
+		<weka.filters.supervised.instance.ResampleTest.java:64, 52.63%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.instance.ResampleTest: void testSampleSizePercentNoReplacementInverted()>
+		<weka.filters.supervised.instance.ResampleTest.java:83, 47.62%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.ResampleTest: void testSampleSizePercent()>
+		<weka.filters.unsupervised.instance.ResampleTest.java:56, 52.63%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.ResampleTest: void testSampleSizePercentNoReplacementInverted()>
+		<weka.filters.unsupervised.instance.ResampleTest.java:75, 47.62%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[56] Set (score: 0.33, ccsize: 5, packages: 1, classes: 1): 
+	<weka.filters.AbstractFilterTest: void testBatchFiltering()>
+		<weka.filters.AbstractFilterTest.java:623, 11.48%> (predicates:{($z0 == 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r9 := @caughtexception])
+	<weka.filters.AbstractFilterTest: void testBatchFilteringSmaller()>
+		<weka.filters.AbstractFilterTest.java:702, 10.61%> (predicates:{($z0 == 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r10 := @caughtexception])
+	<weka.filters.AbstractFilterTest: void testBatchFilteringLarger()>
+		<weka.filters.AbstractFilterTest.java:786, 10.45%> (predicates:{($z0 == 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r10 := @caughtexception])
+[57] Set (score: 0.32, ccsize: 4, packages: 1, classes: 1): 
+	<weka.filters.unsupervised.instance.RemoveWithValuesTest: void testNominal()>
+		<weka.filters.unsupervised.instance.RemoveWithValuesTest.java:63, 20.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r9 := @caughtexception])
+	<weka.filters.unsupervised.instance.RemoveWithValuesTest: void testNumeric()>
+		<weka.filters.unsupervised.instance.RemoveWithValuesTest.java:95, 21.21%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[58] Set (score: 0.29, ccsize: 7, packages: 1, classes: 2): 
+	<weka.filters.supervised.instance.ResampleTest: void testNoBias()>
+		<weka.filters.supervised.instance.ResampleTest.java:99, 30.77%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.instance.SpreadSubsampleTest: void testDistributionSpread_X(double)>
+		<weka.filters.supervised.instance.SpreadSubsampleTest.java:91, 34.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[59] Set (score: 0.26, ccsize: 5, packages: 2, classes: 2): 
+	<weka.filters.supervised.instance.ResampleTest: void testSampleSizePercentNoReplacement()>
+		<weka.filters.supervised.instance.ResampleTest.java:73, 56.25%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.ResampleTest: void testSampleSizePercentNoReplacement()>
+		<weka.filters.unsupervised.instance.ResampleTest.java:65, 56.25%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[60] Set (score: 0.26, ccsize: 5, packages: 1, classes: 1): 
+	<weka.core.TrieTest: void testRemoveAllPartial()>
+		<weka.core.TrieTest.java:167, 75.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.TrieTest: void testRemoveAllFull()>
+		<weka.core.TrieTest.java:177, 84.62%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.TrieTest: void testRetainAllFull()>
+		<weka.core.TrieTest.java:196, 110.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[61] Set (score: 0.25, ccsize: 7, packages: 2, classes: 2): 
+	<weka.filters.unsupervised.attribute.MakeIndicatorTest: void testMultiValueIndication()>
+		<weka.filters.unsupervised.attribute.MakeIndicatorTest.java:113, 26.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RemoveFrequentValuesTest: void testNominal()>
+		<weka.filters.unsupervised.instance.RemoveFrequentValuesTest.java:82, 12.62%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r14 := @caughtexception])
+[62] Set (score: 0.25, ccsize: 7, packages: 1, classes: 1): 
+	<weka.filters.AbstractFilterTest: void testBatchFiltering()>
+		<weka.filters.AbstractFilterTest.java:636, 14.75%> (predicates:{($z0 == 0)=null, (i0 < $i1)=true, ($z1 == 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[$r23 := @caughtexception])
+	<weka.filters.AbstractFilterTest: void testBatchFilteringSmaller()>
+		<weka.filters.AbstractFilterTest.java:715, 13.64%> (predicates:{($z0 == 0)=null, (i0 < $i1)=true, ($z1 == 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[$r24 := @caughtexception])
+	<weka.filters.AbstractFilterTest: void testBatchFilteringLarger()>
+		<weka.filters.AbstractFilterTest.java:799, 13.43%> (predicates:{($z0 == 0)=null, (i0 < $i1)=true, ($z1 == 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[$r24 := @caughtexception])
+[63] Set (score: 0.23, ccsize: 6, packages: 2, classes: 2): 
+	<weka.filters.unsupervised.attribute.MergeManyValuesTest: void testAttributeWithMissing()>
+		<weka.filters.unsupervised.attribute.MergeManyValuesTest.java:155, 21.62%> (predicates:{(i1 < $i10)=true, ($z0 == 0)=false, ($b6 == 0)=null, ($b7 != 0)=null, (i0 != -1)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RemoveRangeTest: void testSpecifiedRange()>
+		<weka.filters.unsupervised.instance.RemoveRangeTest.java:54, 75.00%> (predicates:{(i0 < 10)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[64] Set (score: 0.20, ccsize: 9, packages: 1, classes: 1): 
+	<weka.filters.AbstractFilterTest: void testBatchFiltering()>
+		<weka.filters.AbstractFilterTest.java:644, 18.03%> (predicates:{($z0 == 0)=null, (i0 < $i1)=false, ($z1 == 0)=null, (r1 != null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r23 := @caughtexception])
+	<weka.filters.AbstractFilterTest: void testBatchFilteringSmaller()>
+		<weka.filters.AbstractFilterTest.java:723, 16.67%> (predicates:{($z0 == 0)=null, (i0 < $i1)=false, ($z1 == 0)=null, (r1 != null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r24 := @caughtexception])
+	<weka.filters.AbstractFilterTest: void testBatchFilteringLarger()>
+		<weka.filters.AbstractFilterTest.java:807, 16.42%> (predicates:{($z0 == 0)=null, (i0 < $i1)=false, ($z1 == 0)=null, (r1 != null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r24 := @caughtexception])
+[65] Set (score: 0.19, ccsize: 5, packages: 3, classes: 4): 
+	<weka.core.InstancesTest: void testPartialCopy()>
+		<weka.core.InstancesTest.java:181, 76.92%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.supervised.instance.StratifiedRemoveFoldsTest: void testAllFolds()>
+		<weka.filters.supervised.instance.StratifiedRemoveFoldsTest.java:62, 69.23%> (predicates:{(i1 < 10)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RemoveFoldsTest: void testAllFolds()>
+		<weka.filters.unsupervised.instance.RemoveFoldsTest.java:55, 69.23%> (predicates:{(i1 < 10)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RemoveWithValuesTest: void testNominal()>
+		<weka.filters.unsupervised.instance.RemoveWithValuesTest.java:63, 20.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r9 := @caughtexception])
+[66] Set (score: 0.19, ccsize: 5, packages: 1, classes: 1): 
+	<weka.core.TrieTest: void testCorrectBuild()>
+		<weka.core.TrieTest.java:118, 29.63%> (predicates:{($z1 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.core.TrieTest: void testRetainAllPartial()>
+		<weka.core.TrieTest.java:186, 114.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[67] Set (score: 0.18, ccsize: 6, packages: 2, classes: 2): 
+	<weka.filters.unsupervised.attribute.AddExpressionTest: void testAddNamed()>
+		<weka.filters.unsupervised.attribute.AddExpressionTest.java:275, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RemoveRangeTest: void testSpecifiedRange()>
+		<weka.filters.unsupervised.instance.RemoveRangeTest.java:54, 75.00%> (predicates:{(i0 < 10)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[68] Set (score: 0.14, ccsize: 7, packages: 2, classes: 2): 
+	<weka.filters.supervised.instance.ResampleTest: void testNoBias()>
+		<weka.filters.supervised.instance.ResampleTest.java:102, 25.64%> (predicates:{(i0 < $i13)=true, (i1 > $i10)=null, ($i11 > $i12)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.instance.RemoveRangeTest: void testSpecifiedRange()>
+		<weka.filters.unsupervised.instance.RemoveRangeTest.java:54, 75.00%> (predicates:{(i0 < 10)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[69] Set (score: 0.13, ccsize: 6, packages: 1, classes: 2): 
+	<weka.filters.unsupervised.attribute.MakeIndicatorTest: void testNominalEncoding()>
+		<weka.filters.unsupervised.attribute.MakeIndicatorTest.java:91, 30.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<weka.filters.unsupervised.attribute.MergeManyValuesTest: void testAttributeWithMissing()>
+		<weka.filters.unsupervised.attribute.MergeManyValuesTest.java:162, 35.14%> (predicates:{(i1 < $i10)=true, ($z0 == 0)=true, ($b6 == 0)=null, ($b7 != 0)=false, (i0 != -1)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[70] Set (score: 0.12, ccsize: 16, packages: 1, classes: 1): 
+	<weka.filters.AbstractFilterTest: void testBatchFiltering()>
+		<weka.filters.AbstractFilterTest.java:669, 29.51%> (predicates:{($z0 == 0)=null, (i0 < $i1)=false, ($z1 == 0)=null, (r1 != null)=null, ($i2 <= 0)=null, ($i3 > 0)=false, ($z6 == 0)=null, (i4 < $i5)=true, ($z7 == 0)=false, (r28 != null)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[$r42 := @caughtexception])
+	<weka.filters.AbstractFilterTest: void testBatchFilteringSmaller()>
+		<weka.filters.AbstractFilterTest.java:753, 27.27%> (predicates:{($z0 == 0)=null, (i0 < $i1)=false, ($z1 == 0)=null, (r1 != null)=null, ($i2 <= 0)=null, ($i3 > 0)=false, ($z6 == 0)=null, (i6 < i5)=false, (i7 < $i8)=true, ($z7 == 0)=false, (r29 != null)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[$r42 := @caughtexception])
+	<weka.filters.AbstractFilterTest: void testBatchFilteringLarger()>
+		<weka.filters.AbstractFilterTest.java:837, 26.87%> (predicates:{($z0 == 0)=null, (i0 < $i1)=false, ($z1 == 0)=null, (r1 != null)=null, ($i2 <= 0)=null, ($i3 > 0)=false, ($z6 == 0)=null, (i6 < i5)=false, (i7 < $i8)=true, ($z8 == 0)=false, (r29 != null)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[$r43 := @caughtexception])
+[71] Set (score: 0.11, ccsize: 18, packages: 1, classes: 1): 
+	<weka.filters.AbstractFilterTest: void testBatchFiltering()>
+		<weka.filters.AbstractFilterTest.java:678, 32.79%> (predicates:{($z0 == 0)=null, (i0 < $i1)=false, ($z1 == 0)=null, (r1 != null)=null, ($i2 <= 0)=null, ($i3 > 0)=false, ($z6 == 0)=null, (i4 < $i5)=false, ($z7 == 0)=null, (r28 != null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r42 := @caughtexception])
+	<weka.filters.AbstractFilterTest: void testBatchFilteringSmaller()>
+		<weka.filters.AbstractFilterTest.java:762, 30.30%> (predicates:{($z0 == 0)=null, (i0 < $i1)=false, ($z1 == 0)=null, (r1 != null)=null, ($i2 <= 0)=null, ($i3 > 0)=false, ($z6 == 0)=null, (i6 < i5)=false, (i7 < $i8)=false, ($z7 == 0)=null, (r29 != null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r42 := @caughtexception])
+	<weka.filters.AbstractFilterTest: void testBatchFilteringLarger()>
+		<weka.filters.AbstractFilterTest.java:846, 29.85%> (predicates:{($z0 == 0)=null, (i0 < $i1)=false, ($z1 == 0)=null, (r1 != null)=null, ($i2 <= 0)=null, ($i3 > 0)=false, ($z6 == 0)=null, (i6 < i5)=false, (i7 < $i8)=false, ($z8 == 0)=null, (r29 != null)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r43 := @caughtexception])

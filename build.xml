@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project basedir="." default="cached" name="CloneAnalysis">
+   <property environment="env"/>
+   <property name="result_location" value="results"/>
+   <property name="min" value="0.1"/>
+   <property name="props2" value="ant.settings"/>
+   <property file="${env.SETTINGS_DIR}/${props2}"/>
+   <property file="${env.SETTINGS_DIR}/${props}"/>
+   <property name="debuglevel" value="source,lines"/>
+   <property name="target" value="1.6"/>
+   <property name="source" value="1.6"/>
+   <property name="classlist" value=""/>
+   <property name="process-dirs" value=""/>
+   <property name="excludes" value=""/>
+
+   <path id="CloneAnalysis.classpath">
+      <pathelement path="bin/" />
+      <fileset dir="lib/">
+         <include name="**/*.jar"/>
+      </fileset>
+   </path>
+
+   <target name="init">
+      <mkdir dir="bin"/>
+      <mkdir dir="cache"/>
+      <mkdir dir="results"/>
+      <copy includeemptydirs="false" todir="bin">
+         <fileset dir="src">
+            <exclude name="**/*.launch"/>
+            <exclude name="**/*.java"/>
+         </fileset>
+      </copy>
+   </target>
+   <target name="clean">
+      <delete dir="bin"/>
+   </target>
+   <target depends="init" name="build">
+      <echo message="${ant.project.name}: ${ant.file}"/>
+      <javac debug="true" debuglevel="${debuglevel}" destdir="bin" source="${source}" target="${target}" includeantruntime="false">
+         <src path="src"/>
+         <classpath refid="CloneAnalysis.classpath"/>
+      </javac>
+   </target>
+   <target depends="build" name="main">
+      <echo message="Analysing ${props}" />
+      <java classname="clone.analysis.dataflow.CloneAnalysis" failonerror="true" fork="yes">
+         <jvmarg value="-Xms2G"/>
+         <jvmarg value="-Xmx20G"/>
+         <!--<jvmarg value="-XX:-UseParallelOldGC"/>-->
+         <jvmarg value="-ea"/>
+         <arg line="-cp  ${javaclasspath}:${appclasspath} -f jimple -w -full-resolver -print-tags -allow-phantom-refs -keep-line-number -p jop enabled:true -O -p cg.cha enabled:true -p cg.spark enabled:false -x junit.framework ${excludes} ${classlist} ${appmain} ${process-dirs} --similarityargs project=${props} min=${min} result_location=${result_location}" />
+         <classpath refid="CloneAnalysis.classpath"/>
+         <!--<arg line="-cp  ${javaclasspath}:${appclasspath} ${appmain} -src-prec java -f jimple -w -full-resolver -print-tags -p jb use-original-names true -keep-line-number true -allow-phantom-refs -p jop enabled:true -O -p cg.cha enabled:false -p cg.spark enabled:true -x junit.framework ${classlist}"/>-->        
+      </java>
+   </target>
+   <target depends="build" name="cached">
+      <echo message="Analysing ${props}" />
+      <java classname="clone.analysis.dataflow.CloneAnalysis" failonerror="true" fork="yes">
+         <jvmarg value="-Xms2G"/>
+         <jvmarg value="-Xmx20G"/>
+         <!--<jvmarg value="-XX:-UseParallelOldGC"/>-->
+         <jvmarg value="-ea"/>
+         <arg line="-- "/>
+         <classpath refid="CloneAnalysis.classpath"/>
+      </java>
+   </target>
+</project>

@@ -1,0 +1,892 @@
+Version 1 (/home/d2jain/bhprojects/weka)
+This is for clone class 1
+  CloneClass 1 (Type 1)
+(src/test/java/weka/filters/AbstractTimeSeriesFilterTest.java:61)6
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:88)6
+  CloneClass 2 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:197)10
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:236)10
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:241)10
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:281)10
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:196)10
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:236)10
+  CloneClass 3 (Type 1)
+(src/test/java/weka/filters/supervised/instance/ResampleTest.java:77)9
+(src/test/java/weka/filters/unsupervised/instance/ResampleTest.java:69)9
+  CloneClass 4 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:667)24
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:753)24
+  CloneClass 5 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:87)18
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:109)18
+  CloneClass 7 (Type 1)
+(src/test/java/weka/core/InstancesTest.java:97)3
+(src/test/java/weka/core/InstancesTest.java:121)3
+  CloneClass 8 (Type 1)
+(src/test/java/weka/filters/unsupervised/instance/NonSparseToSparseTest.java:47)6
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:63)6
+(src/test/java/weka/filters/unsupervised/instance/SparseToNonSparseTest.java:47)6
+  CloneClass 10 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddExpressionTest.java:228)9
+(src/test/java/weka/filters/unsupervised/attribute/AddExpressionTest.java:246)9
+  CloneClass 11 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/StringToNominalTest.java:80)6
+(src/test/java/weka/filters/unsupervised/attribute/StringToNominalTest.java:97)7
+  CloneClass 12 (Type 1)
+(src/test/java/weka/filters/AbstractFilterTest.java:489)6
+(src/test/java/weka/filters/AbstractFilterTest.java:506)6
+  CloneClass 13 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:131)21
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:146)21
+  CloneClass 15 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:62)17
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:122)17
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:180)19
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:218)19
+(src/test/java/weka/filters/unsupervised/attribute/RandomSubsetTest.java:76)17
+  CloneClass 16 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddNoiseTest.java:73)13
+(src/test/java/weka/filters/unsupervised/attribute/AddNoiseTest.java:92)13
+(src/test/java/weka/filters/unsupervised/instance/ReservoirSampleTest.java:60)16
+  CloneClass 19 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:64)20
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:95)20
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:124)20
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:152)20
+  CloneClass 20 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:667)21
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:753)21
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:674)21
+  CloneClass 21 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/FirstOrderTest.java:87)14
+(src/test/java/weka/filters/unsupervised/attribute/FirstOrderTest.java:104)14
+  CloneClass 22 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/CopyTest.java:61)4
+(src/test/java/weka/filters/unsupervised/attribute/CopyTest.java:70)4
+  CloneClass 23 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddExpressionTest.java:56)5
+(src/test/java/weka/filters/unsupervised/attribute/AddExpressionTest.java:67)5
+(src/test/java/weka/filters/unsupervised/attribute/AddExpressionTest.java:78)5
+  CloneClass 24 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:296)37
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:341)37
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:303)37
+  CloneClass 25 (Type 1)
+(src/test/java/weka/classifiers/pmml/consumer/AbstractPMMLClassifierTest.java:85)14
+(src/test/java/weka/core/neighboursearch/AbstractNearestNeighbourSearchTest.java:384)15
+  CloneClass 26 (Type 1)
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:85)8
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:101)8
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:117)8
+  CloneClass 27 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddNoiseTest.java:92)13
+(src/test/java/weka/filters/unsupervised/instance/ReservoirSampleTest.java:60)16
+  CloneClass 28 (Type 1)
+(src/test/java/weka/core/converters/AbstractFileConverterTest.java:243)10
+(src/test/java/weka/core/converters/AbstractFileConverterTest.java:375)10
+(src/test/java/weka/core/converters/AbstractFileConverterTest.java:407)10
+  CloneClass 29 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:63)21
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:123)21
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:151)21
+  CloneClass 30 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:556)15
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:642)15
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:563)15
+  CloneClass 31 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:62)22
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:122)22
+  CloneClass 32 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:78)8
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:94)8
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:110)8
+  CloneClass 33 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/SortLabelsTest.java:135)5
+(src/test/java/weka/filters/unsupervised/attribute/SortLabelsTest.java:147)5
+  CloneClass 34 (Type 1)
+(src/test/java/weka/core/RangeTest.java:168)8
+(src/test/java/weka/core/RangeTest.java:183)8
+  CloneClass 35 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:64)9
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:89)9
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:114)9
+  CloneClass 37 (Type 1)
+(src/test/java/weka/filters/supervised/instance/ResampleTest.java:115)8
+(src/test/java/weka/filters/supervised/instance/SpreadSubsampleTest.java:84)8
+  CloneClass 38 (Type 1)
+(src/test/java/weka/associations/AbstractAssociatorTest.java:500)15
+(src/test/java/weka/associations/AbstractAssociatorTest.java:656)15
+(src/test/java/weka/associations/AbstractAssociatorTest.java:692)15
+  CloneClass 39 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:108)8
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:131)8
+  CloneClass 40 (Type 1)
+(src/test/java/weka/clusterers/AbstractClustererTest.java:265)12
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:341)12
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:411)12
+(src/test/java/weka/associations/AbstractAssociatorTest.java:342)12
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:348)12
+  CloneClass 41 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:231)24
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:231)24
+  CloneClass 42 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:95)15
+(src/test/java/weka/filters/AbstractFilterTest.java:233)13
+  CloneClass 43 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddValuesTest.java:91)5
+(src/test/java/weka/core/converters/SVMLightTest.java:80)5
+(src/test/java/weka/core/converters/AbstractFileConverterTest.java:153)5
+  CloneClass 44 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddUserFieldsTest.java:43)18
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:63)19
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:123)19
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:151)19
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:87)18
+(src/test/java/weka/filters/unsupervised/attribute/PrincipalComponentsTest.java:77)18
+(src/test/java/weka/filters/unsupervised/attribute/NumericCleanerTest.java:52)18
+  CloneClass 46 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:536)12
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:622)12
+(src/test/java/weka/associations/AbstractAssociatorTest.java:555)12
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:543)12
+  CloneClass 47 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:48)12
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:55)12
+  CloneClass 49 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddIDTest.java:59)18
+(src/test/java/weka/filters/unsupervised/attribute/AddUserFieldsTest.java:43)18
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:63)19
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:123)19
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:151)19
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:87)18
+(src/test/java/weka/filters/unsupervised/attribute/PrincipalComponentsTest.java:77)18
+(src/test/java/weka/filters/unsupervised/attribute/SortLabelsTest.java:95)18
+(src/test/java/weka/filters/unsupervised/attribute/RandomSubsetTest.java:77)18
+(src/test/java/weka/filters/unsupervised/attribute/NumericCleanerTest.java:52)18
+(src/test/java/weka/filters/unsupervised/attribute/AddTest.java:68)15
+  CloneClass 50 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/RemoveTest.java:66)3
+(src/test/java/weka/filters/unsupervised/attribute/RemoveTest.java:75)3
+  CloneClass 51 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddIDTest.java:58)19
+(src/test/java/weka/filters/unsupervised/attribute/AddUserFieldsTest.java:42)19
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:149)21
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:86)19
+(src/test/java/weka/filters/unsupervised/attribute/PrincipalComponentsTest.java:76)19
+(src/test/java/weka/filters/unsupervised/attribute/SortLabelsTest.java:94)19
+(src/test/java/weka/filters/unsupervised/attribute/NumericCleanerTest.java:51)19
+  CloneClass 52 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:75)9
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:100)9
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:125)9
+  CloneClass 53 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/MakeIndicatorTest.java:75)7
+(src/test/java/weka/filters/unsupervised/attribute/MakeIndicatorTest.java:92)7
+  CloneClass 54 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:433)24
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:519)24
+(src/test/java/weka/associations/AbstractAssociatorTest.java:440)24
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:440)24
+  CloneClass 55 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddUserFieldsTest.java:42)19
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:86)19
+(src/test/java/weka/filters/unsupervised/attribute/PrincipalComponentsTest.java:76)19
+  CloneClass 56 (Type 1)
+(src/test/java/weka/filters/unsupervised/instance/RemoveFoldsTest.java:50)7
+(src/test/java/weka/filters/supervised/instance/StratifiedRemoveFoldsTest.java:57)7
+  CloneClass 57 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:180)27
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:218)27
+  CloneClass 58 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddIDTest.java:60)17
+(src/test/java/weka/filters/unsupervised/attribute/AddUserFieldsTest.java:44)17
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:64)18
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:95)18
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:124)18
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:152)18
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:88)17
+(src/test/java/weka/filters/unsupervised/attribute/PrincipalComponentsTest.java:78)17
+(src/test/java/weka/filters/unsupervised/attribute/SortLabelsTest.java:96)17
+(src/test/java/weka/filters/unsupervised/attribute/RandomSubsetTest.java:78)17
+(src/test/java/weka/filters/unsupervised/attribute/NumericCleanerTest.java:53)17
+(src/test/java/weka/filters/unsupervised/attribute/AddTest.java:69)14
+  CloneClass 59 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:774)28
+(src/test/java/weka/associations/AbstractAssociatorTest.java:805)28
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:773)28
+  CloneClass 61 (Type 1)
+(src/test/java/weka/classifiers/misc/SerializedClassifierTest.java:295)14
+(src/test/java/weka/core/neighboursearch/AbstractNearestNeighbourSearchTest.java:384)14
+  CloneClass 62 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/ClusterMembershipTest.java:46)15
+(src/test/java/weka/filters/unsupervised/attribute/PartitionMembershipTest.java:46)15
+  CloneClass 63 (Type 1)
+(src/test/java/weka/core/converters/SVMLightTest.java:77)11
+(src/test/java/weka/core/converters/AbstractFileConverterTest.java:150)11
+  CloneClass 64 (Type 1)
+(src/test/java/weka/classifiers/misc/SerializedClassifierTest.java:225)7
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:895)7
+  CloneClass 65 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddIDTest.java:58)19
+(src/test/java/weka/filters/unsupervised/attribute/AddUserFieldsTest.java:42)19
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:149)21
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:86)19
+(src/test/java/weka/filters/unsupervised/attribute/PrincipalComponentsTest.java:76)19
+(src/test/java/weka/filters/unsupervised/attribute/SortLabelsTest.java:94)19
+(src/test/java/weka/filters/unsupervised/attribute/NumericCleanerTest.java:51)19
+(src/test/java/weka/filters/unsupervised/attribute/AddTest.java:67)16
+  CloneClass 66 (Type 1)
+(src/test/java/weka/filters/AbstractTimeSeriesFilterTest.java:62)5
+(src/test/java/weka/filters/unsupervised/instance/NonSparseToSparseTest.java:48)5
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:64)5
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:89)5
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:114)5
+(src/test/java/weka/filters/unsupervised/instance/SparseToNonSparseTest.java:48)5
+  CloneClass 68 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddNoiseTest.java:72)14
+(src/test/java/weka/filters/unsupervised/instance/ReservoirSampleTest.java:59)17
+  CloneClass 69 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:88)11
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:95)11
+  CloneClass 70 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/SwapValuesTest.java:100)8
+(src/test/java/weka/filters/unsupervised/attribute/SwapValuesTest.java:119)8
+  CloneClass 71 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/PartitionedMultiFilterTest.java:93)7
+(src/test/java/weka/filters/unsupervised/attribute/PartitionedMultiFilterTest.java:114)7
+  CloneClass 72 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:87)8
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:108)8
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:109)8
+  CloneClass 73 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddIDTest.java:59)10
+(src/test/java/weka/filters/unsupervised/attribute/AddUserFieldsTest.java:43)10
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:63)10
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:123)10
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:151)10
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:183)10
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:221)10
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:87)10
+(src/test/java/weka/filters/unsupervised/attribute/PrincipalComponentsTest.java:77)10
+(src/test/java/weka/filters/unsupervised/attribute/SortLabelsTest.java:95)10
+(src/test/java/weka/filters/unsupervised/attribute/AddValuesTest.java:116)12
+(src/test/java/weka/filters/AbstractFilterTest.java:264)9
+(src/test/java/weka/filters/unsupervised/attribute/RandomSubsetTest.java:77)10
+(src/test/java/weka/filters/unsupervised/attribute/NumericCleanerTest.java:52)10
+(src/test/java/weka/filters/unsupervised/attribute/AddTest.java:68)9
+  CloneClass 74 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/NominalToStringTest.java:76)11
+(src/test/java/weka/filters/unsupervised/attribute/StringToNominalTest.java:55)11
+  CloneClass 75 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:136)10
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:157)10
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:178)10
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:199)10
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:220)10
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:241)10
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:262)10
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:283)10
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:304)10
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:325)10
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:346)10
+  CloneClass 76 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddIDTest.java:58)19
+(src/test/java/weka/filters/unsupervised/attribute/AddUserFieldsTest.java:42)19
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:86)19
+(src/test/java/weka/filters/unsupervised/attribute/PrincipalComponentsTest.java:76)19
+(src/test/java/weka/filters/unsupervised/attribute/SortLabelsTest.java:94)19
+  CloneClass 77 (Type 1)
+(src/test/java/weka/filters/AbstractFilterTest.java:660)29
+(src/test/java/weka/filters/AbstractFilterTest.java:744)29
+(src/test/java/weka/filters/AbstractFilterTest.java:828)29
+  CloneClass 78 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:406)17
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:492)17
+(src/test/java/weka/associations/AbstractAssociatorTest.java:413)17
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:413)17
+  CloneClass 79 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:207)11
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:251)11
+(src/test/java/weka/associations/AbstractAssociatorTest.java:200)11
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:206)11
+  CloneClass 80 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/StringToNominalTest.java:86)8
+(src/test/java/weka/filters/unsupervised/attribute/StringToNominalTest.java:118)8
+  CloneClass 81 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:67)8
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:109)8
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:86)8
+  CloneClass 82 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:86)19
+(src/test/java/weka/filters/unsupervised/attribute/SortLabelsTest.java:94)19
+  CloneClass 83 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:776)26
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:954)26
+(src/test/java/weka/associations/AbstractAssociatorTest.java:807)26
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:775)26
+  CloneClass 84 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/SwapValuesTest.java:72)8
+(src/test/java/weka/filters/unsupervised/attribute/SwapValuesTest.java:89)8
+(src/test/java/weka/filters/unsupervised/attribute/SwapValuesTest.java:106)8
+  CloneClass 86 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:64)18
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:95)18
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:124)18
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:152)18
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:88)17
+(src/test/java/weka/filters/unsupervised/attribute/NumericCleanerTest.java:53)17
+  CloneClass 87 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:197)11
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:236)11
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:196)11
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:236)11
+  CloneClass 88 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:637)22
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:723)22
+  CloneClass 89 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:75)9
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:96)9
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:117)9
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:94)9
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:118)9
+  CloneClass 91 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddNoiseTest.java:48)9
+(src/test/java/weka/filters/unsupervised/instance/RemoveMisclassifiedTest.java:44)9
+  CloneClass 92 (Type 1)
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:241)11
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:281)11
+  CloneClass 93 (Type 1)
+(src/test/java/weka/filters/unsupervised/instance/NonSparseToSparseTest.java:47)7
+(src/test/java/weka/filters/unsupervised/instance/SparseToNonSparseTest.java:47)7
+  CloneClass 95 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:758)9
+(src/test/java/weka/associations/AbstractAssociatorTest.java:791)9
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:759)9
+  CloneClass 96 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:51)49
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:97)49
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:54)49
+  CloneClass 97 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:51)43
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:97)43
+(src/test/java/weka/associations/AbstractAssociatorTest.java:51)43
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:54)43
+  CloneClass 98 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:63)19
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:123)19
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:151)19
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:87)18
+(src/test/java/weka/filters/unsupervised/attribute/NumericCleanerTest.java:52)18
+  CloneClass 100 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:62)20
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:122)20
+(src/test/java/weka/filters/unsupervised/attribute/RandomSubsetTest.java:76)19
+  CloneClass 102 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/CopyTest.java:73)3
+(src/test/java/weka/filters/unsupervised/attribute/CopyTest.java:83)3
+  CloneClass 103 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/ChangeDateFormatTest.java:75)5
+(src/test/java/weka/filters/unsupervised/attribute/ChangeDateFormatTest.java:101)5
+  CloneClass 104 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:51)43
+(src/test/java/weka/associations/AbstractAssociatorTest.java:51)43
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:54)43
+  CloneClass 105 (Type 1)
+(src/test/java/weka/filters/AbstractTimeSeriesFilterTest.java:68)21
+(src/test/java/weka/filters/AbstractTimeSeriesFilterTest.java:99)21
+  CloneClass 106 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/TimeSeriesDeltaTest.java:67)18
+(src/test/java/weka/filters/AbstractTimeSeriesFilterTest.java:71)18
+(src/test/java/weka/filters/AbstractTimeSeriesFilterTest.java:102)18
+(src/test/java/weka/filters/unsupervised/attribute/TimeSeriesTranslateTest.java:68)18
+  CloneClass 107 (Type 1)
+(src/test/java/weka/core/converters/AbstractFileConverterTest.java:244)14
+(src/test/java/weka/core/converters/AbstractFileConverterTest.java:286)14
+  CloneClass 109 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:234)12
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:280)11
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:234)12
+  CloneClass 110 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddUserFieldsTest.java:44)17
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:64)18
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:95)18
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:124)18
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:152)18
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:88)17
+(src/test/java/weka/filters/unsupervised/attribute/PrincipalComponentsTest.java:78)17
+(src/test/java/weka/filters/unsupervised/attribute/NumericCleanerTest.java:53)17
+  CloneClass 111 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/ChangeDateFormatTest.java:96)6
+(src/test/java/weka/filters/unsupervised/attribute/AddNoiseTest.java:73)6
+(src/test/java/weka/filters/unsupervised/attribute/AddNoiseTest.java:92)6
+(src/test/java/weka/filters/unsupervised/instance/ReservoirSampleTest.java:60)9
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:75)6
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:115)6
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:136)6
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:157)6
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:178)6
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:199)6
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:220)6
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:241)6
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:262)6
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:283)6
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:304)6
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:325)6
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:346)6
+  CloneClass 112 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:317)16
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:362)16
+(src/test/java/weka/associations/AbstractAssociatorTest.java:317)17
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:324)16
+  CloneClass 113 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:109)17
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:86)17
+  CloneClass 114 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:78)5
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:94)5
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:110)5
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:85)5
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:101)5
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:117)5
+  CloneClass 115 (Type 1)
+(src/test/java/weka/filters/AbstractFilterTest.java:615)45
+(src/test/java/weka/filters/AbstractFilterTest.java:694)45
+(src/test/java/weka/filters/AbstractFilterTest.java:778)45
+  CloneClass 116 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:741)21
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:921)21
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:742)21
+  CloneClass 117 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/SwapValuesTest.java:72)8
+(src/test/java/weka/filters/unsupervised/attribute/SwapValuesTest.java:89)8
+  CloneClass 118 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:67)7
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:88)7
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:109)7
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:86)7
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:110)7
+  CloneClass 119 (Type 1)
+(src/test/java/weka/filters/unsupervised/instance/RemoveWithValuesTest.java:80)3
+(src/test/java/weka/filters/unsupervised/instance/RemoveWithValuesTest.java:105)3
+  CloneClass 120 (Type 1)
+(src/test/java/weka/clusterers/AbstractClustererTest.java:123)7
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:208)7
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:252)7
+(src/test/java/weka/associations/AbstractAssociatorTest.java:201)7
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:207)7
+  CloneClass 121 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:149)21
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:86)19
+(src/test/java/weka/filters/unsupervised/attribute/NumericCleanerTest.java:51)19
+  CloneClass 122 (Type 1)
+(src/test/java/weka/filters/unsupervised/instance/RemoveFrequentValuesTest.java:83)10
+(src/test/java/weka/filters/unsupervised/instance/RemoveFrequentValuesTest.java:98)10
+(src/test/java/weka/filters/unsupervised/instance/RemoveFrequentValuesTest.java:114)10
+  CloneClass 123 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/StringToNominalTest.java:69)7
+(src/test/java/weka/filters/unsupervised/attribute/StringToNominalTest.java:98)7
+  CloneClass 124 (Type 1)
+(src/test/java/weka/filters/supervised/instance/ResampleTest.java:68)7
+(src/test/java/weka/filters/unsupervised/instance/ResampleTest.java:60)7
+  CloneClass 125 (Type 1)
+(src/test/java/weka/filters/supervised/instance/ResampleTest.java:91)8
+(src/test/java/weka/filters/supervised/instance/ResampleTest.java:115)7
+(src/test/java/weka/filters/supervised/instance/SpreadSubsampleTest.java:84)7
+  CloneClass 126 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:582)22
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:668)22
+(src/test/java/weka/associations/AbstractAssociatorTest.java:601)22
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:589)22
+  CloneClass 127 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:115)9
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:136)9
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:157)9
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:178)9
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:199)9
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:220)9
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:241)9
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:262)9
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:283)9
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:304)9
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:325)9
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:346)9
+  CloneClass 128 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:526)22
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:612)22
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:533)22
+  CloneClass 129 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/TimeSeriesDeltaTest.java:57)28
+(src/test/java/weka/filters/unsupervised/attribute/TimeSeriesTranslateTest.java:58)28
+  CloneClass 130 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:87)8
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:108)8
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:131)8
+  CloneClass 131 (Type 1)
+(src/test/java/weka/core/AlgVectorTest.java:142)4
+(src/test/java/weka/core/AlgVectorTest.java:151)4
+  CloneClass 132 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/StandardizeTest.java:47)7
+(src/test/java/weka/filters/unsupervised/attribute/NumericToBinaryTest.java:46)7
+(src/test/java/weka/filters/unsupervised/attribute/ReplaceMissingWithUserConstantTest.java:49)5
+(src/test/java/weka/filters/unsupervised/attribute/ReplaceMissingValuesTest.java:46)5
+(src/test/java/weka/filters/unsupervised/attribute/NormalizeTest.java:46)7
+  CloneClass 133 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:646)13
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:732)13
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:653)13
+  CloneClass 134 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:191)36
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:190)36
+  CloneClass 135 (Type 1)
+(src/test/java/weka/filters/AbstractFilterTest.java:395)6
+(src/test/java/weka/filters/AbstractFilterTest.java:432)6
+  CloneClass 136 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddUserFieldsTest.java:42)19
+(src/test/java/weka/filters/unsupervised/attribute/PrincipalComponentsTest.java:76)19
+  CloneClass 137 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:94)5
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:110)5
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:101)5
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:117)5
+  CloneClass 138 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddExpressionTest.java:105)5
+(src/test/java/weka/filters/unsupervised/attribute/AddExpressionTest.java:129)5
+(src/test/java/weka/filters/unsupervised/attribute/AddExpressionTest.java:140)5
+(src/test/java/weka/filters/unsupervised/attribute/AddExpressionTest.java:162)5
+(src/test/java/weka/filters/unsupervised/attribute/AddExpressionTest.java:173)5
+(src/test/java/weka/filters/unsupervised/attribute/AddExpressionTest.java:184)5
+(src/test/java/weka/filters/unsupervised/attribute/AddExpressionTest.java:195)5
+(src/test/java/weka/filters/unsupervised/attribute/AddExpressionTest.java:206)5
+(src/test/java/weka/filters/unsupervised/attribute/AddExpressionTest.java:217)5
+  CloneClass 139 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddIDTest.java:58)19
+(src/test/java/weka/filters/unsupervised/attribute/AddUserFieldsTest.java:42)19
+(src/test/java/weka/filters/unsupervised/attribute/PrincipalComponentsTest.java:76)19
+  CloneClass 140 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:104)11
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:111)11
+  CloneClass 141 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddIDTest.java:60)15
+(src/test/java/weka/filters/unsupervised/attribute/AddUserFieldsTest.java:44)15
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:64)15
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:95)15
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:124)15
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:152)15
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:184)15
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:222)15
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:88)15
+(src/test/java/weka/filters/unsupervised/attribute/PrincipalComponentsTest.java:78)15
+(src/test/java/weka/filters/unsupervised/attribute/SortLabelsTest.java:96)15
+(src/test/java/weka/filters/AbstractFilterTest.java:233)13
+(src/test/java/weka/filters/AbstractFilterTest.java:265)13
+(src/test/java/weka/filters/unsupervised/attribute/RandomSubsetTest.java:78)15
+(src/test/java/weka/filters/unsupervised/attribute/NumericCleanerTest.java:53)15
+(src/test/java/weka/filters/unsupervised/attribute/AddTest.java:69)13
+  CloneClass 142 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:51)55
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:54)55
+  CloneClass 143 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddIDTest.java:58)17
+(src/test/java/weka/filters/unsupervised/attribute/AddUserFieldsTest.java:42)17
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:149)18
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:86)17
+(src/test/java/weka/filters/unsupervised/attribute/PrincipalComponentsTest.java:76)17
+(src/test/java/weka/filters/unsupervised/attribute/SortLabelsTest.java:94)17
+(src/test/java/weka/filters/AbstractFilterTest.java:262)16
+(src/test/java/weka/filters/unsupervised/attribute/NumericCleanerTest.java:51)17
+  CloneClass 144 (Type 1)
+(src/test/java/weka/filters/unsupervised/instance/RemoveFrequentValuesTest.java:155)8
+(src/test/java/weka/filters/unsupervised/attribute/NominalToStringTest.java:120)8
+(src/test/java/weka/filters/unsupervised/attribute/MakeIndicatorTest.java:128)8
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:157)8
+(src/test/java/weka/filters/unsupervised/attribute/AddValuesTest.java:175)8
+(src/test/java/weka/filters/unsupervised/attribute/SwapValuesTest.java:143)8
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:172)8
+  CloneClass 145 (Type 1)
+(src/test/java/weka/filters/AbstractTimeSeriesFilterTest.java:61)6
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:88)6
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:113)6
+  CloneClass 146 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:67)3
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:78)3
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:94)3
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:110)3
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:74)3
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:85)3
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:101)3
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:117)3
+(src/test/java/weka/filters/supervised/attribute/ClassOrderTest.java:64)3
+  CloneClass 147 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:493)22
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:579)22
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:500)22
+  CloneClass 148 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/MakeIndicatorTest.java:86)10
+(src/test/java/weka/filters/unsupervised/attribute/MakeIndicatorTest.java:108)10
+  CloneClass 149 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:65)5
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:72)5
+(src/test/java/weka/filters/supervised/attribute/ClassOrderTest.java:62)5
+  CloneClass 150 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:75)7
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:115)7
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:136)7
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:157)7
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:178)7
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:199)7
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:220)7
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:241)7
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:262)7
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:283)7
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:304)7
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:325)7
+(src/test/java/weka/filters/unsupervised/attribute/MathExpressionTest.java:346)7
+  CloneClass 151 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/StandardizeTest.java:47)8
+(src/test/java/weka/filters/unsupervised/attribute/NumericToBinaryTest.java:46)8
+(src/test/java/weka/filters/unsupervised/attribute/NormalizeTest.java:46)8
+  CloneClass 152 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddClusterTest.java:49)12
+(src/test/java/weka/filters/unsupervised/attribute/ClusterMembershipTest.java:46)12
+(src/test/java/weka/filters/unsupervised/attribute/PartitionMembershipTest.java:46)12
+  CloneClass 153 (Type 1)
+(src/test/java/weka/clusterers/AbstractClustererTest.java:546)14
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:788)14
+(src/test/java/weka/classifiers/misc/SerializedClassifierTest.java:295)14
+(src/test/java/weka/classifiers/pmml/consumer/AbstractPMMLClassifierTest.java:85)13
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:966)14
+(src/test/java/weka/associations/AbstractAssociatorTest.java:819)14
+(src/test/java/weka/core/tokenizers/AbstractTokenizerTest.java:275)14
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:787)14
+(src/test/java/weka/core/neighboursearch/AbstractNearestNeighbourSearchTest.java:384)14
+  CloneClass 154 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:62)9
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:69)9
+  CloneClass 155 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/ReplaceMissingWithUserConstantTest.java:49)5
+(src/test/java/weka/filters/unsupervised/attribute/ReplaceMissingValuesTest.java:46)5
+  CloneClass 156 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddUserFieldsTest.java:42)19
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:149)21
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:86)19
+(src/test/java/weka/filters/unsupervised/attribute/PrincipalComponentsTest.java:76)19
+(src/test/java/weka/filters/unsupervised/attribute/NumericCleanerTest.java:51)19
+  CloneClass 157 (Type 1)
+(src/test/java/weka/clusterers/AbstractClustererTest.java:549)10
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:791)10
+(src/test/java/weka/classifiers/misc/SerializedClassifierTest.java:298)10
+(src/test/java/weka/classifiers/pmml/consumer/AbstractPMMLClassifierTest.java:88)9
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:969)10
+(src/test/java/weka/associations/AbstractAssociatorTest.java:822)10
+(src/test/java/weka/core/tokenizers/AbstractTokenizerTest.java:278)10
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:790)10
+(src/test/java/weka/filters/AbstractFilterTest.java:396)9
+(src/test/java/weka/core/neighboursearch/AbstractNearestNeighbourSearchTest.java:387)10
+  CloneClass 158 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:67)7
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:88)7
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:109)7
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:132)7
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:86)7
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:110)7
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:147)7
+  CloneClass 159 (Type 1)
+(src/test/java/weka/filters/supervised/instance/ResampleTest.java:55)11
+(src/test/java/weka/filters/unsupervised/instance/ResampleTest.java:47)11
+  CloneClass 160 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:191)7
+(src/test/java/weka/associations/AbstractAssociatorTest.java:185)8
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:190)7
+  CloneClass 161 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/StandardizeTest.java:47)8
+(src/test/java/weka/filters/unsupervised/attribute/NormalizeTest.java:46)8
+  CloneClass 162 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:301)15
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:346)15
+(src/test/java/weka/associations/AbstractAssociatorTest.java:297)15
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:308)15
+  CloneClass 163 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:73)11
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:98)11
+  CloneClass 164 (Type 1)
+(src/test/java/weka/filters/unsupervised/instance/RemoveFrequentValuesTest.java:155)7
+(src/test/java/weka/filters/unsupervised/attribute/ChangeDateFormatTest.java:118)7
+(src/test/java/weka/filters/AbstractTimeSeriesFilterTest.java:125)7
+(src/test/java/weka/filters/unsupervised/attribute/NominalToStringTest.java:120)7
+(src/test/java/weka/filters/unsupervised/attribute/MakeIndicatorTest.java:128)7
+(src/test/java/weka/filters/unsupervised/attribute/StringToNominalTest.java:131)7
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:157)7
+(src/test/java/weka/filters/unsupervised/attribute/AddValuesTest.java:175)7
+(src/test/java/weka/filters/unsupervised/attribute/SwapValuesTest.java:143)7
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:172)7
+  CloneClass 165 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/PartitionedMultiFilterTest.java:135)7
+(src/test/java/weka/filters/unsupervised/attribute/PartitionedMultiFilterTest.java:156)7
+  CloneClass 166 (Type 1)
+(src/test/java/weka/core/UtilsTest.java:116)5
+(src/test/java/weka/core/UtilsTest.java:121)5
+(src/test/java/weka/core/UtilsTest.java:126)5
+(src/test/java/weka/core/UtilsTest.java:131)5
+  CloneClass 167 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:73)10
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:80)10
+  CloneClass 168 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddIDTest.java:58)17
+(src/test/java/weka/filters/unsupervised/attribute/AddUserFieldsTest.java:42)17
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:149)18
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:86)17
+(src/test/java/weka/filters/unsupervised/attribute/PrincipalComponentsTest.java:76)17
+(src/test/java/weka/filters/unsupervised/attribute/SortLabelsTest.java:94)17
+(src/test/java/weka/filters/AbstractFilterTest.java:262)16
+(src/test/java/weka/filters/unsupervised/attribute/NumericCleanerTest.java:51)17
+(src/test/java/weka/filters/unsupervised/attribute/AddTest.java:67)15
+  CloneClass 169 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:89)5
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:105)5
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:96)5
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:112)5
+  CloneClass 170 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:62)11
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:122)11
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:180)13
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:218)13
+(src/test/java/weka/filters/unsupervised/attribute/AddValuesTest.java:115)13
+(src/test/java/weka/filters/unsupervised/attribute/RandomSubsetTest.java:76)11
+  CloneClass 171 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:207)20
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:251)20
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:206)20
+  CloneClass 174 (Type 1)
+(src/test/java/weka/core/RangeTest.java:155)6
+(src/test/java/weka/core/RangeTest.java:170)6
+(src/test/java/weka/core/RangeTest.java:185)6
+  CloneClass 175 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:526)10
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:582)10
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:612)10
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:668)10
+(src/test/java/weka/associations/AbstractAssociatorTest.java:601)10
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:533)10
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:589)10
+  CloneClass 176 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:613)15
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:699)15
+(src/test/java/weka/associations/AbstractAssociatorTest.java:632)15
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:620)15
+  CloneClass 177 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:74)10
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:95)10
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:117)10
+  CloneClass 178 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:86)20
+(src/test/java/weka/filters/unsupervised/attribute/NumericCleanerTest.java:51)20
+  CloneClass 179 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:87)8
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:108)8
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:131)8
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:109)8
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:146)8
+  CloneClass 180 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:467)18
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:553)18
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:474)18
+  CloneClass 181 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/AddIDTest.java:59)16
+(src/test/java/weka/filters/unsupervised/attribute/AddUserFieldsTest.java:43)16
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:63)16
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:123)16
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:151)16
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:183)16
+(src/test/java/weka/filters/unsupervised/attribute/InterquartileRangeTest.java:221)16
+(src/test/java/weka/filters/unsupervised/attribute/RenameAttributeTest.java:87)16
+(src/test/java/weka/filters/unsupervised/attribute/PrincipalComponentsTest.java:77)16
+(src/test/java/weka/filters/unsupervised/attribute/SortLabelsTest.java:95)16
+(src/test/java/weka/filters/AbstractFilterTest.java:264)14
+(src/test/java/weka/filters/unsupervised/attribute/RandomSubsetTest.java:77)16
+(src/test/java/weka/filters/unsupervised/attribute/NumericCleanerTest.java:52)16
+(src/test/java/weka/filters/unsupervised/attribute/AddTest.java:68)14
+  CloneClass 182 (Type 1)
+(src/test/java/weka/core/UtilsTest.java:116)3
+(src/test/java/weka/core/UtilsTest.java:121)3
+(src/test/java/weka/core/UtilsTest.java:126)3
+(src/test/java/weka/core/UtilsTest.java:131)3
+(src/test/java/weka/core/UtilsTest.java:136)3
+  CloneClass 183 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:373)24
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:431)24
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:380)24
+  CloneClass 184 (Type 1)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:194)13
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:239)12
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:193)13
+  CloneClass 185 (Type 1)
+(src/test/java/weka/filters/unsupervised/attribute/ChangeDateFormatTest.java:96)7
+(src/test/java/weka/filters/unsupervised/attribute/AddNoiseTest.java:73)7
+(src/test/java/weka/filters/unsupervised/attribute/AddNoiseTest.java:92)7
+(src/test/java/weka/filters/unsupervised/instance/ReservoirSampleTest.java:60)10
+This is for clone class 2
+  CloneClass 6 (Type 2)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:88)17
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:86)17
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:110)17
+  CloneClass 14 (Type 2)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:66)18
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:85)18
+  CloneClass 17 (Type 2)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:67)17
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:88)17
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:110)17
+  CloneClass 36 (Type 2)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:67)17
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:109)17
+  CloneClass 45 (Type 2)
+(src/test/java/weka/core/UtilsTest.java:116)8
+(src/test/java/weka/core/UtilsTest.java:131)8
+  CloneClass 48 (Type 2)
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:89)10
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:105)10
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:96)10
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:112)10
+  CloneClass 60 (Type 2)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:87)18
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:108)18
+  CloneClass 85 (Type 2)
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:96)13
+(src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java:112)13
+  CloneClass 90 (Type 2)
+(src/test/java/weka/filters/unsupervised/attribute/MergeTwoValuesTest.java:108)18
+(src/test/java/weka/filters/unsupervised/attribute/MergeManyValuesTest.java:109)18
+  CloneClass 94 (Type 2)
+(src/test/java/weka/core/UtilsTest.java:116)10
+(src/test/java/weka/core/UtilsTest.java:126)10
+  CloneClass 99 (Type 2)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:194)33
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:239)32
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:193)33
+  CloneClass 101 (Type 2)
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:64)20
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:114)20
+  CloneClass 172 (Type 2)
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:89)13
+(src/test/java/weka/filters/unsupervised/attribute/DiscretizeTest.java:105)13
+This is for clone class 3
+  CloneClass 9 (Type 3)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:741)61
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:742)59
+  CloneClass 18 (Type 3)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:301)32
+(src/test/java/weka/classifiers/AbstractClassifierTest.java:346)32
+(src/test/java/weka/associations/AbstractAssociatorTest.java:297)37
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:308)32
+  CloneClass 67 (Type 3)
+(src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java:758)44
+(src/test/java/weka/associations/AbstractAssociatorTest.java:791)42
+(src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java:759)42
+  CloneClass 108 (Type 3)
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:88)21
+(src/test/java/weka/filters/unsupervised/attribute/NumericTransformTest.java:113)21
+  CloneClass 173 (Type 3)
+(src/test/java/weka/filters/AbstractFilterTest.java:694)79
+(src/test/java/weka/filters/AbstractFilterTest.java:778)79
+Found 701 clones in 185 cases.
+Net cloned lines = 4261

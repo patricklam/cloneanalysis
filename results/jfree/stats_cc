@@ -1,0 +1,371 @@
+{
+	"project" : "jfree",
+	"others" : {
+		"totalStaticCalls" : 9162,
+		"totalMethods" : 2205,
+		"totalClasses" : 348,
+		"totalPackages" : 23,
+		"totalClassesNotDirectlyInheritingTestCase" : 0,
+		"totalClassesContainingNonEmptySetupOrTeardown" : 39,
+		"totalMethodsWithAtLeast5Asserts" : 536,
+		"totalMethodsWithBranches" : 453,
+		"totalMethodsWithLoops" : 4,
+		"totalMethodsWithNoStaticCalls" : 27,
+		"totalMethodsWithNetworkAccess" : 0,
+		"totalMethodsWithFilesystemAccess" : 0
+	},
+	"details" : [
+		{
+			"threshold" : 0.5,
+			"sets" : 194,
+			"classes" : 312,
+			"methods" : 1034,
+			"asserts" : 2349,
+			"assertInCloneRatio" : 0.25638506876227896,
+			"scores" : [
+				{
+					"score" : 1,
+					"count" : 37
+				},
+				{
+					"score" : 0.75,
+					"count" : 4
+				},
+				{
+					"score" : 0.7272727272727273,
+					"count" : 1
+				},
+				{
+					"score" : 0.6666666666666666,
+					"count" : 93
+				},
+				{
+					"score" : 0.5,
+					"count" : 59
+				}
+			],
+			"ccsizes" : [
+				{
+					"ccsize" : 5,
+					"count" : 4
+				},
+				{
+					"ccsize" : 4,
+					"count" : 10
+				},
+				{
+					"ccsize" : 3,
+					"count" : 61
+				},
+				{
+					"ccsize" : 2,
+					"count" : 119
+				}
+			],
+			"scoreAssertAvgs" : [
+				{
+					"score" : 1,
+					"avgAssertSize" : 11.45945945945946
+				},
+				{
+					"score" : 0.75,
+					"avgAssertSize" : 2.75
+				},
+				{
+					"score" : 0.7272727272727273,
+					"avgAssertSize" : 2
+				},
+				{
+					"score" : 0.6666666666666666,
+					"avgAssertSize" : 13.451612903225806
+				},
+				{
+					"score" : 0.5,
+					"avgAssertSize" : 11.23728813559322
+				}
+			],
+			"ccsizeAssertAvgs" : [
+				{
+					"ccsize" : 5,
+					"avgAssertSize" : 7
+				},
+				{
+					"ccsize" : 4,
+					"avgAssertSize" : 5.5
+				},
+				{
+					"ccsize" : 3,
+					"avgAssertSize" : 5.737704918032787
+				},
+				{
+					"ccsize" : 2,
+					"avgAssertSize" : 16.11764705882353
+				}
+			]
+		},
+		{
+			"threshold" : 0.6,
+			"sets" : 135,
+			"classes" : 310,
+			"methods" : 886,
+			"asserts" : 1686,
+			"assertInCloneRatio" : 0.18402095612311722,
+			"scores" : [
+				{
+					"score" : 1,
+					"count" : 37
+				},
+				{
+					"score" : 0.75,
+					"count" : 4
+				},
+				{
+					"score" : 0.7272727272727273,
+					"count" : 1
+				},
+				{
+					"score" : 0.6666666666666666,
+					"count" : 93
+				}
+			],
+			"ccsizes" : [
+				{
+					"ccsize" : 5,
+					"count" : 3
+				},
+				{
+					"ccsize" : 4,
+					"count" : 6
+				},
+				{
+					"ccsize" : 3,
+					"count" : 32
+				},
+				{
+					"ccsize" : 2,
+					"count" : 94
+				}
+			],
+			"scoreAssertAvgs" : [
+				{
+					"score" : 1,
+					"avgAssertSize" : 11.45945945945946
+				},
+				{
+					"score" : 0.75,
+					"avgAssertSize" : 2.75
+				},
+				{
+					"score" : 0.7272727272727273,
+					"avgAssertSize" : 2
+				},
+				{
+					"score" : 0.6666666666666666,
+					"avgAssertSize" : 13.451612903225806
+				}
+			],
+			"ccsizeAssertAvgs" : [
+				{
+					"ccsize" : 5,
+					"avgAssertSize" : 8
+				},
+				{
+					"ccsize" : 4,
+					"avgAssertSize" : 5.166666666666667
+				},
+				{
+					"ccsize" : 3,
+					"avgAssertSize" : 5
+				},
+				{
+					"ccsize" : 2,
+					"avgAssertSize" : 15.670212765957446
+				}
+			]
+		},
+		{
+			"threshold" : 0.7,
+			"sets" : 42,
+			"classes" : 181,
+			"methods" : 295,
+			"asserts" : 435,
+			"assertInCloneRatio" : 0.04747871643745907,
+			"scores" : [
+				{
+					"score" : 1,
+					"count" : 37
+				},
+				{
+					"score" : 0.75,
+					"count" : 4
+				},
+				{
+					"score" : 0.7272727272727273,
+					"count" : 1
+				}
+			],
+			"ccsizes" : [
+				{
+					"ccsize" : 5,
+					"count" : 3
+				},
+				{
+					"ccsize" : 4,
+					"count" : 1
+				},
+				{
+					"ccsize" : 3,
+					"count" : 15
+				},
+				{
+					"ccsize" : 2,
+					"count" : 23
+				}
+			],
+			"scoreAssertAvgs" : [
+				{
+					"score" : 1,
+					"avgAssertSize" : 11.45945945945946
+				},
+				{
+					"score" : 0.75,
+					"avgAssertSize" : 2.75
+				},
+				{
+					"score" : 0.7272727272727273,
+					"avgAssertSize" : 2
+				}
+			],
+			"ccsizeAssertAvgs" : [
+				{
+					"ccsize" : 5,
+					"avgAssertSize" : 8
+				},
+				{
+					"ccsize" : 4,
+					"avgAssertSize" : 4
+				},
+				{
+					"ccsize" : 3,
+					"avgAssertSize" : 3.3333333333333335
+				},
+				{
+					"ccsize" : 2,
+					"avgAssertSize" : 15.608695652173912
+				}
+			]
+		},
+		{
+			"threshold" : 0.8,
+			"sets" : 37,
+			"classes" : 178,
+			"methods" : 284,
+			"asserts" : 424,
+			"assertInCloneRatio" : 0.046278105217201486,
+			"scores" : [
+				{
+					"score" : 1,
+					"count" : 37
+				}
+			],
+			"ccsizes" : [
+				{
+					"ccsize" : 5,
+					"count" : 2
+				},
+				{
+					"ccsize" : 4,
+					"count" : 1
+				},
+				{
+					"ccsize" : 3,
+					"count" : 11
+				},
+				{
+					"ccsize" : 2,
+					"count" : 23
+				}
+			],
+			"scoreAssertAvgs" : [
+				{
+					"score" : 1,
+					"avgAssertSize" : 11.45945945945946
+				}
+			],
+			"ccsizeAssertAvgs" : [
+				{
+					"ccsize" : 5,
+					"avgAssertSize" : 11
+				},
+				{
+					"ccsize" : 4,
+					"avgAssertSize" : 4
+				},
+				{
+					"ccsize" : 3,
+					"avgAssertSize" : 3.5454545454545454
+				},
+				{
+					"ccsize" : 2,
+					"avgAssertSize" : 15.608695652173912
+				}
+			]
+		},
+		{
+			"threshold" : 0.9,
+			"sets" : 37,
+			"classes" : 178,
+			"methods" : 284,
+			"asserts" : 424,
+			"assertInCloneRatio" : 0.046278105217201486,
+			"scores" : [
+				{
+					"score" : 1,
+					"count" : 37
+				}
+			],
+			"ccsizes" : [
+				{
+					"ccsize" : 5,
+					"count" : 2
+				},
+				{
+					"ccsize" : 4,
+					"count" : 1
+				},
+				{
+					"ccsize" : 3,
+					"count" : 11
+				},
+				{
+					"ccsize" : 2,
+					"count" : 23
+				}
+			],
+			"scoreAssertAvgs" : [
+				{
+					"score" : 1,
+					"avgAssertSize" : 11.45945945945946
+				}
+			],
+			"ccsizeAssertAvgs" : [
+				{
+					"ccsize" : 5,
+					"avgAssertSize" : 11
+				},
+				{
+					"ccsize" : 4,
+					"avgAssertSize" : 4
+				},
+				{
+					"ccsize" : 3,
+					"avgAssertSize" : 3.5454545454545454
+				},
+				{
+					"ccsize" : 2,
+					"avgAssertSize" : 15.608695652173912
+				}
+			]
+		}
+	]
+}

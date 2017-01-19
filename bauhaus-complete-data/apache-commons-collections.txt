@@ -1,0 +1,2098 @@
+Version 1 (/home/d2jain/bhprojects/apache-commons-collections)
+This is for clone class 1
+  CloneClass 1 (Type 1)
+(src/test/org/apache/commons/collections/map/TestListOrderedMap2.java:83)24
+(src/test/org/apache/commons/collections/map/TestListOrderedMap.java:85)24
+  CloneClass 2 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1318)19
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:883)19
+  CloneClass 3 (Type 1)
+(src/test/org/apache/commons/collections/map/TestListOrderedMap.java:241)4
+(src/test/org/apache/commons/collections/map/TestListOrderedMap.java:253)4
+(src/test/org/apache/commons/collections/map/TestListOrderedMap.java:267)4
+  CloneClass 4 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestBoundedFifoBuffer2.java:114)9
+(src/test/org/apache/commons/collections/TestBoundedFifoBuffer2.java:110)9
+  CloneClass 5 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:243)10
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:414)10
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:603)10
+  CloneClass 6 (Type 1)
+(src/test/org/apache/commons/collections/map/TestStaticBucketMap.java:85)11
+(src/test/org/apache/commons/collections/TestStaticBucketMap.java:85)11
+  CloneClass 7 (Type 1)
+(src/test/org/apache/commons/collections/TestCollectionUtils.java:994)3
+(src/test/org/apache/commons/collections/TestCollectionUtils.java:1004)3
+  CloneClass 8 (Type 1)
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:307)13
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:327)13
+  CloneClass 9 (Type 1)
+(src/test/org/apache/commons/collections/TestFactoryUtils.java:133)9
+(src/test/org/apache/commons/collections/TestFactoryUtils.java:151)9
+(src/test/org/apache/commons/collections/TestFactoryUtils.java:177)9
+  CloneClass 10 (Type 1)
+(src/test/org/apache/commons/collections/TestSequencedHashMap.java:86)6
+(src/test/org/apache/commons/collections/TestSequencedHashMap.java:175)6
+  CloneClass 11 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:180)6
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:204)6
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:178)6
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:202)6
+  CloneClass 13 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestBoundedFifoBuffer2.java:102)7
+(src/test/org/apache/commons/collections/TestBoundedFifoBuffer2.java:98)7
+  CloneClass 15 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:450)8
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:556)8
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:606)8
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:681)8
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:754)8
+  CloneClass 16 (Type 1)
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:203)5
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:228)4
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:255)5
+  CloneClass 17 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2155)15
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2348)15
+  CloneClass 18 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1145)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1229)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1397)7
+  CloneClass 19 (Type 1)
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:238)5
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:353)5
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:472)5
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:587)5
+  CloneClass 20 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:122)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:153)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:442)4
+  CloneClass 21 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1120)15
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:685)15
+  CloneClass 22 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:137)7
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:183)6
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:354)6
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:541)6
+  CloneClass 23 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:276)2
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:287)2
+  CloneClass 24 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:480)10
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:647)10
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1238)10
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1406)10
+  CloneClass 25 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:368)8
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:384)8
+  CloneClass 26 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestIteratorChain.java:87)13
+(src/test/org/apache/commons/collections/iterators/TestArrayIterator2.java:82)14
+(src/test/org/apache/commons/collections/iterators/TestUniqueFilterIterator.java:82)13
+(src/test/org/apache/commons/collections/iterators/TestArrayIterator.java:66)14
+(src/test/org/apache/commons/collections/iterators/TestObjectArrayIterator.java:79)14
+  CloneClass 27 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1156)17
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:721)17
+  CloneClass 28 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:261)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1071)6
+  CloneClass 29 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:314)9
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:486)9
+  CloneClass 30 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:342)1
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:345)1
+  CloneClass 31 (Type 1)
+(src/test/org/apache/commons/collections/map/AbstractTestMap.java:1099)4
+(src/test/org/apache/commons/collections/map/AbstractTestMap.java:1137)5
+  CloneClass 33 (Type 1)
+(src/test/org/apache/commons/collections/map/TestListOrderedMap2.java:109)14
+(src/test/org/apache/commons/collections/map/TestListOrderedMap.java:111)14
+  CloneClass 34 (Type 1)
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:222)6
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:337)6
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:456)6
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:571)6
+  CloneClass 36 (Type 1)
+(src/test/org/apache/commons/collections/keyvalue/TestMultiKey.java:164)7
+(src/test/org/apache/commons/collections/keyvalue/TestMultiKey.java:175)7
+  CloneClass 37 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1614)11
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1830)11
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2031)11
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2247)11
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2422)11
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2629)11
+  CloneClass 38 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:930)41
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:495)41
+  CloneClass 39 (Type 1)
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:228)5
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:462)5
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:577)5
+  CloneClass 40 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:196)6
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:312)6
+  CloneClass 41 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:386)8
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:402)8
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:417)8
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:433)8
+  CloneClass 42 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestListIteratorWrapper.java:83)7
+(src/test/org/apache/commons/collections/iterators/TestSingletonIterator2.java:76)8
+(src/test/org/apache/commons/collections/iterators/TestSingletonIterator.java:78)8
+  CloneClass 43 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:230)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:327)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:377)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:442)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:473)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:640)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:803)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:883)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:942)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1099)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1147)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1231)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1399)4
+  CloneClass 44 (Type 1)
+(src/test/org/apache/commons/collections/TestCollectionUtils.java:988)3
+(src/test/org/apache/commons/collections/TestCollectionUtils.java:994)3
+(src/test/org/apache/commons/collections/TestCollectionUtils.java:1004)3
+  CloneClass 45 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:335)14
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:353)14
+  CloneClass 46 (Type 1)
+(src/test/org/apache/commons/collections/list/TestTransformedList.java:81)5
+(src/test/org/apache/commons/collections/list/TestTransformedList.java:130)5
+  CloneClass 47 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:228)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:375)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:881)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:940)6
+  CloneClass 48 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:267)13
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:284)13
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:301)13
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:318)13
+  CloneClass 50 (Type 1)
+(src/test/org/apache/commons/collections/TestCollectionUtils.java:346)6
+(src/test/org/apache/commons/collections/TestCollectionUtils.java:352)6
+  CloneClass 51 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:181)11
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:352)11
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:539)11
+  CloneClass 52 (Type 1)
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:263)8
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:321)8
+  CloneClass 53 (Type 1)
+(src/test/org/apache/commons/collections/bag/AbstractTestBag.java:351)10
+(src/test/org/apache/commons/collections/bag/AbstractTestBag.java:370)10
+  CloneClass 54 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1687)15
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1903)15
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2111)15
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2327)15
+  CloneClass 55 (Type 1)
+(src/test/org/apache/commons/collections/iterators/AbstractTestMapIterator.java:310)16
+(src/test/org/apache/commons/collections/iterators/AbstractTestMapIterator.java:333)16
+  CloneClass 56 (Type 1)
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:66)6
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:76)6
+  CloneClass 57 (Type 1)
+(src/test/org/apache/commons/collections/bag/TestTransformedBag.java:54)6
+(src/test/org/apache/commons/collections/bag/TestTransformedSortedBag.java:54)6
+(src/test/org/apache/commons/collections/bag/TestTypedBag.java:71)6
+(src/test/org/apache/commons/collections/bag/TestPredicatedBag.java:79)6
+  CloneClass 58 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:117)8
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:162)8
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:204)8
+  CloneClass 59 (Type 1)
+(src/test/org/apache/commons/collections/map/TestIdentityMap.java:101)13
+(src/test/org/apache/commons/collections/map/TestReferenceIdentityMap.java:115)13
+  CloneClass 60 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1086)31
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:245)31
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:651)31
+  CloneClass 61 (Type 1)
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:197)15
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:249)15
+  CloneClass 62 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:234)7
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:301)7
+  CloneClass 63 (Type 1)
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:98)5
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:108)5
+  CloneClass 64 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:289)12
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:308)12
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:328)12
+  CloneClass 65 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:576)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:586)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:739)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:749)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1335)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1345)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1499)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1509)9
+  CloneClass 66 (Type 1)
+(src/test/org/apache/commons/collections/keyvalue/TestMultiKey.java:84)3
+(src/test/org/apache/commons/collections/keyvalue/TestMultiKey.java:94)3
+(src/test/org/apache/commons/collections/keyvalue/TestMultiKey.java:100)5
+  CloneClass 67 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:162)52
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:160)52
+  CloneClass 68 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:122)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:153)5
+  CloneClass 69 (Type 1)
+(src/test/org/apache/commons/collections/TestClosureUtils.java:307)7
+(src/test/org/apache/commons/collections/TestClosureUtils.java:371)7
+  CloneClass 70 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:141)8
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:159)8
+  CloneClass 71 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1123)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1130)5
+  CloneClass 72 (Type 1)
+(src/test/org/apache/commons/collections/map/TestReferenceMap.java:67)12
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:115)12
+(src/test/org/apache/commons/collections/TestReferenceMap.java:67)12
+(src/test/org/apache/commons/collections/map/TestReferenceIdentityMap.java:132)12
+  CloneClass 73 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestLoopingListIterator.java:280)8
+(src/test/org/apache/commons/collections/iterators/TestLoopingListIterator.java:303)9
+  CloneClass 74 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:585)10
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:748)10
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1344)10
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1508)10
+  CloneClass 75 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:391)12
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:404)12
+  CloneClass 76 (Type 1)
+(src/test/org/apache/commons/collections/iterators/AbstractTestOrderedMapIterator.java:104)9
+(src/test/org/apache/commons/collections/iterators/AbstractTestOrderedMapIterator.java:122)9
+  CloneClass 77 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:128)12
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:126)12
+  CloneClass 78 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:556)10
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:681)10
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:754)10
+  CloneClass 79 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:296)14
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:344)14
+  CloneClass 80 (Type 1)
+(src/test/org/apache/commons/collections/list/TestSetUniqueList.java:76)14
+(src/test/org/apache/commons/collections/collection/AbstractTestCollection.java:441)14
+  CloneClass 81 (Type 1)
+(src/test/org/apache/commons/collections/list/TestSetUniqueList.java:105)10
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:998)10
+  CloneClass 82 (Type 1)
+(src/test/org/apache/commons/collections/map/TestReferenceMap.java:67)135
+(src/test/org/apache/commons/collections/TestReferenceMap.java:67)91
+(src/test/org/apache/commons/collections/map/TestReferenceIdentityMap.java:132)135
+  CloneClass 83 (Type 1)
+(src/test/org/apache/commons/collections/TestMapUtils.java:295)11
+(src/test/org/apache/commons/collections/TestMapUtils.java:309)11
+  CloneClass 84 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:207)9
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:227)9
+  CloneClass 85 (Type 1)
+(src/test/org/apache/commons/collections/TestMapUtils.java:487)10
+(src/test/org/apache/commons/collections/TestMapUtils.java:506)10
+  CloneClass 86 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:999)10
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1039)10
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:564)10
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:604)10
+  CloneClass 88 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:63)28
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:61)28
+  CloneClass 89 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1137)17
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:702)17
+  CloneClass 90 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1387)15
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1410)15
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:952)15
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:975)15
+  CloneClass 91 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:269)12
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:443)12
+  CloneClass 92 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:332)10
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:375)10
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:518)10
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:562)10
+  CloneClass 93 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:258)12
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:273)12
+  CloneClass 94 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:332)13
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:375)13
+  CloneClass 96 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1079)39
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:644)39
+  CloneClass 97 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:137)22
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:493)22
+  CloneClass 98 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:51)6
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:67)6
+  CloneClass 99 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:84)8
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:151)9
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:160)9
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:87)9
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:96)9
+  CloneClass 100 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:143)37
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:79)37
+  CloneClass 101 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:236)9
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:278)9
+  CloneClass 102 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:136)12
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:189)12
+  CloneClass 103 (Type 1)
+(src/test/org/apache/commons/collections/map/TestReferenceMap.java:204)14
+(src/test/org/apache/commons/collections/TestReferenceMap.java:160)14
+  CloneClass 104 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:979)10
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:989)10
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:544)10
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:554)10
+  CloneClass 105 (Type 1)
+(src/test/org/apache/commons/collections/collection/TestCompositeCollection.java:238)25
+(src/test/org/apache/commons/collections/collection/TestCompositeCollection.java:270)25
+  CloneClass 106 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:207)14
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:245)14
+  CloneClass 107 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:295)6
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:346)6
+  CloneClass 108 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestArrayListIterator.java:63)28
+(src/test/org/apache/commons/collections/iterators/TestObjectArrayListIterator.java:60)28
+  CloneClass 109 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:869)27
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:434)27
+  CloneClass 110 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:370)9
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:369)9
+  CloneClass 111 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:244)6
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:311)6
+  CloneClass 112 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1984)12
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2200)12
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2381)12
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2588)12
+  CloneClass 113 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:349)9
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:348)9
+  CloneClass 115 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestSingletonListIterator.java:75)4
+(src/test/org/apache/commons/collections/iterators/TestSingletonListIterator.java:90)5
+  CloneClass 116 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestLoopingIterator.java:97)10
+(src/test/org/apache/commons/collections/iterators/TestLoopingIterator.java:116)10
+  CloneClass 117 (Type 1)
+(src/test/org/apache/commons/collections/map/TestStaticBucketMap.java:63)9
+(src/test/org/apache/commons/collections/TestStaticBucketMap.java:63)9
+  CloneClass 118 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:144)7
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:194)6
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:321)7
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:365)6
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:500)7
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:552)6
+  CloneClass 119 (Type 1)
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:298)9
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:318)9
+  CloneClass 120 (Type 1)
+(src/test/org/apache/commons/collections/TestCollectionUtils.java:387)8
+(src/test/org/apache/commons/collections/TestCollectionUtils.java:399)8
+  CloneClass 121 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:317)5
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:323)5
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:336)4
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:365)5
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:371)5
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:384)4
+  CloneClass 122 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1235)17
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:800)17
+  CloneClass 123 (Type 1)
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:243)6
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:263)6
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:301)6
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:321)6
+  CloneClass 124 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:843)6
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:853)6
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:408)6
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:418)6
+  CloneClass 125 (Type 1)
+(src/test/org/apache/commons/collections/TestFastArrayList.java:77)7
+(src/test/org/apache/commons/collections/TestFastArrayList.java:94)7
+(src/test/org/apache/commons/collections/TestFastArrayList.java:111)7
+  CloneClass 126 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1270)14
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:835)14
+  CloneClass 127 (Type 1)
+(src/test/org/apache/commons/collections/TestFastArrayList.java:128)9
+(src/test/org/apache/commons/collections/TestFastArrayList.java:146)9
+  CloneClass 129 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:349)14
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:370)14
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:392)14
+  CloneClass 130 (Type 1)
+(src/test/org/apache/commons/collections/list/TestSetUniqueList.java:377)12
+(src/test/org/apache/commons/collections/list/TestSetUniqueList.java:412)12
+  CloneClass 131 (Type 1)
+(src/test/org/apache/commons/collections/TestMapUtils.java:308)8
+(src/test/org/apache/commons/collections/TestMapUtils.java:322)8
+  CloneClass 132 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:219)8
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:237)8
+  CloneClass 133 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:194)7
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:321)8
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:365)7
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:552)7
+  CloneClass 134 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:284)5
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:305)5
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:332)5
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:353)5
+  CloneClass 135 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:450)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:502)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:556)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:581)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:606)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:656)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:681)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:705)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:730)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:754)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:780)7
+  CloneClass 136 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:127)13
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:63)13
+  CloneClass 137 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:556)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:615)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1315)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1374)5
+  CloneClass 138 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:898)18
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:463)18
+  CloneClass 139 (Type 1)
+(src/test/org/apache/commons/collections/list/TestTreeList.java:113)7
+(src/test/org/apache/commons/collections/list/TestTreeList.java:129)7
+  CloneClass 140 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestIteratorChain.java:83)17
+(src/test/org/apache/commons/collections/iterators/TestUniqueFilterIterator.java:78)17
+(src/test/org/apache/commons/collections/iterators/TestArrayIterator.java:62)18
+(src/test/org/apache/commons/collections/iterators/TestObjectArrayIterator.java:75)18
+  CloneClass 141 (Type 1)
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:230)6
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:294)6
+  CloneClass 143 (Type 1)
+(src/test/org/apache/commons/collections/bag/TestTypedBag.java:70)15
+(src/test/org/apache/commons/collections/bag/TestPredicatedBag.java:78)15
+  CloneClass 144 (Type 1)
+(src/test/org/apache/commons/collections/TestBinaryHeap.java:330)5
+(src/test/org/apache/commons/collections/buffer/TestPriorityBuffer.java:329)5
+  CloneClass 145 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:192)9
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:363)9
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:550)9
+  CloneClass 148 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestBoundedFifoBuffer.java:52)10
+(src/test/org/apache/commons/collections/TestBoundedFifoBuffer.java:50)10
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:50)10
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:63)10
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:49)10
+  CloneClass 149 (Type 1)
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:346)7
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:359)7
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:376)7
+  CloneClass 150 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1056)21
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:621)21
+  CloneClass 151 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:928)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:949)6
+  CloneClass 152 (Type 1)
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:288)12
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:307)12
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:327)12
+  CloneClass 153 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1427)20
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:992)20
+  CloneClass 154 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:458)17
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:509)17
+  CloneClass 155 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:316)4
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:322)4
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:328)4
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:364)4
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:370)4
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:376)4
+  CloneClass 156 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1339)41
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:904)41
+  CloneClass 157 (Type 1)
+(src/test/org/apache/commons/collections/AbstractTestObject.java:141)8
+(src/test/org/apache/commons/collections/bidimap/TestDualTreeBidiMap2.java:80)8
+(src/test/org/apache/commons/collections/collection/AbstractTestCollection.java:1304)8
+(src/test/org/apache/commons/collections/collection/AbstractTestCollection.java:1318)8
+  CloneClass 158 (Type 1)
+(src/test/org/apache/commons/collections/TestFactoryUtils.java:133)15
+(src/test/org/apache/commons/collections/TestFactoryUtils.java:177)15
+  CloneClass 159 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1175)34
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:740)34
+  CloneClass 160 (Type 1)
+(src/test/org/apache/commons/collections/BulkTest.java:441)6
+(src/test/org/apache/commons/collections/BulkTest.java:454)6
+  CloneClass 161 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:984)9
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1044)9
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:549)9
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:609)9
+  CloneClass 162 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:143)6
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:161)6
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:186)7
+  CloneClass 166 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1984)146
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2200)146
+  CloneClass 167 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:187)6
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:114)6
+  CloneClass 168 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestBoundedFifoBuffer.java:115)16
+(src/test/org/apache/commons/collections/TestBoundedFifoBuffer.java:113)16
+  CloneClass 169 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:278)1
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:283)1
+  CloneClass 170 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:225)4
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:338)4
+  CloneClass 171 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:228)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:375)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:440)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:881)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:940)6
+  CloneClass 172 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:230)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:327)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:377)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:473)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:640)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:803)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:883)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:942)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1099)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1147)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1231)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1399)4
+  CloneClass 173 (Type 1)
+(src/test/org/apache/commons/collections/set/TestTransformedSet.java:74)6
+(src/test/org/apache/commons/collections/set/TestTransformedSortedSet.java:66)6
+  CloneClass 174 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:703)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:716)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:775)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1463)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1476)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1535)6
+  CloneClass 175 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:216)22
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:214)22
+  CloneClass 176 (Type 1)
+(src/test/org/apache/commons/collections/bag/AbstractTestBag.java:283)7
+(src/test/org/apache/commons/collections/bag/AbstractTestBag.java:300)7
+  CloneClass 177 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:562)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:576)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:586)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:596)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:610)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:701)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:725)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:739)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:749)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:759)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:773)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1321)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1335)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1345)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1355)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1369)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1461)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1485)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1499)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1509)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1519)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1533)6
+  CloneClass 178 (Type 1)
+(src/test/org/apache/commons/collections/set/TestTransformedSet.java:80)7
+(src/test/org/apache/commons/collections/set/TestTransformedSet.java:98)6
+  CloneClass 179 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:524)11
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:681)11
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1283)11
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1441)11
+  CloneClass 181 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:575)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:609)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:738)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:772)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1334)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1368)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1498)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1532)7
+  CloneClass 182 (Type 1)
+(src/test/org/apache/commons/collections/bag/AbstractTestBag.java:173)7
+(src/test/org/apache/commons/collections/bag/AbstractTestBag.java:180)7
+(src/test/org/apache/commons/collections/bag/AbstractTestBag.java:187)7
+  CloneClass 183 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:230)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:377)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:442)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:473)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:640)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:803)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:883)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:942)4
+  CloneClass 184 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:351)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:360)7
+  CloneClass 185 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:180)4
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:230)4
+  CloneClass 187 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:142)18
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:140)18
+  CloneClass 189 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:141)5
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:159)5
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:180)5
+  CloneClass 190 (Type 1)
+(src/test/org/apache/commons/collections/map/TestPredicatedSortedMap.java:170)12
+(src/test/org/apache/commons/collections/map/TestLazySortedMap.java:107)12
+  CloneClass 191 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2184)12
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2365)12
+  CloneClass 192 (Type 1)
+(src/test/org/apache/commons/collections/collection/TestCompositeCollection.java:129)20
+(src/test/org/apache/commons/collections/collection/TestCompositeCollection.java:238)20
+(src/test/org/apache/commons/collections/collection/TestCompositeCollection.java:270)20
+  CloneClass 194 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:157)8
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:197)8
+  CloneClass 196 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:84)5
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:151)5
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:160)5
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:169)5
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:187)5
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:87)5
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:96)5
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:105)5
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:114)5
+  CloneClass 198 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:250)31
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:247)31
+  CloneClass 199 (Type 1)
+(src/test/org/apache/commons/collections/list/TestTreeList.java:138)5
+(src/test/org/apache/commons/collections/list/TestTreeList.java:146)5
+  CloneClass 200 (Type 1)
+(src/test/org/apache/commons/collections/bag/TestTypedSortedBag.java:47)8
+(src/test/org/apache/commons/collections/bag/TestTypedBag.java:46)8
+  CloneClass 201 (Type 1)
+(src/test/org/apache/commons/collections/TestIteratorUtils.java:672)24
+(src/test/org/apache/commons/collections/TestIteratorUtils.java:698)24
+  CloneClass 203 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:308)7
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:307)7
+  CloneClass 205 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:250)29
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1088)29
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:247)29
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:653)29
+  CloneClass 206 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestSingletonIterator2.java:87)19
+(src/test/org/apache/commons/collections/iterators/TestSingletonIterator.java:98)19
+  CloneClass 208 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1404)21
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:969)21
+  CloneClass 209 (Type 1)
+(src/test/org/apache/commons/collections/collection/TestPredicatedCollection.java:113)20
+(src/test/org/apache/commons/collections/TestTypedCollection.java:59)20
+  CloneClass 210 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1559)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1775)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1984)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2200)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2381)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2588)7
+  CloneClass 211 (Type 1)
+(src/test/org/apache/commons/collections/bag/TestPredicatedSortedBag.java:95)11
+(src/test/org/apache/commons/collections/bag/TestTypedSortedBag.java:85)11
+  CloneClass 212 (Type 1)
+(src/test/org/apache/commons/collections/TestMapUtils.java:616)8
+(src/test/org/apache/commons/collections/TestMapUtils.java:702)8
+  CloneClass 213 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1605)20
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1821)20
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2413)20
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2620)20
+  CloneClass 215 (Type 1)
+(src/test/org/apache/commons/collections/list/TestSetUniqueList.java:98)6
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:991)6
+  CloneClass 216 (Type 1)
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:274)8
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:292)8
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:311)8
+  CloneClass 217 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:344)9
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:463)9
+  CloneClass 218 (Type 1)
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:233)5
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:348)5
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:467)5
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:582)5
+  CloneClass 219 (Type 1)
+(src/test/org/apache/commons/collections/AbstractTestObject.java:234)6
+(src/test/org/apache/commons/collections/AbstractTestObject.java:246)6
+(src/test/org/apache/commons/collections/comparators/AbstractTestComparator.java:182)6
+  CloneClass 220 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:994)10
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1004)10
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:559)10
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:569)10
+  CloneClass 222 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:620)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:783)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1379)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1543)9
+  CloneClass 223 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:151)5
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:160)5
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:169)5
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:187)5
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:87)5
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:96)5
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:105)5
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:114)5
+  CloneClass 224 (Type 1)
+(src/test/org/apache/commons/collections/map/TestCompositeMap.java:178)11
+(src/test/org/apache/commons/collections/map/TestCompositeMap.java:203)11
+  CloneClass 226 (Type 1)
+(src/test/org/apache/commons/collections/map/TestDefaultedMap.java:79)14
+(src/test/org/apache/commons/collections/map/TestDefaultedMap.java:97)14
+  CloneClass 227 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:612)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:703)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:716)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:775)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1371)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1463)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1476)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1535)5
+  CloneClass 229 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:450)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:477)8
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:502)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:556)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:581)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:606)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:656)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:681)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:705)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:730)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:754)7
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:780)7
+  CloneClass 230 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestBlockingBuffer.java:164)14
+(src/test/org/apache/commons/collections/buffer/TestBlockingBuffer.java:197)14
+  CloneClass 231 (Type 1)
+(src/test/org/apache/commons/collections/map/TestListOrderedMap.java:253)6
+(src/test/org/apache/commons/collections/map/TestListOrderedMap.java:267)6
+  CloneClass 232 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1302)14
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:867)14
+  CloneClass 234 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:151)6
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:160)6
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:169)6
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:87)6
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:96)6
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:105)6
+  CloneClass 236 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:377)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:473)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:640)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:803)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:883)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:942)5
+  CloneClass 237 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestLoopingListIterator.java:325)6
+(src/test/org/apache/commons/collections/iterators/TestLoopingListIterator.java:337)6
+  CloneClass 238 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1286)14
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:851)14
+  CloneClass 239 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestCollatingIterator.java:102)5
+(src/test/org/apache/commons/collections/iterators/TestCollatingIterator.java:134)5
+  CloneClass 241 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:351)4
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:401)4
+  CloneClass 242 (Type 1)
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:224)5
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:243)5
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:263)5
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:282)5
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:301)5
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:321)5
+  CloneClass 243 (Type 1)
+(src/test/org/apache/commons/collections/map/TestListOrderedMap2.java:58)23
+(src/test/org/apache/commons/collections/map/TestListOrderedMap.java:60)23
+  CloneClass 244 (Type 1)
+(src/test/org/apache/commons/collections/TestBinaryHeap.java:257)16
+(src/test/org/apache/commons/collections/buffer/TestPriorityBuffer.java:257)16
+  CloneClass 246 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:230)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:377)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:473)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:640)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:803)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:883)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:942)4
+  CloneClass 247 (Type 1)
+(src/test/org/apache/commons/collections/map/TestReferenceMap.java:211)7
+(src/test/org/apache/commons/collections/TestReferenceMap.java:167)7
+(src/test/org/apache/commons/collections/map/TestReferenceIdentityMap.java:276)7
+  CloneClass 248 (Type 1)
+(src/test/org/apache/commons/collections/TestFastArrayList.java:66)7
+(src/test/org/apache/commons/collections/TestFastArrayList.java:137)7
+  CloneClass 249 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:86)4
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:119)4
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:153)4
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:162)4
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:171)4
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:89)4
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:98)4
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:107)4
+  CloneClass 250 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:609)8
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:772)8
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1368)8
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1532)8
+  CloneClass 251 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:84)6
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:151)6
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:160)6
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:169)6
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:87)6
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:96)6
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:105)6
+  CloneClass 253 (Type 1)
+(src/test/org/apache/commons/collections/map/TestDefaultedMap.java:65)6
+(src/test/org/apache/commons/collections/map/TestDefaultedMap.java:82)6
+(src/test/org/apache/commons/collections/map/TestDefaultedMap.java:100)6
+  CloneClass 254 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:490)15
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:657)15
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1248)16
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1416)16
+  CloneClass 255 (Type 1)
+(src/test/org/apache/commons/collections/map/AbstractTestSortedMap.java:204)8
+(src/test/org/apache/commons/collections/map/AbstractTestSortedMap.java:313)8
+  CloneClass 257 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:143)6
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:183)6
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:220)6
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:238)6
+  CloneClass 258 (Type 1)
+(src/test/org/apache/commons/collections/TestMapUtils.java:401)12
+(src/test/org/apache/commons/collections/TestMapUtils.java:424)12
+  CloneClass 259 (Type 1)
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:281)4
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:292)3
+  CloneClass 260 (Type 1)
+(src/test/org/apache/commons/collections/map/TestListOrderedMap2.java:116)4
+(src/test/org/apache/commons/collections/map/TestListOrderedMap2.java:144)4
+(src/test/org/apache/commons/collections/map/TestListOrderedMap.java:118)4
+(src/test/org/apache/commons/collections/map/TestListOrderedMap.java:173)4
+  CloneClass 261 (Type 1)
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:222)7
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:241)7
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:261)7
+  CloneClass 262 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:203)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:230)5
+  CloneClass 263 (Type 1)
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:860)10
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:885)10
+  CloneClass 264 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:564)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:578)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:588)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:598)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:612)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:703)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:716)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:727)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:741)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:751)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:761)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:775)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1323)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1337)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1347)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1357)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1371)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1463)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1476)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1487)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1501)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1511)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1521)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1535)4
+  CloneClass 265 (Type 1)
+(src/test/org/apache/commons/collections/map/AbstractTestMap.java:1343)6
+(src/test/org/apache/commons/collections/map/AbstractTestMap.java:1351)6
+  CloneClass 266 (Type 1)
+(src/test/org/apache/commons/collections/map/TestDefaultedMap.java:70)5
+(src/test/org/apache/commons/collections/map/TestDefaultedMap.java:88)5
+(src/test/org/apache/commons/collections/map/TestDefaultedMap.java:106)5
+  CloneClass 268 (Type 1)
+(src/test/org/apache/commons/collections/TestBinaryHeap.java:293)11
+(src/test/org/apache/commons/collections/buffer/TestPriorityBuffer.java:293)11
+  CloneClass 269 (Type 1)
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:234)7
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:253)7
+  CloneClass 270 (Type 1)
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:346)7
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:359)7
+  CloneClass 271 (Type 1)
+(src/test/org/apache/commons/collections/TestMapUtils.java:563)14
+(src/test/org/apache/commons/collections/TestMapUtils.java:587)14
+  CloneClass 272 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:562)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:576)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:586)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:596)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:610)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:725)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:739)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:749)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:759)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:773)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1321)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1335)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1345)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1355)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1369)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1485)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1499)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1509)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1519)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1533)6
+  CloneClass 273 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:499)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:621)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:666)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:784)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:858)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1203)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1258)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1380)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1426)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1544)6
+  CloneClass 274 (Type 1)
+(src/test/org/apache/commons/collections/TestMapUtils.java:681)25
+(src/test/org/apache/commons/collections/TestMapUtils.java:728)25
+  CloneClass 275 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:335)2
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:343)2
+  CloneClass 276 (Type 1)
+(src/test/org/apache/commons/collections/list/TestTreeList.java:75)6
+(src/test/org/apache/commons/collections/list/TestTreeList.java:96)6
+  CloneClass 277 (Type 1)
+(src/test/org/apache/commons/collections/TestMapUtils.java:651)8
+(src/test/org/apache/commons/collections/TestMapUtils.java:749)8
+  CloneClass 278 (Type 1)
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:228)5
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:343)5
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:462)5
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:577)5
+  CloneClass 279 (Type 1)
+(src/test/org/apache/commons/collections/map/AbstractTestMap.java:1106)6
+(src/test/org/apache/commons/collections/map/AbstractTestMap.java:1118)6
+(src/test/org/apache/commons/collections/map/AbstractTestMap.java:1131)6
+  CloneClass 280 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:174)9
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:229)9
+  CloneClass 281 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:138)8
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:157)8
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:197)8
+  CloneClass 282 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1627)30
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1843)30
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2044)30
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2260)30
+  CloneClass 283 (Type 1)
+(src/test/org/apache/commons/collections/set/TestTransformedSet.java:95)3
+(src/test/org/apache/commons/collections/set/TestTransformedSortedSet.java:85)3
+  CloneClass 284 (Type 1)
+(src/test/org/apache/commons/collections/map/TestDefaultedMap.java:70)4
+(src/test/org/apache/commons/collections/map/TestDefaultedMap.java:88)4
+(src/test/org/apache/commons/collections/map/TestDefaultedMap.java:106)4
+(src/test/org/apache/commons/collections/map/TestDefaultedMap.java:132)4
+  CloneClass 285 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:918)10
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:483)10
+  CloneClass 286 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:134)5
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:191)4
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:242)4
+  CloneClass 287 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:176)14
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:260)14
+  CloneClass 288 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:281)2
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:292)2
+  CloneClass 289 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:334)1
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:337)1
+  CloneClass 290 (Type 1)
+(src/test/org/apache/commons/collections/map/TestStaticBucketMap.java:74)9
+(src/test/org/apache/commons/collections/TestStaticBucketMap.java:74)9
+  CloneClass 291 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:349)9
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:370)9
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:392)9
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:348)9
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:369)9
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:391)9
+  CloneClass 292 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:375)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:881)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:940)7
+  CloneClass 293 (Type 1)
+(src/test/org/apache/commons/collections/TestMapUtils.java:525)10
+(src/test/org/apache/commons/collections/TestMapUtils.java:544)10
+  CloneClass 294 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:386)9
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:417)9
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:433)9
+  CloneClass 295 (Type 1)
+(src/test/org/apache/commons/collections/TestMapUtils.java:497)7
+(src/test/org/apache/commons/collections/TestMapUtils.java:535)7
+(src/test/org/apache/commons/collections/TestMapUtils.java:578)7
+  CloneClass 296 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:490)11
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:657)11
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:826)11
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1170)12
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1248)12
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1416)12
+  CloneClass 298 (Type 1)
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:238)5
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:353)5
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:472)5
+  CloneClass 299 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestOrderedBidiMap.java:128)7
+(src/test/org/apache/commons/collections/map/AbstractTestOrderedMap.java:151)7
+  CloneClass 300 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2176)14
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2563)14
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2771)14
+  CloneClass 301 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:257)7
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:428)7
+  CloneClass 302 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:137)7
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:183)6
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:354)6
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:493)7
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:541)6
+  CloneClass 303 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:561)10
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:724)10
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1320)10
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1484)10
+  CloneClass 304 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:142)13
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:182)13
+  CloneClass 305 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1634)23
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1850)23
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2051)23
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2267)23
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2433)23
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2640)23
+  CloneClass 306 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:267)1
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:272)1
+  CloneClass 307 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:417)9
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:433)9
+  CloneClass 308 (Type 1)
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:243)8
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:301)8
+  CloneClass 309 (Type 1)
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:224)8
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:282)8
+  CloneClass 310 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:537)2
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:556)2
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:615)2
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:841)2
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1186)2
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1296)2
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1315)2
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1374)2
+  CloneClass 311 (Type 1)
+(src/test/org/apache/commons/collections/iterators/AbstractTestOrderedMapIterator.java:97)14
+(src/test/org/apache/commons/collections/iterators/AbstractTestMapIterator.java:188)14
+  CloneClass 312 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:549)4
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:602)4
+  CloneClass 315 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestBidiMap.java:318)11
+(src/test/org/apache/commons/collections/bidimap/AbstractTestBidiMap.java:342)11
+  CloneClass 316 (Type 1)
+(src/test/org/apache/commons/collections/map/TestIdentityMap.java:130)16
+(src/test/org/apache/commons/collections/map/TestCaseInsensitiveMap.java:105)15
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:262)13
+  CloneClass 317 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:613)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:704)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:717)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:776)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:839)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1184)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1372)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1464)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1477)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1536)4
+  CloneClass 319 (Type 1)
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:485)8
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:509)8
+  CloneClass 320 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestBoundedFifoBuffer2.java:80)17
+(src/test/org/apache/commons/collections/TestBoundedFifoBuffer2.java:76)17
+  CloneClass 321 (Type 1)
+(src/test/org/apache/commons/collections/map/TestTransformedSortedMap.java:88)23
+(src/test/org/apache/commons/collections/map/TestTransformedMap.java:76)23
+  CloneClass 322 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:556)3
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:615)3
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:841)3
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1186)3
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1315)3
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1374)3
+  CloneClass 323 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:564)15
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:588)15
+  CloneClass 324 (Type 1)
+(src/test/org/apache/commons/collections/TestFactoryUtils.java:142)6
+(src/test/org/apache/commons/collections/TestFactoryUtils.java:168)6
+(src/test/org/apache/commons/collections/TestFactoryUtils.java:186)6
+  CloneClass 325 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:518)14
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:562)14
+  CloneClass 326 (Type 1)
+(src/test/org/apache/commons/collections/map/TestTransformedSortedMap.java:68)5
+(src/test/org/apache/commons/collections/map/TestTransformedSortedMap.java:88)5
+(src/test/org/apache/commons/collections/map/TestTransformedMap.java:62)5
+(src/test/org/apache/commons/collections/map/TestTransformedMap.java:76)5
+  CloneClass 327 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestIteratorChain.java:57)9
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:59)9
+  CloneClass 328 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:327)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1099)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1147)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1231)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1399)5
+  CloneClass 329 (Type 1)
+(src/test/org/apache/commons/collections/TestLRUMap.java:65)4
+(src/test/org/apache/commons/collections/TestLRUMap.java:92)4
+  CloneClass 330 (Type 1)
+(src/test/org/apache/commons/collections/map/TestIdentityMap.java:130)5
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:215)5
+(src/test/org/apache/commons/collections/map/TestCaseInsensitiveMap.java:105)5
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:262)5
+(src/test/org/apache/commons/collections/map/TestHashedMap.java:56)5
+  CloneClass 331 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:87)13
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:249)13
+  CloneClass 332 (Type 1)
+(src/test/org/apache/commons/collections/TestFastArrayList.java:60)6
+(src/test/org/apache/commons/collections/TestFastArrayList.java:77)6
+(src/test/org/apache/commons/collections/TestFastArrayList.java:94)6
+(src/test/org/apache/commons/collections/TestFastArrayList.java:111)6
+(src/test/org/apache/commons/collections/TestFastArrayList.java:130)6
+(src/test/org/apache/commons/collections/TestFastArrayList.java:148)6
+  CloneClass 333 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:907)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:918)5
+  CloneClass 334 (Type 1)
+(src/test/org/apache/commons/collections/set/TestListOrderedSet.java:133)34
+(src/test/org/apache/commons/collections/set/TestListOrderedSet2.java:133)34
+  CloneClass 335 (Type 1)
+(src/test/org/apache/commons/collections/TestMapUtils.java:281)9
+(src/test/org/apache/commons/collections/TestMapUtils.java:295)10
+(src/test/org/apache/commons/collections/TestMapUtils.java:309)10
+  CloneClass 336 (Type 1)
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:804)19
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:832)19
+  CloneClass 337 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:973)81
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:538)81
+  CloneClass 338 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:656)9
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:730)9
+  CloneClass 339 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:223)13
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1063)13
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:221)13
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:628)13
+  CloneClass 340 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1758)13
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1967)13
+  CloneClass 341 (Type 1)
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:408)17
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:451)17
+  CloneClass 342 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:375)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:940)9
+  CloneClass 343 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:283)16
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:280)16
+  CloneClass 344 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:716)8
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:775)8
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1476)8
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1535)8
+  CloneClass 345 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:316)6
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:322)6
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:364)6
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:370)6
+  CloneClass 346 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:113)9
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:112)9
+  CloneClass 349 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestSingletonListIterator.java:81)6
+(src/test/org/apache/commons/collections/iterators/TestSingletonListIterator.java:97)6
+  CloneClass 350 (Type 1)
+(src/test/org/apache/commons/collections/TestMapUtils.java:240)7
+(src/test/org/apache/commons/collections/TestMapUtils.java:281)7
+(src/test/org/apache/commons/collections/TestMapUtils.java:295)7
+(src/test/org/apache/commons/collections/TestMapUtils.java:309)7
+(src/test/org/apache/commons/collections/TestMapUtils.java:323)7
+  CloneClass 351 (Type 1)
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:280)7
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:299)7
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:319)7
+  CloneClass 352 (Type 1)
+(src/test/org/apache/commons/collections/map/AbstractTestSortedMap.java:235)7
+(src/test/org/apache/commons/collections/map/AbstractTestSortedMap.java:286)7
+  CloneClass 353 (Type 1)
+(src/test/org/apache/commons/collections/keyvalue/TestMultiKey.java:84)5
+(src/test/org/apache/commons/collections/keyvalue/TestMultiKey.java:94)5
+  CloneClass 354 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:240)9
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:238)9
+  CloneClass 355 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:92)9
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:103)9
+  CloneClass 357 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:289)7
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:308)7
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:328)7
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:288)7
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:307)7
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:327)7
+  CloneClass 358 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestSingletonIterator2.java:69)16
+(src/test/org/apache/commons/collections/iterators/TestSingletonIterator.java:71)16
+  CloneClass 359 (Type 1)
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:208)3
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:234)3
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:260)3
+  CloneClass 360 (Type 1)
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:235)9
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:277)9
+  CloneClass 361 (Type 1)
+(src/test/org/apache/commons/collections/TestBinaryHeap.java:316)8
+(src/test/org/apache/commons/collections/buffer/TestPriorityBuffer.java:315)8
+  CloneClass 362 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:220)11
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:391)11
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:580)11
+  CloneClass 363 (Type 1)
+(src/test/org/apache/commons/collections/map/TestPredicatedMap.java:87)47
+(src/test/org/apache/commons/collections/map/TestPredicatedSortedMap.java:103)47
+  CloneClass 365 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1254)14
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:819)14
+  CloneClass 366 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:480)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:647)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:810)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1154)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1238)6
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1406)6
+  CloneClass 368 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:538)4
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:590)4
+  CloneClass 369 (Type 1)
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:391)8
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:414)8
+  CloneClass 370 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:258)7
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:273)7
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:298)7
+  CloneClass 371 (Type 1)
+(src/test/org/apache/commons/collections/map/TestListOrderedMap2.java:125)30
+(src/test/org/apache/commons/collections/map/TestListOrderedMap.java:154)30
+  CloneClass 373 (Type 1)
+(src/test/org/apache/commons/collections/collection/AbstractTestCollection.java:713)4
+(src/test/org/apache/commons/collections/collection/AbstractTestCollection.java:953)3
+  CloneClass 374 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/TestDualTreeBidiMap2.java:79)9
+(src/test/org/apache/commons/collections/collection/AbstractTestCollection.java:1303)9
+(src/test/org/apache/commons/collections/collection/AbstractTestCollection.java:1317)9
+  CloneClass 375 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:87)13
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:123)13
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:249)13
+  CloneClass 376 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:269)10
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:268)10
+  CloneClass 377 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:595)10
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:758)10
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1354)10
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1518)10
+  CloneClass 378 (Type 1)
+(src/test/org/apache/commons/collections/map/AbstractTestMap.java:797)14
+(src/test/org/apache/commons/collections/map/AbstractTestMap.java:836)13
+  CloneClass 379 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:360)3
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:386)3
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:399)3
+  CloneClass 380 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1614)13
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1830)13
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2031)13
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2247)13
+  CloneClass 381 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:376)6
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:392)6
+  CloneClass 383 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:313)28
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:361)28
+  CloneClass 384 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:308)13
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:328)13
+  CloneClass 386 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:581)9
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:705)9
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:780)9
+  CloneClass 387 (Type 1)
+(src/test/org/apache/commons/collections/map/TestTransformedSortedMap.java:135)7
+(src/test/org/apache/commons/collections/map/TestTransformedMap.java:123)7
+  CloneClass 388 (Type 1)
+(src/test/org/apache/commons/collections/TestMapUtils.java:236)11
+(src/test/org/apache/commons/collections/TestMapUtils.java:277)11
+(src/test/org/apache/commons/collections/TestMapUtils.java:290)12
+  CloneClass 389 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:620)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:783)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:857)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1202)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1379)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1543)7
+  CloneClass 390 (Type 1)
+(src/test/org/apache/commons/collections/map/TestPredicatedMap.java:88)39
+(src/test/org/apache/commons/collections/TestMapUtils.java:83)40
+(src/test/org/apache/commons/collections/map/TestPredicatedSortedMap.java:104)39
+  CloneClass 391 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:138)5
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:157)5
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:197)5
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:215)5
+  CloneClass 392 (Type 1)
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:804)7
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:832)7
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:860)7
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:885)7
+  CloneClass 393 (Type 1)
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:216)6
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:234)6
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:253)6
+  CloneClass 394 (Type 1)
+(src/test/org/apache/commons/collections/map/TestDefaultedMap.java:84)8
+(src/test/org/apache/commons/collections/map/TestDefaultedMap.java:102)8
+(src/test/org/apache/commons/collections/map/TestDefaultedMap.java:128)8
+  CloneClass 395 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLazyMap.java:70)10
+(src/test/org/apache/commons/collections/map/TestLazySortedMap.java:84)10
+  CloneClass 397 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:267)9
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:284)9
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:301)9
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:318)9
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:335)9
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:353)9
+  CloneClass 400 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:177)6
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:183)6
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:175)6
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:181)6
+  CloneClass 401 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:317)3
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:323)3
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:329)3
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:336)3
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:365)3
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:371)3
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:377)3
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:384)3
+  CloneClass 402 (Type 1)
+(src/test/org/apache/commons/collections/collection/AbstractTestCollection.java:1303)11
+(src/test/org/apache/commons/collections/collection/AbstractTestCollection.java:1317)11
+  CloneClass 403 (Type 1)
+(src/test/org/apache/commons/collections/iterators/AbstractTestOrderedMapIterator.java:104)7
+(src/test/org/apache/commons/collections/iterators/AbstractTestOrderedMapIterator.java:122)7
+(src/test/org/apache/commons/collections/iterators/AbstractTestMapIterator.java:195)7
+  CloneClass 404 (Type 1)
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:151)10
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:168)11
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:192)11
+  CloneClass 405 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestArrayListIterator.java:96)30
+(src/test/org/apache/commons/collections/iterators/TestObjectArrayListIterator.java:93)30
+  CloneClass 407 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:210)21
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:277)21
+  CloneClass 408 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:450)8
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:502)9
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:556)8
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:606)8
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:681)8
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:754)8
+  CloneClass 410 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:289)1
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:294)1
+  CloneClass 411 (Type 1)
+(src/test/org/apache/commons/collections/comparators/TestNullComparator.java:59)6
+(src/test/org/apache/commons/collections/comparators/TestComparableComparator.java:47)6
+(src/test/org/apache/commons/collections/comparators/TestReverseComparator.java:62)6
+  CloneClass 412 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:362)4
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:413)4
+  CloneClass 413 (Type 1)
+(src/test/org/apache/commons/collections/bag/TestTypedBag.java:100)7
+(src/test/org/apache/commons/collections/bag/TestPredicatedBag.java:108)7
+  CloneClass 414 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:168)6
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:174)6
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:166)6
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:172)6
+  CloneClass 415 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1455)21
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:1020)21
+  CloneClass 416 (Type 1)
+(src/test/org/apache/commons/collections/map/TestCompositeMap.java:101)5
+(src/test/org/apache/commons/collections/map/TestCompositeMap.java:115)5
+(src/test/org/apache/commons/collections/map/TestCompositeMap.java:130)5
+(src/test/org/apache/commons/collections/map/TestCompositeMap.java:142)5
+  CloneClass 418 (Type 1)
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:369)15
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:391)15
+  CloneClass 419 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:374)5
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:386)5
+  CloneClass 420 (Type 1)
+(src/test/org/apache/commons/collections/map/TestTransformedSortedMap.java:120)7
+(src/test/org/apache/commons/collections/map/TestTransformedMap.java:108)7
+  CloneClass 421 (Type 1)
+(src/test/org/apache/commons/collections/TestMapUtils.java:196)6
+(src/test/org/apache/commons/collections/TestMapUtils.java:333)6
+  CloneClass 422 (Type 1)
+(src/test/org/apache/commons/collections/TestFastArrayList.java:66)7
+(src/test/org/apache/commons/collections/TestFastArrayList.java:101)7
+(src/test/org/apache/commons/collections/TestFastArrayList.java:137)7
+  CloneClass 424 (Type 1)
+(src/test/org/apache/commons/collections/TestMapUtils.java:535)7
+(src/test/org/apache/commons/collections/TestMapUtils.java:578)7
+  CloneClass 426 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:178)6
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:196)6
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:205)6
+  CloneClass 428 (Type 1)
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:292)9
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:311)9
+  CloneClass 430 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:162)11
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:204)11
+  CloneClass 433 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:613)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:839)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1184)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1372)5
+  CloneClass 435 (Type 1)
+(src/test/org/apache/commons/collections/bag/AbstractTestBag.java:385)15
+(src/test/org/apache/commons/collections/bag/AbstractTestBag.java:404)15
+  CloneClass 436 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:471)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:638)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:801)7
+  CloneClass 437 (Type 1)
+(src/test/org/apache/commons/collections/TestMapUtils.java:627)15
+(src/test/org/apache/commons/collections/TestMapUtils.java:662)15
+  CloneClass 438 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:806)61
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:371)61
+  CloneClass 439 (Type 1)
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:240)9
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:260)9
+  CloneClass 440 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:81)5
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:92)5
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:103)5
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:114)5
+  CloneClass 441 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:326)1
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:329)1
+  CloneClass 442 (Type 1)
+(src/test/org/apache/commons/collections/bag/TestTransformedBag.java:60)6
+(src/test/org/apache/commons/collections/bag/TestTransformedBag.java:77)6
+  CloneClass 443 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:284)13
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1121)13
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:281)13
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:686)13
+  CloneClass 444 (Type 1)
+(src/test/org/apache/commons/collections/bag/TestTransformedBag.java:54)6
+(src/test/org/apache/commons/collections/bag/TestTransformedSortedBag.java:54)6
+  CloneClass 445 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:295)4
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:351)4
+  CloneClass 446 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:203)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:261)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1071)5
+  CloneClass 447 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestBidiMap.java:541)7
+(src/test/org/apache/commons/collections/bidimap/AbstractTestBidiMap.java:550)7
+  CloneClass 448 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:561)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:595)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:724)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:758)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1320)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1354)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1484)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1518)9
+  CloneClass 449 (Type 1)
+(src/test/org/apache/commons/collections/comparators/TestNullComparator.java:90)7
+(src/test/org/apache/commons/collections/comparators/TestComparableComparator.java:48)7
+(src/test/org/apache/commons/collections/comparators/TestReverseComparator.java:63)7
+  CloneClass 450 (Type 1)
+(src/test/org/apache/commons/collections/list/TestSetUniqueList.java:122)19
+(src/test/org/apache/commons/collections/collection/AbstractTestCollection.java:541)19
+  CloneClass 451 (Type 1)
+(src/test/org/apache/commons/collections/collection/AbstractTestCollection.java:384)4
+(src/test/org/apache/commons/collections/map/AbstractTestMap.java:438)4
+  CloneClass 452 (Type 1)
+(src/test/org/apache/commons/collections/map/TestTransformedSortedMap.java:68)5
+(src/test/org/apache/commons/collections/map/TestTransformedMap.java:62)5
+  CloneClass 453 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:327)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:377)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:473)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:640)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:803)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:883)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:942)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1099)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1147)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1231)5
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1399)5
+  CloneClass 454 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:231)12
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:402)12
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:591)12
+  CloneClass 455 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestListIteratorWrapper.java:75)10
+(src/test/org/apache/commons/collections/iterators/TestIteratorChain.java:84)10
+(src/test/org/apache/commons/collections/iterators/TestUniqueFilterIterator.java:79)10
+(src/test/org/apache/commons/collections/iterators/TestArrayIterator.java:63)10
+(src/test/org/apache/commons/collections/iterators/TestObjectArrayIterator.java:76)10
+  CloneClass 456 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestReverseListIterator.java:71)15
+(src/test/org/apache/commons/collections/iterators/AbstractTestListIterator.java:124)15
+  CloneClass 458 (Type 1)
+(src/test/org/apache/commons/collections/TestFastArrayList.java:93)8
+(src/test/org/apache/commons/collections/TestFastArrayList.java:110)8
+  CloneClass 459 (Type 1)
+(src/test/org/apache/commons/collections/bag/TestTransformedBag.java:69)8
+(src/test/org/apache/commons/collections/bag/TestTransformedSortedBag.java:68)8
+  CloneClass 460 (Type 1)
+(src/test/org/apache/commons/collections/set/TestMapBackedSet2.java:63)30
+(src/test/org/apache/commons/collections/set/TestListOrderedSet.java:66)30
+(src/test/org/apache/commons/collections/set/TestListOrderedSet2.java:65)30
+  CloneClass 461 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestTransformedBuffer.java:58)7
+(src/test/org/apache/commons/collections/buffer/TestTransformedBuffer.java:76)6
+  CloneClass 462 (Type 1)
+(src/test/org/apache/commons/collections/TestMapUtils.java:611)9
+(src/test/org/apache/commons/collections/TestMapUtils.java:646)9
+  CloneClass 463 (Type 1)
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:125)9
+(src/test/org/apache/commons/collections/map/TestFlat3Map.java:138)9
+  CloneClass 464 (Type 1)
+(src/test/org/apache/commons/collections/map/AbstractTestSortedMap.java:185)7
+(src/test/org/apache/commons/collections/map/AbstractTestSortedMap.java:235)7
+(src/test/org/apache/commons/collections/map/AbstractTestSortedMap.java:286)7
+  CloneClass 465 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:289)7
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:288)7
+  CloneClass 466 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:373)6
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:381)6
+  CloneClass 467 (Type 1)
+(src/test/org/apache/commons/collections/map/TestReferenceMap.java:221)23
+(src/test/org/apache/commons/collections/TestReferenceMap.java:177)24
+(src/test/org/apache/commons/collections/map/TestReferenceIdentityMap.java:286)23
+  CloneClass 468 (Type 1)
+(src/test/org/apache/commons/collections/list/TestTreeList.java:148)6
+(src/test/org/apache/commons/collections/list/TestTreeList.java:155)6
+  CloneClass 469 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:610)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:701)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:773)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1369)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1461)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1533)7
+  CloneClass 470 (Type 1)
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:815)7
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:843)7
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:892)7
+  CloneClass 471 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:182)4
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:210)4
+  CloneClass 472 (Type 1)
+(src/test/org/apache/commons/collections/map/TestCompositeMap.java:115)7
+(src/test/org/apache/commons/collections/map/TestCompositeMap.java:142)8
+  CloneClass 473 (Type 1)
+(src/test/org/apache/commons/collections/set/TestListOrderedSet.java:103)27
+(src/test/org/apache/commons/collections/set/TestListOrderedSet2.java:102)27
+  CloneClass 474 (Type 1)
+(src/test/org/apache/commons/collections/iterators/TestLoopingListIterator.java:239)12
+(src/test/org/apache/commons/collections/iterators/TestLoopingIterator.java:171)11
+  CloneClass 475 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:153)7
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:442)6
+  CloneClass 480 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:386)3
+(src/test/org/apache/commons/collections/map/TestMultiKeyMap.java:399)3
+  CloneClass 481 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1735)9
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1946)9
+  CloneClass 482 (Type 1)
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:348)14
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:369)14
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:391)14
+  CloneClass 483 (Type 1)
+(src/test/org/apache/commons/collections/comparators/TestNullComparator.java:60)5
+(src/test/org/apache/commons/collections/comparators/TestNullComparator.java:90)5
+(src/test/org/apache/commons/collections/comparators/TestComparableComparator.java:48)5
+(src/test/org/apache/commons/collections/comparators/TestReverseComparator.java:63)5
+  CloneClass 484 (Type 1)
+(src/test/org/apache/commons/collections/map/TestIdentityMap.java:68)29
+(src/test/org/apache/commons/collections/map/TestReferenceIdentityMap.java:82)29
+  CloneClass 485 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1141)10
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1220)10
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:706)10
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:785)10
+  CloneClass 486 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:325)10
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1097)10
+  CloneClass 487 (Type 1)
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:206)9
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:226)9
+  CloneClass 488 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:174)7
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:345)7
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:532)7
+  CloneClass 489 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1389)13
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1412)13
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1434)13
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:954)13
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:977)13
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:999)13
+  CloneClass 490 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1211)22
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:776)22
+  CloneClass 491 (Type 1)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:260)8
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:292)9
+  CloneClass 492 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:535)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:613)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:839)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1184)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1294)4
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1372)4
+  CloneClass 493 (Type 1)
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:668)18
+(src/test/org/apache/commons/collections/list/AbstractTestList.java:716)18
+  CloneClass 494 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:342)15
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:429)15
+  CloneClass 495 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestPriorityBuffer.java:288)9
+(src/test/org/apache/commons/collections/buffer/TestPriorityBuffer.java:360)9
+  CloneClass 496 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:93)33
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:91)33
+  CloneClass 497 (Type 1)
+(src/test/org/apache/commons/collections/TestTreeBag.java:60)12
+(src/test/org/apache/commons/collections/bag/TestTreeBag.java:61)12
+  CloneClass 498 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestBlockingBuffer.java:258)12
+(src/test/org/apache/commons/collections/buffer/TestBlockingBuffer.java:297)12
+  CloneClass 499 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:171)5
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:207)5
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:169)5
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:205)5
+  CloneClass 500 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:370)15
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:392)15
+  CloneClass 501 (Type 1)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:151)5
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:160)5
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:187)5
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:87)5
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:96)5
+  CloneClass 502 (Type 1)
+(src/test/org/apache/commons/collections/set/TestListOrderedSet.java:66)35
+(src/test/org/apache/commons/collections/set/TestListOrderedSet2.java:65)35
+  CloneClass 503 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:575)10
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:738)10
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1334)10
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1498)10
+  CloneClass 504 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:207)7
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:227)7
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:247)7
+  CloneClass 505 (Type 1)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:701)8
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:773)8
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1461)8
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1533)8
+  CloneClass 508 (Type 1)
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:206)7
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:226)7
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:246)7
+  CloneClass 509 (Type 1)
+(src/test/org/apache/commons/collections/map/TestListOrderedMap2.java:145)5
+(src/test/org/apache/commons/collections/map/TestListOrderedMap.java:174)5
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:211)5
+  CloneClass 511 (Type 1)
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:225)8
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:267)8
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:284)8
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:301)8
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:318)8
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:335)8
+(src/test/org/apache/commons/collections/buffer/TestCircularFifoBuffer.java:353)8
+  CloneClass 512 (Type 1)
+(src/test/org/apache/commons/collections/TestFastArrayList.java:58)8
+(src/test/org/apache/commons/collections/TestFastArrayList.java:75)8
+(src/test/org/apache/commons/collections/TestFastArrayList.java:128)8
+(src/test/org/apache/commons/collections/TestFastArrayList.java:146)8
+  CloneClass 513 (Type 1)
+(src/test/org/apache/commons/collections/set/TestListOrderedSet.java:137)4
+(src/test/org/apache/commons/collections/set/TestListOrderedSet.java:143)4
+(src/test/org/apache/commons/collections/set/TestListOrderedSet2.java:137)4
+(src/test/org/apache/commons/collections/set/TestListOrderedSet2.java:143)4
+  CloneClass 514 (Type 1)
+(src/test/org/apache/commons/collections/comparators/TestComparableComparator.java:47)8
+(src/test/org/apache/commons/collections/comparators/TestReverseComparator.java:62)8
+  CloneClass 515 (Type 1)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:1382)20
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:947)20
+  CloneClass 516 (Type 1)
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:276)13
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:324)13
+This is for clone class 2
+  CloneClass 12 (Type 2)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:640)152
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1399)153
+  CloneClass 14 (Type 2)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:471)34
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:638)34
+  CloneClass 128 (Type 2)
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:299)28
+(src/test/org/apache/commons/collections/iterators/TestObjectGraphIterator.java:335)28
+  CloneClass 164 (Type 2)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:473)32
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:640)32
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1231)33
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1399)33
+  CloneClass 180 (Type 2)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:328)16
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:327)16
+  CloneClass 188 (Type 2)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:392)18
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:391)18
+  CloneClass 193 (Type 2)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:471)15
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:638)15
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:801)15
+  CloneClass 195 (Type 2)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:561)21
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:595)21
+  CloneClass 197 (Type 2)
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:87)14
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:105)14
+  CloneClass 202 (Type 2)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2381)203
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2588)204
+  CloneClass 256 (Type 2)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:803)73
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1147)75
+  CloneClass 314 (Type 2)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1229)35
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1397)35
+  CloneClass 356 (Type 2)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:157)18
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:86)16
+  CloneClass 398 (Type 2)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:473)156
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1231)157
+  CloneClass 406 (Type 2)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:81)9
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:114)9
+  CloneClass 409 (Type 2)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:150)24
+(src/test/org/apache/commons/collections/map/TestLinkedMap.java:93)26
+  CloneClass 417 (Type 2)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:473)13
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:640)13
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:803)13
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1147)13
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1231)13
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1399)13
+  CloneClass 425 (Type 2)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:301)49
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:298)49
+  CloneClass 427 (Type 2)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1559)151
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1775)151
+  CloneClass 479 (Type 2)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1320)21
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1354)21
+  CloneClass 506 (Type 2)
+(src/test/org/apache/commons/collections/map/TestListOrderedMap.java:272)13
+(src/test/org/apache/commons/collections/map/TestListOrderedMap.java:285)13
+  CloneClass 517 (Type 2)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1145)15
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1229)15
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1397)15
+This is for clone class 3
+  CloneClass 32 (Type 3)
+(src/test/org/apache/commons/collections/buffer/TestPriorityBuffer.java:141)44
+(src/test/org/apache/commons/collections/buffer/TestPriorityBuffer.java:202)48
+  CloneClass 35 (Type 3)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:168)15
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:174)15
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:166)15
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:172)15
+  CloneClass 49 (Type 3)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:220)33
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:391)33
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:580)33
+  CloneClass 87 (Type 3)
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:207)18
+(src/test/org/apache/commons/collections/buffer/TestUnboundedFifoBuffer.java:247)20
+  CloneClass 95 (Type 3)
+(src/test/org/apache/commons/collections/TestCollectionUtils.java:1241)25
+(src/test/org/apache/commons/collections/TestCollectionUtils.java:1271)25
+  CloneClass 114 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1461)19
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1485)20
+  CloneClass 142 (Type 3)
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:222)21
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:571)21
+  CloneClass 146 (Type 3)
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:456)21
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:571)21
+  CloneClass 147 (Type 3)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:979)25
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:989)25
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:544)25
+(src/test/org/apache/commons/collections/TestCursorableLinkedList.java:554)25
+  CloneClass 163 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1461)32
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1499)28
+  CloneClass 165 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:725)20
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:749)16
+  CloneClass 186 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:701)23
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:759)24
+  CloneClass 204 (Type 3)
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:316)12
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:328)12
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:364)12
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:376)12
+  CloneClass 207 (Type 3)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:606)24
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:656)22
+  CloneClass 214 (Type 3)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:332)40
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:518)41
+  CloneClass 221 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1485)20
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1509)16
+  CloneClass 225 (Type 3)
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:149)15
+(src/test/org/apache/commons/collections/iterators/TestFilterListIterator.java:169)16
+  CloneClass 228 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1461)23
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1519)24
+  CloneClass 233 (Type 3)
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:206)18
+(src/test/org/apache/commons/collections/TestUnboundedFifoBuffer.java:246)20
+  CloneClass 235 (Type 3)
+(src/test/org/apache/commons/collections/TestBinaryHeap.java:111)66
+(src/test/org/apache/commons/collections/TestBinaryHeap.java:180)70
+  CloneClass 240 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:596)21
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:701)20
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1355)21
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1461)20
+  CloneClass 245 (Type 3)
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:754)24
+(src/test/org/apache/commons/collections/list/TestCursorableLinkedList.java:780)23
+  CloneClass 252 (Type 3)
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:169)18
+(src/test/org/apache/commons/collections/map/TestLRUMap.java:187)18
+  CloneClass 267 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1461)30
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1509)30
+  CloneClass 297 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:701)19
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:725)20
+  CloneClass 313 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1687)54
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2111)50
+  CloneClass 318 (Type 3)
+(src/test/org/apache/commons/collections/comparators/TestBooleanComparator.java:110)9
+(src/test/org/apache/commons/collections/comparators/TestBooleanComparator.java:123)9
+  CloneClass 347 (Type 3)
+(src/test/org/apache/commons/collections/TestFastArrayList.java:94)14
+(src/test/org/apache/commons/collections/TestFastArrayList.java:130)14
+  CloneClass 348 (Type 3)
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:222)21
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:456)21
+  CloneClass 364 (Type 3)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:174)27
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:345)27
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:532)27
+  CloneClass 367 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1903)49
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:2327)27
+  CloneClass 372 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:576)40
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:701)44
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1335)40
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1461)44
+  CloneClass 382 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:561)68
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:724)68
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1320)68
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1484)68
+  CloneClass 385 (Type 3)
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:316)16
+(src/test/org/apache/commons/collections/map/TestMultiValueMap.java:322)17
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:364)16
+(src/test/org/apache/commons/collections/TestMultiHashMap.java:370)17
+  CloneClass 396 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:701)30
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:749)30
+  CloneClass 399 (Type 3)
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:337)21
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:571)21
+  CloneClass 423 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:562)20
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:586)16
+  CloneClass 429 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:564)52
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:716)49
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1323)52
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1476)49
+  CloneClass 431 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:701)32
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:739)28
+  CloneClass 432 (Type 3)
+(src/test/org/apache/commons/collections/iterators/TestReverseListIterator.java:88)37
+(src/test/org/apache/commons/collections/iterators/AbstractTestListIterator.java:144)33
+  CloneClass 434 (Type 3)
+(src/test/org/apache/commons/collections/map/TestListOrderedMap.java:241)12
+(src/test/org/apache/commons/collections/map/TestListOrderedMap.java:253)14
+  CloneClass 457 (Type 3)
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:375)49
+(src/test/org/apache/commons/collections/bidimap/AbstractTestSortedBidiMap.java:562)51
+  CloneClass 476 (Type 3)
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1321)20
+(src/test/org/apache/commons/collections/TestDoubleOrderedMap.java:1345)16
+  CloneClass 477 (Type 3)
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:203)8
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:228)9
+(src/test/org/apache/commons/collections/TestExtendedProperties.java:255)8
+  CloneClass 478 (Type 3)
+(src/test/org/apache/commons/collections/TestMapUtils.java:281)21
+(src/test/org/apache/commons/collections/TestMapUtils.java:309)21
+  CloneClass 507 (Type 3)
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:337)21
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:456)21
+  CloneClass 510 (Type 3)
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:222)21
+(src/test/org/apache/commons/collections/TestPredicateUtils.java:337)21
+Found 1575 clones in 517 cases.
+Net cloned lines = 10739

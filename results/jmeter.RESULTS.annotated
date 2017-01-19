@@ -1,0 +1,303 @@
+assertTrue(s, ct);
+very similar, both check titles, both in the same class 
+Set (score: 1.0, ccsize: 5): 
+org.apache.jmeter.junit.JMeterTest.void runFunction(): (org.apache.jmeter.junit.JMeterTest.java:395) 
+org.apache.jmeter.junit.JMeterTest.void runGUITitle(): (org.apache.jmeter.junit.JMeterTest.java:368) 
+
+assertEquals(newUrl, config.getUrl().toString());
+very similar, both test on simple url parsing, even the function
+names only differ by one character, can be used as a heuristic
+Set (score: 1.0, ccsize: 4): 
+org.apache.jmeter.protocol.http.modifier.TestAnchorModifier.void testFailSimpleParse1(): (org.apache.jmeter.protocol.http.modifier.TestAnchorModifier.java:221) 
+org.apache.jmeter.protocol.http.modifier.TestAnchorModifier.void testFailSimpleParse2(): (org.apache.jmeter.protocol.http.modifier.TestAnchorModifier.java:255) 
+
+Set (score: 1.0, ccsize: 3): 
+org.apache.jmeter.assertions.ResponseAssertionTest.void assertFailed(): (org.apache.jmeter.assertions.ResponseAssertionTest.java:197) 
+org.apache.jmeter.assertions.ResponseAssertionTest.void assertPassed(): (org.apache.jmeter.assertions.ResponseAssertionTest.java:189) 
+Set (score: 1.0, ccsize: 3): 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testAssertionBadXSDFile(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:104) 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testAssertionBlankResult(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:148) 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testAssertionEmptyResult(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:137) 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testAssertionFail(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:93) 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testAssertionNoFile(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:115) 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testAssertionNoResult(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:126) 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testXMLTrailingcontent(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:161) 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testXMLTrailingwhitespace(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:173) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testAssertion(): (org.apache.jmeter.assertions.XPathAssertionTest.java:226) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testNegateAssertion(): (org.apache.jmeter.assertions.XPathAssertionTest.java:238) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testNoTolerance(): (org.apache.jmeter.assertions.XPathAssertionTest.java:216) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testTolerance(): (org.apache.jmeter.assertions.XPathAssertionTest.java:318) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testValidationFailure(): (org.apache.jmeter.assertions.XPathAssertionTest.java:249) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testValidationFailureWithDTD(): (org.apache.jmeter.assertions.XPathAssertionTest.java:302) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testValidationSuccess(): (org.apache.jmeter.assertions.XPathAssertionTest.java:275) 
+Set (score: 1.0, ccsize: 3): 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testAssertionBadXSDFile(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:103) 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testAssertionBlankResult(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:147) 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testAssertionEmptyResult(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:136) 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testAssertionFail(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:92) 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testAssertionNoFile(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:114) 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testAssertionNoResult(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:125) 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testXMLTrailingcontent(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:160) 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testXMLTrailingwhitespace(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:172) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testAssertion(): (org.apache.jmeter.assertions.XPathAssertionTest.java:225) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testNegateAssertion(): (org.apache.jmeter.assertions.XPathAssertionTest.java:237) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testNoTolerance(): (org.apache.jmeter.assertions.XPathAssertionTest.java:215) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testTolerance(): (org.apache.jmeter.assertions.XPathAssertionTest.java:319) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testValidationFailure(): (org.apache.jmeter.assertions.XPathAssertionTest.java:248) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testValidationFailureWithDTD(): (org.apache.jmeter.assertions.XPathAssertionTest.java:301) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testValidationSuccess(): (org.apache.jmeter.assertions.XPathAssertionTest.java:274) 
+Set (score: 1.0, ccsize: 2): 
+org.apache.commons.cli.avalon.ClutilTestCase.void testArgumentLookup(): (org.apache.commons.cli.avalon.ClutilTestCase.java:857) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testNullDescription(): (org.apache.commons.cli.avalon.ClutilTestCase.java:902) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testNullLongForm(): (org.apache.commons.cli.avalon.ClutilTestCase.java:881) 
+Set (score: 1.0, ccsize: 2): 
+org.apache.jmeter.assertions.SizeAssertionTest.void assertFailed(): (org.apache.jmeter.assertions.SizeAssertionTest.java:164) 
+org.apache.jmeter.assertions.SizeAssertionTest.void assertPassed(): (org.apache.jmeter.assertions.SizeAssertionTest.java:156) 
+Set (score: 1.0, ccsize: 2): 
+org.apache.jmeter.assertions.SizeAssertionTest.void assertFailed(): (org.apache.jmeter.assertions.SizeAssertionTest.java:165) 
+org.apache.jmeter.assertions.SizeAssertionTest.void assertPassed(): (org.apache.jmeter.assertions.SizeAssertionTest.java:157) 
+Set (score: 1.0, ccsize: 2): 
+org.apache.jmeter.config.TestCVSDataSet.void testHeaderOpen(): (org.apache.jmeter.config.TestCVSDataSet.java:136) 
+org.apache.jmeter.config.TestCVSDataSet.void testHeaderOpenAndRecycle(): (org.apache.jmeter.config.TestCVSDataSet.java:157) 
+org.apache.jmeter.config.TestCVSDataSet.void testHeaderQuotes(): (org.apache.jmeter.config.TestCVSDataSet.java:178) 
+Set (score: 1.0, ccsize: 2): 
+org.apache.jmeter.protocol.http.control.TestAuthManager.void testHttp(): (org.apache.jmeter.protocol.http.control.TestAuthManager.java:32) 
+org.apache.jmeter.protocol.http.control.TestAuthManager.void testHttps(): (org.apache.jmeter.protocol.http.control.TestAuthManager.java:36) 
+Set (score: 1.0, ccsize: 2): 
+org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.void checkGetRequest(org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase,org.apache.jmeter.protocol.http.sampler.HTTPSampleResult): (org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.java:942) 
+org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.void checkGetRequest_Parameters(org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase,org.apache.jmeter.protocol.http.sampler.HTTPSampleResult,java.lang.String,java.net.URL,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean): (org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.java:981) 
+Set (score: 1.0, ccsize: 2): 
+org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.void checkGetRequest(org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase,org.apache.jmeter.protocol.http.sampler.HTTPSampleResult): (org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.java:940) 
+org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.void checkPostRequestBody(org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase,org.apache.jmeter.protocol.http.sampler.HTTPSampleResult,java.lang.String,java.lang.String,java.lang.String): (org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.java:907) 
+org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.void checkPostRequestFileUpload(org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase,org.apache.jmeter.protocol.http.sampler.HTTPSampleResult,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.io.File,java.lang.String,byte[]): (org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.java:871) 
+org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.void checkPostRequestFormMultipart(org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase,org.apache.jmeter.protocol.http.sampler.HTTPSampleResult,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String): (org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.java:823) 
+org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.void checkPostRequestUrlEncoded(org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase,org.apache.jmeter.protocol.http.sampler.HTTPSampleResult,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean): (org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.java:790) 
+Set (score: 1.0, ccsize: 2): 
+org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.void checkPostRequestFileUpload(org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase,org.apache.jmeter.protocol.http.sampler.HTTPSampleResult,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.io.File,java.lang.String,byte[]): (org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.java:873) 
+org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.void checkPostRequestFormMultipart(org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase,org.apache.jmeter.protocol.http.sampler.HTTPSampleResult,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String): (org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.java:825) 
+Set (score: 1.0, ccsize: 2): 
+org.apache.jmeter.testelement.BarChartTest.void testGenerateBarChart(): (org.apache.jmeter.testelement.BarChartTest.java:78) 
+org.apache.jmeter.testelement.LineGraphTest.void testGenerateLineChart(): (org.apache.jmeter.testelement.LineGraphTest.java:78) 
+
+assertEquals("Counter: " + counter + ", i: " + i, order[counter], sampler.getName());
+This is almost a perfect clone, can be easily parametrized
+Set (score: 0.6666666666666666, ccsize: 5): 
+org.apache.jmeter.control.TestThroughputController.void testByNumberZero(): (org.apache.jmeter.control.TestThroughputController.java:96) 
+org.apache.jmeter.control.TestThroughputController.void testByPercent100(): (org.apache.jmeter.control.TestThroughputController.java:208) 
+org.apache.jmeter.control.TestThroughputController.void testByPercent33(): (org.apache.jmeter.control.TestThroughputController.java:144) 
+org.apache.jmeter.control.TestThroughputController.void testByPercentZero(): (org.apache.jmeter.control.TestThroughputController.java:176) 
+
+Set (score: 0.6666666666666666, ccsize: 3): 
+org.apache.commons.cli.avalon.ClutilTestCase.void testOptionalArgLong(): (org.apache.commons.cli.avalon.ClutilTestCase.java:177) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testOptionalArgLongEquals(): (org.apache.commons.cli.avalon.ClutilTestCase.java:205) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testOptionalArgWithSpace(): (org.apache.commons.cli.avalon.ClutilTestCase.java:149) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testShortOptArgUnenteredBeforeOtherOpt(): (org.apache.commons.cli.avalon.ClutilTestCase.java:228) 
+Set (score: 0.6666666666666666, ccsize: 3): 
+org.apache.commons.cli.avalon.ClutilTestCase.void testOptionalArgLong(): (org.apache.commons.cli.avalon.ClutilTestCase.java:176) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testOptionalArgLongEquals(): (org.apache.commons.cli.avalon.ClutilTestCase.java:204) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testOptionalArgWithSpace(): (org.apache.commons.cli.avalon.ClutilTestCase.java:148) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testShortOptArgUnenteredBeforeOtherOpt(): (org.apache.commons.cli.avalon.ClutilTestCase.java:227) 
+Set (score: 0.6666666666666666, ccsize: 3): 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testAssertionEmptyResult(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:135) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testAssertionEmptyResult(): (org.apache.jmeter.assertions.XPathAssertionTest.java:187) 
+Set (score: 0.6666666666666666, ccsize: 3): 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testAssertionNoResult(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:124) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testAssertionNoResult(): (org.apache.jmeter.assertions.XPathAssertionTest.java:177) 
+Set (score: 0.6666666666666666, ccsize: 3): 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testAssertionOK(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:83) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testAssertionOK(): (org.apache.jmeter.assertions.XPathAssertionTest.java:96) 
+Set (score: 0.6666666666666666, ccsize: 3): 
+org.apache.jmeter.assertions.XMLSchemaAssertionTest.void testAssertionOK(): (org.apache.jmeter.assertions.XMLSchemaAssertionTest.java:82) 
+org.apache.jmeter.assertions.XPathAssertionTest.void testAssertionOK(): (org.apache.jmeter.assertions.XPathAssertionTest.java:95) 
+Set (score: 0.6666666666666666, ccsize: 3): 
+org.apache.jmeter.control.TestInterleaveControl.void testProcessing2(): (org.apache.jmeter.control.TestInterleaveControl.java:127) 
+org.apache.jmeter.control.TestInterleaveControl.void testProcessing3(): (org.apache.jmeter.control.TestInterleaveControl.java:162) 
+org.apache.jmeter.control.TestInterleaveControl.void testProcessing4(): (org.apache.jmeter.control.TestInterleaveControl.java:192) 
+org.apache.jmeter.control.TestInterleaveControl.void testProcessing5(): (org.apache.jmeter.control.TestInterleaveControl.java:222) 
+org.apache.jmeter.control.TestThroughputController.void testByNumber(): (org.apache.jmeter.control.TestThroughputController.java:66) 
+Set (score: 0.6666666666666666, ccsize: 3): 
+org.apache.jmeter.junit.JMeterTest.void GUIComponents1(): (org.apache.jmeter.junit.JMeterTest.java:419) 
+org.apache.jmeter.junit.JMeterTest.void GUIComponents2(): (org.apache.jmeter.junit.JMeterTest.java:467) 
+Set (score: 0.6666666666666666, ccsize: 3): 
+org.apache.jmeter.junit.JMeterTest.void GUIComponents2(): (org.apache.jmeter.junit.JMeterTest.java:447) 
+org.apache.jmeter.junit.JMeterTest.void cloneTesting(org.apache.jmeter.testelement.TestElement,org.apache.jmeter.testelement.TestElement): (org.apache.jmeter.junit.JMeterTest.java:641) 
+Set (score: 0.6666666666666666, ccsize: 3): 
+org.apache.jmeter.protocol.http.modifier.TestURLRewritingModifier.void testCache(): (org.apache.jmeter.protocol.http.modifier.TestURLRewritingModifier.java:242) 
+org.apache.jmeter.protocol.http.modifier.TestURLRewritingModifier.void testGrabSessionIdFromForm(): (org.apache.jmeter.protocol.http.modifier.TestURLRewritingModifier.java:203) 
+org.apache.jmeter.protocol.http.modifier.TestURLRewritingModifier.void testNoCache(): (org.apache.jmeter.protocol.http.modifier.TestURLRewritingModifier.java:264) 
+Set (score: 0.6666666666666666, ccsize: 2): 
+org.apache.jmeter.assertions.ResponseAssertionTest.void assertPassed(): (org.apache.jmeter.assertions.ResponseAssertionTest.java:188) 
+org.apache.jmeter.assertions.SizeAssertionTest.void assertPassed(): (org.apache.jmeter.assertions.SizeAssertionTest.java:155) 
+Set (score: 0.6666666666666666, ccsize: 2): 
+org.apache.jmeter.protocol.http.util.TestHTTPFileArg.void testToString(): (org.apache.jmeter.protocol.http.util.TestHTTPFileArg.java:64) 
+org.apache.jmeter.protocol.http.util.TestHTTPFileArgs.void testToString(): (org.apache.jmeter.protocol.http.util.TestHTTPFileArgs.java:116) 
+Set (score: 0.6666666666666666, ccsize: 2): 
+org.apache.jmeter.testbeans.gui.TestComboStringEditor.void testSetGet(org.apache.jmeter.testbeans.gui.ComboStringEditor,java.lang.Object): (org.apache.jmeter.testbeans.gui.TestComboStringEditor.java:26) 
+org.apache.jmeter.testbeans.gui.TestFieldStringEditor.void testSetGet(org.apache.jmeter.testbeans.gui.ComboStringEditor,java.lang.Object): (org.apache.jmeter.testbeans.gui.TestFieldStringEditor.java:27) 
+Set (score: 0.6666666666666666, ccsize: 2): 
+org.apache.jmeter.testbeans.gui.TestComboStringEditor.void testSetGetAsText(org.apache.jmeter.testbeans.gui.ComboStringEditor,java.lang.String): (org.apache.jmeter.testbeans.gui.TestComboStringEditor.java:31) 
+org.apache.jmeter.testbeans.gui.TestFieldStringEditor.void testSetGetAsText(org.apache.jmeter.testbeans.gui.ComboStringEditor,java.lang.String): (org.apache.jmeter.testbeans.gui.TestFieldStringEditor.java:32) 
+Set (score: 0.5, ccsize: 4): 
+org.apache.commons.cli.avalon.ClutilTestCase.void testArgumentLookup(): (org.apache.commons.cli.avalon.ClutilTestCase.java:858) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testNullDescription(): (org.apache.commons.cli.avalon.ClutilTestCase.java:903) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testNullLongForm(): (org.apache.commons.cli.avalon.ClutilTestCase.java:882) 
+
+assertEquals("org.apache.jmeter.testelement.property.FunctionProperty", newProp.getClass().getName()); 
+These methods are similar but short as well.
+Set (score: 0.5, ccsize: 4): 
+org.apache.jmeter.engine.util.PackageTest.void testFunctionParse1(): (org.apache.jmeter.engine.util.PackageTest.java:69) 
+org.apache.jmeter.engine.util.PackageTest.void testNestedExample1(): (org.apache.jmeter.engine.util.PackageTest.java:202) 
+org.apache.jmeter.engine.util.PackageTest.void testNestedExample2(): (org.apache.jmeter.engine.util.PackageTest.java:210) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample1(): (org.apache.jmeter.engine.util.PackageTest.java:79) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample10(): (org.apache.jmeter.engine.util.PackageTest.java:153) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample11(): (org.apache.jmeter.engine.util.PackageTest.java:162) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample2(): (org.apache.jmeter.engine.util.PackageTest.java:87) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample3(): (org.apache.jmeter.engine.util.PackageTest.java:96) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample4(): (org.apache.jmeter.engine.util.PackageTest.java:104) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample5(): (org.apache.jmeter.engine.util.PackageTest.java:120) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample6(): (org.apache.jmeter.engine.util.PackageTest.java:112) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample7(): (org.apache.jmeter.engine.util.PackageTest.java:128) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample8(): (org.apache.jmeter.engine.util.PackageTest.java:136) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample9(): (org.apache.jmeter.engine.util.PackageTest.java:144) 
+
+Set (score: 0.5, ccsize: 4): 
+org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr.void testParse1(): (org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr.java:512) 
+org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr.void testParse2(): (org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr.java:527) 
+Set (score: 0.5, ccsize: 4): 
+org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr.void testParse1(): (org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr.java:511) 
+org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr.void testParse2(): (org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr.java:526) 
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.cli.avalon.ClutilTestCase.void test2ArgsParse2(): (org.apache.commons.cli.avalon.ClutilTestCase.java:619) 
+org.apache.commons.cli.avalon.ClutilTestCase.void test2ArgsParse3(): (org.apache.commons.cli.avalon.ClutilTestCase.java:637) 
+org.apache.commons.cli.avalon.ClutilTestCase.void test2ArgsParse4(): (org.apache.commons.cli.avalon.ClutilTestCase.java:656) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testCombinedArgs1(): (org.apache.commons.cli.avalon.ClutilTestCase.java:514) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testCombinedArgs2(): (org.apache.commons.cli.avalon.ClutilTestCase.java:530) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testCombinedArgs3(): (org.apache.commons.cli.avalon.ClutilTestCase.java:551) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testCombinedArgs4(): (org.apache.commons.cli.avalon.ClutilTestCase.java:571) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testSingleArg2(): (org.apache.commons.cli.avalon.ClutilTestCase.java:391) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testSingleArg3(): (org.apache.commons.cli.avalon.ClutilTestCase.java:410) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testSingleArg4(): (org.apache.commons.cli.avalon.ClutilTestCase.java:425) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testSingleArg5(): (org.apache.commons.cli.avalon.ClutilTestCase.java:440) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testSingleArg6(): (org.apache.commons.cli.avalon.ClutilTestCase.java:455) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testSingleArg7(): (org.apache.commons.cli.avalon.ClutilTestCase.java:470) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testSingleArg8(): (org.apache.commons.cli.avalon.ClutilTestCase.java:485) 
+org.apache.commons.cli.avalon.ClutilTestCase.void testSingleArg9(): (org.apache.commons.cli.avalon.ClutilTestCase.java:500) 
+Set (score: 0.5, ccsize: 3): 
+org.apache.jmeter.control.TestOnceOnlyController.void notestInsideInterleave(): (org.apache.jmeter.control.TestOnceOnlyController.java:321) 
+org.apache.jmeter.control.TestOnceOnlyController.void testInOuterLoop(): (org.apache.jmeter.control.TestOnceOnlyController.java:168) 
+org.apache.jmeter.control.TestOnceOnlyController.void testInsideInnerLoop(): (org.apache.jmeter.control.TestOnceOnlyController.java:230) 
+Set (score: 0.5, ccsize: 3): 
+org.apache.jmeter.engine.util.PackageTest.void testNestedExample1(): (org.apache.jmeter.engine.util.PackageTest.java:203) 
+org.apache.jmeter.engine.util.PackageTest.void testNestedExample2(): (org.apache.jmeter.engine.util.PackageTest.java:211) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample1(): (org.apache.jmeter.engine.util.PackageTest.java:80) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample10(): (org.apache.jmeter.engine.util.PackageTest.java:154) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample11(): (org.apache.jmeter.engine.util.PackageTest.java:163) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample12(): (org.apache.jmeter.engine.util.PackageTest.java:176) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample13(): (org.apache.jmeter.engine.util.PackageTest.java:185) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample14(): (org.apache.jmeter.engine.util.PackageTest.java:194) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample2(): (org.apache.jmeter.engine.util.PackageTest.java:88) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample3(): (org.apache.jmeter.engine.util.PackageTest.java:97) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample4(): (org.apache.jmeter.engine.util.PackageTest.java:105) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample5(): (org.apache.jmeter.engine.util.PackageTest.java:121) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample6(): (org.apache.jmeter.engine.util.PackageTest.java:113) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample7(): (org.apache.jmeter.engine.util.PackageTest.java:129) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample8(): (org.apache.jmeter.engine.util.PackageTest.java:137) 
+org.apache.jmeter.engine.util.PackageTest.void testParseExample9(): (org.apache.jmeter.engine.util.PackageTest.java:145) 
+Set (score: 0.5, ccsize: 3): 
+org.apache.jmeter.protocol.http.modifier.TestURLRewritingModifier.void testGrabSessionId(): (org.apache.jmeter.protocol.http.modifier.TestURLRewritingModifier.java:72) 
+org.apache.jmeter.protocol.http.modifier.TestURLRewritingModifier.void testGrabSessionId5(): (org.apache.jmeter.protocol.http.modifier.TestURLRewritingModifier.java:177) 
+Set (score: 0.5, ccsize: 3): 
+org.apache.jmeter.protocol.http.modifier.TestURLRewritingModifier.void testGrabSessionId4(): (org.apache.jmeter.protocol.http.modifier.TestURLRewritingModifier.java:161) 
+org.apache.jmeter.protocol.http.modifier.TestURLRewritingModifier.void testGrabSessionIdFromXMLPatExtension(): (org.apache.jmeter.protocol.http.modifier.TestURLRewritingModifier.java:133) 
+Set (score: 0.5, ccsize: 3): 
+org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.void checkGetRequest(org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase,org.apache.jmeter.protocol.http.sampler.HTTPSampleResult): (org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.java:960) 
+org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.void checkGetRequest_Parameters(org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase,org.apache.jmeter.protocol.http.sampler.HTTPSampleResult,java.lang.String,java.net.URL,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean): (org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer.java:1009) 
+Set (score: 0.5, ccsize: 3): 
+org.apache.jmeter.samplers.TestSampleResult.void testPause2False(): (org.apache.jmeter.samplers.TestSampleResult.java:127) 
+org.apache.jmeter.samplers.TestSampleResult.void testPause2True(): (org.apache.jmeter.samplers.TestSampleResult.java:117) 
+Set (score: 0.5, ccsize: 2): 
+org.apache.jmeter.assertions.ResponseAssertionTest.void assertFailed(): (org.apache.jmeter.assertions.ResponseAssertionTest.java:197) 
+org.apache.jmeter.assertions.ResponseAssertionTest.void assertPassed(): (org.apache.jmeter.assertions.ResponseAssertionTest.java:190) 
+Set (score: 0.5, ccsize: 2): 
+org.apache.jmeter.assertions.ResponseAssertionTest.void assertFailed(): (org.apache.jmeter.assertions.ResponseAssertionTest.java:198) 
+org.apache.jmeter.assertions.ResponseAssertionTest.void assertPassed(): (org.apache.jmeter.assertions.ResponseAssertionTest.java:191) 
+Set (score: 0.5, ccsize: 2): 
+org.apache.jmeter.config.gui.TestArgumentsPanel.void testArgumentCreation(): (org.apache.jmeter.config.gui.TestArgumentsPanel.java:57) 
+org.apache.jmeter.protocol.ldap.config.gui.PackageTest.void testLDAPArgumentCreation(): (org.apache.jmeter.protocol.ldap.config.gui.PackageTest.java:48) 
+Set (score: 0.5, ccsize: 2): 
+org.apache.jmeter.engine.util.TestValueReplacer.void testReplace(): (org.apache.jmeter.engine.util.TestValueReplacer.java:83) 
+org.apache.jmeter.engine.util.TestValueReplacer.void testReplaceFunctionWithBackslash(): (org.apache.jmeter.engine.util.TestValueReplacer.java:114) 
+org.apache.jmeter.engine.util.TestValueReplacer.void testReplaceStringWithBackslash(): (org.apache.jmeter.engine.util.TestValueReplacer.java:95) 
+org.apache.jmeter.engine.util.TestValueReplacer.void testReverseReplacement(): (org.apache.jmeter.engine.util.TestValueReplacer.java:68) 
+org.apache.jmeter.testelement.PackageTest.void testRecovery(): (org.apache.jmeter.testelement.PackageTest.java:84) 
+org.apache.jmeter.threads.TestTestCompiler.void testConfigGathering(): (org.apache.jmeter.threads.TestTestCompiler.java:47) 
+Set (score: 0.5, ccsize: 2): 
+org.apache.jmeter.functions.TestTimeFunction.void testHMS(): (org.apache.jmeter.functions.TestTimeFunction.java:130) 
+org.apache.jmeter.functions.TestTimeFunction.void testUSER1(): (org.apache.jmeter.functions.TestTimeFunction.java:144) 
+org.apache.jmeter.functions.TestTimeFunction.void testUSER2(): (org.apache.jmeter.functions.TestTimeFunction.java:151) 
+org.apache.jmeter.functions.TestTimeFunction.void testYMD(): (org.apache.jmeter.functions.TestTimeFunction.java:114) 
+org.apache.jmeter.functions.TestTimeFunction.void testYMDHMS(): (org.apache.jmeter.functions.TestTimeFunction.java:137) 
+org.apache.jmeter.functions.TestTimeFunction.void testYMDnoV(): (org.apache.jmeter.functions.TestTimeFunction.java:122) 
+Set (score: 0.5, ccsize: 2): 
+org.apache.jmeter.protocol.http.proxy.TestProxyControl.void testFilter1(): (org.apache.jmeter.protocol.http.proxy.TestProxyControl.java:47) 
+org.apache.jmeter.protocol.http.proxy.TestProxyControl.void testFilter2(): (org.apache.jmeter.protocol.http.proxy.TestProxyControl.java:53) 
+org.apache.jmeter.protocol.http.proxy.TestProxyControl.void testFilter3(): (org.apache.jmeter.protocol.http.proxy.TestProxyControl.java:59) 
+Set (score: 0.5, ccsize: 2): 
+org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter.void testExcludePattern(): (org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter.java:132) 
+org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter.void testIncludePattern(): (org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter.java:149) 
+Set (score: 0.5, ccsize: 2): 
+org.apache.jmeter.protocol.tcp.sampler.BinaryTCPClientImplTest.void testRoundTrip(): (org.apache.jmeter.protocol.tcp.sampler.BinaryTCPClientImplTest.java:84) 
+org.apache.jmeter.protocol.tcp.sampler.LengthPrefixedBinaryTCPClientImplTest.void testValid(): (org.apache.jmeter.protocol.tcp.sampler.LengthPrefixedBinaryTCPClientImplTest.java:52) 
+Set (score: 0.5, ccsize: 2): 
+org.apache.jmeter.testelement.BarChartTest.void testGenerateBarChart(): (org.apache.jmeter.testelement.BarChartTest.java:85) 
+org.apache.jmeter.testelement.LineGraphTest.void testGenerateLineChart(): (org.apache.jmeter.testelement.LineGraphTest.java:85) 
+Set (score: 0.5, ccsize: 2): 
+org.apache.jmeter.timers.PackageTest.void testTimer1(): (org.apache.jmeter.timers.PackageTest.java:41) 
+org.apache.jmeter.timers.PackageTest.void testTimer2(): (org.apache.jmeter.timers.PackageTest.java:51) 
+org.apache.jmeter.timers.PackageTest.void testTimer3(): (org.apache.jmeter.timers.PackageTest.java:63) 
+Set (score: 0.5, ccsize: 2): 
+org.apache.jmeter.util.PackageTest.void testSub1(): (org.apache.jmeter.util.PackageTest.java:42) 
+org.apache.jmeter.util.PackageTest.void testSub2(): (org.apache.jmeter.util.PackageTest.java:49) 
+org.apache.jmeter.util.PackageTest.void testSub3(): (org.apache.jmeter.util.PackageTest.java:56) 
+org.apache.jmeter.util.PackageTest.void testSub4(): (org.apache.jmeter.util.PackageTest.java:63) 
+Set (score: 0.5, ccsize: 2): 
+org.apache.jorphan.TestFunctorUsers.void testArgumentsPanel(): (org.apache.jorphan.TestFunctorUsers.java:59) 
+org.apache.jorphan.TestFunctorUsers.void testHTTPArgumentsPanel(): (org.apache.jorphan.TestFunctorUsers.java:63) 
+org.apache.jorphan.TestFunctorUsers.void testLDAPArgumentsPanel(): (org.apache.jorphan.TestFunctorUsers.java:67) 
+org.apache.jorphan.TestFunctorUsers.void testStatGraphVisualizer(): (org.apache.jorphan.TestFunctorUsers.java:50) 
+org.apache.jorphan.TestFunctorUsers.void testStatVisualizer(): (org.apache.jorphan.TestFunctorUsers.java:55) 
+org.apache.jorphan.TestFunctorUsers.void testSummaryReport(): (org.apache.jorphan.TestFunctorUsers.java:42) 
+org.apache.jorphan.TestFunctorUsers.void testTableVisualizer(): (org.apache.jorphan.TestFunctorUsers.java:46) 
+Set (score: 0.5, ccsize: 2): 
+org.apache.jorphan.math.TestStatCalculator.void testBug52125_1(): (org.apache.jorphan.math.TestStatCalculator.java:113) 
+org.apache.jorphan.math.TestStatCalculator.void testBug52125_2(): (org.apache.jorphan.math.TestStatCalculator.java:124) 
+org.apache.jorphan.math.TestStatCalculator.void testBug52125_2A(): (org.apache.jorphan.math.TestStatCalculator.java:135) 
+org.apache.jorphan.math.TestStatCalculator.void testBug52125_3(): (org.apache.jorphan.math.TestStatCalculator.java:150) 
+org.apache.jorphan.math.TestStatCalculator.void testPercentagePoint(): (org.apache.jorphan.math.TestStatCalculator.java:56) 
+Set (score: 0.5, ccsize: 2): 
+org.apache.jorphan.math.TestStatCalculator.void testInteger(): (org.apache.jorphan.math.TestStatCalculator.java:98) 
+org.apache.jorphan.math.TestStatCalculator.void testLong(): (org.apache.jorphan.math.TestStatCalculator.java:84) 
+Set (score: 0.5, ccsize: 2): 
+org.apache.jorphan.math.TestStatCalculator.void testInteger(): (org.apache.jorphan.math.TestStatCalculator.java:99) 
+org.apache.jorphan.math.TestStatCalculator.void testLong(): (org.apache.jorphan.math.TestStatCalculator.java:85) 
+Set (score: 0.5, ccsize: 2): 
+org.apache.jorphan.util.TestJorphanUtils.void testReplace1(): (org.apache.jorphan.util.TestJorphanUtils.java:38) 
+org.apache.jorphan.util.TestJorphanUtils.void testReplace2(): (org.apache.jorphan.util.TestJorphanUtils.java:42) 
+org.apache.jorphan.util.TestJorphanUtils.void testReplace3(): (org.apache.jorphan.util.TestJorphanUtils.java:46) 
+org.apache.jorphan.util.TestJorphanUtils.void testReplace4(): (org.apache.jorphan.util.TestJorphanUtils.java:50) 
+org.apache.jorphan.util.TestJorphanUtils.void testReplace5(): (org.apache.jorphan.util.TestJorphanUtils.java:54) 
+org.apache.jorphan.util.TestJorphanUtils.void testReplace6(): (org.apache.jorphan.util.TestJorphanUtils.java:58) 
+org.apache.jorphan.util.TestJorphanUtils.void testReplace7(): (org.apache.jorphan.util.TestJorphanUtils.java:62) 
+org.apache.jorphan.util.TestJorphanUtils.void testReplace8(): (org.apache.jorphan.util.TestJorphanUtils.java:66) 
+Set (score: 0.5, ccsize: 0): 
+org.apache.jmeter.extractor.TestRegexExtractor.void testVariableExtraction2(): (org.apache.jmeter.extractor.TestRegexExtractor.java:141) 
+org.apache.jmeter.functions.TestRegexFunction.void testVariableExtraction2(): (org.apache.jmeter.functions.TestRegexFunction.java:290) 
+Set (score: 0.5, ccsize: 0): 
+org.apache.jmeter.extractor.TestRegexExtractor.void testVariableExtraction3(): (org.apache.jmeter.extractor.TestRegexExtractor.java:158) 
+org.apache.jmeter.functions.TestRegexFunction.void testVariableExtraction3(): (org.apache.jmeter.functions.TestRegexFunction.java:333) 
+Set (score: 0.5, ccsize: 0): 
+org.apache.jmeter.extractor.TestRegexExtractor.void testVariableExtraction6(): (org.apache.jmeter.extractor.TestRegexExtractor.java:150) 
+org.apache.jmeter.functions.TestRegexFunction.void testVariableExtraction6(): (org.apache.jmeter.functions.TestRegexFunction.java:313) 
+Set (score: 0.5, ccsize: 0): 
+org.apache.jmeter.functions.TestJexlFunction.void testReplace1(): (org.apache.jmeter.functions.TestJexlFunction.java:84) 
+org.apache.jorphan.util.TestJorphanUtils.void testReplace1(): (org.apache.jorphan.util.TestJorphanUtils.java:38) 

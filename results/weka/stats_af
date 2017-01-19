@@ -1,0 +1,383 @@
+{
+	"project" : "weka",
+	"others" : {
+		"totalStaticCalls" : 876,
+		"totalMethods" : 506,
+		"totalClasses" : 116,
+		"totalPackages" : 20,
+		"totalClassesNotDirectlyInheritingTestCase" : 94,
+		"totalClassesContainingNonEmptySetupOrTeardown" : 47,
+		"totalMethodsWithAtLeast5Asserts" : 43,
+		"totalMethodsWithBranches" : 312,
+		"totalMethodsWithLoops" : 168,
+		"totalMethodsWithNoStaticCalls" : 121,
+		"totalMethodsWithNetworkAccess" : 1,
+		"totalMethodsWithFilesystemAccess" : 7
+	},
+	"detail" : {
+		"sets" : {
+			"hist" : [
+				{
+					"_id" : true,
+					"count" : 46
+				},
+				{
+					"_id" : false,
+					"count" : 7
+				}
+			]
+		},
+		"packages" : {
+			"hist" : [
+				{
+					"_id" : 1,
+					"count" : 30
+				},
+				{
+					"_id" : 2,
+					"count" : 10
+				},
+				{
+					"_id" : 3,
+					"count" : 2
+				},
+				{
+					"_id" : 5,
+					"count" : 1
+				},
+				{
+					"_id" : 6,
+					"count" : 1
+				},
+				{
+					"_id" : 7,
+					"count" : 1
+				},
+				{
+					"_id" : 11,
+					"count" : 1
+				}
+			]
+		},
+		"classes" : {
+			"hist" : [
+				{
+					"_id" : 1,
+					"count" : 18
+				},
+				{
+					"_id" : 2,
+					"count" : 20
+				},
+				{
+					"_id" : 3,
+					"count" : 3
+				},
+				{
+					"_id" : 4,
+					"count" : 1
+				},
+				{
+					"_id" : 5,
+					"count" : 1
+				},
+				{
+					"_id" : 8,
+					"count" : 1
+				},
+				{
+					"_id" : 12,
+					"count" : 1
+				},
+				{
+					"_id" : 15,
+					"count" : 1
+				}
+			]
+		},
+		"methods" : {
+			"hist" : [
+				{
+					"_id" : 53,
+					"count" : 1
+				},
+				{
+					"_id" : 41,
+					"count" : 1
+				},
+				{
+					"_id" : 17,
+					"count" : 1
+				},
+				{
+					"_id" : 14,
+					"count" : 1
+				},
+				{
+					"_id" : 13,
+					"count" : 1
+				},
+				{
+					"_id" : 10,
+					"count" : 1
+				},
+				{
+					"_id" : 7,
+					"count" : 1
+				},
+				{
+					"_id" : 5,
+					"count" : 3
+				},
+				{
+					"_id" : 4,
+					"count" : 7
+				},
+				{
+					"_id" : 3,
+					"count" : 11
+				},
+				{
+					"_id" : 2,
+					"count" : 18
+				}
+			]
+		},
+		"asserts" : {
+			"hist" : [
+				{
+					"_id" : 11,
+					"count" : 1
+				},
+				{
+					"_id" : 5,
+					"count" : 8
+				},
+				{
+					"_id" : 4,
+					"count" : 5
+				},
+				{
+					"_id" : 3,
+					"count" : 11
+				},
+				{
+					"_id" : 2,
+					"count" : 9
+				},
+				{
+					"_id" : 1,
+					"count" : 12
+				}
+			]
+		},
+		"assertsPerMethod" : {
+			"hist" : [
+				{
+					"_id" : 11,
+					"count" : 2
+				},
+				{
+					"_id" : 5,
+					"count" : 21
+				},
+				{
+					"_id" : 4,
+					"count" : 11
+				},
+				{
+					"_id" : 3,
+					"count" : 48
+				},
+				{
+					"_id" : 2,
+					"count" : 26
+				},
+				{
+					"_id" : 1,
+					"count" : 159
+				}
+			]
+		},
+		"controlFlowSizes" : {
+			"hist" : [
+				{
+					"_id" : 74,
+					"count" : 1
+				},
+				{
+					"_id" : 25,
+					"count" : 1
+				},
+				{
+					"_id" : 24,
+					"count" : 1
+				},
+				{
+					"_id" : 16,
+					"count" : 1
+				},
+				{
+					"_id" : 15,
+					"count" : 1
+				},
+				{
+					"_id" : 12,
+					"count" : 4
+				},
+				{
+					"_id" : 8,
+					"count" : 2
+				},
+				{
+					"_id" : 6,
+					"count" : 1
+				},
+				{
+					"_id" : 5,
+					"count" : 3
+				},
+				{
+					"_id" : 4,
+					"count" : 4
+				},
+				{
+					"_id" : 3,
+					"count" : 7
+				},
+				{
+					"_id" : 2,
+					"count" : 6
+				},
+				{
+					"_id" : 1,
+					"count" : 6
+				},
+				{
+					"_id" : 0,
+					"count" : 8
+				}
+			]
+		},
+		"controlFlowSizesPerMethod" : {
+			"hist" : [
+				{
+					"_id" : 74,
+					"count" : 2
+				},
+				{
+					"_id" : 25,
+					"count" : 3
+				},
+				{
+					"_id" : 24,
+					"count" : 2
+				},
+				{
+					"_id" : 16,
+					"count" : 4
+				},
+				{
+					"_id" : 15,
+					"count" : 2
+				},
+				{
+					"_id" : 12,
+					"count" : 9
+				},
+				{
+					"_id" : 8,
+					"count" : 4
+				},
+				{
+					"_id" : 6,
+					"count" : 3
+				},
+				{
+					"_id" : 5,
+					"count" : 17
+				},
+				{
+					"_id" : 4,
+					"count" : 23
+				},
+				{
+					"_id" : 3,
+					"count" : 24
+				},
+				{
+					"_id" : 2,
+					"count" : 66
+				},
+				{
+					"_id" : 1,
+					"count" : 82
+				},
+				{
+					"_id" : 0,
+					"count" : 26
+				}
+			]
+		},
+		"uniquenesses" : {
+			"hist" : [
+				{
+					"_id" : 10,
+					"count" : 1
+				},
+				{
+					"_id" : 4,
+					"count" : 4
+				},
+				{
+					"_id" : 3,
+					"count" : 11
+				},
+				{
+					"_id" : 2,
+					"count" : 17
+				},
+				{
+					"_id" : 1,
+					"count" : 13
+				}
+			]
+		},
+		"uniquenessesPerMethod" : {
+			"hist" : [
+				{
+					"_id" : 10,
+					"count" : 2
+				},
+				{
+					"_id" : 4,
+					"count" : 13
+				},
+				{
+					"_id" : 3,
+					"count" : 25
+				},
+				{
+					"_id" : 2,
+					"count" : 64
+				},
+				{
+					"_id" : 1,
+					"count" : 163
+				}
+			]
+		},
+		"relevantCloneSets" : {
+			"hist" : [
+				{
+					"_id" : true,
+					"count" : 25
+				},
+				{
+					"_id" : false,
+					"count" : 21
+				}
+			]
+		}
+	}
+}

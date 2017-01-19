@@ -1,0 +1,222 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+17
+A large number (15) of assertions are matched 
+   with a few number (7) of try block
+   with a few number (7) of  catch block
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (7).
+
+36
+A large number (10) of assertions are matched 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (2).
+
+53
+3 packages, 8 classes, 62 methods
+All of these methods contain a sequence reading off all of the fields of a Period and asserting that it equals something.
+Some are more clones than others: the reading-off may be different and the initialization is definitely different.
+
+	<org.joda.time.TestBaseSingleFieldPeriod: void testGet()>
+	<org.joda.time.TestMutablePeriod_Updates: void testSetPeriod_8ints1()>
+methods with the same set of method calls to Period objects, but testing different things
+	<org.joda.time.TestMutablePeriod_Updates: void testSetPeriod_8ints3()>
+	<org.joda.time.TestMutablePeriod_Updates: void testSetPeriod_8ints4()>
+both are similar and like testSetPeriod_8ints1(); they test different c'tors
+all of the TestMutablePeriod_Updates that are matched create a MutablePeriod, populate it, and assert that its fields are something.
+TestPeriodType calls static method DurationFieldType.years() rather than instance method test.getYears()
+TestPeriod_Basics (3 classes): same number of asserts, similar calls. Testing different methods of the Period class, e.g. test.getYears() vs test.indexOf(...) vs test.get(...).
+TestIslamicChronology also checks all of the fields on a DateTime object.
+TestReadableDurationConverter, TestReadableIntervalContainer, TestReadablePeriodConverter creates a Period and reads off the fields.
+
+66
+3 methods of 1 class
+The three methods all have the same assert structure and different initialization, although long3 and long4 are structurally identical.
+
+77
+1 package, 4 classes, 14 methods
+	<org.joda.time.field.TestBaseDateTimeField: void test_roundHalfFloor_long()>
+etc [4 instances] all call assertEquals 5 times with different methods of MockBaseDateTimeField, e.g. roundFloor, roundCeiling, etc.
+similarly with TestOffsetDateTimeField, with calls to MockOffsetDateTimeField instead
+also TestPreciseDateTimeField, TestPreciseDurationDateTimeField
+*True positive but not refactorable in Java
+
+88
+1 package, 2 classes, 5 methods
+	<org.joda.time.format.TestDateTimeFormatter: void testWithGetLocale()>
+	<org.joda.time.format.TestDateTimeFormatter: void testWithGetZone()>
+  	<org.joda.time.format.TestDateTimeFormatter: void testWithGetChronology()>
+
+same structure, s /Locale/Zone/Chronology
+
+	<org.joda.time.format.TestDateTimeFormatter: void testWithGetLocale()>
+	<org.joda.time.format.TestPeriodFormatter: void testWithGetLocaleMethods()>
+*Applicable to application of theories
+
+identical except for using a DateTimeFormatter vs a PeriodFormatter
+
+	<org.joda.time.format.TestPeriodFormatter: void testWithGetParseTypeMethods()>
+*This is false positive
+
+different enough that I wouldn't consider it a clone
+
+89
+1 package, 2 classes, 2 methods
+matching exception structures
+exact match except s /GregorianChronology/JulianChronology
+*Applicable to application of theories
+
+92
+1 package, 3 classes, 6 methods
+	<org.joda.time.TestLocalDateTime_Basics: void testGetFieldType_int()>
+	<org.joda.time.TestLocalDateTime_Basics: void testGetField_int()>
+same except s /getFieldType/getField
+*True positive but not refactorable in Java
+	<org.joda.time.TestLocalDateTime_Basics: void testGetFieldType_int()>
+	<org.joda.time.TestLocalTime_Basics: void testGetFieldType_int()>
+RHSs identical, LHS differ: DateTimeFieldType.year() vs DateTimeFieldType.hourOfDay()
+	<org.joda.time.TestLocalTime_Basics: void testGetField_int()>
+s /getFieldType/getField
+	<org.joda.time.TestLocalDateTime_Basics: void testGetFieldType_int()>
+	<org.joda.time.TestTimeOfDay_Basics: void testGetFieldType()>
+identical except for base object
+	<org.joda.time.TestTimeOfDay_Basics: void testGetField()>
+LHS differs again
+
+130
+1 assert: false positive
+
+
+144
+definitely cloned, but replacing safeAdd with safeSubtract and fixing results in consequence.
+
+160
+A few number (9) of assertions are matched 
+   with one (1) in-place boolean expression as arguments 
+   with one (1) try block
+   with one (1) catch block
+Valid clone set of a few number (4) of methods
+Relevant clone sets from call chain analysis does not exist (0).
+
+161
+9 asserts
+1 package, 1 class, 3 methods
+Similar, but:
+        assertEquals(test, new Period(1, 0, 0, 0, 0, 0, 0, 0, PeriodType.standard()));
+ vs
+        assertEquals(new Period(2, 0, 0, 0, 0, 0, 0, 0, PeriodType.standard()), test);
+note: different order of args, 1 vs 2.
+test is also initialized differently:
+        test = Period.weeks(5).withWeeks(1);
+vs
+        test = Period.weeks(1).plusWeeks(1);
+
+178
+A few number (7) of assertions are matched 
+   with one (1) in-place boolean expression as arguments 
+   with one (1) try block
+   with one (1) catch block
+Valid clone set of a few number (4) of methods
+Relevant clone sets from call chain analysis does not exist (0).
+
+180
+7 asserts
+1 package, 2 classes
+identical except
+<         BaseDateTimeField field = new MockStandardDateTimeField();
+---
+>         BaseDateTimeField field = new MockStandardBaseDateTimeField();
+
+
+182
+7 asserts
+2 packages, 9 classes, 25 methods
+	<org.joda.time.TestDateTimeConstants: void testDaysOfWeek()>
+total false positive
+This is surprisingly full of false positives: it's "7 assertSames"; actually there are disjoint sets
+	<org.joda.time.TestDateTime_Properties: void testPropertyGetMaxMinValuesDayOfMonth()>
+	<org.joda.time.TestLocalDateTime_Properties: void testPropertyGetMaxMinValuesDay()>
+	<org.joda.time.TestLocalDate_Properties: void testPropertyGetMaxMinValuesDay()>
+
+The 3 check methods do match in this set though.
+	<org.joda.time.TestLocalDateTime_Basics: void check(org.joda.time.LocalDateTime,int,int,int,int,int,int,int)>
+	<org.joda.time.TestDateTime_Basics: void check(org.joda.time.DateTime,int,int,int,int,int,int,int)>
+	<org.joda.time.TestLocalDateTime_Properties: void check(org.joda.time.LocalDateTime,int,int,int,int,int,int,int)>
+etc
+
+190
+A few number (6) of assertions are matched 
+Partial valid clone set of a few number (6) of methods
+   {
+      TestDateTime_Properties.testPropertyGetMaxMinValuesDayOfYear
+      TestDateTime_Properties.testPropertyGetMaxMinValuesWeekOfWeekyear
+   } is a clone set, 2/6
+   {
+      TestMinutes.testConstants
+      TestSeconds.testConstants
+      TestWeeks.testConstants
+      TestYears.testConstants
+   } is a clone set, 2/6
+Relevant clone sets from call chain analysis does not exist (0).
+
+200
+5 asserts: equals(boolean, boolean)
+2 packages, 11 classes, 19 methods
+	<org.joda.time.TestDays: void testIsGreaterThan()>
+	<org.joda.time.TestDays: void testIsLessThan()>
+are clones, but call different methods
+	<org.joda.time.TestHours: void testIsGreaterThan()>
+	<org.joda.time.TestHours: void testIsLessThan()>
+also each clones of each other and also very similar to Days but different static method call
+	<org.joda.time.TestMinutes: void testIsGreaterThan()>
+	<org.joda.time.TestMinutes: void testIsLessThan()>
+same as above
+	<org.joda.time.TestMonths: void testIsGreaterThan()>
+	<org.joda.time.TestMonths: void testIsLessThan()>
+again
+	<org.joda.time.TestSeconds: void testIsGreaterThan()>
+	<org.joda.time.TestSeconds: void testIsLessThan()>
+ditto
+	<org.joda.time.TestWeeks: void testIsGreaterThan()>
+	<org.joda.time.TestWeeks: void testIsLessThan()>
+	<org.joda.time.TestYears: void testIsGreaterThan()>
+	<org.joda.time.TestYears: void testIsLessThan()>
+
+now qualititatively different:
+	<org.joda.time.TestMutableInterval_Basics: void testContains_long()>
+	<org.joda.time.TestMutableInterval_Basics: void testContainsNow()>
+sort of similar to each other in some sense
+	<org.joda.time.TestPartial_Basics: void testIsSupported()>
+	<org.joda.time.TestTimeOfDay_Basics: void testIsSupported()>
+outlier:
+	<org.joda.time.tz.TestFixedDateTimeZone: void testEquals()>
+
+234
+A few number (2) of assertions are matched 
+   with one (1) in-place boolean expression as arguments 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis does not exist (0).
+
+241
+2 asserts (equals long,long/equals int,int)
+1 package, 3 classes, 9 methods
+	<org.joda.time.field.TestBaseDateTimeField: void test_add_long_int()>
+	<org.joda.time.field.TestPreciseDateTimeField: void test_add_long_int()>
+	<org.joda.time.field.TestPreciseDurationDateTimeField: void test_add_long_int()>
+identical
+	<org.joda.time.field.TestBaseDateTimeField: void test_add_long_long()>
+  	<org.joda.time.field.TestPreciseDateTimeField: void test_add_long_long()>
+	<org.joda.time.field.TestPreciseDurationDateTimeField: void test_add_long_long()>
+s /long/int
+	<org.joda.time.field.TestBaseDateTimeField: void test_getDifferenceAsLong_long_long()>
+	<org.joda.time.field.TestPreciseDateTimeField: void test_getDifferenceAsLong_long_long()>
+	<org.joda.time.field.TestPreciseDurationDateTimeField: void test_getDifferenceAsLong_long_long()>
+also similar
+
+244
+A few number (2) of assertions are matched 
+   with a few number (2) of try blocks
+   with a few number (2) of catch blocks
+Valid clone set of a few number (3) of methods
+Relevant clone sets from call chain analysis does not exist (0).
+

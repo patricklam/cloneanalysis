@@ -1,0 +1,71 @@
+old text:
+
+Our tool identified 32.7\% clones in the JGraphT test suite. 
+However, since there were fewer than 300 test methods in this suite, we were not able to find many useful clone sets.
+We noticed some similarities to HSQLDB: often, test assertions verified
+easy-to-verify attributes (e.g. vertex count) rather than the actual 
+structure of the graphs being generated.
+
+Data:
+
+511 asserts total
+20 sets
+asserts found: 48 (9.3%)
+
+[1] meaningless
+[2] 3 similar methods in same class---same computation, different data
+[3] 2 similar methods in same class
+[4] 2 same class
+[5] unrelated class, same assert, different payloads
+[6] same class, same structure, different input
+[7] ?!
+
+[8] meaningless
+[9, 10] different classes; similar setup; different semantics
+[11] similar test cases on different classes, similar to the canonical example for parametrized tests, but they don't quite apply here
+[12] 3 clones in same class, marginally different calls to test different aspects
+[13] 3 clones, same class, different graphs
+[14, 15, 16] 3-4 clones on parallel asserts, similar method bodies with different inputs
+[17] meaningless
+[18] 2 same class, structurally identical, different interfaces to same code
+[19] different classes, analogous methods, different construction, different input
+[20] different classes, structurally similar, not identical
+
+Classes with clones:
+
+CloneTest/SimpleDirectedGraphTest
+ConnectivityInspectorTest
+VertextCoversTest
+GraphReaderTest
+DirectedAcyclicGraphTest/SimpleDirectedGraphTest
+RandomGraphGeneratorTest
+CloneTest/SimpleDirectedGraphTest
+[3x] BiconnectivityInspectorTest/BlockCutpointGraphTest
+DOTExporterTest/GmlExporterTest
+KSPExampleTest
+HopcroftKarpBipartiteMatchingTest
+[3x] MinSourceSinkCutTest
+SimpleDirectedGraphTest
+PrefetchIteratorTest
+[2x] BellmanFordShortestPathTest/DijkstraShortestPathTest
+
+New text:
+
+Our tool reported 20 clone sets comprising 48 unique asserts over the
+297 test methods and 511 asserts in the jgrapht test suit. Thus, 9.3%
+of the asserts belonged to a clone set. Of these 20 clone sets, 4 were
+spurious results where the assertion was incidental to the operation
+of the method (for instance, one of the test methods had 10 asserts,
+only one of which matched an assert in another method.) The remaining
+16 clone sets all indicated methods which were at least superficially
+similar.  Of the 16 sets, 9 contained methods from different test
+classes, while the remaining 7 were single-class sets. The
+multiple-class clone sets consisted of assertions which were
+superficially similar. These assertions all belonged to methods which
+were also similar. However, the input data was often different, and
+the tests differed semantically as they verified the operation of
+different classes. In the case of single-class sets, the tests were
+structured similarly but passed test data to the unit under test.
+It would be difficult to parametrize the implementation of many of
+these tests; even in the single-class case, the tests call arbitrary
+methods to initialize the test data.

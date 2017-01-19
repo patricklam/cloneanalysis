@@ -1,0 +1,169 @@
+- If there are no control flow statements, the assertion flow analysis has trouble breaking down falsely large clone set.
+- Single or few assertions with no control flow statements is likely to produce false positive.
+- Test methods with fewer number of assertions and no control flow statments can still be matched because of lack of control flow statements (StoerWagnerMinimumCutTest).
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1
+A large number (13) of assertions are matched 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+2
+A few number (6) of assertions are matched 
+   with one (1) branching
+      one (1) loop
+Valid clone set of a few number (3) of methods
+Relevant clone sets from call chain analysis exists (6).
+
+3
+A few number (4) of assertions are matched 
+   with one (1) loop 
+   with one (1) try block
+   with one (1) catch block
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+4
+A few number (3) of assertions are matched 
+   with one (1) in-place boolean expression as arguments 
+Valid clone set of a few number (5) of methods 
+   may be difficult to refactor
+      some use directed graph and others use undirected graph
+Relevant clone sets from call chain analysis exists (2).
+
+5
+A few number (3) of assertions are matched 
+   with one (1) loop 
+Valid clone set of a few number (3) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+6
+A few number (2) of assertions are matched 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (2).
+
+7
+A few number (2) of assertions are matched 
+Partial valid clone set of a few number (4) of methods
+   testDirectedGraph is a false positive 3/4 
+Relevant clone sets from call chain analysis exists (1).
+
+8
+One (1) assertion is matched 
+   with one (1) loop 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+9
+One (1) assertion is matched 
+   with one (1) try block 
+   with one (1) catch block 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+10
+One (1) assertion is matched 
+   with a few number (2) of branchings
+      one (1) loop
+      one (1) if statement
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+11
+A few number (1) of assertions are matched 
+Partial valid clone set of a few number (5) of methods
+	{
+      KSPExampleTest.testFourReturnedPathsJGraphT 
+      KSPExampleTest.testThreeReturnedPathsJGraphT 
+      KSPExampleTest.testTwoReturnedPathsJGraphT
+   } is a clone set 3/5
+Relevant clone sets from call chain analysis exists (1).
+
+12
+A few number (4) of assertions are matched 
+Partial valid clone set of a few number (4) of methods
+	{
+      SubgraphTest.testInducedSubgraphListener 
+      SubgraphTest.testSubgraphListener
+   } is a clone set 2/4
+Relevant clone sets from call chain analysis does not exist (0).
+
+13
+A few number (2) of assertion are matched 
+Valid clone set of a few number (2) of methods
+   may be difficult to refactor 
+      one has a few procedures prior to assertion while the other does not
+Relevant clone sets from call chain analysis does not exist (0).
+
+14
+A few number (2) of assertions are matched 
+Partial valid clone set of a large number (11) of methods
+	{
+      BiconnectivityInspectorTest.testLinearGraph 
+      BlockCutpointGraphTest.testLinearGraph
+   } is a clone set 2/11
+	{
+      BiconnectivityInspectorTest.testNotBiconnected 
+      BlockCutpointGraphTest.testNotBiconnected
+   } is a clone set 2/11
+	{
+      GraphGeneratorTest.testCompleteBipartiteGraphGenerator 
+      GraphGeneratorTest.testHyperCubeGraphGenerator
+   } is a clone set 2/11
+   {
+      DefaultDirectedGraphTest.testEdgesOf 
+      DefaultDirectedGraphTest.testInDegreeOf 
+      DefaultDirectedGraphTest.testOutDegreeOf
+   } is a clone set 3/11
+Relevant clone sets from call chain analysis does not exist (0).
+
+15
+One (1) assertion is matched 
+Valid clone set of a few number (2) of methods
+   may be difficult to refactor 
+      there is only one method call in each method
+Relevant clone sets from call chain analysis does not exist (0).
+
+16
+One (1) assertion is matched 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis does not exist (0).
+
+17
+One (1) assertion is matched 
+   with one (1) branching
+      one (1) loop
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis does not exist (0).
+
+18
+One (1) assertion is matched 
+Invalid clone set of a few number (2) of methods
+   Single assertion with no control flows
+Relevant clone sets from call chain analysis does not exist (0).
+
+19
+One (1) assertion is matched 
+Partial valid clone set of a few number (6) of methods
+   {
+      DOTExporterTest.testUndirected 
+      GmlExporterTest.testUndirected 
+      MatrixExporterTest.testAdjacencyUndirected
+      MatrixExporterTest.testAdjacencyDirected
+   } is a clone set 4/6
+Relevant clone sets from call chain analysis does not exist (0).
+
+20
+One (1) assertion is matched 
+Partial valid clone set of a few number (9) of methods
+   {
+      FloydWarshallShortestPathsTest.testDiameter 
+      FloydWarshallShortestPathsTest.testEmptyDiameter
+      FloydWarshallShortestPathsTest.testEdgeLessDiameter 
+   } is a clone set 3/9
+	{
+      ColoringTest.testGreedyColoring
+      ColoringTest.testBacktrackColoring
+   } is a clone set 2/9
+Relevant clone sets from call chain analysis does not exist (0).
+

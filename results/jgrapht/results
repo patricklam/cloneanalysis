@@ -1,0 +1,303 @@
+[1] Set (score: 1.00, ccsize: 3, packages: 1, classes: 1): 
+	<org.jgrapht.graph.SubgraphTest: void testInducedSubgraphListener()>
+		<org.jgrapht.graph.SubgraphTest.java:86, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SubgraphTest.java:91, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.SubgraphTest: void testSubgraph()>
+		<org.jgrapht.graph.SubgraphTest.java:104, 20.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.SubgraphTest: void testSubgraphListener()>
+		<org.jgrapht.graph.SubgraphTest.java:139, 43.75%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[2] Set (score: 1.00, ccsize: 3, packages: 1, classes: 1): 
+	<org.jgrapht.graph.SubgraphTest: void testInducedSubgraphListener()>
+		<org.jgrapht.graph.SubgraphTest.java:87, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SubgraphTest.java:92, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.SubgraphTest: void testSubgraphListener()>
+		<org.jgrapht.graph.SubgraphTest.java:140, 43.75%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SubgraphTest.java:146, 43.75%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.SubgraphTest: void testSubgraph()>
+		<org.jgrapht.graph.SubgraphTest.java:105, 20.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[3] Set (score: 1.00, ccsize: 2, packages: 2, classes: 2): 
+	<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest: void testCycleDetectionInRandomGraphBuild()>
+		<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest.java:152, 6.12%> (predicates:{(i0 < 50)=true, ($z4 != 0)=false, ($z7 != 0)=false, (z0 != z1)=null, (z1 == 0)=true, ($z10 != 0)=true, ($z9 != 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.SubgraphTest: void testInducedSubgraphUnderlyingEdgeAddition()>
+		<org.jgrapht.graph.SubgraphTest.java:192, 20.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[4] Set (score: 1.00, ccsize: 2, packages: 2, classes: 2): 
+	<org.jgrapht.generate.GraphGeneratorTest: void testEmptyGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:92, 23.08%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.generate.GraphGeneratorTest: void testRingGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:167, 10.00%> (predicates:{(i0 < 10)=false, ($z0 == 0)=null, (r6 != r5)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.util.FibonacciHeapTest: void testAddRemoveOne()>
+		<org.jgrapht.util.FibonacciHeapTest.java:57, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.util.FibonacciHeapTest.java:59, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.util.FibonacciHeapTest.java:62, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.util.FibonacciHeapTest: void testGrowReplaceShrink()>
+		<org.jgrapht.util.FibonacciHeapTest.java:88, 17.65%> (predicates:{(i1 < $i3)=false, (i1 >= $i2)=null, (i1 < s0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[5] Set (score: 1.00, ccsize: 2, packages: 1, classes: 1): 
+	<org.jgrapht.alg.ConnectivityInspectorTest: void testStronglyConnected1()>
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:222, 12.00%> (predicates:{($z13 != 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.ConnectivityInspectorTest: void testStronglyConnected2()>
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:279, 12.00%> (predicates:{($z13 != 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.ConnectivityInspectorTest: void testStronglyConnected3()>
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:337, 13.04%> (predicates:{($z12 != 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[6] Set (score: 1.00, ccsize: 2, packages: 1, classes: 1): 
+	<org.jgrapht.alg.VertexCoversTest: void testFind2ApproximationCover()>
+		<org.jgrapht.alg.VertexCoversTest.java:74, 60.00%> (predicates:{(i0 < 20)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.VertexCoversTest: void testFindGreedyCover()>
+		<org.jgrapht.alg.VertexCoversTest.java:89, 50.00%> (predicates:{(i0 < 20)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+[7] Set (score: 1.00, ccsize: 2, packages: 1, classes: 1): 
+	<org.jgrapht.experimental.GraphReaderTest: void testGraphReader()>
+		<org.jgrapht.experimental.GraphReaderTest.java:88, 27.27%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r22 := @caughtexception])
+	<org.jgrapht.experimental.GraphReaderTest: void testGraphReaderWeighted()>
+		<org.jgrapht.experimental.GraphReaderTest.java:116, 23.08%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r24 := @caughtexception])
+[8] Set (score: 1.00, ccsize: 2, packages: 1, classes: 1): 
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testAsWeightedGraphs()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:329, 5.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:332, 5.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testDefaultDirectedGraph()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:105, 6.52%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testSimpleGraph()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:148, 6.52%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testGraphsWithNonIntrusiveEdge()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:187, 3.90%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testPseudograph()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:230, 5.08%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testGrapshWithCustomEdges()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:268, 7.69%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[9] Set (score: 1.00, ccsize: 2, packages: 1, classes: 1): 
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testAsWeightedGraphs()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:330, 10.34%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:333, 10.34%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testDefaultDirectedGraph()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:108, 13.04%> (predicates:{($z18 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testSimpleGraph()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:151, 13.04%> (predicates:{($z18 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testGraphsWithNonIntrusiveEdge()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:190, 7.79%> (predicates:{($z17 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testPseudograph()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:233, 10.17%> (predicates:{($z19 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testGrapshWithCustomEdges()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:271, 15.38%> (predicates:{($z16 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[10] Set (score: 1.00, ccsize: 2, packages: 1, classes: 1): 
+	<org.jgrapht.graph.ListenableGraphTest: void testGraphListener()>
+		<org.jgrapht.graph.ListenableGraphTest.java:114, 12.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.ListenableGraphTest: void testVertexSetListener()>
+		<org.jgrapht.graph.ListenableGraphTest.java:174, 12.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[11] Set (score: 1.00, ccsize: 2, packages: 1, classes: 1): 
+	<org.jgrapht.util.PrefetchIteratorTest: void testIteratorInterface()>
+		<org.jgrapht.util.PrefetchIteratorTest.java:64, 25.00%> (predicates:{(i0 < 100)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.util.PrefetchIteratorTest: void testEnumInterface()>
+		<org.jgrapht.util.PrefetchIteratorTest.java:81, 25.00%> (predicates:{(i0 < 100)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[12] Set (score: 0.67, ccsize: 4, packages: 1, classes: 1): 
+	<org.jgrapht.alg.KShortestPathCostTest: void testPicture1Graph()>
+		<org.jgrapht.alg.KShortestPathCostTest.java:97, 18.42%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.KShortestPathCostTest.java:111, 18.42%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.KShortestPathCostTest: void testKShortestPathCompleteGraph4()>
+		<org.jgrapht.alg.KShortestPathCostTest.java:78, 38.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[13] Set (score: 0.67, ccsize: 3, packages: 3, classes: 3): 
+	<org.jgrapht.alg.CycleDetectorTest: void testVertexEquals()>
+		<org.jgrapht.alg.CycleDetectorTest.java:201, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.CycleDetectorTest.java:215, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.generate.GraphGeneratorTest: void testEmptyGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:91, 38.46%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.generate.GraphGeneratorTest: void testLinearGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:107, 20.83%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.generate.GraphGeneratorTest: void testRingGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:147, 16.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.generate.GraphGeneratorTest: void testCompleteGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:185, 62.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.generate.GraphGeneratorTest: void testCompleteBipartiteGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:244, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.generate.GraphGeneratorTest: void testHyperCubeGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:266, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.generate.GraphGeneratorTest: void testStarGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:287, 35.71%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.SubgraphTest: void testSubgraph()>
+		<org.jgrapht.graph.SubgraphTest.java:127, 14.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[14] Set (score: 0.67, ccsize: 3, packages: 2, classes: 2): 
+	<org.jgrapht.alg.CycleDetectorTest: void testVertexEquals()>
+		<org.jgrapht.alg.CycleDetectorTest.java:216, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.generate.GraphGeneratorTest: void testEmptyGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:90, 38.46%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.generate.GraphGeneratorTest: void testLinearGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:106, 20.83%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.generate.GraphGeneratorTest: void testRingGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:146, 16.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.generate.GraphGeneratorTest: void testCompleteBipartiteGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:243, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.generate.GraphGeneratorTest: void testHyperCubeGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:265, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.generate.GraphGeneratorTest: void testStarGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:288, 35.71%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[15] Set (score: 0.67, ccsize: 3, packages: 1, classes: 2): 
+	<org.jgrapht.alg.BiconnectivityInspectorTest: void testBiconnected()>
+		<org.jgrapht.alg.BiconnectivityInspectorTest.java:65, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.BiconnectivityInspectorTest: void testLinearGraph(int)>
+		<org.jgrapht.alg.BiconnectivityInspectorTest.java:88, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.BiconnectivityInspectorTest: void testNotBiconnected()>
+		<org.jgrapht.alg.BiconnectivityInspectorTest.java:100, 55.56%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.BlockCutpointGraphTest: void testBiconnected()>
+		<org.jgrapht.alg.BlockCutpointGraphTest.java:67, 41.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BlockCutpointGraphTest.java:71, 41.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.BlockCutpointGraphTest: void testLinearGraph(int)>
+		<org.jgrapht.alg.BlockCutpointGraphTest.java:121, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BlockCutpointGraphTest.java:125, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.BlockCutpointGraphTest: void testNotBiconnected()>
+		<org.jgrapht.alg.BlockCutpointGraphTest.java:135, 41.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BlockCutpointGraphTest.java:139, 41.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[16] Set (score: 0.67, ccsize: 3, packages: 1, classes: 1): 
+	<org.jgrapht.alg.BiconnectivityInspectorTest: void testBiconnected()>
+		<org.jgrapht.alg.BiconnectivityInspectorTest.java:66, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.BiconnectivityInspectorTest: void testLinearGraph(int)>
+		<org.jgrapht.alg.BiconnectivityInspectorTest.java:89, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.BiconnectivityInspectorTest: void testNotBiconnected()>
+		<org.jgrapht.alg.BiconnectivityInspectorTest.java:101, 55.56%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[17] Set (score: 0.67, ccsize: 3, packages: 1, classes: 1): 
+	<org.jgrapht.alg.KSPExampleTest: void testFourReturnedPathsJGraphT()>
+		<org.jgrapht.alg.KSPExampleTest.java:60, 55.56%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.KSPExampleTest: void testThreeReturnedPathsJGraphT()>
+		<org.jgrapht.alg.KSPExampleTest.java:72, 60.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.KSPExampleTest: void testTwoReturnedPathsJGraphT()>
+		<org.jgrapht.alg.KSPExampleTest.java:84, 60.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[18] Set (score: 0.67, ccsize: 2, packages: 2, classes: 2): 
+	<org.jgrapht.generate.GraphGeneratorTest: void testLinearGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:117, 16.67%> (predicates:{($z0 != 0)=true, (r8 != r5)=false, (r8 != r6)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:124, 16.67%> (predicates:{($z0 != 0)=true, (r8 != r5)=true, (r8 != r6)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:130, 16.67%> (predicates:{($z0 != 0)=true, (r8 != r5)=true, (r8 != r6)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.generate.GraphGeneratorTest: void testRingGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:159, 13.33%> (predicates:{(i0 < 10)=true, ($z0 == 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testReversedView()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:408, 12.12%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:410, 12.12%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[19] Set (score: 0.67, ccsize: 2, packages: 2, classes: 2): 
+	<org.jgrapht.generate.GraphGeneratorTest: void testLinearGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:118, 16.67%> (predicates:{($z0 != 0)=true, (r8 != r5)=false, (r8 != r6)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:125, 16.67%> (predicates:{($z0 != 0)=true, (r8 != r5)=true, (r8 != r6)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:131, 16.67%> (predicates:{($z0 != 0)=true, (r8 != r5)=true, (r8 != r6)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.generate.GraphGeneratorTest: void testRingGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:150, 13.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:160, 13.33%> (predicates:{(i0 < 10)=true, ($z0 == 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testReversedView()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:409, 12.12%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:411, 12.12%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[20] Set (score: 0.67, ccsize: 2, packages: 1, classes: 2): 
+	<org.jgrapht.alg.BellmanFordShortestPathTest: void testWithNegativeEdges()>
+		<org.jgrapht.alg.BellmanFordShortestPathTest.java:120, 45.45%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.ShortestPathTestCase: void testPathBetween()>
+		<org.jgrapht.alg.ShortestPathTestCase.java:86, 21.74%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[21] Set (score: 0.67, ccsize: 2, packages: 1, classes: 2): 
+	<org.jgrapht.graph.GenericGraphsTest: void testEqualButNotSameVertex()>
+		<org.jgrapht.graph.GenericGraphsTest.java:145, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.GenericGraphsTest.java:146, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.SubgraphTest: void testSubgraph()>
+		<org.jgrapht.graph.SubgraphTest.java:116, 11.43%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[22] Set (score: 0.67, ccsize: 2, packages: 1, classes: 1): 
+	<org.jgrapht.alg.ConnectivityInspectorTest: void testIsGraphConnected()>
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:155, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:159, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:169, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.ConnectivityInspectorTest: void testDirectedGraph()>
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:139, 57.14%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:143, 57.14%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[23] Set (score: 0.67, ccsize: 2, packages: 1, classes: 1): 
+	<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest: void testBipartiteMatching1()>
+		<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest.java:86, 6.76%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest: void testBipartiteMatching2()>
+		<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest.java:115, 5.21%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest: void testEmptyMatching()>
+		<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest.java:128, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[24] Set (score: 0.67, ccsize: 2, packages: 1, classes: 1): 
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testRealGraph()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:99, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testRealGraph2()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:147, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testGraphWithOneEdge()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:180, 9.80%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testDisconnectedGraph()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:216, 11.36%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[25] Set (score: 0.67, ccsize: 2, packages: 1, classes: 1): 
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testRealGraph()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:100, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testRealGraph2()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:148, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testGraphWithOneEdge()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:181, 9.80%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testDisconnectedGraph()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:217, 11.36%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[26] Set (score: 0.67, ccsize: 2, packages: 1, classes: 1): 
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testRealGraph()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:108, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testRealGraph2()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:156, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testDisconnectedGraph()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:221, 11.36%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[27] Set (score: 0.50, ccsize: 3, packages: 2, classes: 2): 
+	<org.jgrapht.alg.KShortestPathCostTest: void testKShortestPathCompleteGraph4()>
+		<org.jgrapht.alg.KShortestPathCostTest.java:68, 27.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.GenericGraphsTest: void testAlissaHacker()>
+		<org.jgrapht.graph.GenericGraphsTest.java:134, 83.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[28] Set (score: 0.50, ccsize: 3, packages: 1, classes: 1): 
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testGraphWithOneEdge()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:172, 9.80%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:188, 11.76%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testRealGraph()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:90, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testRealGraph2()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:138, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testDisconnectedGraph()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:207, 11.36%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[29] Set (score: 0.50, ccsize: 3, packages: 1, classes: 1): 
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testGraphWithOneEdge()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:173, 11.76%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:189, 9.80%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testRealGraph()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:92, 6.06%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testRealGraph2()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:140, 6.06%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testDisconnectedGraph()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:209, 13.64%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[30] Set (score: 0.50, ccsize: 2, packages: 1, classes: 1): 
+	<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest: void testBipartiteMatching1()>
+		<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest.java:83, 6.76%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest: void testBipartiteMatching2()>
+		<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest.java:112, 5.21%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[31] Set (score: 0.50, ccsize: 2, packages: 1, classes: 1): 
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testGraphWithOneEdge()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:184, 9.80%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:190, 7.84%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testRealGraph()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:103, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testRealGraph2()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:151, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testDisconnectedGraph()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:220, 9.09%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[32] Set (score: 0.46, ccsize: 4, packages: 1, classes: 2): 
+	<org.jgrapht.graph.AsUndirectedGraphTest: void testGetAllEdges()>
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:123, 30.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.DefaultDirectedGraphTest: void testGetAllEdges()>
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:130, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[33] Set (score: 0.46, ccsize: 4, packages: 1, classes: 1): 
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testAddVertex()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:157, 27.27%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testRemoveVertex()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:363, 16.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[34] Set (score: 0.40, ccsize: 4, packages: 1, classes: 1): 
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testEdgesOf()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:232, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testRemoveEdgeEdge()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:341, 26.09%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[35] Set (score: 0.33, ccsize: 5, packages: 1, classes: 2): 
+	<org.jgrapht.traverse.AbstractGraphIteratorTest: void testDirectedGraph()>
+		<org.jgrapht.traverse.AbstractGraphIteratorTest.java:86, 47.06%> (predicates:{($z1 != 0)=false, ($z0 == 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.traverse.ClosestFirstIteratorTest: void testRadius()>
+		<org.jgrapht.traverse.ClosestFirstIteratorTest.java:80, 53.85%> (predicates:{($z1 != 0)=false, ($z0 == 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.traverse.ClosestFirstIteratorTest: void testNoStart()>
+		<org.jgrapht.traverse.ClosestFirstIteratorTest.java:103, 53.85%> (predicates:{($z1 != 0)=false, ($z0 == 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[36] Set (score: 0.33, ccsize: 5, packages: 1, classes: 1): 
+	<org.jgrapht.graph.AsUndirectedGraphTest: void testAddVertex()>
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:103, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.AsUndirectedGraphTest: void testRemoveVertex()>
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:165, 77.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+[37] Set (score: 0.28, ccsize: 7, packages: 1, classes: 1): 
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testAddVertex()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:160, 40.91%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testRemoveVertex()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:365, 24.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])

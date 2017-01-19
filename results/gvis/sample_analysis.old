@@ -1,0 +1,126 @@
+- If the methods use custom helper functions as some of the assertions which the analysis cannot capture, the result could have a higher possibility of being a false positive
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2
+A few number (9) of assertions are matched 
+   with a few number (3) of try blocks
+   with a few number (3) of catch blocks
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+5
+A few number (5) of assertions are matched 
+Invalid clone set of a few number (3) of methods
+   the methods have more differences than similarities among them
+   these methods use a few helper functions as assertions which the analysis cannot capture
+Relevant clone sets from call chain analysis exists (2).
+
+6
+A few number (5) of assertions are matched 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (5).
+
+7
+A few number (5) of assertions are matched 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis exists (1).
+
+8
+A few number (4) of assertions are matched 
+Valid clone set of a few number (5) of methods
+Relevant clone sets from call chain analysis exists (2).
+
+9
+A few number (4) of assertions are matched 
+Valid clone set of a few number (4) of methods
+Relevant clone sets from call chain analysis exists (2).
+
+16
+A few number (2) of assertions are matched 
+Partial valid clone set of a large number (25) of methods
+   {
+      DateTimeValueTest.testToQueryString
+      DateValueTest.testToQueryString
+   } is a clone set, 2/25
+   {
+      NumberValueTest.testToString
+      TextValueTest.testToString
+   } is a clone set, 2/25
+   {
+      ColumnColumnFilterTest.testToQueryString
+      ColumnValueFilterTest.testToQueryString
+   } is a clone set, 2/25
+   {
+      QueryBuilderTest.testTwoValidLabels
+      QueryBuilderTest.testTwoValidFormats
+   } is a clone set, 2/25
+   {
+      LowerTest.testEvaluate
+      UpperTest.testEvaluate
+   } is a clone set, 2/25
+   {
+      HtmlRendererTest.testEscaping
+      HtmlRendererTest.testRenderError
+   } is a clone set, 2/25
+   {
+      JsonRendererTest.testSimpleDataTableToJson
+      JsonRendererTest.testSimpleDataTableWithDatesInJson
+   } is a clone set, 2/25
+Relevant clone sets from call chain analysis exists (2).
+
+19
+A large number (12) of assertions are matched 
+Valid clone set of a few number (2) of methods
+Relevant clone sets from call chain analysis does not exist (0).
+
+21
+A few number (8) of assertions are matched 
+   with a few number (2) of try blocks
+   with a few number (2) of catch blocks
+Valid clone set of a few number (5) of methods
+Relevant clone sets from call chain analysis does not exist (0).
+
+23
+
+
+24
+
+
+25
+
+
+34
+A few number (4) of assertions are matched 
+   with a few number (3) of in-place boolean expressions as arguments 
+Valid clone set of a few number (3) of methods
+Relevant clone sets from call chain analysis does not exist (0).
+
+35
+
+
+37
+
+
+41
+
+
+43
+One assertion is matched 
+Partial valid clone set of a few number (5) of methods
+   {
+      QueryBuilderTest.testValidLimit
+      QueryBuilderTest.testValidOffset
+      QueryBuilderTest.testSkipping
+      QueryBuilderTest.testZeroSkipping
+   } is a clone set, 4/5
+Relevant clone sets from call chain analysis does not exist (0).
+
+44
+
+
+45
+
+
+46
+
+

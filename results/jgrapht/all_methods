@@ -1,0 +1,1267 @@
+[1]
+	<org.jgrapht.alg.BellmanFordShortestPathTest: void testConstructor()>
+		<org.jgrapht.alg.BellmanFordShortestPathTest.java:69, 19.23%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BellmanFordShortestPathTest.java:78, 19.23%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BellmanFordShortestPathTest.java:86, 19.23%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BellmanFordShortestPathTest.java:93, 19.23%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BellmanFordShortestPathTest.java:101, 11.54%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BellmanFordShortestPathTest.java:102, 15.38%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(double,double,double)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(double,double,double)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertNull(java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[2]
+	<org.jgrapht.alg.BellmanFordShortestPathTest: void testWithNegativeEdges()>
+		<org.jgrapht.alg.BellmanFordShortestPathTest.java:120, 45.45%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BellmanFordShortestPathTest.java:127, 63.64%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[3]
+	<org.jgrapht.alg.BiconnectivityInspectorTest: void testBiconnected()>
+		<org.jgrapht.alg.BiconnectivityInspectorTest.java:64, 30.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BiconnectivityInspectorTest.java:65, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BiconnectivityInspectorTest.java:66, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[4]
+	<org.jgrapht.alg.BiconnectivityInspectorTest: void testLinearGraph(int)>
+		<org.jgrapht.alg.BiconnectivityInspectorTest.java:88, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BiconnectivityInspectorTest.java:89, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[5]
+	<org.jgrapht.alg.BiconnectivityInspectorTest: void testNotBiconnected()>
+		<org.jgrapht.alg.BiconnectivityInspectorTest.java:100, 55.56%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BiconnectivityInspectorTest.java:101, 55.56%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[6]
+	<org.jgrapht.alg.BlockCutpointGraphTest: void testBiconnected()>
+		<org.jgrapht.alg.BlockCutpointGraphTest.java:67, 41.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BlockCutpointGraphTest.java:71, 41.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[7]
+	<org.jgrapht.alg.BlockCutpointGraphTest: void testGetBlock(org.jgrapht.alg.BlockCutpointGraph)>
+		<org.jgrapht.alg.BlockCutpointGraphTest.java:88, 33.33%> (predicates:{($z4 != 0)=true, ($z0 != 0)=false, ($z2 != 0)=true, ($z1 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BlockCutpointGraphTest.java:94, 19.05%> (predicates:{($z4 != 0)=true, ($z0 != 0)=true, ($z2 != 0)=false, ($z1 != 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:4, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:4, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+
+[8]
+	<org.jgrapht.alg.BlockCutpointGraphTest: void testLinearGraph(int)>
+		<org.jgrapht.alg.BlockCutpointGraphTest.java:121, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BlockCutpointGraphTest.java:125, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[9]
+	<org.jgrapht.alg.BlockCutpointGraphTest: void testNotBiconnected()>
+		<org.jgrapht.alg.BlockCutpointGraphTest.java:135, 41.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BlockCutpointGraphTest.java:139, 41.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[10]
+	<org.jgrapht.alg.BronKerboschCliqueFinderTest: void testFindBiggest()>
+		<org.jgrapht.alg.BronKerboschCliqueFinderTest.java:119, 41.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BronKerboschCliqueFinderTest.java:129, 58.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[11]
+	<org.jgrapht.alg.BronKerboschCliqueFinderTest: void testFindAll()>
+		<org.jgrapht.alg.BronKerboschCliqueFinderTest.java:143, 26.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.BronKerboschCliqueFinderTest.java:175, 21.05%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[12]
+	<org.jgrapht.alg.ChromaticNumberTest: void testChromaticNumber()>
+		<org.jgrapht.alg.ChromaticNumberTest.java:78, 18.75%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ChromaticNumberTest.java:83, 31.25%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ChromaticNumberTest.java:100, 18.75%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[13]
+	<org.jgrapht.alg.ConnectivityInspectorTest: void testIsGraphConnected()>
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:155, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:159, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:162, 37.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:166, 37.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:169, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[14]
+	<org.jgrapht.alg.ConnectivityInspectorTest: void testStronglyConnected1()>
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:211, 16.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:222, 12.00%> (predicates:{($z13 != 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:225, 16.00%> (predicates:{($z13 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:1, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[15]
+	<org.jgrapht.alg.ConnectivityInspectorTest: void testStronglyConnected2()>
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:268, 16.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:279, 12.00%> (predicates:{($z13 != 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:282, 16.00%> (predicates:{($z13 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:1, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[16]
+	<org.jgrapht.alg.ConnectivityInspectorTest: void testStronglyConnected3()>
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:325, 17.39%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:337, 13.04%> (predicates:{($z12 != 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:340, 17.39%> (predicates:{($z12 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:1, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[17]
+	<org.jgrapht.alg.ConnectivityInspectorTest: void testDirectedGraph()>
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:139, 57.14%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:143, 57.14%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[18]
+	<org.jgrapht.alg.ConnectivityInspectorTest: void testStronglyConnected4()>
+		<org.jgrapht.alg.ConnectivityInspectorTest.java:371, 30.77%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[19]
+	<org.jgrapht.alg.CycleDetectorTest: void testVertexEquals()>
+		<org.jgrapht.alg.CycleDetectorTest.java:201, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.CycleDetectorTest.java:207, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.CycleDetectorTest.java:215, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.CycleDetectorTest.java:216, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.CycleDetectorTest.java:229, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.CycleDetectorTest.java:230, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.CycleDetectorTest.java:231, 14.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.CycleDetectorTest.java:233, 14.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertNotSame(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[20]
+	<org.jgrapht.alg.DijkstraShortestPathTest: void testConstructor()>
+		<org.jgrapht.alg.DijkstraShortestPathTest.java:73, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.DijkstraShortestPathTest.java:81, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.DijkstraShortestPathTest.java:89, 20.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.DijkstraShortestPathTest.java:90, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(double,double,double)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertNull(java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(double,double,double)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[21]
+	<org.jgrapht.alg.EdmondsBlossomShrinkingTest: void testOne()>
+		<org.jgrapht.alg.EdmondsBlossomShrinkingTest.java:80, 23.81%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.EdmondsBlossomShrinkingTest.java:81, 19.05%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.EdmondsBlossomShrinkingTest.java:82, 19.05%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[22]
+	<org.jgrapht.alg.EdmondsKarpMaximumFlowTest: void testCornerCases()>
+		<org.jgrapht.alg.EdmondsKarpMaximumFlowTest.java:65, 0.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r12 := @caughtexception])
+		<org.jgrapht.alg.EdmondsKarpMaximumFlowTest.java:72, 0.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r14 := @caughtexception])
+		<org.jgrapht.alg.EdmondsKarpMaximumFlowTest.java:78, 0.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r17 := @caughtexception])
+		<org.jgrapht.alg.EdmondsKarpMaximumFlowTest.java:89, 0.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r25 := @caughtexception])
+		<org.jgrapht.alg.EdmondsKarpMaximumFlowTest.java:97, 0.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r31 := @caughtexception])
+		<org.jgrapht.alg.EdmondsKarpMaximumFlowTest.java:105, 0.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r37 := @caughtexception])
+		<org.jgrapht.alg.EdmondsKarpMaximumFlowTest.java:113, 0.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r43 := @caughtexception])
+		<org.jgrapht.alg.EdmondsKarpMaximumFlowTest.java:121, 0.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r48 := @caughtexception])
+		<org.jgrapht.alg.EdmondsKarpMaximumFlowTest.java:129, 0.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r53 := @caughtexception])
+			<junit.framework.TestCase: void fail()> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+			<junit.framework.TestCase: void fail()> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+			<junit.framework.TestCase: void fail()> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+			<junit.framework.TestCase: void fail()> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+			<junit.framework.TestCase: void fail()> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+			<junit.framework.TestCase: void fail()> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+			<junit.framework.TestCase: void fail()> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+			<junit.framework.TestCase: void fail()> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+			<junit.framework.TestCase: void fail()> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+
+[23]
+	<org.jgrapht.alg.EulerianCircuitTest: void testEulerianCircuit()>
+		<org.jgrapht.alg.EulerianCircuitTest.java:77, 11.76%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.EulerianCircuitTest.java:78, 11.76%> (predicates:{($r8 != null)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.EulerianCircuitTest.java:91, 11.76%> (predicates:{($r8 != null)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.EulerianCircuitTest.java:95, 23.53%> (predicates:{($r8 != null)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertFalse(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[24]
+	<org.jgrapht.alg.FloydWarshallShortestPathsTest: void testCompareWithDijkstra()>
+		<org.jgrapht.alg.FloydWarshallShortestPathsTest.java:96, 3.70%> (predicates:{(i0 < 10)=true, ($z4 != 0)=true, ($z3 != 0)=true, ($b1 < 0)=null, ($z0 == 0)=null, ($z1 != 0)=null, ($z9 != 0)=false, ($z8 != 0)=false, ($b2 < 0)=null, ($z5 == 0)=null, ($z6 != 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.FloydWarshallShortestPathsTest.java:121, 3.70%> (predicates:{(i0 < 10)=true, ($z4 != 0)=false, ($z3 != 0)=false, ($b1 < 0)=null, ($z0 == 0)=null, ($z1 != 0)=null, ($z9 != 0)=true, ($z8 != 0)=true, ($b2 < 0)=null, ($z5 == 0)=null, ($z6 != 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:5, nulls:6, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:5, nulls:6, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+
+[25]
+	<org.jgrapht.alg.FloydWarshallShortestPathsTest: void testDiameter()>
+		<org.jgrapht.alg.FloydWarshallShortestPathsTest.java:161, 57.14%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[26]
+	<org.jgrapht.alg.FloydWarshallShortestPathsTest: void testEmptyDiameter()>
+		<org.jgrapht.alg.FloydWarshallShortestPathsTest.java:170, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[27]
+	<org.jgrapht.alg.FloydWarshallShortestPathsTest: void testEdgeLessDiameter()>
+		<org.jgrapht.alg.FloydWarshallShortestPathsTest.java:182, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[28]
+	<org.jgrapht.alg.HamiltonianCycleTest: void testHamiltonianCycle()>
+		<org.jgrapht.alg.HamiltonianCycleTest.java:79, 11.11%> (predicates:{($i0 != 6)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.HamiltonianCycleTest.java:89, 11.11%> (predicates:{($i0 != 6)=null, ($r14 != null)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:2, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[29]
+	<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest: void testBipartiteMatching1()>
+		<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest.java:83, 6.76%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest.java:86, 6.76%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(float,float,float)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[30]
+	<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest: void testBipartiteMatching2()>
+		<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest.java:112, 5.21%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest.java:115, 5.21%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(float,float,float)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[31]
+	<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest: void testEmptyMatching()>
+		<org.jgrapht.alg.HopcroftKarpBipartiteMatchingTest.java:128, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[32]
+	<org.jgrapht.alg.KSPExampleTest: void testFourReturnedPathsJGraphT()>
+		<org.jgrapht.alg.KSPExampleTest.java:60, 55.56%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[33]
+	<org.jgrapht.alg.KSPExampleTest: void testThreeReturnedPathsJGraphT()>
+		<org.jgrapht.alg.KSPExampleTest.java:72, 60.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[34]
+	<org.jgrapht.alg.KSPExampleTest: void testTwoReturnedPathsJGraphT()>
+		<org.jgrapht.alg.KSPExampleTest.java:84, 60.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[35]
+	<org.jgrapht.alg.KShortestPathCostTest: void testPicture1Graph()>
+		<org.jgrapht.alg.KShortestPathCostTest.java:97, 18.42%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.KShortestPathCostTest.java:106, 10.53%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.KShortestPathCostTest.java:111, 18.42%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.KShortestPathCostTest.java:120, 10.53%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.KShortestPathCostTest.java:131, 5.26%> (predicates:{(i1 < $i3)=true, ($b2 > 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:1, nulls:1, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+
+[36]
+	<org.jgrapht.alg.KShortestPathCostTest: void testKShortestPathCompleteGraph4()>
+		<org.jgrapht.alg.KShortestPathCostTest.java:68, 27.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.KShortestPathCostTest.java:74, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.KShortestPathCostTest.java:76, 38.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.KShortestPathCostTest.java:78, 38.89%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(float,float,float)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(double,double,double)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[37]
+	<org.jgrapht.alg.KShortestPathKValuesTest: void testMaxSizeValueCompleteGraph6()>
+		<org.jgrapht.alg.KShortestPathKValuesTest.java:86, 31.58%> (predicates:{($b8 <= 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.KShortestPathKValuesTest.java:87, 31.58%> (predicates:{($b8 <= 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.KShortestPathKValuesTest.java:88, 31.58%> (predicates:{($b8 <= 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.KShortestPathKValuesTest.java:89, 31.58%> (predicates:{($b8 <= 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.KShortestPathKValuesTest.java:90, 31.58%> (predicates:{($b8 <= 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:1, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:1, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:1, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:1, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:1, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+
+[38]
+	<org.jgrapht.alg.KruskalMinimumSpanningTreeTest: void testMinimumSpanningTree()>
+		<org.jgrapht.alg.KruskalMinimumSpanningTreeTest.java:80, 19.05%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.KruskalMinimumSpanningTreeTest.java:84, 9.52%> (predicates:{($z5 != 0)=true, ($z0 != 0)=null, ($z1 != 0)=null, ($z2 != 0)=null, ($z3 != 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:1, nulls:4, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+
+[39]
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testGraphWithOneEdge()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:172, 9.80%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:173, 11.76%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:180, 9.80%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:181, 9.80%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:184, 9.80%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:188, 11.76%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:189, 9.80%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:190, 7.84%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(float,float,float)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(float,float,float)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(double,double,double)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(float,float,float)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(float,float,float)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(double,double,double)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[40]
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testRealGraph()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:90, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:92, 6.06%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:99, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:100, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:103, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:108, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(float,float,float)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(float,float,float)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(double,double,double)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[41]
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testRealGraph2()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:138, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:140, 6.06%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:147, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:148, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:151, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:156, 5.05%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(float,float,float)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(float,float,float)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(double,double,double)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[42]
+	<org.jgrapht.alg.MinSourceSinkCutTest: void testDisconnectedGraph()>
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:207, 11.36%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:209, 13.64%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:216, 11.36%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:217, 11.36%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:220, 9.09%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.MinSourceSinkCutTest.java:221, 11.36%> (predicates:{(i1 < i0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(float,float,float)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(float,float,float)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(double,double,double)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[43]
+	<org.jgrapht.alg.NeighborIndexTest: void testDirectedNeighborSet()>
+		<org.jgrapht.alg.NeighborIndexTest.java:126, 26.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:127, 26.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:128, 26.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:135, 26.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:136, 26.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:137, 26.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:139, 26.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:140, 26.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:144, 26.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:145, 26.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:149, 26.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[44]
+	<org.jgrapht.alg.NeighborIndexTest: void testNeighborSet()>
+		<org.jgrapht.alg.NeighborIndexTest.java:83, 29.41%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:84, 29.41%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:91, 29.41%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:92, 29.41%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:94, 29.41%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:95, 29.41%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:99, 29.41%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:100, 29.41%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:102, 29.41%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.NeighborIndexTest.java:106, 29.41%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[45]
+	<org.jgrapht.alg.ShortestPathTestCase: void testPathBetween()>
+		<org.jgrapht.alg.ShortestPathTestCase.java:86, 21.74%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ShortestPathTestCase.java:89, 26.09%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ShortestPathTestCase.java:96, 34.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.ShortestPathTestCase.java:104, 47.83%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[46]
+	<org.jgrapht.alg.StoerWagnerMinimumCutTest: void testMinCut14()>
+		<org.jgrapht.alg.StoerWagnerMinimumCutTest.java:97, 16.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(double,double,double)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[47]
+	<org.jgrapht.alg.StoerWagnerMinimumCutTest: void testMinCutDisconnected()>
+		<org.jgrapht.alg.StoerWagnerMinimumCutTest.java:124, 22.73%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(double,double,double)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[48]
+	<org.jgrapht.alg.TransitiveClosureTest: void testLinearGraph()>
+		<org.jgrapht.alg.TransitiveClosureTest.java:75, 13.04%> (predicates:{($i3 != $i6)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.TransitiveClosureTest.java:78, 13.04%> (predicates:{($i3 != $i6)=null, (i1 < b0)=true, (i2 < b0)=true, ($r11 == null)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:2, nulls:2, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+
+[49]
+	<org.jgrapht.alg.TransitiveClosureTest: void testRingGraph()>
+		<org.jgrapht.alg.TransitiveClosureTest.java:107, 13.64%> (predicates:{($i3 != $i5)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.alg.TransitiveClosureTest.java:110, 18.18%> (predicates:{($i3 != $i5)=null, (i1 < b0)=true, (i2 < b0)=true, (i1 == i2)=null, ($r11 != null)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:2, nulls:3, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+
+[50]
+	<org.jgrapht.alg.VertexCoversTest: void testFind2ApproximationCover()>
+		<org.jgrapht.alg.VertexCoversTest.java:74, 60.00%> (predicates:{(i0 < 20)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:1, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+
+[51]
+	<org.jgrapht.alg.VertexCoversTest: void testFindGreedyCover()>
+		<org.jgrapht.alg.VertexCoversTest.java:89, 50.00%> (predicates:{(i0 < 20)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:1, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+
+[52]
+	<org.jgrapht.alg.util.UnionFindTest: void testIdentical(java.lang.String[],java.util.ArrayList,org.jgrapht.alg.util.UnionFind)>
+		<org.jgrapht.alg.util.UnionFindTest.java:131, 41.18%> (predicates:{(i1 < i0)=true, (i3 < i2)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:2, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+
+[53]
+	<org.jgrapht.experimental.GraphReaderTest: void testGraphReader()>
+		<org.jgrapht.experimental.GraphReaderTest.java:88, 27.27%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r22 := @caughtexception])
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+
+[54]
+	<org.jgrapht.experimental.GraphReaderTest: void testGraphReaderWeighted()>
+		<org.jgrapht.experimental.GraphReaderTest.java:116, 23.08%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r24 := @caughtexception])
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+
+[55]
+	<org.jgrapht.experimental.alg.ColoringTest: void testGreedyColoring()>
+		<org.jgrapht.experimental.alg.ColoringTest.java:77, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[56]
+	<org.jgrapht.experimental.alg.ColoringTest: void testBacktrackColoring()>
+		<org.jgrapht.experimental.alg.ColoringTest.java:97, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[57]
+	<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest: void testIterationBehaviors()>
+		<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest.java:241, 15.38%> (predicates:{(i1 < b0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest.java:244, 15.38%> (predicates:{(i1 < b0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r9 := @caughtexception])
+		<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest.java:248, 0.00%> (predicates:{(i1 < b0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r9 := @caughtexception])
+		<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest.java:253, 15.38%> (predicates:{(i1 < b0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest.java:257, 15.38%> (predicates:{(i1 < b0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest.java:270, 0.00%> (predicates:{(i1 < b0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r18 := @caughtexception])
+		<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest.java:277, 0.00%> (predicates:{(i1 < b0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r20 := @caughtexception])
+		<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest.java:284, 0.00%> (predicates:{(i1 < b0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[$r22 := @caughtexception])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:1, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertFalse(boolean)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+			<junit.framework.TestCase: void fail()> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+			<junit.framework.TestCase: void assertFalse(boolean)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertNotNull(java.lang.Object)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void fail()> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+			<junit.framework.TestCase: void fail()> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+			<junit.framework.TestCase: void fail()> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+
+[58]
+	<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest: void testCycleDetectionInRandomGraphBuild()>
+		<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest.java:131, 4.08%> (predicates:{(i0 < 50)=true, ($z4 != 0)=false, ($z7 != 0)=true, (z0 != z1)=null, (z1 == 0)=null, ($z10 != 0)=false, ($z9 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest.java:141, 12.24%> (predicates:{(i0 < 50)=true, ($z4 != 0)=false, ($z7 != 0)=false, (z0 != z1)=null, (z1 == 0)=null, ($z10 != 0)=false, ($z9 != 0)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest.java:152, 6.12%> (predicates:{(i0 < 50)=true, ($z4 != 0)=false, ($z7 != 0)=false, (z0 != z1)=null, (z1 == 0)=true, ($z10 != 0)=true, ($z9 != 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:5, nulls:2, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:5, nulls:2, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:6, nulls:1, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+
+[59]
+	<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest: void testTopoIterationOrderLinearGraph()>
+		<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest.java:181, 29.41%> (predicates:{($z3 != 0)=true, ($z0 == 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.experimental.dag.DirectedAcyclicGraphTest.java:182, 41.18%> (predicates:{($z3 != 0)=true, ($z0 == 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertSame(java.lang.Object,java.lang.Object)> (bools:1, nulls:1, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:1, nulls:1, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+
+[60]
+	<org.jgrapht.experimental.equivalence.EquivalenceGroupCreatorTest: void testOneComparator(org.jgrapht.experimental.equivalence.EquivalenceComparator,int)>
+		<org.jgrapht.experimental.equivalence.EquivalenceGroupCreatorTest.java:152, 23.53%> (predicates:{(i1 < 25)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.experimental.equivalence.EquivalenceGroupCreatorTest.java:157, 11.76%> (predicates:{(i1 < 25)=false, (i2 < $i7)=true, ($i4 < $i6)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:2, nulls:1, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+
+[61]
+	<org.jgrapht.experimental.permutation.CompoundPermutationIterTest: void testGetNext()>
+		<org.jgrapht.experimental.permutation.CompoundPermutationIterTest.java:96, 40.00%> (predicates:{($z0 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.experimental.permutation.CompoundPermutationIterTest.java:127, 40.00%> (predicates:{($z0 != 0)=false, ($z1 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:2, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[62]
+	<org.jgrapht.ext.DOTExporterTest: void testUndirected()>
+		<org.jgrapht.ext.DOTExporterTest.java:110, 41.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[63]
+	<org.jgrapht.ext.GmlExporterTest: void testUndirected()>
+		<org.jgrapht.ext.GmlExporterTest.java:117, 62.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[64]
+	<org.jgrapht.ext.MatrixExporterTest: void testLaplacian()>
+		<org.jgrapht.ext.MatrixExporterTest.java:113, 38.46%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.ext.MatrixExporterTest.java:117, 38.46%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[65]
+	<org.jgrapht.ext.MatrixExporterTest: void testAdjacencyUndirected()>
+		<org.jgrapht.ext.MatrixExporterTest.java:133, 62.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[66]
+	<org.jgrapht.ext.MatrixExporterTest: void testAdjacencyDirected()>
+		<org.jgrapht.ext.MatrixExporterTest.java:149, 62.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[67]
+	<org.jgrapht.generate.GraphGeneratorTest: void testLinearGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:106, 20.83%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:107, 20.83%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:117, 16.67%> (predicates:{($z0 != 0)=true, (r8 != r5)=false, (r8 != r6)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:118, 16.67%> (predicates:{($z0 != 0)=true, (r8 != r5)=false, (r8 != r6)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:124, 16.67%> (predicates:{($z0 != 0)=true, (r8 != r5)=true, (r8 != r6)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:125, 16.67%> (predicates:{($z0 != 0)=true, (r8 != r5)=true, (r8 != r6)=false}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:130, 16.67%> (predicates:{($z0 != 0)=true, (r8 != r5)=true, (r8 != r6)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:131, 16.67%> (predicates:{($z0 != 0)=true, (r8 != r5)=true, (r8 != r6)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:3, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:3, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:3, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:3, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:3, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:3, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+
+[68]
+	<org.jgrapht.generate.GraphGeneratorTest: void testRingGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:146, 16.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:147, 16.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:150, 13.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:159, 13.33%> (predicates:{(i0 < 10)=true, ($z0 == 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:160, 13.33%> (predicates:{(i0 < 10)=true, ($z0 == 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:161, 6.67%> (predicates:{(i0 < 10)=true, ($z0 == 0)=null}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:166, 6.67%> (predicates:{(i0 < 10)=false, ($z0 == 0)=null, (r6 != r5)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:167, 10.00%> (predicates:{(i0 < 10)=false, ($z0 == 0)=null, (r6 != r5)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:1, nulls:1, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:1, nulls:1, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:1, nulls:1, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:1, nulls:2, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:1, nulls:2, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[69]
+	<org.jgrapht.generate.GraphGeneratorTest: void testScaleFreeGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:200, 15.38%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r11 := @caughtexception])
+		<org.jgrapht.generate.GraphGeneratorTest.java:206, 3.85%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r11 := @caughtexception])
+		<org.jgrapht.generate.GraphGeneratorTest.java:213, 3.85%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r14 := @caughtexception])
+		<org.jgrapht.generate.GraphGeneratorTest.java:221, 15.38%> (predicates:{($i0 != 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(java.lang.String,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+			<junit.framework.TestCase: void fail(java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+			<junit.framework.TestCase: void fail(java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+			<junit.framework.TestCase: void assertTrue(java.lang.String,boolean)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[70]
+	<org.jgrapht.generate.GraphGeneratorTest: void testEmptyGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:90, 38.46%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:91, 38.46%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:92, 23.08%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[71]
+	<org.jgrapht.generate.GraphGeneratorTest: void testStarGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:287, 35.71%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:288, 35.71%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:289, 14.29%> (predicates:{($r10 == null)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[72]
+	<org.jgrapht.generate.GraphGeneratorTest: void testCompleteBipartiteGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:243, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:244, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[73]
+	<org.jgrapht.generate.GraphGeneratorTest: void testHyperCubeGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:265, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.generate.GraphGeneratorTest.java:266, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[74]
+	<org.jgrapht.generate.GraphGeneratorTest: void testCompleteGraphGenerator()>
+		<org.jgrapht.generate.GraphGeneratorTest.java:185, 62.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[75]
+	<org.jgrapht.generate.RandomGraphGeneratorTest: void testGenerateDirectedGraph()>
+		<org.jgrapht.generate.RandomGraphGeneratorTest.java:70, 20.00%> (predicates:{(i0 < 3)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[76]
+	<org.jgrapht.generate.RandomGraphGeneratorTest: void testGenerateListenableUndirectedGraph()>
+		<org.jgrapht.generate.RandomGraphGeneratorTest.java:89, 20.00%> (predicates:{(i0 < 3)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[77]
+	<org.jgrapht.generate.RandomGraphGeneratorTest: void testBadVertexFactory()>
+		<org.jgrapht.generate.RandomGraphGeneratorTest.java:106, 12.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r7 := @caughtexception])
+			<junit.framework.TestCase: void fail(java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+
+[78]
+	<org.jgrapht.graph.AsUndirectedGraphTest: void testDegreeOf()>
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:111, 38.46%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:112, 53.85%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:113, 69.23%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:114, 84.62%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[79]
+	<org.jgrapht.graph.AsUndirectedGraphTest: void testGetAllEdges()>
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:123, 30.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:124, 55.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:128, 60.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:129, 80.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[80]
+	<org.jgrapht.graph.AsUndirectedGraphTest: void testGetEdge()>
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:137, 36.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:140, 60.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:144, 84.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[81]
+	<org.jgrapht.graph.AsUndirectedGraphTest: void testAddVertex()>
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:102, 85.71%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:103, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[82]
+	<org.jgrapht.graph.AsUndirectedGraphTest: void testRemoveEdge()>
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:155, 77.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:156, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[83]
+	<org.jgrapht.graph.AsUndirectedGraphTest: void testRemoveVertex()>
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:165, 77.78%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:166, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[84]
+	<org.jgrapht.graph.AsUndirectedGraphTest: void testAddEdge()>
+		<org.jgrapht.graph.AsUndirectedGraphTest.java:89, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[85]
+	<org.jgrapht.graph.AsWeightedGraphTest: void test1()>
+		<org.jgrapht.graph.AsWeightedGraphTest.java:112, 5.88%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsWeightedGraphTest.java:125, 5.88%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsWeightedGraphTest.java:126, 5.88%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsWeightedGraphTest.java:127, 5.88%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsWeightedGraphTest.java:129, 5.88%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsWeightedGraphTest.java:130, 5.88%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsWeightedGraphTest.java:131, 5.88%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsWeightedGraphTest.java:136, 5.88%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsWeightedGraphTest.java:137, 5.88%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsWeightedGraphTest.java:141, 5.88%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.AsWeightedGraphTest.java:142, 5.88%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[86]
+	<org.jgrapht.graph.CloneTest: void testCloneSpecificsBug()>
+		<org.jgrapht.graph.CloneTest.java:87, 35.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.CloneTest.java:88, 23.53%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.CloneTest.java:89, 23.53%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.CloneTest.java:90, 23.53%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.CloneTest.java:91, 29.41%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertNotNull(java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertNotNull(java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[87]
+	<org.jgrapht.graph.DefaultDirectedGraphTest: void testEdgeOrderDeterminism()>
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:93, 18.42%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:94, 18.42%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:95, 18.42%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:98, 5.26%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:99, 5.26%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:100, 5.26%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:101, 44.74%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:102, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:104, 10.53%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertFalse(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[88]
+	<org.jgrapht.graph.DefaultDirectedGraphTest: void testVertexOrderDeterminism()>
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:165, 61.54%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:166, 69.23%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:167, 76.92%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[89]
+	<org.jgrapht.graph.DefaultDirectedGraphTest: void testEdgesOf()>
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:117, 75.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:118, 75.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[90]
+	<org.jgrapht.graph.DefaultDirectedGraphTest: void testInDegreeOf()>
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:141, 83.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:142, 83.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[91]
+	<org.jgrapht.graph.DefaultDirectedGraphTest: void testOutDegreeOf()>
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:153, 83.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:154, 83.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[92]
+	<org.jgrapht.graph.DefaultDirectedGraphTest: void testGetAllEdges()>
+		<org.jgrapht.graph.DefaultDirectedGraphTest.java:130, 100.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[93]
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testAsWeightedGraphs()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:329, 5.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:330, 10.34%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:332, 5.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:333, 10.34%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:335, 3.45%> (predicates:{($z11 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[94]
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testDefaultDirectedGraph()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:105, 6.52%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:106, 4.35%> (predicates:{($z18 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:108, 13.04%> (predicates:{($z18 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[95]
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testSimpleGraph()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:148, 6.52%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:149, 4.35%> (predicates:{($z18 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:151, 13.04%> (predicates:{($z18 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[96]
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testGraphsWithNonIntrusiveEdge()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:187, 3.90%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:188, 2.60%> (predicates:{($z17 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:190, 7.79%> (predicates:{($z17 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[97]
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testPseudograph()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:230, 5.08%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:231, 3.39%> (predicates:{($z19 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:233, 10.17%> (predicates:{($z19 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[98]
+	<org.jgrapht.graph.EqualsAndHashCodeTest: void testGrapshWithCustomEdges()>
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:268, 7.69%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:269, 5.13%> (predicates:{($z16 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.EqualsAndHashCodeTest.java:271, 15.38%> (predicates:{($z16 == 0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:1, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[99]
+	<org.jgrapht.graph.GenericGraphsTest: void testEqualButNotSameVertex()>
+		<org.jgrapht.graph.GenericGraphsTest.java:145, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.GenericGraphsTest.java:146, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[100]
+	<org.jgrapht.graph.GenericGraphsTest: void testAlissaHacker()>
+		<org.jgrapht.graph.GenericGraphsTest.java:134, 83.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[101]
+	<org.jgrapht.graph.ListenableGraphTest: void testGraphListener()>
+		<org.jgrapht.graph.ListenableGraphTest.java:95, 20.83%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:96, 20.83%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:100, 29.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:101, 29.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:110, 41.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:111, 37.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:114, 12.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:115, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:116, 45.83%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:131, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:132, 54.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:133, 58.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:134, 62.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[102]
+	<org.jgrapht.graph.ListenableGraphTest: void testVertexSetListener()>
+		<org.jgrapht.graph.ListenableGraphTest.java:155, 20.83%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:156, 20.83%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:160, 29.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:161, 29.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:170, 33.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:171, 37.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:174, 12.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:175, 41.67%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:176, 45.83%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:191, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:192, 54.17%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:193, 58.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.ListenableGraphTest.java:194, 62.50%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[103]
+	<org.jgrapht.graph.SerializationTest: void testDirectedMultigraph()>
+		<org.jgrapht.graph.SerializationTest.java:93, 37.14%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SerializationTest.java:94, 37.14%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SerializationTest.java:95, 37.14%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SerializationTest.java:96, 37.14%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SerializationTest.java:97, 37.14%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SerializationTest.java:98, 42.86%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SerializationTest.java:99, 42.86%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SerializationTest.java:100, 42.86%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[104]
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testContainsEdgeObjectObject()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:184, 6.90%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:185, 12.07%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:187, 17.24%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:188, 22.41%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:190, 27.59%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:191, 32.76%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:192, 37.93%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:193, 43.10%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:194, 48.28%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:195, 53.45%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:197, 58.62%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:199, 68.97%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:201, 74.14%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:202, 79.31%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertFalse(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertFalse(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertFalse(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertFalse(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertFalse(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[105]
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testRemoveVertex()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:363, 16.22%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:364, 13.51%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:365, 24.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:367, 27.03%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:368, 24.32%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:369, 29.73%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:370, 40.54%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:371, 37.84%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:372, 48.65%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:373, 51.35%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:374, 48.65%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:375, 59.46%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertFalse(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[106]
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testInDegreeOf()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:277, 13.16%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:279, 18.42%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:280, 23.68%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:282, 28.95%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:283, 34.21%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:284, 39.47%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:286, 44.74%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:287, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:288, 55.26%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:289, 60.53%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[$r24 := @caughtexception])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:1)
+
+[107]
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testReversedView()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:407, 12.12%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:408, 12.12%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:409, 12.12%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:410, 12.12%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:411, 12.12%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:412, 12.12%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:413, 12.12%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:414, 12.12%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:415, 12.12%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[108]
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testAddVertex()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:157, 27.27%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:158, 31.82%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:159, 36.36%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:160, 40.91%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:162, 36.36%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:163, 45.45%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:164, 63.64%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertFalse(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[109]
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testRemoveEdgeEdge()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:341, 26.09%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:343, 43.48%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:344, 39.13%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:345, 47.83%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:346, 73.91%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertFalse(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[110]
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testAddEdgeEdge()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:112, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:113, 59.38%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:114, 68.75%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[111]
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testAddEdgeObjectObject()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:145, 42.31%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:146, 53.85%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:147, 65.38%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertNull(java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertNull(java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertNotNull(java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[112]
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testEdgesOf()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:232, 40.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:233, 53.33%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:243, 20.00%> (predicates:{($z0 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[113]
+	<org.jgrapht.graph.SimpleDirectedGraphTest: void testIncomingOutgoingEdgesOf()>
+		<org.jgrapht.graph.SimpleDirectedGraphTest.java:315, 114.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[114]
+	<org.jgrapht.graph.SubgraphTest: void testSubgraph()>
+		<org.jgrapht.graph.SubgraphTest.java:104, 20.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SubgraphTest.java:105, 20.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SubgraphTest.java:109, 14.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SubgraphTest.java:115, 14.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SubgraphTest.java:116, 11.43%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SubgraphTest.java:117, 14.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SubgraphTest.java:126, 14.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SubgraphTest.java:127, 14.29%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(int,int)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[115]
+	<org.jgrapht.graph.SubgraphTest: void testInducedSubgraphListener()>
+		<org.jgrapht.graph.SubgraphTest.java:86, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SubgraphTest.java:87, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SubgraphTest.java:91, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SubgraphTest.java:92, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[116]
+	<org.jgrapht.graph.SubgraphTest: void testSubgraphListener()>
+		<org.jgrapht.graph.SubgraphTest.java:139, 43.75%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SubgraphTest.java:140, 43.75%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SubgraphTest.java:145, 31.25%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.graph.SubgraphTest.java:146, 43.75%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[117]
+	<org.jgrapht.graph.SubgraphTest: void testInducedSubgraphUnderlyingEdgeAddition()>
+		<org.jgrapht.graph.SubgraphTest.java:192, 20.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertFalse(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[118]
+	<org.jgrapht.traverse.AbstractGraphIteratorTest: void testDirectedGraph()>
+		<org.jgrapht.traverse.AbstractGraphIteratorTest.java:86, 47.06%> (predicates:{($z1 != 0)=false, ($z0 == 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.traverse.AbstractGraphIteratorTest.java:88, 52.94%> (predicates:{($z1 != 0)=false, ($z0 == 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:2, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:2, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[119]
+	<org.jgrapht.traverse.ClosestFirstIteratorTest: void testRadius()>
+		<org.jgrapht.traverse.ClosestFirstIteratorTest.java:80, 53.85%> (predicates:{($z1 != 0)=false, ($z0 == 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:2, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[120]
+	<org.jgrapht.traverse.ClosestFirstIteratorTest: void testNoStart()>
+		<org.jgrapht.traverse.ClosestFirstIteratorTest.java:103, 53.85%> (predicates:{($z1 != 0)=false, ($z0 == 0)=true}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:2, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[121]
+	<org.jgrapht.traverse.DepthFirstIteratorTest: void testBug1169182()>
+		<org.jgrapht.traverse.DepthFirstIteratorTest.java:149, 16.00%> (predicates:{($z12 != 0)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[122]
+	<org.jgrapht.traverse.TopologicalOrderIteratorTest: void testRecipe()>
+		<org.jgrapht.traverse.TopologicalOrderIteratorTest.java:109, 9.62%> (predicates:{($z9 != 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.traverse.TopologicalOrderIteratorTest.java:121, 9.62%> (predicates:{($z9 != 0)=false, ($z10 != 0)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:1, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:2, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+
+[123]
+	<org.jgrapht.traverse.TopologicalOrderIteratorTest: void testEmptyGraph()>
+		<org.jgrapht.traverse.TopologicalOrderIteratorTest.java:136, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertFalse(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[124]
+	<org.jgrapht.util.FibonacciHeapTest: void testAddRemoveOne()>
+		<org.jgrapht.util.FibonacciHeapTest.java:57, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.util.FibonacciHeapTest.java:59, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.util.FibonacciHeapTest.java:61, 50.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.util.FibonacciHeapTest.java:62, 25.00%> (predicates:{}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertFalse(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.String,java.lang.String)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:0, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[125]
+	<org.jgrapht.util.FibonacciHeapTest: void testGrowReplaceShrink()>
+		<org.jgrapht.util.FibonacciHeapTest.java:88, 17.65%> (predicates:{(i1 < $i3)=false, (i1 >= $i2)=null, (i1 < s0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.util.FibonacciHeapTest.java:91, 17.65%> (predicates:{(i1 < $i3)=false, (i1 >= $i2)=null, (i1 < s0)=null}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:1, nulls:2, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(double,double,double)> (bools:1, nulls:2, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[126]
+	<org.jgrapht.util.PrefetchIteratorTest: void testIteratorInterface()>
+		<org.jgrapht.util.PrefetchIteratorTest.java:54, 33.33%> (predicates:{(i0 < 100)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.util.PrefetchIteratorTest.java:55, 41.67%> (predicates:{(i0 < 100)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.util.PrefetchIteratorTest.java:57, 33.33%> (predicates:{(i0 < 100)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.util.PrefetchIteratorTest.java:64, 25.00%> (predicates:{(i0 < 100)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:1, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:1, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+
+[127]
+	<org.jgrapht.util.PrefetchIteratorTest: void testEnumInterface()>
+		<org.jgrapht.util.PrefetchIteratorTest.java:71, 33.33%> (predicates:{(i0 < 100)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.util.PrefetchIteratorTest.java:72, 41.67%> (predicates:{(i0 < 100)=true}, inLoop:true, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.util.PrefetchIteratorTest.java:74, 33.33%> (predicates:{(i0 < 100)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+		<org.jgrapht.util.PrefetchIteratorTest.java:81, 25.00%> (predicates:{(i0 < 100)=false}, inLoop:false, inCatch:false, exceptionalSuccs:[])
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:1, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(java.lang.Object,java.lang.Object)> (bools:1, nulls:0, inLoop:true, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertEquals(boolean,boolean)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+			<junit.framework.TestCase: void assertTrue(boolean)> (bools:1, nulls:0, inLoop:false, inCatch:false, exceptionalSuccsSize:0)
+

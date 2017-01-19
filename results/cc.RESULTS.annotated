@@ -1,0 +1,658 @@
+[1] Set (score: 1.0, ccsize: 6): [assertEquals("entrySet should be empty if HashMap is" + "\nTest: " + X + "\nReal: " + confirmed.X(), empty, X.isEmpty());] for x in [entrySet, keySet, values] [similar to next one] 3 similar methods, need some fancy parametrization to handle; abstract superclass
+
+org.apache.commons.collections.map.AbstractTestMap.void verifyEntrySet(): (org.apache.commons.collections.map.AbstractTestMap.java:1629) 
+org.apache.commons.collections.map.AbstractTestMap.void verifyKeySet(): (org.apache.commons.collections.map.AbstractTestMap.java:1648) 
+org.apache.commons.collections.map.AbstractTestMap.void verifyValues(): (org.apache.commons.collections.map.AbstractTestMap.java:1670) 
+
+[2] Set (score: 1.0, ccsize: 6): 
+org.apache.commons.collections.map.AbstractTestMap.void verifyEntrySet(): (org.apache.commons.collections.map.AbstractTestMap.java:1626) 
+org.apache.commons.collections.map.AbstractTestMap.void verifyKeySet(): (org.apache.commons.collections.map.AbstractTestMap.java:1645) 
+org.apache.commons.collections.map.AbstractTestMap.void verifyValues(): (org.apache.commons.collections.map.AbstractTestMap.java:1667) 
+
+[3] Set (score: 1.0, ccsize: 5): [assertTrue("...", new File(name).exists())]; two identical tests with s /full/empty, different methods being called, but same structure
+org.apache.commons.collections.AbstractTestObject.void testCanonicalEmptyCollectionExists(): (org.apache.commons.collections.AbstractTestObject.java:189) 
+org.apache.commons.collections.AbstractTestObject.void testCanonicalFullCollectionExists(): (org.apache.commons.collections.AbstractTestObject.java:205) 
+
+[4] Set (score: 1.0, ccsize: 4): [assertEquals(confirmedFirst, bidi.firstKey())] single assert in method, poster child for theories! same calls on different methods. Also testLastKey is s/first/last, but otherwise identical as well. That only applies to first two asserts though. The third one is different: [assertSame(sm.keySet().iterator().next(), sm.firstKey())] similar args but different assert call, why score = 1.0?
+org.apache.commons.collections.bidimap.AbstractTestOrderedBidiMap.void testFirstKey(): (org.apache.commons.collections.bidimap.AbstractTestOrderedBidiMap.java:61) 
+org.apache.commons.collections.map.AbstractTestOrderedMap.void testFirstKey(): (org.apache.commons.collections.map.AbstractTestOrderedMap.java:84) 
+org.apache.commons.collections.map.AbstractTestSortedMap.void testFirstKey(): (org.apache.commons.collections.map.AbstractTestSortedMap.java:74) 
+
+[5] Set (score: 1.0, ccsize: 4): cross-class clones except for the type
+org.apache.commons.collections.bidimap.AbstractTestOrderedBidiMap.void testNextKey(): (org.apache.commons.collections.bidimap.AbstractTestOrderedBidiMap.java:100) 
+org.apache.commons.collections.map.AbstractTestOrderedMap.void testNextKey(): (org.apache.commons.collections.map.AbstractTestOrderedMap.java:123) 
+
+[6] Set (score: 1.0, ccsize: 3): completely cloned, cross-class, not even type variations except on "this".
+org.apache.commons.collections.TestBoundedFifoBuffer.void verify(): (org.apache.commons.collections.TestBoundedFifoBuffer.java:58) 
+org.apache.commons.collections.TestUnboundedFifoBuffer.void verify(): (org.apache.commons.collections.TestUnboundedFifoBuffer.java:57) 
+org.apache.commons.collections.buffer.TestBoundedFifoBuffer.void verify(): (org.apache.commons.collections.buffer.TestBoundedFifoBuffer.java:60) 
+org.apache.commons.collections.buffer.TestCircularFifoBuffer.void verify(): (org.apache.commons.collections.buffer.TestCircularFifoBuffer.java:71) 
+org.apache.commons.collections.buffer.TestUnboundedFifoBuffer.void verify(): (org.apache.commons.collections.buffer.TestUnboundedFifoBuffer.java:58) 
+
+[7] Set (score: 1.0, ccsize: 3): same payload, different input data, cross-package for 1-3 vs 4-6 but same methods
+org.apache.commons.collections.TestCursorableLinkedList.void testLongSerialization(): (org.apache.commons.collections.TestCursorableLinkedList.java:1010) 
+org.apache.commons.collections.TestCursorableLinkedList.void testSerialization(): (org.apache.commons.collections.TestCursorableLinkedList.java:965) 
+org.apache.commons.collections.TestCursorableLinkedList.void testSerializationWithOpenCursor(): (org.apache.commons.collections.TestCursorableLinkedList.java:988) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testLongSerialization(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:1445) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testSerialization(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:1400) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testSerializationWithOpenCursor(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:1423) 
+
+[8] Set (score: 1.0, ccsize: 3): 1-3 are same test with different interfaces; 4 has different contents and subset of asserts as in 1-3
+org.apache.commons.collections.TestExtendedProperties.void testKeySet1(): (org.apache.commons.collections.TestExtendedProperties.java:352) 
+org.apache.commons.collections.TestExtendedProperties.void testKeySet2(): (org.apache.commons.collections.TestExtendedProperties.java:365) 
+org.apache.commons.collections.TestExtendedProperties.void testKeySet3(): (org.apache.commons.collections.TestExtendedProperties.java:382) 
+org.apache.commons.collections.TestExtendedProperties.void testKeySet4(): (org.apache.commons.collections.TestExtendedProperties.java:396) 
+
+[9] Set (score: 1.0, ccsize: 3): see [4-5]
+org.apache.commons.collections.bidimap.AbstractTestOrderedBidiMap.void testPreviousKey(): (org.apache.commons.collections.bidimap.AbstractTestOrderedBidiMap.java:135) 
+org.apache.commons.collections.map.AbstractTestOrderedMap.void testPreviousKey(): (org.apache.commons.collections.map.AbstractTestOrderedMap.java:158) 
+
+[10] Set (score: 1.0, ccsize: 3): [assertEquals(obj, it.previous())] that assert is identical, 1 of 5 in method. Two earlier asserts are different. Methods are otherwise identical except that some lines are commented out in one version.
+org.apache.commons.collections.iterators.AbstractTestListIterator.void testWalkForwardAndBack(): (org.apache.commons.collections.iterators.AbstractTestListIterator.java:166) 
+org.apache.commons.collections.iterators.TestReverseListIterator.void testWalkForwardAndBack(): (org.apache.commons.collections.iterators.TestReverseListIterator.java:114) 
+
+[11] Set (score: 1.0, ccsize: 3): another poster child for theories; actually testLOM and testLOM2 are 100% identical
+org.apache.commons.collections.map.TestLinkedMap.void testGetByIndex(): (org.apache.commons.collections.map.TestLinkedMap.java:145) 
+org.apache.commons.collections.map.TestListOrderedMap.void testGetByIndex(): (org.apache.commons.collections.map.TestListOrderedMap.java:81) 
+org.apache.commons.collections.map.TestListOrderedMap2.void testGetByIndex(): (org.apache.commons.collections.map.TestListOrderedMap2.java:79) 
+
+[12] Set (score: 1.0, ccsize: 3): see [11]
+org.apache.commons.collections.map.TestLinkedMap.void testGetValueByIndex(): (org.apache.commons.collections.map.TestLinkedMap.java:171) 
+org.apache.commons.collections.map.TestListOrderedMap.void testGetValueByIndex(): (org.apache.commons.collections.map.TestListOrderedMap.java:107) 
+org.apache.commons.collections.map.TestListOrderedMap2.void testGetValueByIndex(): (org.apache.commons.collections.map.TestListOrderedMap2.java:105) 
+
+[13] Set (score: 1.0, ccsize: 3): [assertNull(map.get("one"))] different string in #1; methods #2 and #3 are similar
+org.apache.commons.collections.map.TestMultiValueMap.void testNoMappingReturnsNull(): (org.apache.commons.collections.map.TestMultiValueMap.java:59) 
+org.apache.commons.collections.map.TestMultiValueMap.void testRemoveAllViaIterator(): (org.apache.commons.collections.map.TestMultiValueMap.java:139) 
+org.apache.commons.collections.map.TestMultiValueMap.void testRemoveAllViaKeyedIterator(): (org.apache.commons.collections.map.TestMultiValueMap.java:149) 
+
+[14] Set (score: 1.0, ccsize: 2): The two classes are quite similar---looks like clones. The .list version contains some extra methods. One method uses ListIterator vs Iterator. 
+org.apache.commons.collections.TestCursorableLinkedList.void testAdd(): (org.apache.commons.collections.TestCursorableLinkedList.java:87) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testAdd(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:89) 
+
+[15] Set (score: 1.0, ccsize: 2): see [14]
+org.apache.commons.collections.TestCursorableLinkedList.void testAdd(): (org.apache.commons.collections.TestCursorableLinkedList.java:85) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testAdd(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:87) 
+
+[16] Set (score: 1.0, ccsize: 2): see [14]
+org.apache.commons.collections.TestCursorableLinkedList.void testAdd(): (org.apache.commons.collections.TestCursorableLinkedList.java:71) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testAdd(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:73) 
+
+[17] Set (score: 1.0, ccsize: 2): see [14]
+org.apache.commons.collections.TestCursorableLinkedList.void testAdd(): (org.apache.commons.collections.TestCursorableLinkedList.java:69) 
+org.apache.commons.collections.TestCursorableLinkedList.void testContains(): (org.apache.commons.collections.TestCursorableLinkedList.java:132) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testAdd(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:71) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testContains(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:134) 
+
+[18] Set (score: 1.0, ccsize: 2): see [14]
+org.apache.commons.collections.TestCursorableLinkedList.void testRemoveAll(): (org.apache.commons.collections.TestCursorableLinkedList.java:716) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testRemoveAll(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:1151) 
+
+[19] Set (score: 1.0, ccsize: 2): see [14]
+org.apache.commons.collections.TestCursorableLinkedList.void testRetainAll(): (org.apache.commons.collections.TestCursorableLinkedList.java:795) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testRetainAll(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:1230) 
+
+[20] Set (score: 1.0, ccsize: 2): similar methods in same class, call different methods in class under test
+org.apache.commons.collections.TestDoubleOrderedMap.void testEntrySet(): (org.apache.commons.collections.TestDoubleOrderedMap.java:871) 
+org.apache.commons.collections.TestDoubleOrderedMap.void testEntrySetByValue(): (org.apache.commons.collections.TestDoubleOrderedMap.java:1217) 
+
+[21] Set (score: 1.0, ccsize: 2): [assertEquals(count, m.size())] #1-#6: more similar methods, but call different methods; #7 has similar assert, but different body; #8 is like #7 but not quite the same; #9 is an outlier; #10-#14 are poster child for theories, #15 is almost like #10-#14 but not quite
+org.apache.commons.collections.TestDoubleOrderedMap.void testEntrySet(): (org.apache.commons.collections.TestDoubleOrderedMap.java:832) 
+org.apache.commons.collections.TestDoubleOrderedMap.void testEntrySetByValue(): (org.apache.commons.collections.TestDoubleOrderedMap.java:1177) 
+org.apache.commons.collections.TestDoubleOrderedMap.void testKeySet(): (org.apache.commons.collections.TestDoubleOrderedMap.java:496) 
+org.apache.commons.collections.TestDoubleOrderedMap.void testKeySetByValue(): (org.apache.commons.collections.TestDoubleOrderedMap.java:1255) 
+org.apache.commons.collections.TestDoubleOrderedMap.void testValues(): (org.apache.commons.collections.TestDoubleOrderedMap.java:663) 
+org.apache.commons.collections.TestDoubleOrderedMap.void testValuesByValue(): (org.apache.commons.collections.TestDoubleOrderedMap.java:1423) 
+org.apache.commons.collections.collection.TestCompositeCollection.void testAddAllToCollection(): (org.apache.commons.collections.collection.TestCompositeCollection.java:321) 
+org.apache.commons.collections.collection.TestCompositeCollection.void testSize(): (org.apache.commons.collections.collection.TestCompositeCollection.java:164) 
+org.apache.commons.collections.iterators.TestCollatingIterator.void testRemoveFromSingle(): (org.apache.commons.collections.iterators.TestCollatingIterator.java:225) 
+org.apache.commons.collections.list.TestSetUniqueList.void testListSetByIndex(): (org.apache.commons.collections.list.TestSetUniqueList.java:178) 
+org.apache.commons.collections.map.AbstractTestMap.void testEntrySetRemove3(): (org.apache.commons.collections.map.AbstractTestMap.java:1144) 
+org.apache.commons.collections.map.AbstractTestMap.void testMapPutAll(): (org.apache.commons.collections.map.AbstractTestMap.java:921) 
+org.apache.commons.collections.map.TestCaseInsensitiveMap.void testClone(): (org.apache.commons.collections.map.TestCaseInsensitiveMap.java:108) 
+org.apache.commons.collections.map.TestHashedMap.void testClone(): (org.apache.commons.collections.map.TestHashedMap.java:59) 
+org.apache.commons.collections.map.TestIdentityMap.void testClone(): (org.apache.commons.collections.map.TestIdentityMap.java:133) 
+org.apache.commons.collections.map.TestLRUMap.void testClone(): (org.apache.commons.collections.map.TestLRUMap.java:218) 
+org.apache.commons.collections.map.TestLinkedMap.void testClone(): (org.apache.commons.collections.map.TestLinkedMap.java:265) 
+org.apache.commons.collections.map.TestMultiKeyMap.void testClone(): (org.apache.commons.collections.map.TestMultiKeyMap.java:411) 
+
+[22] Set (score: 1.0, ccsize: 2): [assertNotNull(factory)] This assert is identical; 2 asserts in method; second assert differs; similar structures
+org.apache.commons.collections.TestFactoryUtils.void testConstantFactoryConstant(): (org.apache.commons.collections.TestFactoryUtils.java:120) 
+org.apache.commons.collections.TestFactoryUtils.void testConstantFactoryNull(): (org.apache.commons.collections.TestFactoryUtils.java:112) 
+
+[23] Set (score: 1.0, ccsize: 2): [assertNotNull(factory)] created from a different factory than [22]; methods quite similar but not identical; hard to imagine refactoring these; the assert is the first assert and compares a not-critical thing
+org.apache.commons.collections.TestFactoryUtils.void testPrototypeFactoryPublicCloneMethod(): (org.apache.commons.collections.TestFactoryUtils.java:135) 
+org.apache.commons.collections.TestFactoryUtils.void testPrototypeFactoryPublicCopyConstructor(): (org.apache.commons.collections.TestFactoryUtils.java:153) 
+org.apache.commons.collections.TestFactoryUtils.void testPrototypeFactoryPublicSerialization(): (org.apache.commons.collections.TestFactoryUtils.java:179) 
+org.apache.commons.collections.TestFactoryUtils.void testPrototypeFactoryPublicSerializationError(): (org.apache.commons.collections.TestFactoryUtils.java:197) 
+
+[24] Set (score: 1.0, ccsize: 2): poster child for theories
+org.apache.commons.collections.TestMultiHashMap.void testGetCollection(): (org.apache.commons.collections.TestMultiHashMap.java:256) 
+org.apache.commons.collections.map.TestMultiValueMap.void testGetCollection(): (org.apache.commons.collections.map.TestMultiValueMap.java:172) 
+
+[25] Set (score: 1.0, ccsize: 2): 2 asserts are identical, the other 4 asserts in the method are similar but not identical
+org.apache.commons.collections.TestTransformerUtils.void testNopTransformer(): (org.apache.commons.collections.TestTransformerUtils.java:118) 
+org.apache.commons.collections.TestTransformerUtils.void testNullTransformer(): (org.apache.commons.collections.TestTransformerUtils.java:106) 
+
+[26] Set (score: 1.0, ccsize: 2): see [25]
+org.apache.commons.collections.TestTransformerUtils.void testNopTransformer(): (org.apache.commons.collections.TestTransformerUtils.java:117) 
+org.apache.commons.collections.TestTransformerUtils.void testNullTransformer(): (org.apache.commons.collections.TestTransformerUtils.java:105) 
+
+[27] Set (score: 1.0, ccsize: 2): similar, but call to hasNext() vs hasPrevious(); next() instead of previous().
+org.apache.commons.collections.iterators.TestFilterListIterator.void walkBackward(java.util.ListIterator,java.util.ListIterator): (org.apache.commons.collections.iterators.TestFilterListIterator.java:306) 
+org.apache.commons.collections.iterators.TestFilterListIterator.void walkForward(java.util.ListIterator,java.util.ListIterator): (org.apache.commons.collections.iterators.TestFilterListIterator.java:297) 
+
+[28] Set (score: 1.0, ccsize: 2): 4 asserts, 2 identical, others is next vs previous
+org.apache.commons.collections.iterators.TestFilterListIterator.void walkBackward(java.util.ListIterator,java.util.ListIterator): (org.apache.commons.collections.iterators.TestFilterListIterator.java:305) 
+org.apache.commons.collections.iterators.TestFilterListIterator.void walkForward(java.util.ListIterator,java.util.ListIterator): (org.apache.commons.collections.iterators.TestFilterListIterator.java:296) 
+
+[29] Set (score: 1.0, ccsize: 2): see [21]
+org.apache.commons.collections.map.TestCaseInsensitiveMap.void testClone(): (org.apache.commons.collections.map.TestCaseInsensitiveMap.java:109) 
+org.apache.commons.collections.map.TestHashedMap.void testClone(): (org.apache.commons.collections.map.TestHashedMap.java:60) 
+org.apache.commons.collections.map.TestIdentityMap.void testClone(): (org.apache.commons.collections.map.TestIdentityMap.java:134) 
+org.apache.commons.collections.map.TestLRUMap.void testClone(): (org.apache.commons.collections.map.TestLRUMap.java:219) 
+org.apache.commons.collections.map.TestLinkedMap.void testClone(): (org.apache.commons.collections.map.TestLinkedMap.java:266) 
+org.apache.commons.collections.map.TestMultiKeyMap.void testClone(): (org.apache.commons.collections.map.TestMultiKeyMap.java:412) 
+
+[30] Set (score: 1.0, ccsize: 2): see [11]
+org.apache.commons.collections.map.TestLinkedMap.void testRemoveByIndex(): (org.apache.commons.collections.map.TestLinkedMap.java:217) 
+org.apache.commons.collections.map.TestListOrderedMap.void testRemoveByIndex(): (org.apache.commons.collections.map.TestListOrderedMap.java:180) 
+org.apache.commons.collections.map.TestListOrderedMap2.void testRemoveByIndex(): (org.apache.commons.collections.map.TestListOrderedMap2.java:151) 
+
+[31] Set (score: 0.89, ccsize: 6): see [1] [2]
+org.apache.commons.collections.map.AbstractTestMap.void verifyEntrySet(): (org.apache.commons.collections.map.AbstractTestMap.java:1635) 
+org.apache.commons.collections.map.AbstractTestMap.void verifyKeySet(): (org.apache.commons.collections.map.AbstractTestMap.java:1654) 
+
+[32] Set (score: 0.75, ccsize: 4): identical
+org.apache.commons.collections.TestStaticBucketMap.void test_containsKey_nullMatchesIncorrectly(): (org.apache.commons.collections.TestStaticBucketMap.java:81) 
+org.apache.commons.collections.map.TestStaticBucketMap.void test_containsKey_nullMatchesIncorrectly(): (org.apache.commons.collections.map.TestStaticBucketMap.java:81) 
+
+[33] Set (score: 0.75, ccsize: 4): identical test classes except for main args
+org.apache.commons.collections.TestStaticBucketMap.void test_containsValue_nullMatchesIncorrectly(): (org.apache.commons.collections.TestStaticBucketMap.java:92) 
+org.apache.commons.collections.map.TestStaticBucketMap.void test_containsValue_nullMatchesIncorrectly(): (org.apache.commons.collections.map.TestStaticBucketMap.java:92) 
+
+[34] Set (score: 0.75, ccsize: 4): see [33]
+org.apache.commons.collections.TestStaticBucketMap.void test_get_nullMatchesIncorrectly(): (org.apache.commons.collections.TestStaticBucketMap.java:70) 
+org.apache.commons.collections.map.TestStaticBucketMap.void test_get_nullMatchesIncorrectly(): (org.apache.commons.collections.map.TestStaticBucketMap.java:70) 
+
+[35] Set (score: 0.75, ccsize: 2): buffer version contains an additional test; tests otherwise identical
+org.apache.commons.collections.TestBoundedFifoBuffer.void testBoundedFifoBufferRemove(): (org.apache.commons.collections.TestBoundedFifoBuffer.java:119) 
+org.apache.commons.collections.buffer.TestBoundedFifoBuffer.void testBoundedFifoBufferRemove(): (org.apache.commons.collections.buffer.TestBoundedFifoBuffer.java:121) 
+
+[36] Set (score: 0.75, ccsize: 2): see [35]
+org.apache.commons.collections.TestUnboundedFifoBuffer.void testUnboundedFifoBufferRemove(): (org.apache.commons.collections.TestUnboundedFifoBuffer.java:118) 
+org.apache.commons.collections.buffer.TestUnboundedFifoBuffer.void testUnboundedFifoBufferRemove(): (org.apache.commons.collections.buffer.TestUnboundedFifoBuffer.java:119) 
+
+[37] Set (score: 0.67, ccsize: 3): see [14]
+org.apache.commons.collections.TestCursorableLinkedList.void testListIteratorSet(): (org.apache.commons.collections.TestCursorableLinkedList.java:631) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testListIteratorSet(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:1066) 
+
+[38] Set (score: 0.67, ccsize: 3): see [21]
+org.apache.commons.collections.TestDoubleOrderedMap.void testKeySet(): (org.apache.commons.collections.TestDoubleOrderedMap.java:522) 
+org.apache.commons.collections.TestDoubleOrderedMap.void testKeySetByValue(): (org.apache.commons.collections.TestDoubleOrderedMap.java:1281) 
+org.apache.commons.collections.TestDoubleOrderedMap.void testValues(): (org.apache.commons.collections.TestDoubleOrderedMap.java:679) 
+org.apache.commons.collections.TestDoubleOrderedMap.void testValuesByValue(): (org.apache.commons.collections.TestDoubleOrderedMap.java:1439) 
+
+[39] Set (score: 0.67, ccsize: 3): see [22]
+org.apache.commons.collections.TestFactoryUtils.void testConstantFactoryNull(): (org.apache.commons.collections.TestFactoryUtils.java:114) 
+org.apache.commons.collections.TestFactoryUtils.void testNullFactory(): (org.apache.commons.collections.TestFactoryUtils.java:104) 
+
+[40] Set (score: 0.67, ccsize: 3): one has one fewer map.put()/fail case, other three identical---they just vary based on what "map" is.
+org.apache.commons.collections.TestReferenceMap.void testNullHandling(): (org.apache.commons.collections.TestReferenceMap.java:75) 
+org.apache.commons.collections.map.TestMultiKeyMap.void testNullHandling(): (org.apache.commons.collections.map.TestMultiKeyMap.java:123) 
+org.apache.commons.collections.map.TestReferenceIdentityMap.void testNullHandling(): (org.apache.commons.collections.map.TestReferenceIdentityMap.java:140) 
+org.apache.commons.collections.map.TestReferenceMap.void testNullHandling(): (org.apache.commons.collections.map.TestReferenceMap.java:75) 
+
+[41] Set (score: 0.67, ccsize: 3): see [40]
+org.apache.commons.collections.TestReferenceMap.void testNullHandling(): (org.apache.commons.collections.TestReferenceMap.java:73) 
+org.apache.commons.collections.map.TestMultiKeyMap.void testNullHandling(): (org.apache.commons.collections.map.TestMultiKeyMap.java:121) 
+org.apache.commons.collections.map.TestReferenceIdentityMap.void testNullHandling(): (org.apache.commons.collections.map.TestReferenceIdentityMap.java:138) 
+org.apache.commons.collections.map.TestReferenceMap.void testNullHandling(): (org.apache.commons.collections.map.TestReferenceMap.java:73) 
+
+[42] Set (score: 0.67, ccsize: 3): see [40]
+org.apache.commons.collections.TestReferenceMap.void testNullHandling(): (org.apache.commons.collections.TestReferenceMap.java:74) 
+org.apache.commons.collections.map.TestMultiKeyMap.void testNullHandling(): (org.apache.commons.collections.map.TestMultiKeyMap.java:122) 
+org.apache.commons.collections.map.TestReferenceIdentityMap.void testNullHandling(): (org.apache.commons.collections.map.TestReferenceIdentityMap.java:139) 
+org.apache.commons.collections.map.TestReferenceMap.void testNullHandling(): (org.apache.commons.collections.map.TestReferenceMap.java:74) 
+
+[43] Set (score: 0.67, ccsize: 3) s /test.field/test.m_field; otherwise identical; also for all other methods in these classes; extra testCollections220 method in the .buffer version
+org.apache.commons.collections.TestUnboundedFifoBuffer.void testInternalStateIteratorRemoveWithTailAtEnd1(): (org.apache.commons.collections.TestUnboundedFifoBuffer.java:300) 
+org.apache.commons.collections.buffer.TestUnboundedFifoBuffer.void testInternalStateIteratorRemoveWithTailAtEnd1(): (org.apache.commons.collections.buffer.TestUnboundedFifoBuffer.java:301) 
+
+[44] Set (score: 0.67, ccsize: 3): see [43]
+org.apache.commons.collections.TestUnboundedFifoBuffer.void testInternalStateIteratorRemoveWithWrap1(): (org.apache.commons.collections.TestUnboundedFifoBuffer.java:362) 
+org.apache.commons.collections.buffer.TestUnboundedFifoBuffer.void testInternalStateIteratorRemoveWithWrap1(): (org.apache.commons.collections.buffer.TestUnboundedFifoBuffer.java:363) 
+
+[45] Set (score: 0.67, ccsize: 3): analysis is correct but result is spurious; different test structures
+org.apache.commons.collections.bag.AbstractTestBag.void testFullBagCompatibility(): (org.apache.commons.collections.bag.AbstractTestBag.java:504) 
+org.apache.commons.collections.bag.AbstractTestBag.void testFullBagSerialization(): (org.apache.commons.collections.bag.AbstractTestBag.java:473) 
+
+[46] Set (score: 0.67, ccsize: 3): identical (why is score 0.67?)
+org.apache.commons.collections.bag.TestPredicatedBag.void testlegalAddRemove(): (org.apache.commons.collections.bag.TestPredicatedBag.java:89) 
+org.apache.commons.collections.bag.TestTypedBag.void testlegalAddRemove(): (org.apache.commons.collections.bag.TestTypedBag.java:81) 
+
+[47] Set (score: 0.67, ccsize: 3): see [46]
+org.apache.commons.collections.bag.TestPredicatedBag.void testlegalAddRemove(): (org.apache.commons.collections.bag.TestPredicatedBag.java:85) 
+org.apache.commons.collections.bag.TestTypedBag.void testlegalAddRemove(): (org.apache.commons.collections.bag.TestTypedBag.java:77) 
+
+[48] Set (score: 0.67, ccsize: 3): see [46]
+org.apache.commons.collections.bag.TestPredicatedBag.void testlegalAddRemove(): (org.apache.commons.collections.bag.TestPredicatedBag.java:88) 
+org.apache.commons.collections.bag.TestTypedBag.void testlegalAddRemove(): (org.apache.commons.collections.bag.TestTypedBag.java:80) 
+
+[49] Set (score: 0.67, ccsize: 3): sorted is a subset of the other one, different classes created also
+org.apache.commons.collections.bag.TestTransformedBag.void testTransformedBag_decorateTransform(): (org.apache.commons.collections.bag.TestTransformedBag.java:75) 
+org.apache.commons.collections.bag.TestTransformedSortedBag.void testTransformedBag_decorateTransform(): (org.apache.commons.collections.bag.TestTransformedSortedBag.java:74) 
+
+[50] Set (score: 0.67, ccsize: 3): similar but full has more code; also s /empty/full
+org.apache.commons.collections.iterators.AbstractTestIterator.void testEmptyIterator(): (org.apache.commons.collections.iterators.AbstractTestIterator.java:132) 
+org.apache.commons.collections.iterators.AbstractTestIterator.void testFullIterator(): (org.apache.commons.collections.iterators.AbstractTestIterator.java:168) 
+
+[51] Set (score: 0.67, ccsize: 3): similar except reversed constants and additional conditional
+org.apache.commons.collections.iterators.AbstractTestListIterator.void testEmptyListIteratorIsIndeedEmpty(): (org.apache.commons.collections.iterators.AbstractTestListIterator.java:124) 
+org.apache.commons.collections.iterators.TestReverseListIterator.void testEmptyListIteratorIsIndeedEmpty(): (org.apache.commons.collections.iterators.TestReverseListIterator.java:71) 
+
+[52] Set (score: 0.67, ccsize: 3): see [51]
+org.apache.commons.collections.iterators.AbstractTestListIterator.void testEmptyListIteratorIsIndeedEmpty(): (org.apache.commons.collections.iterators.AbstractTestListIterator.java:123) 
+org.apache.commons.collections.iterators.TestReverseListIterator.void testEmptyListIteratorIsIndeedEmpty(): (org.apache.commons.collections.iterators.TestReverseListIterator.java:70) 
+
+[53] Set (score: 0.67, ccsize: 3): see [51]
+org.apache.commons.collections.iterators.AbstractTestListIterator.void testEmptyListIteratorIsIndeedEmpty(): (org.apache.commons.collections.iterators.AbstractTestListIterator.java:121) 
+org.apache.commons.collections.iterators.TestReverseListIterator.void testEmptyListIteratorIsIndeedEmpty(): (org.apache.commons.collections.iterators.TestReverseListIterator.java:68) 
+
+[54] Set (score: 0.67, ccsize: 3): see [51]
+org.apache.commons.collections.iterators.AbstractTestListIterator.void testEmptyListIteratorIsIndeedEmpty(): (org.apache.commons.collections.iterators.AbstractTestListIterator.java:122) 
+org.apache.commons.collections.iterators.TestReverseListIterator.void testEmptyListIteratorIsIndeedEmpty(): (org.apache.commons.collections.iterators.TestReverseListIterator.java:69) 
+
+[55] Set (score: 0.67, ccsize: 3): see [51]
+org.apache.commons.collections.iterators.AbstractTestListIterator.void testWalkForwardAndBack(): (org.apache.commons.collections.iterators.AbstractTestListIterator.java:163) 
+org.apache.commons.collections.iterators.TestReverseListIterator.void testWalkForwardAndBack(): (org.apache.commons.collections.iterators.TestReverseListIterator.java:111) 
+
+[56] Set (score: 0.67, ccsize: 3): identical
+org.apache.commons.collections.iterators.TestArrayListIterator.void testListIterator(): (org.apache.commons.collections.iterators.TestArrayListIterator.java:86) 
+org.apache.commons.collections.iterators.TestObjectArrayListIterator.void testListIterator(): (org.apache.commons.collections.iterators.TestObjectArrayListIterator.java:83) 
+
+[57] Set (score: 0.67, ccsize: 3): similar asserts and methods, but hard to refactor since they still differ quite a bit
+org.apache.commons.collections.map.TestListOrderedMap.void testValueList_getByIndex(): (org.apache.commons.collections.map.TestListOrderedMap.java:334) 
+org.apache.commons.collections.map.TestListOrderedMap.void testValueList_removeByIndex(): (org.apache.commons.collections.map.TestListOrderedMap.java:355) 
+org.apache.commons.collections.map.TestListOrderedMap.void testValueList_setByIndex(): (org.apache.commons.collections.map.TestListOrderedMap.java:344) 
+
+[58] Set (score: 0.67, ccsize: 3): identical
+org.apache.commons.collections.set.TestListOrderedSet.void testOrdering(): (org.apache.commons.collections.set.TestListOrderedSet.java:75) 
+org.apache.commons.collections.set.TestListOrderedSet2.void testOrdering(): (org.apache.commons.collections.set.TestListOrderedSet2.java:74) 
+org.apache.commons.collections.set.TestMapBackedSet2.void testOrdering(): (org.apache.commons.collections.set.TestMapBackedSet2.java:72) 
+
+[59] Set (score: 0.67, ccsize: 3): as with [49], the sorted version is a subset of the general version
+org.apache.commons.collections.set.TestTransformedSet.void testTransformedSet_decorateTransform(): (org.apache.commons.collections.set.TestTransformedSet.java:96) 
+org.apache.commons.collections.set.TestTransformedSortedSet.void testTransformedSet_decorateTransform(): (org.apache.commons.collections.set.TestTransformedSortedSet.java:86) 
+
+[60] Set (score: 0.67, ccsize: 2): identical structure, different data (one of the comparators reverses items)
+org.apache.commons.collections.TestBinaryHeap.void testBasicComparatorOps(): (org.apache.commons.collections.TestBinaryHeap.java:220) 
+org.apache.commons.collections.TestBinaryHeap.void testBasicOps(): (org.apache.commons.collections.TestBinaryHeap.java:147) 
+
+[61] Set (score: 0.67, ccsize: 2): see [60]
+org.apache.commons.collections.TestBinaryHeap.void testBasicComparatorOps(): (org.apache.commons.collections.TestBinaryHeap.java:225) 
+org.apache.commons.collections.TestBinaryHeap.void testBasicOps(): (org.apache.commons.collections.TestBinaryHeap.java:152) 
+
+[62] Set (score: 0.67, ccsize: 2): see [14]
+org.apache.commons.collections.TestCursorableLinkedList.void testCursorSet(): (org.apache.commons.collections.TestCursorableLinkedList.java:234) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testCursorSet(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:236) 
+
+[63] Set (score: 0.67, ccsize: 2): see [14]
+org.apache.commons.collections.TestCursorableLinkedList.void testListIteratorSet(): (org.apache.commons.collections.TestCursorableLinkedList.java:641) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testListIteratorSet(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:1076) 
+
+[64] Set (score: 0.67, ccsize: 2): see [14]
+org.apache.commons.collections.TestCursorableLinkedList.void testRemoveAll(): (org.apache.commons.collections.TestCursorableLinkedList.java:717) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testRemoveAll(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:1152) 
+
+[65] Set (score: 0.67, ccsize: 2): see [14]
+org.apache.commons.collections.TestCursorableLinkedList.void testRetainAll(): (org.apache.commons.collections.TestCursorableLinkedList.java:796) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testRetainAll(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:1231) 
+
+[66] Set (score: 0.67, ccsize: 2): see [14]
+org.apache.commons.collections.TestCursorableLinkedList.void testSubList(): (org.apache.commons.collections.TestCursorableLinkedList.java:826) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testSubList(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:1261) 
+
+[67] Set (score: 0.67, ccsize: 2): see [14]
+org.apache.commons.collections.TestCursorableLinkedList.void testToArray(): (org.apache.commons.collections.TestCursorableLinkedList.java:928) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testToArray(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:1363) 
+
+[68] Set (score: 0.67, ccsize: 2): rather different but the assert is similar-ish
+org.apache.commons.collections.TestDoubleOrderedMap.void testHashCode(): (org.apache.commons.collections.TestDoubleOrderedMap.java:955) 
+org.apache.commons.collections.keyvalue.TestMultiKey.void testHashCode(): (org.apache.commons.collections.keyvalue.TestMultiKey.java:194) 
+
+[69] Set (score: 0.67, ccsize: 2): spurious, asserts are quite different
+org.apache.commons.collections.TestDoubleOrderedMap.void testPutAll(): (org.apache.commons.collections.TestDoubleOrderedMap.java:433) 
+org.apache.commons.collections.map.TestCaseInsensitiveMap.void testPutAll(): (org.apache.commons.collections.map.TestCaseInsensitiveMap.java:101) 
+
+[70] Set (score: 0.67, ccsize: 2): could imagine theories being useful here, s /SetUtils/ListUtils, different object creation
+org.apache.commons.collections.TestListUtils.void testEquals(): (org.apache.commons.collections.TestListUtils.java:117) 
+org.apache.commons.collections.TestSetUtils.void testEquals(): (org.apache.commons.collections.TestSetUtils.java:79) 
+
+[71] Set (score: 0.67, ccsize: 2): poster child for theories, just different objects being created
+org.apache.commons.collections.TestMultiHashMap.void testPutAll_Map1(): (org.apache.commons.collections.TestMultiHashMap.java:330) 
+org.apache.commons.collections.map.TestMultiValueMap.void testPutAll_Map1(): (org.apache.commons.collections.map.TestMultiValueMap.java:282) 
+
+[72] Set (score: 0.67, ccsize: 2): see [71]
+org.apache.commons.collections.TestMultiHashMap.void testPutAll_Map1(): (org.apache.commons.collections.TestMultiHashMap.java:329) 
+org.apache.commons.collections.map.TestMultiValueMap.void testPutAll_Map1(): (org.apache.commons.collections.map.TestMultiValueMap.java:281) 
+
+[73] Set (score: 0.67, ccsize: 2): see [71]
+org.apache.commons.collections.TestMultiHashMap.void testPutAll_Map2(): (org.apache.commons.collections.TestMultiHashMap.java:349) 
+org.apache.commons.collections.map.TestMultiValueMap.void testPutAll_Map2(): (org.apache.commons.collections.map.TestMultiValueMap.java:301) 
+
+[74] Set (score: 0.67, ccsize: 2): see [71]
+org.apache.commons.collections.TestMultiHashMap.void testPutAll_Map2(): (org.apache.commons.collections.TestMultiHashMap.java:350) 
+org.apache.commons.collections.map.TestMultiValueMap.void testPutAll_Map2(): (org.apache.commons.collections.map.TestMultiValueMap.java:302) 
+
+[75] Set (score: 0.67, ccsize: 2): see [40]
+org.apache.commons.collections.TestReferenceMap.void testNullHandling(): (org.apache.commons.collections.TestReferenceMap.java:69) 
+org.apache.commons.collections.map.TestMultiKeyMap.void testNullHandling(): (org.apache.commons.collections.map.TestMultiKeyMap.java:117) 
+org.apache.commons.collections.map.TestReferenceIdentityMap.void testNullHandling(): (org.apache.commons.collections.map.TestReferenceIdentityMap.java:134) 
+org.apache.commons.collections.map.TestReferenceMap.void testNullHandling(): (org.apache.commons.collections.map.TestReferenceMap.java:69) 
+
+[76] Set (score: 0.67, ccsize: 2): see [40]
+org.apache.commons.collections.TestReferenceMap.void testNullHandling(): (org.apache.commons.collections.TestReferenceMap.java:72) 
+org.apache.commons.collections.map.TestMultiKeyMap.void testNullHandling(): (org.apache.commons.collections.map.TestMultiKeyMap.java:120) 
+org.apache.commons.collections.map.TestReferenceIdentityMap.void testNullHandling(): (org.apache.commons.collections.map.TestReferenceIdentityMap.java:137) 
+org.apache.commons.collections.map.TestReferenceMap.void testNullHandling(): (org.apache.commons.collections.map.TestReferenceMap.java:72) 
+
+[77] Set (score: 0.67, ccsize: 2): see [40]
+org.apache.commons.collections.TestReferenceMap.void testNullHandling(): (org.apache.commons.collections.TestReferenceMap.java:70) 
+org.apache.commons.collections.map.TestMultiKeyMap.void testNullHandling(): (org.apache.commons.collections.map.TestMultiKeyMap.java:118) 
+org.apache.commons.collections.map.TestReferenceIdentityMap.void testNullHandling(): (org.apache.commons.collections.map.TestReferenceIdentityMap.java:135) 
+org.apache.commons.collections.map.TestReferenceMap.void testNullHandling(): (org.apache.commons.collections.map.TestReferenceMap.java:70) 
+
+[78] Set (score: 0.67, ccsize: 2): see [40]
+org.apache.commons.collections.TestReferenceMap.void testNullHandling(): (org.apache.commons.collections.TestReferenceMap.java:71) 
+org.apache.commons.collections.map.TestMultiKeyMap.void testNullHandling(): (org.apache.commons.collections.map.TestMultiKeyMap.java:119) 
+org.apache.commons.collections.map.TestReferenceIdentityMap.void testNullHandling(): (org.apache.commons.collections.map.TestReferenceIdentityMap.java:136) 
+org.apache.commons.collections.map.TestReferenceMap.void testNullHandling(): (org.apache.commons.collections.map.TestReferenceMap.java:71) 
+
+[79] Set (score: 0.67, ccsize: 2): see [32]
+org.apache.commons.collections.TestStaticBucketMap.void test_containsKey_nullMatchesIncorrectly(): (org.apache.commons.collections.TestStaticBucketMap.java:77) 
+org.apache.commons.collections.map.TestStaticBucketMap.void test_containsKey_nullMatchesIncorrectly(): (org.apache.commons.collections.map.TestStaticBucketMap.java:77) 
+
+[80] Set (score: 0.67, ccsize: 2): see [32]
+org.apache.commons.collections.TestStaticBucketMap.void test_containsValue_nullMatchesIncorrectly(): (org.apache.commons.collections.TestStaticBucketMap.java:88) 
+org.apache.commons.collections.map.TestStaticBucketMap.void test_containsValue_nullMatchesIncorrectly(): (org.apache.commons.collections.map.TestStaticBucketMap.java:88) 
+
+[81] Set (score: 0.67, ccsize: 2): see [32]
+org.apache.commons.collections.TestStaticBucketMap.void test_get_nullMatchesIncorrectly(): (org.apache.commons.collections.TestStaticBucketMap.java:66) 
+org.apache.commons.collections.map.TestStaticBucketMap.void test_get_nullMatchesIncorrectly(): (org.apache.commons.collections.map.TestStaticBucketMap.java:66) 
+
+[82] Set (score: 0.67, ccsize: 2): see [4] [5] [9]
+org.apache.commons.collections.bidimap.AbstractTestOrderedBidiMap.void testLastKey(): (org.apache.commons.collections.bidimap.AbstractTestOrderedBidiMap.java:78) 
+org.apache.commons.collections.map.AbstractTestOrderedMap.void testLastKey(): (org.apache.commons.collections.map.AbstractTestOrderedMap.java:101) 
+org.apache.commons.collections.map.AbstractTestSortedMap.void testLastKey(): (org.apache.commons.collections.map.AbstractTestSortedMap.java:83) 
+
+[83] Set (score: 0.67, ccsize: 2): note: quite similar to TestBinaryHeap [60] but uses different API; similar comments
+org.apache.commons.collections.buffer.TestPriorityBuffer.void testBasicComparatorOps(): (org.apache.commons.collections.buffer.TestPriorityBuffer.java:224) 
+org.apache.commons.collections.buffer.TestPriorityBuffer.void testBasicOps(): (org.apache.commons.collections.buffer.TestPriorityBuffer.java:159) 
+
+[84] Set (score: 0.67, ccsize: 2): see [83] [60]
+org.apache.commons.collections.buffer.TestPriorityBuffer.void testBasicComparatorOps(): (org.apache.commons.collections.buffer.TestPriorityBuffer.java:229) 
+org.apache.commons.collections.buffer.TestPriorityBuffer.void testBasicOps(): (org.apache.commons.collections.buffer.TestPriorityBuffer.java:164) 
+
+[85] Set (score: 0.67, ccsize: 2): as before [49] [59], the ordered is mostly a subset of the general
+org.apache.commons.collections.iterators.AbstractTestMapIterator.void testFullMapIterator(): (org.apache.commons.collections.iterators.AbstractTestMapIterator.java:195) 
+org.apache.commons.collections.iterators.AbstractTestOrderedMapIterator.void testFullMapIterator(): (org.apache.commons.collections.iterators.AbstractTestOrderedMapIterator.java:104) 
+
+[86] Set (score: 0.67, ccsize: 2): identical
+org.apache.commons.collections.iterators.TestArrayListIterator.void testListIteratorSet(): (org.apache.commons.collections.iterators.TestArrayListIterator.java:110) 
+org.apache.commons.collections.iterators.TestObjectArrayListIterator.void testListIteratorSet(): (org.apache.commons.collections.iterators.TestObjectArrayListIterator.java:107) 
+
+[87] Set (score: 0.67, ccsize: 2): see [11]
+org.apache.commons.collections.map.TestLinkedMap.void testRemoveByIndex(): (org.apache.commons.collections.map.TestLinkedMap.java:219) 
+org.apache.commons.collections.map.TestListOrderedMap.void testRemoveByIndex(): (org.apache.commons.collections.map.TestListOrderedMap.java:182) 
+org.apache.commons.collections.map.TestListOrderedMap2.void testRemoveByIndex(): (org.apache.commons.collections.map.TestListOrderedMap2.java:153) 
+
+[88] Set (score: 0.67, ccsize: 2): 
+org.apache.commons.collections.map.TestUnmodifiableMap.void testDecorateFactory(): (org.apache.commons.collections.map.TestUnmodifiableMap.java:83) 
+org.apache.commons.collections.map.TestUnmodifiableOrderedMap.void testDecorateFactory(): (org.apache.commons.collections.map.TestUnmodifiableOrderedMap.java:84) 
+org.apache.commons.collections.map.TestUnmodifiableSortedMap.void testDecorateFactory(): (org.apache.commons.collections.map.TestUnmodifiableSortedMap.java:84) 
+
+[89] Set (score: 0.56, ccsize: 4): 
+org.apache.commons.collections.bidimap.TestDualTreeBidiMap2.void testSortOrder(): (org.apache.commons.collections.bidimap.TestDualTreeBidiMap2.java:112) 
+org.apache.commons.collections.list.AbstractTestList.void verify(): (org.apache.commons.collections.list.AbstractTestList.java:103) 
+
+[90] Set (score: 0.5, ccsize: 4): 
+org.apache.commons.collections.list.AbstractTestList.void testListListIteratorNextRemoveNext(): (org.apache.commons.collections.list.AbstractTestList.java:878) 
+org.apache.commons.collections.list.AbstractTestList.void testListListIteratorNextRemovePrevious(): (org.apache.commons.collections.list.AbstractTestList.java:902) 
+org.apache.commons.collections.list.AbstractTestList.void testListListIteratorPreviousRemoveNext(): (org.apache.commons.collections.list.AbstractTestList.java:825) 
+org.apache.commons.collections.list.AbstractTestList.void testListListIteratorPreviousRemovePrevious(): (org.apache.commons.collections.list.AbstractTestList.java:854) 
+
+[91] Set (score: 0.5, ccsize: 4): 
+org.apache.commons.collections.list.AbstractTestList.void testListListIteratorNextRemoveNext(): (org.apache.commons.collections.list.AbstractTestList.java:879) 
+org.apache.commons.collections.list.AbstractTestList.void testListListIteratorNextRemovePrevious(): (org.apache.commons.collections.list.AbstractTestList.java:903) 
+org.apache.commons.collections.list.AbstractTestList.void testListListIteratorPreviousRemoveNext(): (org.apache.commons.collections.list.AbstractTestList.java:826) 
+org.apache.commons.collections.list.AbstractTestList.void testListListIteratorPreviousRemovePrevious(): (org.apache.commons.collections.list.AbstractTestList.java:853) 
+
+[92] Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.AbstractTestObject.void testEqualsNull(): (org.apache.commons.collections.AbstractTestObject.java:115) 
+org.apache.commons.collections.AbstractTestObject.void testObjectHashCodeEqualsContract(): (org.apache.commons.collections.AbstractTestObject.java:135) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.TestFactoryUtils.void testPrototypeFactoryPublicCloneMethod(): (org.apache.commons.collections.TestFactoryUtils.java:138) 
+org.apache.commons.collections.TestFactoryUtils.void testPrototypeFactoryPublicCopyConstructor(): (org.apache.commons.collections.TestFactoryUtils.java:156) 
+org.apache.commons.collections.TestFactoryUtils.void testPrototypeFactoryPublicSerialization(): (org.apache.commons.collections.TestFactoryUtils.java:182) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.TestFastArrayList.void testConcurrentModification_alwaysFast(): (org.apache.commons.collections.TestFastArrayList.java:72) 
+org.apache.commons.collections.TestFastArrayList.void testConcurrentModification_alwaysFastPrevious(): (org.apache.commons.collections.TestFastArrayList.java:143) 
+org.apache.commons.collections.TestFastArrayList.void testConcurrentModification_delayedFast(): (org.apache.commons.collections.TestFastArrayList.java:107) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.TestFastArrayList.void testConcurrentModification_alwaysFast(): (org.apache.commons.collections.TestFastArrayList.java:69) 
+org.apache.commons.collections.TestFastArrayList.void testConcurrentModification_alwaysFastPrevious(): (org.apache.commons.collections.TestFastArrayList.java:140) 
+org.apache.commons.collections.TestFastArrayList.void testConcurrentModification_delayedFast(): (org.apache.commons.collections.TestFastArrayList.java:104) 
+org.apache.commons.collections.list.TestTreeList.void testBug35258(): (org.apache.commons.collections.list.TestTreeList.java:242) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.TestLRUMap.void testMultiplePuts(): (org.apache.commons.collections.TestLRUMap.java:84) 
+org.apache.commons.collections.TestLRUMap.void testRemoveLRU(): (org.apache.commons.collections.TestLRUMap.java:73) 
+
+Set (score: 0.5, ccsize: 3): see [46]
+org.apache.commons.collections.bag.TestPredicatedBag.void testlegalAddRemove(): (org.apache.commons.collections.bag.TestPredicatedBag.java:88) 
+org.apache.commons.collections.bag.TestTypedBag.void testlegalAddRemove(): (org.apache.commons.collections.bag.TestTypedBag.java:77) 
+
+Set (score: 0.5, ccsize: 3): see [46]
+org.apache.commons.collections.bag.TestPredicatedBag.void testlegalAddRemove(): (org.apache.commons.collections.bag.TestPredicatedBag.java:85) 
+org.apache.commons.collections.bag.TestTypedBag.void testlegalAddRemove(): (org.apache.commons.collections.bag.TestTypedBag.java:80) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.buffer.TestBlockingBuffer.void testGetWithAdd(): (org.apache.commons.collections.buffer.TestBlockingBuffer.java:73) 
+org.apache.commons.collections.buffer.TestBlockingBuffer.void testGetWithAddAll(): (org.apache.commons.collections.buffer.TestBlockingBuffer.java:96) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.buffer.TestBlockingBuffer.void testGetWithAddAllTimeout(): (org.apache.commons.collections.buffer.TestBlockingBuffer.java:105) 
+org.apache.commons.collections.buffer.TestBlockingBuffer.void testGetWithAddTimeout(): (org.apache.commons.collections.buffer.TestBlockingBuffer.java:82) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.buffer.TestBlockingBuffer.void testRemoveWithAdd(): (org.apache.commons.collections.buffer.TestBlockingBuffer.java:119) 
+org.apache.commons.collections.buffer.TestBlockingBuffer.void testRemoveWithAddAll(): (org.apache.commons.collections.buffer.TestBlockingBuffer.java:143) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.buffer.TestBoundedBuffer.void testAddAllToFullBufferRemoveViaIterator(): (org.apache.commons.collections.buffer.TestBoundedBuffer.java:125) 
+org.apache.commons.collections.buffer.TestBoundedBuffer.void testAddAllToFullBufferWithTimeout(): (org.apache.commons.collections.buffer.TestBoundedBuffer.java:152) 
+org.apache.commons.collections.buffer.TestBoundedBuffer.void testAddToFullBufferRemoveViaIterator(): (org.apache.commons.collections.buffer.TestBoundedBuffer.java:114) 
+org.apache.commons.collections.buffer.TestBoundedBuffer.void testAddToFullBufferWithTimeout(): (org.apache.commons.collections.buffer.TestBoundedBuffer.java:135) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.buffer.TestBoundedBuffer.void testAddAllToFullBufferWithTimeout(): (org.apache.commons.collections.buffer.TestBoundedBuffer.java:153) 
+org.apache.commons.collections.buffer.TestBoundedBuffer.void testAddToFullBufferRemoveViaIterator(): (org.apache.commons.collections.buffer.TestBoundedBuffer.java:115) 
+org.apache.commons.collections.buffer.TestBoundedBuffer.void testAddToFullBufferWithTimeout(): (org.apache.commons.collections.buffer.TestBoundedBuffer.java:136) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.comparators.AbstractTestComparator.void testComparatorCompatibility(): (org.apache.commons.collections.comparators.AbstractTestComparator.java:230) 
+org.apache.commons.collections.comparators.AbstractTestComparator.void testRandomListSort(): (org.apache.commons.collections.comparators.AbstractTestComparator.java:168) 
+org.apache.commons.collections.comparators.AbstractTestComparator.void testReverseListSort(): (org.apache.commons.collections.comparators.AbstractTestComparator.java:144) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.iterators.AbstractTestMapIterator.void testFullMapIterator(): (org.apache.commons.collections.iterators.AbstractTestMapIterator.java:193) 
+org.apache.commons.collections.iterators.AbstractTestOrderedMapIterator.void testFullMapIterator(): (org.apache.commons.collections.iterators.AbstractTestOrderedMapIterator.java:102) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.iterators.TestArrayIterator.void testIterator(): (org.apache.commons.collections.iterators.TestArrayIterator.java:68) 
+org.apache.commons.collections.iterators.TestIteratorChain.void testIterator(): (org.apache.commons.collections.iterators.TestIteratorChain.java:89) 
+org.apache.commons.collections.iterators.TestObjectArrayIterator.void testIterator(): (org.apache.commons.collections.iterators.TestObjectArrayIterator.java:81) 
+org.apache.commons.collections.iterators.TestUniqueFilterIterator.void testIterator(): (org.apache.commons.collections.iterators.TestUniqueFilterIterator.java:84) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.map.AbstractTestMap.void testEntrySetRemove1(): (org.apache.commons.collections.map.AbstractTestMap.java:1114) 
+org.apache.commons.collections.map.AbstractTestMap.void testEntrySetRemove2(): (org.apache.commons.collections.map.AbstractTestMap.java:1127) 
+org.apache.commons.collections.map.AbstractTestMap.void testEntrySetRemove3(): (org.apache.commons.collections.map.AbstractTestMap.java:1142) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.map.TestLazyMap.void testMapGet(): (org.apache.commons.collections.map.TestLazyMap.java:82) 
+org.apache.commons.collections.map.TestLazySortedMap.void testMapGet(): (org.apache.commons.collections.map.TestLazySortedMap.java:96) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.map.TestListOrderedMap.void testValueList_getByIndex(): (org.apache.commons.collections.map.TestListOrderedMap.java:334) 
+org.apache.commons.collections.map.TestListOrderedMap.void testValueList_setByIndex(): (org.apache.commons.collections.map.TestListOrderedMap.java:346) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.map.TestMultiValueMap.void testPutWithList(): (org.apache.commons.collections.map.TestMultiValueMap.java:258) 
+org.apache.commons.collections.map.TestMultiValueMap.void testPutWithSet(): (org.apache.commons.collections.map.TestMultiValueMap.java:268) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.map.TestMultiValueMap.void testPutWithList(): (org.apache.commons.collections.map.TestMultiValueMap.java:257) 
+org.apache.commons.collections.map.TestMultiValueMap.void testPutWithSet(): (org.apache.commons.collections.map.TestMultiValueMap.java:267) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.map.TestMultiValueMap.void testPutWithList(): (org.apache.commons.collections.map.TestMultiValueMap.java:256) 
+org.apache.commons.collections.map.TestMultiValueMap.void testPutWithSet(): (org.apache.commons.collections.map.TestMultiValueMap.java:266) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.map.TestMultiValueMap.void testRemoveAllViaKeyedIterator(): (org.apache.commons.collections.map.TestMultiValueMap.java:150) 
+org.apache.commons.collections.map.TestMultiValueMap.void testTotalSizeA(): (org.apache.commons.collections.map.TestMultiValueMap.java:154) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.map.TestTransformedMap.void testFactory_decorateTransform(): (org.apache.commons.collections.map.TestTransformedMap.java:124) 
+org.apache.commons.collections.map.TestTransformedSortedMap.void testFactory_decorateTransform(): (org.apache.commons.collections.map.TestTransformedSortedMap.java:136) 
+
+Set (score: 0.5, ccsize: 3): 
+org.apache.commons.collections.set.TestListOrderedSet.void testOrdering(): (org.apache.commons.collections.set.TestListOrderedSet.java:87) 
+org.apache.commons.collections.set.TestListOrderedSet2.void testOrdering(): (org.apache.commons.collections.set.TestListOrderedSet2.java:86) 
+org.apache.commons.collections.set.TestMapBackedSet2.void testOrdering(): (org.apache.commons.collections.set.TestMapBackedSet2.java:84) 
+
+Set (score: 0.5, ccsize: 2): 
+org.apache.commons.collections.TestCollectionUtils.void testIsEmptyWithEmptyCollection(): (org.apache.commons.collections.TestCollectionUtils.java:871) 
+org.apache.commons.collections.TestCollectionUtils.void testIsEmptyWithNonEmptyCollection(): (org.apache.commons.collections.TestCollectionUtils.java:877) 
+org.apache.commons.collections.TestCollectionUtils.void testIsEmptyWithNull(): (org.apache.commons.collections.TestCollectionUtils.java:882) 
+
+Set (score: 0.5, ccsize: 2): 
+org.apache.commons.collections.TestCollectionUtils.void testIsNotEmptyWithEmptyCollection(): (org.apache.commons.collections.TestCollectionUtils.java:887) 
+org.apache.commons.collections.TestCollectionUtils.void testIsNotEmptyWithNonEmptyCollection(): (org.apache.commons.collections.TestCollectionUtils.java:893) 
+org.apache.commons.collections.TestCollectionUtils.void testIsNotEmptyWithNull(): (org.apache.commons.collections.TestCollectionUtils.java:898) 
+
+Set (score: 0.5, ccsize: 2): 
+org.apache.commons.collections.TestDoubleOrderedMap.void testEntrySet(): (org.apache.commons.collections.TestDoubleOrderedMap.java:872) 
+org.apache.commons.collections.TestDoubleOrderedMap.void testEntrySetByValue(): (org.apache.commons.collections.TestDoubleOrderedMap.java:1218) 
+
+Set (score: 0.5, ccsize: 2): 
+org.apache.commons.collections.TestIteratorUtils.void testToArray(): (org.apache.commons.collections.TestIteratorUtils.java:70) 
+org.apache.commons.collections.TestIteratorUtils.void testToArray2(): (org.apache.commons.collections.TestIteratorUtils.java:79) 
+
+Set (score: 0.5, ccsize: 2): 
+org.apache.commons.collections.TestMapUtils.void testIsEmptyWithEmptyMap(): (org.apache.commons.collections.TestMapUtils.java:778) 
+org.apache.commons.collections.TestMapUtils.void testIsEmptyWithNonEmptyMap(): (org.apache.commons.collections.TestMapUtils.java:784) 
+org.apache.commons.collections.TestMapUtils.void testIsEmptyWithNull(): (org.apache.commons.collections.TestMapUtils.java:789) 
+
+Set (score: 0.5, ccsize: 2): 
+org.apache.commons.collections.TestMapUtils.void testIsNotEmptyWithEmptyMap(): (org.apache.commons.collections.TestMapUtils.java:794) 
+org.apache.commons.collections.TestMapUtils.void testIsNotEmptyWithNonEmptyMap(): (org.apache.commons.collections.TestMapUtils.java:800) 
+org.apache.commons.collections.TestMapUtils.void testIsNotEmptyWithNull(): (org.apache.commons.collections.TestMapUtils.java:805) 
+
+Set (score: 0.5, ccsize: 2): 
+org.apache.commons.collections.TestPredicateUtils.void testEqualPredicate(): (org.apache.commons.collections.TestPredicateUtils.java:126) 
+org.apache.commons.collections.TestPredicateUtils.void testIdentityPredicate(): (org.apache.commons.collections.TestPredicateUtils.java:138) 
+org.apache.commons.collections.TestPredicateUtils.void testNullPredicate(): (org.apache.commons.collections.TestPredicateUtils.java:103) 
+
+Set (score: 0.5, ccsize: 2): 
+org.apache.commons.collections.TestReferenceMap.java.util.Map buildRefMap(): (org.apache.commons.collections.TestReferenceMap.java:170) 
+org.apache.commons.collections.map.TestReferenceIdentityMap.java.util.Map buildRefMap(): (org.apache.commons.collections.map.TestReferenceIdentityMap.java:279) 
+org.apache.commons.collections.map.TestReferenceMap.java.util.Map buildRefMap(): (org.apache.commons.collections.map.TestReferenceMap.java:214) 
+
+Set (score: 0.5, ccsize: 2): 
+org.apache.commons.collections.TestTreeBag.void testOrdering(): (org.apache.commons.collections.TestTreeBag.java:70) 
+org.apache.commons.collections.bag.TestTreeBag.void testOrdering(): (org.apache.commons.collections.bag.TestTreeBag.java:71) 
+
+Set (score: 0.5, ccsize: 2): 
+org.apache.commons.collections.TestTreeBag.void testOrdering(): (org.apache.commons.collections.TestTreeBag.java:68) 
+org.apache.commons.collections.bag.TestTreeBag.void testOrdering(): (org.apache.commons.collections.bag.TestTreeBag.java:69) 
+
+Set (score: 0.5, ccsize: 2): 
+org.apache.commons.collections.bag.AbstractTestBag.void testEmptyBagCompatibility(): (org.apache.commons.collections.bag.AbstractTestBag.java:486) 
+org.apache.commons.collections.bag.AbstractTestBag.void testFullBagCompatibility(): (org.apache.commons.collections.bag.AbstractTestBag.java:505) 
+
+Set (score: 0.5, ccsize: 2): 
+org.apache.commons.collections.bidimap.AbstractTestBidiMap.void modifyEntrySet(org.apache.commons.collections.BidiMap): (org.apache.commons.collections.bidimap.AbstractTestBidiMap.java:232) 
+org.apache.commons.collections.bidimap.AbstractTestBidiMap.void remove(org.apache.commons.collections.BidiMap,java.lang.Object): (org.apache.commons.collections.bidimap.AbstractTestBidiMap.java:286) 
+org.apache.commons.collections.bidimap.AbstractTestBidiMap.void removeValue(org.apache.commons.collections.BidiMap,java.lang.Object): (org.apache.commons.collections.bidimap.AbstractTestBidiMap.java:292) 
+
+Set (score: 0.5, ccsize: 2): 
+org.apache.commons.collections.collection.AbstractTestCollection.void testCollectionRemove(): (org.apache.commons.collections.collection.AbstractTestCollection.java:898) 
+org.apache.commons.collections.iterators.AbstractTestOrderedMapIterator.void testFullMapIterator(): (org.apache.commons.collections.iterators.AbstractTestOrderedMapIterator.java:122) 
+org.apache.commons.collections.map.AbstractTestMap.void verifyValues(): (org.apache.commons.collections.map.AbstractTestMap.java:1682) 
+
+Set (score: 0.5, ccsize: 2): 
+org.apache.commons.collections.iterators.TestArrayListIterator.void testListIterator(): (org.apache.commons.collections.iterators.TestArrayListIterator.java:78) 
+org.apache.commons.collections.iterators.TestObjectArrayListIterator.void testListIterator(): (org.apache.commons.collections.iterators.TestObjectArrayListIterator.java:75) 
+
+Set (score: 0.5, ccsize: 2): 
+org.apache.commons.collections.iterators.TestListIteratorWrapper.void testIterator(): (org.apache.commons.collections.iterators.TestListIteratorWrapper.java:97) 
+org.apache.commons.collections.iterators.TestSingletonListIterator.void testIterator(): (org.apache.commons.collections.iterators.TestSingletonListIterator.java:90) 
+
+Set (score: 0.5, ccsize: 2): 
+org.apache.commons.collections.list.TestSetUniqueList.void testSetDownwardsInList(): (org.apache.commons.collections.list.TestSetUniqueList.java:356) 
+org.apache.commons.collections.list.TestSetUniqueList.void testSetInBiggerList(): (org.apache.commons.collections.list.TestSetUniqueList.java:389) 
+org.apache.commons.collections.list.TestSetUniqueList.void testSetUpwardsInList(): (org.apache.commons.collections.list.TestSetUniqueList.java:424) 
+
+Set (score: 0.5, ccsize: 2): 
+org.apache.commons.collections.map.AbstractTestMap.void testEmptyMapCompatibility(): (org.apache.commons.collections.map.AbstractTestMap.java:744) 
+org.apache.commons.collections.map.TestIdentityMap.void testEmptyMapCompatibility(): (org.apache.commons.collections.map.TestIdentityMap.java:125) 
+
+Set (score: 0.5, ccsize: 0): 
+org.apache.commons.collections.TestCollectionUtils.void testIsEmptyWithNull(): (org.apache.commons.collections.TestCollectionUtils.java:882) 
+org.apache.commons.collections.TestMapUtils.void testIsEmptyWithNull(): (org.apache.commons.collections.TestMapUtils.java:789) 
+
+Set (score: 0.5, ccsize: 0): 
+org.apache.commons.collections.TestCollectionUtils.void testIsNotEmptyWithNull(): (org.apache.commons.collections.TestCollectionUtils.java:898) 
+org.apache.commons.collections.TestMapUtils.void testIsNotEmptyWithNull(): (org.apache.commons.collections.TestMapUtils.java:805) 
+
+Set (score: 0.5, ccsize: 0): 
+org.apache.commons.collections.TestCursorableLinkedList.void testCursorRemove(): (org.apache.commons.collections.TestCursorableLinkedList.java:261) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testCursorRemove(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:264) 
+
+Set (score: 0.5, ccsize: 0): 
+org.apache.commons.collections.TestCursorableLinkedList.void testListIteratorRemove(): (org.apache.commons.collections.TestCursorableLinkedList.java:667) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testListIteratorRemove(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:1102) 
+
+Set (score: 0.5, ccsize: 0): 
+org.apache.commons.collections.TestCursorableLinkedList.void testToArray(): (org.apache.commons.collections.TestCursorableLinkedList.java:938) 
+org.apache.commons.collections.list.TestCursorableLinkedList.void testToArray(): (org.apache.commons.collections.list.TestCursorableLinkedList.java:1373) 
+
+Set (score: 0.5, ccsize: 0): 
+org.apache.commons.collections.TestTypedCollection.void testIllegalAdd(): (org.apache.commons.collections.TestTypedCollection.java:53) 
+org.apache.commons.collections.bag.TestPredicatedBag.void testIllegalAdd(): (org.apache.commons.collections.bag.TestPredicatedBag.java:104) 
+org.apache.commons.collections.bag.TestTypedBag.void testIllegalAdd(): (org.apache.commons.collections.bag.TestTypedBag.java:96) 
+org.apache.commons.collections.collection.TestPredicatedCollection.void testIllegalAdd(): (org.apache.commons.collections.collection.TestPredicatedCollection.java:108) 
+org.apache.commons.collections.list.TestPredicatedList.void testIllegalAdd(): (org.apache.commons.collections.list.TestPredicatedList.java:90) 
+org.apache.commons.collections.set.TestPredicatedSet.void testIllegalAdd(): (org.apache.commons.collections.set.TestPredicatedSet.java:96) 
+org.apache.commons.collections.set.TestPredicatedSortedSet.void testIllegalAdd(): (org.apache.commons.collections.set.TestPredicatedSortedSet.java:99) 
+org.apache.commons.collections.set.TestTypedSortedSet.void testIllegalAdd(): (org.apache.commons.collections.set.TestTypedSortedSet.java:88) 
+
+Set (score: 0.5, ccsize: 0): 
+org.apache.commons.collections.iterators.TestUnmodifiableIterator.void testDecorateFactory(): (org.apache.commons.collections.iterators.TestUnmodifiableIterator.java:72) 
+org.apache.commons.collections.iterators.TestUnmodifiableListIterator.void testDecorateFactory(): (org.apache.commons.collections.iterators.TestUnmodifiableListIterator.java:80) 
+org.apache.commons.collections.iterators.TestUnmodifiableMapIterator.void testDecorateFactory(): (org.apache.commons.collections.iterators.TestUnmodifiableMapIterator.java:89) 
+org.apache.commons.collections.iterators.TestUnmodifiableOrderedMapIterator.void testDecorateFactory(): (org.apache.commons.collections.iterators.TestUnmodifiableOrderedMapIterator.java:93) 
+
+Set (score: 0.5, ccsize: 0): 
+org.apache.commons.collections.set.TestPredicatedSet.void testGetSet(): (org.apache.commons.collections.set.TestPredicatedSet.java:83) 
+org.apache.commons.collections.set.TestPredicatedSortedSet.void testGetSet(): (org.apache.commons.collections.set.TestPredicatedSortedSet.java:86) 
+
+Set (score: 0.5, ccsize: 0): 
+org.apache.commons.collections.set.TestPredicatedSortedSet.void testComparator(): (org.apache.commons.collections.set.TestPredicatedSortedSet.java:129) 
+org.apache.commons.collections.set.TestUnmodifiableSortedSet.void testComparator(): (org.apache.commons.collections.set.TestUnmodifiableSortedSet.java:138) 

@@ -1,0 +1,3469 @@
+Version 1 (/home/d2jain/bhprojects/hsqldb)
+This is for clone class 1
+  CloneClass 1 (Type 1)
+(src/org/hsqldb/Expression.java:311)10
+(src/org/hsqldb/Expression.java:341)10
+  CloneClass 2 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2453)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3949)6
+  CloneClass 3 (Type 1)
+(src/org/hsqldb/TransactionManagerMV2PL.java:112)25
+(src/org/hsqldb/TransactionManager2PL.java:87)25
+  CloneClass 4 (Type 1)
+(src/org/hsqldb/test/TestBench.java:506)22
+(src/org/hsqldb/test/JDBCBench.java:556)22
+  CloneClass 5 (Type 1)
+(src/org/hsqldb/persist/RowStoreAVLDisk.java:210)9
+(src/org/hsqldb/persist/RowStoreAVLMemory.java:145)9
+  CloneClass 6 (Type 1)
+(src/org/hsqldb/types/CharacterType.java:467)6
+(src/org/hsqldb/types/CharacterType.java:489)6
+  CloneClass 7 (Type 1)
+(src/org/hsqldb/ParserCommand.java:432)25
+(src/org/hsqldb/ParserCommand.java:751)25
+  CloneClass 8 (Type 1)
+(src/org/hsqldb/StatementProcedure.java:299)18
+(src/org/hsqldb/StatementExpression.java:100)18
+(src/org/hsqldb/StatementSet.java:134)18
+  CloneClass 9 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5033)9
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5182)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5621)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5866)9
+  CloneClass 10 (Type 1)
+(src/org/hsqldb/rights/User.java:196)6
+(src/org/hsqldb/rights/User.java:215)7
+  CloneClass 11 (Type 1)
+(test-src/org/hsqldb/jdbc/testbase/BaseArrayTestCase.java:276)8
+(test-src/org/hsqldb/jdbc/testbase/BaseArrayTestCase.java:307)8
+(test-src/org/hsqldb/jdbc/testbase/BaseArrayTestCase.java:356)8
+(test-src/org/hsqldb/jdbc/testbase/BaseArrayTestCase.java:387)8
+  CloneClass 12 (Type 1)
+(src/org/hsqldb/types/BitType.java:93)14
+(src/org/hsqldb/types/BinaryType.java:118)14
+(src/org/hsqldb/types/CharacterType.java:176)14
+  CloneClass 13 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:843)7
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:1625)11
+  CloneClass 14 (Type 1)
+(src/org/hsqldb/SchemaManager.java:2725)6
+(src/org/hsqldb/SchemaManager.java:2758)6
+(src/org/hsqldb/persist/DataFileDefrag.java:221)6
+  CloneClass 15 (Type 1)
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:477)5
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:489)5
+  CloneClass 16 (Type 1)
+(src/org/hsqldb/util/TransferTable.java:176)9
+(src/org/hsqldb/util/TransferTable.java:208)9
+(src/org/hsqldb/util/TransferTable.java:240)9
+(src/org/hsqldb/util/TransferTable.java:391)9
+(src/org/hsqldb/util/TransferTable.java:423)9
+  CloneClass 17 (Type 1)
+(src/org/hsqldb/test/TestLibSpeed.java:179)14
+(src/org/hsqldb/test/TestLibSpeed.java:217)14
+  CloneClass 18 (Type 1)
+(src/org/hsqldb/types/BitType.java:451)19
+(src/org/hsqldb/types/BinaryType.java:609)19
+(src/org/hsqldb/types/CharacterType.java:872)19
+  CloneClass 20 (Type 1)
+(src/org/hsqldb/sample/TriggerSample.java:351)17
+(doc-src/verbatim/src/org/hsqldb/sample/TriggerSample.java:351)17
+  CloneClass 21 (Type 1)
+(src/org/hsqldb/MasterTestSuite.java:517)100
+(test-src/org/hsqldb/HsqlDbMasterTestSuite.java:517)100
+  CloneClass 22 (Type 1)
+(src/org/hsqldb/store/ValuePoolHashMap.java:145)8
+(src/org/hsqldb/store/ValuePoolHashMap.java:334)8
+  CloneClass 23 (Type 1)
+(src/org/hsqldb/index/NodeAVLDisk.java:278)10
+(src/org/hsqldb/index/NodeAVLDisk.java:291)10
+  CloneClass 24 (Type 1)
+(src/org/hsqldb/StatementInsert.java:58)11
+(src/org/hsqldb/StatementInsert.java:85)11
+  CloneClass 25 (Type 1)
+(src/org/hsqldb/store/BaseHashMap.java:1177)20
+(src/org/hsqldb/store/BaseHashMap.java:1206)20
+  CloneClass 27 (Type 1)
+(src/org/hsqldb/util/TransferDb.java:510)16
+(src/org/hsqldb/util/TransferDb.java:575)14
+  CloneClass 28 (Type 1)
+(src/org/hsqldb/util/CodeSwitcher.java:367)11
+(src/org/hsqldb/util/CodeSwitcher.java:393)11
+  CloneClass 29 (Type 1)
+(src/org/hsqldb/navigator/RowSetNavigator.java:244)20
+(src/org/hsqldb/navigator/RowSetNavigatorClient.java:155)20
+  CloneClass 30 (Type 1)
+(src/org/hsqldb/test/TestUtil.java:708)20
+(src/org/hsqldb/test/TestUtil.java:832)20
+  CloneClass 31 (Type 1)
+(src/org/hsqldb/jdbc/JDBCSQLXML.java:1726)9
+(src/org/hsqldb/jdbc/JDBCSQLXML.java:1763)9
+(src/org/hsqldb/jdbc/JDBCSQLXML.java:1792)9
+  CloneClass 32 (Type 1)
+(src/org/hsqldb/cmdline/SqlFile.java:6012)5
+(src/org/hsqldb/cmdline/SqlFile.java:6056)5
+  CloneClass 33 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2639)28
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3389)27
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4339)30
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5919)28
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7881)25
+  CloneClass 34 (Type 1)
+(src/org/hsqldb/types/BlobInputStream.java:73)18
+(src/org/hsqldb/types/ClobInputStream.java:73)18
+  CloneClass 35 (Type 1)
+(src/org/hsqldb/sample/TriggerSample.java:326)23
+(doc-src/verbatim/src/org/hsqldb/sample/TriggerSample.java:326)23
+  CloneClass 36 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:232)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:277)5
+  CloneClass 37 (Type 1)
+(src/org/hsqldb/lib/OrderedIntHashSet.java:114)11
+(src/org/hsqldb/lib/OrderedLongHashSet.java:114)11
+  CloneClass 38 (Type 1)
+(src/org/hsqldb/StatementExpression.java:144)10
+(src/org/hsqldb/StatementSchemaDefinition.java:64)10
+(src/org/hsqldb/StatementSet.java:297)10
+(src/org/hsqldb/StatementSimple.java:126)10
+  CloneClass 39 (Type 1)
+(src/org/hsqldb/persist/Crypto.java:148)11
+(src/org/hsqldb/persist/Crypto.java:171)11
+  CloneClass 40 (Type 1)
+(src/org/hsqldb/TransactionManagerMV2PL.java:172)11
+(src/org/hsqldb/TransactionManagerMVCC.java:231)11
+  CloneClass 42 (Type 1)
+(src/org/hsqldb/server/ServerConnection.java:792)23
+(src/org/hsqldb/server/ServerConnection.java:1153)22
+  CloneClass 43 (Type 1)
+(src/org/hsqldb/types/DateTimeType.java:1052)24
+(src/org/hsqldb/types/DateTimeType.java:1101)23
+  CloneClass 44 (Type 1)
+(src/org/hsqldb/DatabaseManager.java:340)11
+(src/org/hsqldb/DatabaseManager.java:394)11
+  CloneClass 45 (Type 1)
+(src/org/hsqldb/test/TestOdbcTypes.java:1351)8
+(src/org/hsqldb/test/TestOdbcTypes.java:1393)8
+  CloneClass 46 (Type 1)
+(src/org/hsqldb/test/TestNullInUnion.java:49)34
+(src/org/hsqldb/test/TestSql.java:695)33
+  CloneClass 47 (Type 1)
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:207)21
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:311)21
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:351)21
+  CloneClass 48 (Type 1)
+(src/org/hsqldb/navigator/RowSetNavigatorClient.java:262)11
+(src/org/hsqldb/navigator/RowSetNavigatorData.java:637)11
+  CloneClass 49 (Type 1)
+(src/org/hsqldb/types/RowType.java:159)7
+(src/org/hsqldb/types/RowType.java:190)7
+  CloneClass 50 (Type 1)
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:131)11
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:159)11
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:176)11
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:197)11
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:231)11
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:252)11
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:273)11
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:309)11
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:329)11
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:349)11
+  CloneClass 51 (Type 1)
+(src/org/hsqldb/ExpressionAccessor.java:77)6
+(src/org/hsqldb/Expression.java:1139)6
+(src/org/hsqldb/ExpressionArithmetic.java:252)6
+(src/org/hsqldb/FunctionSQL.java:1189)6
+(src/org/hsqldb/FunctionCustom.java:1852)6
+(src/org/hsqldb/ExpressionAggregate.java:224)6
+(src/org/hsqldb/ExpressionTable.java:97)6
+  CloneClass 52 (Type 1)
+(src/org/hsqldb/test/TestBench.java:1068)21
+(src/org/hsqldb/test/JDBCBench.java:1094)21
+  CloneClass 54 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCSQLXMLTest.java:248)14
+(test-src/org/hsqldb/jdbc/JDBCSQLXMLTest.java:292)14
+(test-src/org/hsqldb/jdbc/JDBCSQLXMLTest.java:314)14
+  CloneClass 55 (Type 1)
+(src/org/hsqldb/test/TestSubQueriesInPreparedStatements.java:133)8
+(src/org/hsqldb/test/TestSubQueriesInPreparedStatements.java:143)8
+  CloneClass 56 (Type 1)
+(src/org/hsqldb/cmdline/sqltool/SqlFileScanner.java:118)16
+(src/org/hsqldb/cmdline/sqltool/SqlFileScanner.java:267)13
+  CloneClass 57 (Type 1)
+(src/org/hsqldb/TransactionManagerMV2PL.java:189)13
+(src/org/hsqldb/TransactionManagerMVCC.java:252)13
+(src/org/hsqldb/TransactionManager2PL.java:140)13
+  CloneClass 58 (Type 1)
+(src/org/hsqldb/FunctionCustom.java:2260)10
+(src/org/hsqldb/FunctionCustom.java:2668)10
+  CloneClass 59 (Type 1)
+(src/org/hsqldb/sample/TriggerSample.java:332)9
+(src/org/hsqldb/sample/TriggerSample.java:356)9
+(doc-src/verbatim/src/org/hsqldb/sample/TriggerSample.java:332)9
+(doc-src/verbatim/src/org/hsqldb/sample/TriggerSample.java:356)9
+  CloneClass 60 (Type 1)
+(src/org/hsqldb/lib/HsqlDeque.java:330)12
+(src/org/hsqldb/lib/LongDeque.java:322)12
+  CloneClass 61 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:124)9
+(src/org/hsqldb/index/NodeAVLDisk.java:168)9
+  CloneClass 62 (Type 1)
+(src/org/hsqldb/StatementSchema.java:267)11
+(src/org/hsqldb/StatementCommand.java:207)11
+(src/org/hsqldb/StatementSchemaDefinition.java:59)11
+(src/org/hsqldb/StatementSession.java:233)11
+(src/org/hsqldb/StatementSimple.java:121)11
+  CloneClass 63 (Type 1)
+(src/org/hsqldb/scriptio/ScriptWriterEncode.java:102)16
+(src/org/hsqldb/scriptio/ScriptWriterBase.java:258)16
+  CloneClass 64 (Type 1)
+(test-src/org/hsqldb/testbase/BaseScriptedTestCase.java:572)13
+(test-src/org/hsqldb/testbase/BaseScriptedTestCase.java:804)12
+  CloneClass 65 (Type 1)
+(src/org/hsqldb/test/JDBCBench.java:614)19
+(src/org/hsqldb/test/JDBCBench.java:647)19
+  CloneClass 66 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2609)56
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3362)52
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3706)46
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5889)56
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7854)50
+  CloneClass 67 (Type 1)
+(src/org/hsqldb/StatementResultUpdate.java:203)34
+(src/org/hsqldb/StatementDMQL.java:434)34
+  CloneClass 68 (Type 1)
+(src/org/hsqldb/jdbc/JDBCResultSet.java:4470)11
+(src/org/hsqldb/jdbc/JDBCResultSet.java:7629)11
+  CloneClass 69 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:593)10
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2579)10
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3522)10
+  CloneClass 70 (Type 1)
+(src/org/hsqldb/TextTable.java:335)4
+(src/org/hsqldb/TextTable.java:358)4
+(src/org/hsqldb/Table.java:600)4
+  CloneClass 71 (Type 1)
+(src/org/hsqldb/server/WebServer.java:139)11
+(src/org/hsqldb/server/Server.java:2462)11
+(doc-src/verbatim/src/org/hsqldb/server/WebServer.java:139)11
+  CloneClass 73 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2605)26
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3358)23
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3702)21
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4311)28
+  CloneClass 74 (Type 1)
+(src/org/hsqldb/types/ClobDataID.java:100)10
+(src/org/hsqldb/types/ClobDataID.java:115)10
+  CloneClass 75 (Type 1)
+(src/org/hsqldb/rowio/RowInputText.java:351)14
+(src/org/hsqldb/rowio/RowInputText.java:368)14
+(src/org/hsqldb/rowio/RowInputText.java:385)14
+  CloneClass 76 (Type 1)
+(src/org/hsqldb/test/TestGroupByHaving.java:199)10
+(src/org/hsqldb/test/TestGroupByHaving.java:226)10
+  CloneClass 77 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:87)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:96)6
+  CloneClass 78 (Type 1)
+(src/org/hsqldb/ExpressionArrayAggregate.java:150)11
+(src/org/hsqldb/ExpressionAggregate.java:191)11
+  CloneClass 79 (Type 1)
+(src/org/hsqldb/jdbc/JDBCConnection.java:2126)35
+(src/org/hsqldb/jdbc/JDBCConnection.java:2215)35
+  CloneClass 80 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2605)26
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4311)28
+  CloneClass 81 (Type 1)
+(src/org/hsqldb/util/DatabaseManagerSwing.java:1184)12
+(src/org/hsqldb/util/DatabaseManagerSwing.java:1204)12
+  CloneClass 82 (Type 1)
+(src/org/hsqldb/types/RowType.java:243)17
+(src/org/hsqldb/types/RowType.java:268)17
+  CloneClass 83 (Type 1)
+(src/org/hsqldb/store/BaseHashMap.java:307)19
+(src/org/hsqldb/store/BaseHashMap.java:466)19
+  CloneClass 84 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCConnectionCreateStatementTest.java:109)7
+(test-src/org/hsqldb/jdbc/JDBCConnectionPrepareStatementTest.java:108)7
+(test-src/org/hsqldb/jdbc/JDBCConnectionPrepareCallTest.java:108)7
+  CloneClass 85 (Type 1)
+(src/org/hsqldb/ParserDQL.java:4934)12
+(src/org/hsqldb/ParserRoutine.java:2004)12
+  CloneClass 86 (Type 1)
+(src/org/hsqldb/sample/TriggerSample.java:227)26
+(doc-src/verbatim/src/org/hsqldb/sample/TriggerSample.java:227)26
+  CloneClass 87 (Type 1)
+(src/org/hsqldb/persist/LobStoreInJar.java:119)20
+(src/org/hsqldb/persist/ScaledRAFileInJar.java:224)20
+(src/org/hsqldb/lib/FileUtil.java:353)20
+  CloneClass 89 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:293)12
+(src/org/hsqldb/index/NodeAVLDisk.java:337)12
+  CloneClass 90 (Type 1)
+(src/org/hsqldb/Table.java:376)13
+(src/org/hsqldb/Table.java:634)13
+  CloneClass 91 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6727)22
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6844)22
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6953)22
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7063)22
+  CloneClass 92 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:318)16
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:341)16
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:371)16
+  CloneClass 93 (Type 1)
+(src/org/hsqldb/SchemaManager.java:2437)15
+(src/org/hsqldb/SchemaManager.java:2493)15
+  CloneClass 94 (Type 1)
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:207)21
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:259)21
+  CloneClass 95 (Type 1)
+(src/org/hsqldb/RowAction.java:557)16
+(src/org/hsqldb/RowAction.java:589)16
+  CloneClass 96 (Type 1)
+(src/org/hsqldb/ParserRoutine.java:396)8
+(src/org/hsqldb/ParserRoutine.java:453)8
+(src/org/hsqldb/ParserRoutine.java:508)8
+(src/org/hsqldb/ParserDML.java:563)8
+  CloneClass 97 (Type 1)
+(src/org/hsqldb/StatementDML.java:1510)5
+(src/org/hsqldb/StatementDML.java:1523)5
+(src/org/hsqldb/StatementDML.java:1535)5
+  CloneClass 98 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6220)9
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6259)9
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6298)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6335)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6373)9
+  CloneClass 100 (Type 1)
+(integration/hibernate_3_3_1/src/org/hibernate/dialect/HSQLDialect.java:230)16
+(integration/hibernate/src/org/hibernate/dialect/HSQLDialect.java:250)16
+  CloneClass 101 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:645)6
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2800)10
+  CloneClass 102 (Type 1)
+(src/org/hsqldb/store/BitMap.java:444)6
+(src/org/hsqldb/store/BitMap.java:459)6
+(src/org/hsqldb/store/BitMap.java:482)6
+  CloneClass 103 (Type 1)
+(src/org/hsqldb/server/HsqlSocketFactorySecure.java:136)11
+(src/org/hsqldb/server/HsqlSocketFactorySecure.java:166)11
+  CloneClass 104 (Type 1)
+(src/org/hsqldb/Expression.java:1106)11
+(src/org/hsqldb/ExpressionArithmetic.java:234)11
+  CloneClass 105 (Type 1)
+(src/org/hsqldb/Table.java:1558)14
+(src/org/hsqldb/Table.java:2379)14
+  CloneClass 106 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5507)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6982)13
+  CloneClass 107 (Type 1)
+(src/org/hsqldb/types/BinaryType.java:247)14
+(src/org/hsqldb/types/CharacterType.java:342)14
+  CloneClass 108 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:204)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:241)6
+  CloneClass 109 (Type 1)
+(src/org/hsqldb/FunctionSQL.java:1006)23
+(src/org/hsqldb/FunctionSQL.java:1103)23
+  CloneClass 110 (Type 1)
+(src/org/hsqldb/util/Grid.java:306)18
+(src/org/hsqldb/util/Tree.java:290)18
+  CloneClass 111 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:1886)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4469)11
+  CloneClass 113 (Type 1)
+(src/org/hsqldb/server/ServerConfiguration.java:146)5
+(src/org/hsqldb/server/ServerConfiguration.java:153)5
+(src/org/hsqldb/server/ServerConfiguration.java:163)5
+(src/org/hsqldb/server/ServerConfiguration.java:170)5
+  CloneClass 114 (Type 1)
+(src/org/hsqldb/ExpressionArrayAggregate.java:163)11
+(src/org/hsqldb/FunctionSQLInvoked.java:68)11
+  CloneClass 115 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCCallableStatementWhileClosedTest.java:1174)9
+(test-src/org/hsqldb/jdbc/JDBCCallableStatementWhileClosedTest.java:1235)9
+  CloneClass 116 (Type 1)
+(src/org/hsqldb/jdbc/JDBCBlobFile.java:138)11
+(src/org/hsqldb/jdbc/JDBCBlobFile.java:206)11
+  CloneClass 117 (Type 1)
+(src/org/hsqldb/persist/LobManager.java:1369)13
+(src/org/hsqldb/persist/LobManager.java:1424)13
+  CloneClass 118 (Type 1)
+(src/org/hsqldb/types/Type.java:1079)9
+(src/org/hsqldb/rowio/RowOutputBase.java:258)9
+(src/org/hsqldb/rowio/RowOutputBinary.java:394)9
+(src/org/hsqldb/rowio/RowInputBase.java:228)9
+(src/org/hsqldb/types/IntervalType.java:152)9
+(src/org/hsqldb/types/IntervalType.java:178)9
+(src/org/hsqldb/types/IntervalType.java:327)9
+(src/org/hsqldb/types/IntervalType.java:463)9
+(src/org/hsqldb/types/IntervalType.java:663)9
+(src/org/hsqldb/types/IntervalType.java:839)9
+(src/org/hsqldb/types/IntervalType.java:889)9
+(src/org/hsqldb/types/Types.java:709)9
+  CloneClass 119 (Type 1)
+(src/org/hsqldb/FunctionSQL.java:1312)13
+(src/org/hsqldb/FunctionSQL.java:1325)13
+  CloneClass 120 (Type 1)
+(src/org/hsqldb/Scanner.java:1180)6
+(src/org/hsqldb/Scanner.java:1564)7
+  CloneClass 121 (Type 1)
+(src/org/hsqldb/sample/TriggerSample.java:278)23
+(doc-src/verbatim/src/org/hsqldb/sample/TriggerSample.java:278)23
+  CloneClass 122 (Type 1)
+(src/org/hsqldb/ParserRoutine.java:1715)14
+(src/org/hsqldb/ParserRoutine.java:1757)14
+(src/org/hsqldb/ParserRoutine.java:1789)14
+  CloneClass 123 (Type 1)
+(src/org/hsqldb/test/TestLobs.java:179)14
+(src/org/hsqldb/test/TestLobs.java:234)14
+  CloneClass 124 (Type 1)
+(src/org/hsqldb/types/CharacterType.java:473)13
+(src/org/hsqldb/types/CharacterType.java:717)13
+  CloneClass 125 (Type 1)
+(src/org/hsqldb/index/NodeAVLDisk.java:213)8
+(src/org/hsqldb/index/NodeAVLDisk.java:235)8
+(src/org/hsqldb/index/NodeAVLDisk.java:257)8
+(src/org/hsqldb/index/NodeAVLDisk.java:278)8
+(src/org/hsqldb/index/NodeAVLDisk.java:291)8
+(src/org/hsqldb/index/NodeAVLDisk.java:304)8
+  CloneClass 126 (Type 1)
+(src/org/hsqldb/RangeVariable.java:1742)5
+(src/org/hsqldb/RangeVariable.java:1764)5
+  CloneClass 128 (Type 1)
+(src/org/hsqldb/rights/Grantee.java:530)11
+(src/org/hsqldb/rights/Grantee.java:549)11
+(src/org/hsqldb/rights/Grantee.java:568)11
+(src/org/hsqldb/rights/Grantee.java:587)11
+(src/org/hsqldb/rights/Grantee.java:606)11
+  CloneClass 129 (Type 1)
+(src/org/hsqldb/index/IndexAVL.java:1273)11
+(src/org/hsqldb/index/IndexAVL.java:1336)11
+  CloneClass 130 (Type 1)
+(src/org/hsqldb/ParserBase.java:765)17
+(src/org/hsqldb/ParserBase.java:792)17
+  CloneClass 131 (Type 1)
+(src/org/hsqldb/util/DatabaseManagerSwing.java:1907)18
+(src/org/hsqldb/util/DatabaseManager.java:1121)18
+  CloneClass 132 (Type 1)
+(src/org/hsqldb/store/BaseHashMap.java:323)8
+(src/org/hsqldb/store/BaseHashMap.java:665)8
+(src/org/hsqldb/store/BaseHashMap.java:779)8
+  CloneClass 133 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2563)26
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3506)26
+  CloneClass 135 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5029)10
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5288)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5393)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5500)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5617)8
+  CloneClass 137 (Type 1)
+(src/org/hsqldb/ExpressionArithmetic.java:606)16
+(src/org/hsqldb/ExpressionLogical.java:1131)16
+  CloneClass 138 (Type 1)
+(src/org/hsqldb/test/TestOdbcService.java:93)9
+(src/org/hsqldb/test/TestOdbcService.java:112)9
+(src/org/hsqldb/test/TestOdbcService.java:252)9
+(src/org/hsqldb/test/TestOdbcService.java:286)10
+  CloneClass 140 (Type 1)
+(src/org/hsqldb/navigator/RowSetNavigatorDataTable.java:425)12
+(src/org/hsqldb/navigator/RowSetNavigatorData.java:422)12
+  CloneClass 141 (Type 1)
+(src/org/hsqldb/test/TestUpdatableResultSets.java:68)15
+(src/org/hsqldb/test/TestUpdatableResultSets.java:126)15
+  CloneClass 142 (Type 1)
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:155)19
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:206)19
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:531)19
+  CloneClass 143 (Type 1)
+(src/org/hsqldb/persist/LobManager.java:933)9
+(src/org/hsqldb/persist/LobManager.java:1373)9
+(src/org/hsqldb/persist/LobManager.java:1428)9
+(src/org/hsqldb/persist/LobManager.java:1492)9
+  CloneClass 144 (Type 1)
+(src/org/hsqldb/sample/Testdb.java:150)52
+(doc-src/verbatim/src/org/hsqldb/sample/Testdb.java:150)52
+  CloneClass 145 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:213)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:241)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:259)6
+  CloneClass 146 (Type 1)
+(src/org/hsqldb/lib/StringUtil.java:251)16
+(src/org/hsqldb/lib/StringUtil.java:269)16
+  CloneClass 147 (Type 1)
+(src/org/hsqldb/ParserDQL.java:4448)15
+(src/org/hsqldb/ParserDQL.java:4489)15
+  CloneClass 149 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:706)10
+(src/org/hsqldb/test/TestCacheSize.java:746)10
+(src/org/hsqldb/test/TestCacheSize.java:788)10
+(src/org/hsqldb/test/TestCacheSize.java:834)10
+(src/org/hsqldb/test/TestCacheSize.java:876)11
+(src/org/hsqldb/test/TestCacheSize.java:927)11
+  CloneClass 150 (Type 1)
+(src/org/hsqldb/persist/DataFileCache.java:881)14
+(src/org/hsqldb/persist/DataFileCache.java:908)14
+  CloneClass 151 (Type 1)
+(src/org/hsqldb/sample/TriggerSample.java:165)49
+(doc-src/verbatim/src/org/hsqldb/sample/TriggerSample.java:165)49
+  CloneClass 152 (Type 1)
+(src/org/hsqldb/TransactionManagerCommon.java:570)9
+(src/org/hsqldb/TransactionManagerCommon.java:600)9
+(src/org/hsqldb/TransactionManagerCommon.java:714)9
+(src/org/hsqldb/TransactionManagerCommon.java:740)9
+  CloneClass 154 (Type 1)
+(src/org/hsqldb/jdbc/JDBCClobFile.java:257)8
+(src/org/hsqldb/jdbc/JDBCBlobFile.java:187)8
+  CloneClass 155 (Type 1)
+(src/org/hsqldb/SchemaManager.java:1587)13
+(src/org/hsqldb/SchemaManager.java:1620)13
+  CloneClass 156 (Type 1)
+(src/org/hsqldb/util/TransferCommon.java:108)8
+(src/org/hsqldb/util/TransferCommon.java:133)8
+  CloneClass 157 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:1927)13
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3227)13
+  CloneClass 158 (Type 1)
+(src/org/hsqldb/navigator/RowSetNavigatorDataTable.java:483)15
+(src/org/hsqldb/navigator/RowSetNavigatorData.java:476)15
+  CloneClass 159 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2609)22
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3362)19
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3706)17
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4315)24
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5889)22
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7854)19
+  CloneClass 160 (Type 1)
+(src/org/hsqldb/cmdline/SqlFile.java:1688)14
+(src/org/hsqldb/cmdline/SqlFile.java:3217)14
+  CloneClass 162 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6844)22
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6953)22
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7063)22
+  CloneClass 163 (Type 1)
+(src/org/hsqldb/RangeVariableResolver.java:173)8
+(src/org/hsqldb/RangeVariableResolver.java:185)8
+  CloneClass 164 (Type 1)
+(src/org/hsqldb/navigator/RowSetNavigatorData.java:383)16
+(src/org/hsqldb/navigator/RowSetNavigatorData.java:439)16
+  CloneClass 165 (Type 1)
+(src/org/hsqldb/ExpressionLogical.java:670)9
+(src/org/hsqldb/ExpressionLogical.java:693)9
+  CloneClass 166 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5033)9
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5621)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5866)9
+  CloneClass 168 (Type 1)
+(src/org/hsqldb/test/TestBench.java:289)18
+(src/org/hsqldb/test/JDBCBench.java:270)18
+  CloneClass 169 (Type 1)
+(src/org/hsqldb/test/TestINPredicateParameterizationAndCorrelation.java:105)11
+(src/org/hsqldb/test/TestINPredicateParameterizationAndCorrelation.java:152)11
+  CloneClass 170 (Type 1)
+(src/org/hsqldb/index/NodeAVLDisk.java:380)16
+(src/org/hsqldb/index/NodeAVLDisk.java:405)16
+  CloneClass 171 (Type 1)
+(src/org/hsqldb/types/IntervalType.java:327)15
+(src/org/hsqldb/types/Types.java:709)15
+  CloneClass 172 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:267)11
+(src/org/hsqldb/index/NodeAVLDisk.java:311)11
+  CloneClass 173 (Type 1)
+(src/org/hsqldb/persist/Logger.java:1683)6
+(src/org/hsqldb/persist/Logger.java:1690)6
+  CloneClass 175 (Type 1)
+(src/org/hsqldb/TransactionManagerCommon.java:565)10
+(src/org/hsqldb/TransactionManagerCommon.java:648)10
+(src/org/hsqldb/TransactionManagerCommon.java:709)10
+  CloneClass 177 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5607)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7080)8
+  CloneClass 178 (Type 1)
+(src/org/hsqldb/cmdline/sqltool/Calculator.java:206)19
+(src/org/hsqldb/cmdline/sqltool/Calculator.java:241)19
+  CloneClass 179 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2605)60
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3358)56
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3702)50
+  CloneClass 180 (Type 1)
+(src/org/hsqldb/rowio/RowOutputBase.java:255)12
+(src/org/hsqldb/rowio/RowOutputBinary.java:391)12
+(src/org/hsqldb/rowio/RowInputBase.java:225)12
+  CloneClass 181 (Type 1)
+(src/org/hsqldb/ParserRoutine.java:415)13
+(src/org/hsqldb/ParserRoutine.java:475)13
+  CloneClass 182 (Type 1)
+(src/org/hsqldb/ExpressionArithmetic.java:213)17
+(src/org/hsqldb/ExpressionOp.java:290)17
+  CloneClass 183 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:751)12
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:946)14
+  CloneClass 184 (Type 1)
+(doc-src/verbatim/src/org/hsqldb/sample/SqlFileEmbedder.java:77)23
+(src/org/hsqldb/sample/SqlFileEmbedder.java:77)23
+  CloneClass 185 (Type 1)
+(src/org/hsqldb/StatementCommand.java:207)25
+(src/org/hsqldb/StatementSession.java:233)25
+  CloneClass 186 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3362)57
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5889)61
+  CloneClass 187 (Type 1)
+(src/org/hsqldb/StatementDML.java:277)24
+(src/org/hsqldb/StatementSet.java:332)24
+  CloneClass 188 (Type 1)
+(src/org/hsqldb/test/TestUtil.java:717)14
+(src/org/hsqldb/test/TestUtil.java:1163)14
+  CloneClass 189 (Type 1)
+(src/org/hsqldb/server/ServerConfiguration.java:145)16
+(src/org/hsqldb/server/ServerConfiguration.java:162)16
+  CloneClass 190 (Type 1)
+(src/org/hsqldb/util/TransferSQLText.java:374)30
+(src/org/hsqldb/util/TransferSQLText.java:441)30
+  CloneClass 191 (Type 1)
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:156)20
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:207)20
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:259)20
+  CloneClass 192 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCResultSetTest.java:990)14
+(test-src/org/hsqldb/jdbc/JDBCResultSetTest.java:1250)14
+  CloneClass 193 (Type 1)
+(src/org/hsqldb/cmdline/SqlFile.java:452)6
+(src/org/hsqldb/cmdline/SqlTool.java:81)6
+  CloneClass 194 (Type 1)
+(src/org/hsqldb/navigator/RowSetNavigatorDataTable.java:382)33
+(src/org/hsqldb/navigator/RowSetNavigatorDataTable.java:442)33
+  CloneClass 195 (Type 1)
+(src/org/hsqldb/StatementDMQL.java:746)3
+(src/org/hsqldb/StatementDMQL.java:770)3
+  CloneClass 196 (Type 1)
+(src/org/hsqldb/types/IntervalType.java:176)11
+(src/org/hsqldb/types/IntervalType.java:461)11
+(src/org/hsqldb/types/IntervalType.java:661)11
+(src/org/hsqldb/types/IntervalType.java:837)11
+(src/org/hsqldb/types/IntervalType.java:888)10
+  CloneClass 197 (Type 1)
+(src/org/hsqldb/jdbc/JDBCCallableStatement.java:1406)16
+(src/org/hsqldb/jdbc/JDBCResultSet.java:4926)16
+  CloneClass 198 (Type 1)
+(src/org/hsqldb/index/IndexAVL.java:1378)19
+(src/org/hsqldb/index/IndexAVL.java:1413)19
+  CloneClass 199 (Type 1)
+(src/org/hsqldb/test/TestKarl.java:231)16
+(src/org/hsqldb/test/TestKarl.java:265)17
+  CloneClass 200 (Type 1)
+(src/org/hsqldb/test/TestOdbcService.java:214)7
+(src/org/hsqldb/test/TestOdbcService.java:268)7
+(src/org/hsqldb/test/TestOdbcService.java:303)7
+  CloneClass 201 (Type 1)
+(src/org/hsqldb/test/TestBench.java:763)12
+(src/org/hsqldb/test/JDBCBench.java:858)12
+  CloneClass 202 (Type 1)
+(src/org/hsqldb/test/TestHashStructures.java:256)7
+(src/org/hsqldb/test/TestHashStructures.java:272)7
+  CloneClass 203 (Type 1)
+(src/org/hsqldb/persist/LobManager.java:564)14
+(src/org/hsqldb/persist/LobManager.java:655)14
+  CloneClass 204 (Type 1)
+(src/org/hsqldb/test/TestHashStructures.java:255)7
+(src/org/hsqldb/test/TestHashStructures.java:320)7
+  CloneClass 205 (Type 1)
+(src/org/hsqldb/SchemaManager.java:1166)24
+(src/org/hsqldb/SchemaManager.java:1192)23
+  CloneClass 206 (Type 1)
+(src/org/hsqldb/sample/Testdb.java:86)20
+(doc-src/verbatim/src/org/hsqldb/sample/Testdb.java:86)20
+  CloneClass 207 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:188)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:195)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:204)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:213)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:232)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:241)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:259)6
+  CloneClass 208 (Type 1)
+(src/org/hsqldb/types/ClobDataID.java:127)7
+(src/org/hsqldb/types/BlobDataID.java:248)7
+  CloneClass 209 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5033)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5182)5
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5397)5
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5621)5
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5866)7
+  CloneClass 210 (Type 1)
+(src/org/hsqldb/Expression.java:1026)14
+(src/org/hsqldb/ExpressionArithmetic.java:237)13
+(src/org/hsqldb/ExpressionOp.java:321)13
+  CloneClass 213 (Type 1)
+(src/org/hsqldb/StatementDML.java:1121)9
+(src/org/hsqldb/StatementDML.java:1377)9
+  CloneClass 214 (Type 1)
+(src/org/hsqldb/index/NodeAVLDisk.java:257)11
+(src/org/hsqldb/index/NodeAVLDisk.java:304)11
+  CloneClass 215 (Type 1)
+(src/org/hsqldb/navigator/RowSetNavigatorDataTable.java:531)21
+(src/org/hsqldb/navigator/RowSetNavigatorData.java:534)21
+  CloneClass 216 (Type 1)
+(src/org/hsqldb/jdbc/JDBCClobFile.java:660)39
+(src/org/hsqldb/jdbc/JDBCBlobFile.java:549)39
+  CloneClass 217 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:641)6
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:835)6
+  CloneClass 218 (Type 1)
+(src/org/hsqldb/Expression.java:911)9
+(src/org/hsqldb/ExpressionColumn.java:933)9
+  CloneClass 219 (Type 1)
+(src/org/hsqldb/jdbc/JDBCClobFile.java:998)14
+(src/org/hsqldb/jdbc/JDBCBlobFile.java:805)14
+  CloneClass 220 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCResultSetTest.java:930)12
+(test-src/org/hsqldb/jdbc/JDBCResultSetTest.java:942)12
+  CloneClass 221 (Type 1)
+(src/org/hsqldb/util/DatabaseManagerSwing.java:1950)16
+(src/org/hsqldb/util/DatabaseManager.java:1156)16
+  CloneClass 223 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:325)14
+(src/org/hsqldb/index/NodeAVLDisk.java:364)14
+  CloneClass 224 (Type 1)
+(src/org/hsqldb/test/TestBench.java:91)13
+(src/org/hsqldb/test/JDBCBench.java:60)13
+  CloneClass 225 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5025)14
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5389)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5496)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5613)12
+  CloneClass 226 (Type 1)
+(src/org/hsqldb/lib/KMPSearchAlgorithm.java:147)14
+(src/org/hsqldb/lib/KMPSearchAlgorithm.java:216)14
+  CloneClass 227 (Type 1)
+(src/org/hsqldb/lib/ArrayUtil.java:1456)5
+(src/org/hsqldb/lib/ArrayUtil.java:1479)5
+  CloneClass 228 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:286)10
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:318)10
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:341)10
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:371)10
+  CloneClass 230 (Type 1)
+(src/org/hsqldb/RangeVariableResolver.java:946)6
+(src/org/hsqldb/RangeVariableResolver.java:996)6
+  CloneClass 231 (Type 1)
+(src/org/hsqldb/FunctionSQL.java:975)17
+(src/org/hsqldb/FunctionSQL.java:1071)17
+  CloneClass 232 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4643)14
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5101)15
+  CloneClass 233 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:751)11
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:946)11
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:1705)11
+  CloneClass 234 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:195)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:222)5
+  CloneClass 235 (Type 1)
+(src/org/hsqldb/ParserDQL.java:3271)24
+(src/org/hsqldb/ParserDQL.java:3297)24
+  CloneClass 236 (Type 1)
+(src/org/hsqldb/test/TestBench.java:763)12
+(src/org/hsqldb/test/TestBench.java:933)13
+(src/org/hsqldb/test/JDBCBench.java:858)12
+  CloneClass 237 (Type 1)
+(test-src/org/hsqldb/server/OdbcPacketOutputStreamTest.java:261)5
+(test-src/org/hsqldb/server/OdbcPacketOutputStreamTest.java:289)5
+  CloneClass 238 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2672)9
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4368)9
+  CloneClass 239 (Type 1)
+(src/org/hsqldb/SetFunction.java:348)15
+(src/org/hsqldb/SetFunction.java:404)15
+  CloneClass 240 (Type 1)
+(src/org/hsqldb/util/Transfer.java:231)12
+(src/org/hsqldb/util/Transfer.java:311)12
+  CloneClass 241 (Type 1)
+(src/org/hsqldb/StatementDML.java:1510)6
+(src/org/hsqldb/StatementDML.java:1523)6
+  CloneClass 243 (Type 1)
+(src/org/hsqldb/StatementDML.java:1107)4
+(src/org/hsqldb/StatementDML.java:1245)4
+(src/org/hsqldb/StatementDML.java:1314)4
+  CloneClass 244 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:763)7
+(src/org/hsqldb/test/TestCacheSize.java:809)7
+(src/org/hsqldb/test/TestCacheSize.java:851)7
+(src/org/hsqldb/test/TestAllTypes.java:401)7
+  CloneClass 245 (Type 1)
+(src/org/hsqldb/util/ConnectionDialogSwing.java:256)6
+(src/org/hsqldb/util/ConnectionDialog.java:256)6
+  CloneClass 246 (Type 1)
+(src/org/hsqldb/persist/ScriptRunner.java:270)11
+(src/org/hsqldb/persist/ScriptRunner.java:289)11
+  CloneClass 247 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4975)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5347)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5564)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5652)7
+  CloneClass 249 (Type 1)
+(src/org/hsqldb/MasterTestSuite.java:313)100
+(test-src/org/hsqldb/HsqlDbMasterTestSuite.java:313)100
+  CloneClass 250 (Type 1)
+(src/org/hsqldb/ExpressionOp.java:604)44
+(src/org/hsqldb/ExpressionOp.java:676)44
+  CloneClass 251 (Type 1)
+(src/org/hsqldb/ParserRoutine.java:396)9
+(src/org/hsqldb/ParserRoutine.java:508)9
+  CloneClass 252 (Type 1)
+(src/org/hsqldb/test/TestBench.java:905)22
+(src/org/hsqldb/test/TestBench.java:1019)22
+  CloneClass 254 (Type 1)
+(src/org/hsqldb/test/TestLobs.java:256)14
+(src/org/hsqldb/test/TestLobs.java:633)14
+(src/org/hsqldb/test/TestLobs.java:708)14
+  CloneClass 255 (Type 1)
+(src/org/hsqldb/index/IndexAVL.java:637)13
+(src/org/hsqldb/index/IndexAVLMemory.java:123)13
+  CloneClass 256 (Type 1)
+(src/org/hsqldb/test/TestOdbcService.java:100)9
+(src/org/hsqldb/test/TestOdbcService.java:277)9
+(src/org/hsqldb/test/TestOdbcService.java:312)9
+  CloneClass 257 (Type 1)
+(src/org/hsqldb/lib/StringUtil.java:217)7
+(src/org/hsqldb/lib/StringUtil.java:306)8
+  CloneClass 258 (Type 1)
+(src/org/hsqldb/ParserDQL.java:3072)12
+(src/org/hsqldb/ParserDQL.java:3518)12
+  CloneClass 259 (Type 1)
+(src/org/hsqldb/persist/LobManager.java:744)28
+(src/org/hsqldb/persist/LobManager.java:817)28
+  CloneClass 260 (Type 1)
+(src/org/hsqldb/Table.java:2189)12
+(src/org/hsqldb/Table.java:2211)12
+(src/org/hsqldb/Table.java:2237)12
+  CloneClass 262 (Type 1)
+(src/org/hsqldb/lib/KMPSearchAlgorithm.java:471)18
+(src/org/hsqldb/lib/KMPSearchAlgorithm.java:507)17
+(src/org/hsqldb/lib/KMPSearchAlgorithm.java:545)17
+  CloneClass 263 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:195)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:204)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:213)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:232)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:241)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:259)6
+  CloneClass 264 (Type 1)
+(src/org/hsqldb/test/TestDateTime.java:209)25
+(src/org/hsqldb/test/TestDateTime.java:309)25
+  CloneClass 266 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4646)6
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4975)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5104)6
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5347)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5564)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5652)7
+  CloneClass 267 (Type 1)
+(src/org/hsqldb/test/TestOdbcTypes.java:512)18
+(src/org/hsqldb/test/TestOdbcTypes.java:794)20
+(src/org/hsqldb/test/TestOdbcTypes.java:827)20
+  CloneClass 268 (Type 1)
+(src/org/hsqldb/rights/Grantee.java:1139)4
+(src/org/hsqldb/rights/Grantee.java:1156)4
+(src/org/hsqldb/rights/Grantee.java:1173)4
+  CloneClass 269 (Type 1)
+(src/org/hsqldb/jdbc/JDBCCallableStatement.java:1176)12
+(src/org/hsqldb/jdbc/JDBCCallableStatement.java:4258)12
+  CloneClass 270 (Type 1)
+(src/org/hsqldb/test/TestLobs.java:103)10
+(src/org/hsqldb/test/TestLobs.java:834)9
+  CloneClass 271 (Type 1)
+(src/org/hsqldb/Expression.java:1141)11
+(src/org/hsqldb/ExpressionArithmetic.java:254)11
+(src/org/hsqldb/ExpressionLogical.java:643)11
+  CloneClass 272 (Type 1)
+(src/org/hsqldb/rowio/RowInputText.java:98)15
+(src/org/hsqldb/rowio/RowOutputText.java:88)15
+  CloneClass 273 (Type 1)
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:130)12
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:158)12
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:175)12
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:196)12
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:251)12
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:272)12
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:328)12
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:348)12
+  CloneClass 274 (Type 1)
+(src/org/hsqldb/test/TestBatchExecution.java:151)17
+(src/org/hsqldb/test/TestBatchExecution.java:175)17
+  CloneClass 275 (Type 1)
+(src/org/hsqldb/navigator/RowSetNavigatorDataTable.java:300)17
+(src/org/hsqldb/navigator/RowSetNavigatorData.java:295)17
+  CloneClass 276 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4894)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7605)15
+  CloneClass 277 (Type 1)
+(src/org/hsqldb/jdbc/JDBCResultSet.java:1036)12
+(src/org/hsqldb/jdbc/JDBCResultSet.java:4408)11
+  CloneClass 278 (Type 1)
+(src/org/hsqldb/persist/LobManager.java:781)33
+(src/org/hsqldb/persist/LobManager.java:871)33
+  CloneClass 279 (Type 1)
+(src/org/hsqldb/Tokens.java:2455)13
+(doc-src/verbatim/src/org/hsqldb/Tokens.java:2455)13
+  CloneClass 280 (Type 1)
+(src/org/hsqldb/test/TestDatetimeSimple.java:81)8
+(src/org/hsqldb/test/TestDatetimeSimple.java:92)8
+  CloneClass 281 (Type 1)
+(src/org/hsqldb/FunctionSQL.java:1505)9
+(src/org/hsqldb/FunctionSQL.java:1677)9
+  CloneClass 282 (Type 1)
+(src/org/hsqldb/test/TestDbBackup.java:595)8
+(src/org/hsqldb/test/TestDbBackup.java:611)8
+  CloneClass 283 (Type 1)
+(src/org/hsqldb/types/IntervalType.java:176)12
+(src/org/hsqldb/types/IntervalType.java:461)12
+(src/org/hsqldb/types/IntervalType.java:661)12
+  CloneClass 284 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5042)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6763)13
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:8039)12
+  CloneClass 285 (Type 1)
+(src/org/hsqldb/FunctionSQL.java:906)20
+(src/org/hsqldb/FunctionSQL.java:1036)20
+  CloneClass 286 (Type 1)
+(src/org/hsqldb/test/TestBench.java:743)18
+(src/org/hsqldb/test/JDBCBench.java:839)17
+  CloneClass 287 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:348)9
+(src/org/hsqldb/test/TestCacheSize.java:446)9
+  CloneClass 288 (Type 1)
+(src/org/hsqldb/persist/LobManager.java:931)11
+(src/org/hsqldb/persist/LobManager.java:1490)11
+  CloneClass 289 (Type 1)
+(src/org/hsqldb/types/ClobType.java:121)14
+(src/org/hsqldb/types/BlobType.java:134)14
+(src/org/hsqldb/types/BinaryType.java:297)14
+(src/org/hsqldb/types/CharacterType.java:394)14
+  CloneClass 290 (Type 1)
+(test-src/org/hsqldb/auth/SlaveAuthBeanTest.java:168)11
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:155)11
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:206)11
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:531)11
+  CloneClass 291 (Type 1)
+(src/org/hsqldb/persist/DataFileCache.java:303)25
+(src/org/hsqldb/persist/DataFileCache.java:389)25
+  CloneClass 293 (Type 1)
+(src/org/hsqldb/ParserRoutine.java:1908)12
+(src/org/hsqldb/ParserRoutine.java:1955)12
+  CloneClass 294 (Type 1)
+(src/org/hsqldb/lib/ClosableByteArrayOutputStream.java:133)10
+(src/org/hsqldb/lib/ClosableCharArrayWriter.java:128)10
+  CloneClass 295 (Type 1)
+(src/org/hsqldb/test/TestJDBCGeneratedColumns.java:196)11
+(src/org/hsqldb/test/TestJDBCGeneratedColumns.java:213)11
+(src/org/hsqldb/test/TestJDBCGeneratedColumns.java:231)11
+  CloneClass 296 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2482)6
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3473)6
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4200)6
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5684)6
+  CloneClass 297 (Type 1)
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:328)12
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:348)12
+  CloneClass 298 (Type 1)
+(src/org/hsqldb/test/TestJDBCGeneratedColumns.java:196)9
+(src/org/hsqldb/test/TestJDBCGeneratedColumns.java:213)9
+(src/org/hsqldb/test/TestJDBCGeneratedColumns.java:231)9
+(src/org/hsqldb/test/TestJDBCGeneratedColumns.java:251)10
+  CloneClass 299 (Type 1)
+(src/org/hsqldb/util/TransferDb.java:297)18
+(src/org/hsqldb/util/TransferDb.java:329)18
+  CloneClass 300 (Type 1)
+(src/org/hsqldb/test/TestViewAsterisks.java:538)11
+(src/org/hsqldb/test/TestViewAsterisks.java:553)11
+  CloneClass 301 (Type 1)
+(src/org/hsqldb/lib/DoubleIntIndex.java:494)13
+(src/org/hsqldb/lib/DoubleIntIndex.java:547)13
+  CloneClass 302 (Type 1)
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:156)18
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:207)18
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:259)18
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:311)18
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:351)18
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:480)18
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:532)18
+  CloneClass 303 (Type 1)
+(src/org/hsqldb/navigator/RowSetNavigatorDataTable.java:365)12
+(src/org/hsqldb/navigator/RowSetNavigatorData.java:366)12
+  CloneClass 304 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2113)26
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2146)24
+  CloneClass 305 (Type 1)
+(src/org/hsqldb/test/TestOdbcTypes.java:723)22
+(src/org/hsqldb/test/TestOdbcTypes.java:758)23
+  CloneClass 306 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:87)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:106)5
+  CloneClass 307 (Type 1)
+(src/org/hsqldb/types/Collation.java:450)10
+(src/org/hsqldb/types/Collation.java:473)10
+  CloneClass 308 (Type 1)
+(src/org/hsqldb/result/ResultLob.java:592)7
+(src/org/hsqldb/result/ResultLob.java:617)7
+  CloneClass 309 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2606)61
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3359)57
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7851)55
+  CloneClass 310 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3359)59
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7851)58
+  CloneClass 311 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5491)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6970)7
+  CloneClass 312 (Type 1)
+(src/org/hsqldb/jdbc/JDBCClobFile.java:221)15
+(src/org/hsqldb/jdbc/JDBCClobFile.java:503)15
+(src/org/hsqldb/jdbc/JDBCClobFile.java:733)15
+(src/org/hsqldb/jdbc/JDBCBlobFile.java:437)15
+(src/org/hsqldb/jdbc/JDBCBlobFile.java:618)15
+  CloneClass 313 (Type 1)
+(test-src/org/hsqldb/testbase/BaseTestCase.java:308)10
+(test-src/org/hsqldb/testbase/BaseTestCase.java:386)10
+  CloneClass 314 (Type 1)
+(src/org/hsqldb/TransactionManagerMV2PL.java:112)11
+(src/org/hsqldb/TransactionManagerMVCC.java:149)11
+(src/org/hsqldb/TransactionManager2PL.java:87)11
+  CloneClass 315 (Type 1)
+(src/org/hsqldb/test/TestBase.java:172)21
+(doc-src/verbatim/src/org/hsqldb/test/TestBase.java:172)21
+  CloneClass 316 (Type 1)
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:156)21
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:480)21
+  CloneClass 317 (Type 1)
+(src/org/hsqldb/SchemaManager.java:2420)19
+(src/org/hsqldb/SchemaManager.java:2454)19
+  CloneClass 318 (Type 1)
+(src/org/hsqldb/types/NumberType.java:144)14
+(src/org/hsqldb/types/NumberType.java:1768)14
+  CloneClass 319 (Type 1)
+(test-src/org/hsqldb/jdbc/pool/JDBCPooledDataSourceTest.java:95)4
+(test-src/org/hsqldb/jdbc/pool/JDBCXAConnectionTest.java:110)5
+(test-src/org/hsqldb/jdbc/pool/JDBCXAConnectionTest.java:180)5
+  CloneClass 320 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3362)56
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5889)60
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7854)55
+  CloneClass 321 (Type 1)
+(src/org/hsqldb/test/TestBench.java:805)32
+(src/org/hsqldb/test/TestBench.java:964)17
+  CloneClass 322 (Type 1)
+(src/org/hsqldb/test/TestOdbcTypes.java:153)11
+(src/org/hsqldb/test/TestOdbcTypes.java:183)11
+(src/org/hsqldb/test/TestOdbcTypes.java:213)11
+(src/org/hsqldb/test/TestOdbcTypes.java:242)11
+(src/org/hsqldb/test/TestOdbcTypes.java:306)11
+(src/org/hsqldb/test/TestOdbcTypes.java:335)11
+(src/org/hsqldb/test/TestOdbcTypes.java:364)11
+(src/org/hsqldb/test/TestOdbcTypes.java:393)11
+(src/org/hsqldb/test/TestOdbcTypes.java:422)11
+(src/org/hsqldb/test/TestOdbcTypes.java:452)11
+(src/org/hsqldb/test/TestOdbcTypes.java:482)11
+(src/org/hsqldb/test/TestOdbcTypes.java:513)11
+(src/org/hsqldb/test/TestOdbcTypes.java:542)11
+(src/org/hsqldb/test/TestOdbcTypes.java:604)11
+(src/org/hsqldb/test/TestOdbcTypes.java:634)11
+(src/org/hsqldb/test/TestOdbcTypes.java:663)11
+(src/org/hsqldb/test/TestOdbcTypes.java:691)11
+(src/org/hsqldb/test/TestOdbcTypes.java:724)10
+(src/org/hsqldb/test/TestOdbcTypes.java:759)11
+(src/org/hsqldb/test/TestOdbcTypes.java:797)11
+(src/org/hsqldb/test/TestOdbcTypes.java:830)11
+(src/org/hsqldb/test/TestOdbcTypes.java:870)11
+(src/org/hsqldb/test/TestOdbcTypes.java:910)11
+(src/org/hsqldb/test/TestOdbcTypes.java:951)11
+(src/org/hsqldb/test/TestOdbcTypes.java:991)11
+(src/org/hsqldb/test/TestOdbcTypes.java:1036)11
+(src/org/hsqldb/test/TestOdbcTypes.java:1076)11
+(src/org/hsqldb/test/TestOdbcTypes.java:1116)11
+(src/org/hsqldb/test/TestOdbcTypes.java:1156)11
+(src/org/hsqldb/test/TestOdbcTypes.java:1196)11
+(src/org/hsqldb/test/TestOdbcTypes.java:1278)11
+(src/org/hsqldb/test/TestOdbcTypes.java:1320)11
+(src/org/hsqldb/test/TestOdbcTypes.java:1367)11
+(src/org/hsqldb/test/TestOdbcTypes.java:1409)11
+(src/org/hsqldb/test/TestOdbcTypes.java:1537)11
+(src/org/hsqldb/test/TestOdbcTypes.java:1589)11
+  CloneClass 323 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCConnectionCreateStatementTest.java:150)28
+(test-src/org/hsqldb/jdbc/JDBCConnectionPrepareCallTest.java:155)28
+  CloneClass 324 (Type 1)
+(src/org/hsqldb/types/Type.java:1079)10
+(src/org/hsqldb/types/IntervalType.java:152)10
+(src/org/hsqldb/types/IntervalType.java:178)10
+(src/org/hsqldb/types/IntervalType.java:327)10
+(src/org/hsqldb/types/IntervalType.java:463)10
+(src/org/hsqldb/types/IntervalType.java:663)10
+(src/org/hsqldb/types/Types.java:709)10
+  CloneClass 325 (Type 1)
+(src/org/hsqldb/SchemaObjectSet.java:267)13
+(src/org/hsqldb/SchemaObjectSet.java:298)13
+  CloneClass 326 (Type 1)
+(src/org/hsqldb/index/IndexAVL.java:889)13
+(src/org/hsqldb/index/IndexAVLMemory.java:186)13
+  CloneClass 327 (Type 1)
+(src/org/hsqldb/NumberSequence.java:333)37
+(src/org/hsqldb/NumberSequence.java:463)37
+  CloneClass 328 (Type 1)
+(src/org/hsqldb/StatementSchema.java:1504)16
+(src/org/hsqldb/StatementSchema.java:1533)16
+  CloneClass 329 (Type 1)
+(src/org/hsqldb/jdbc/JDBCPreparedStatement.java:4167)8
+(src/org/hsqldb/jdbc/JDBCPreparedStatement.java:4187)8
+  CloneClass 331 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:761)9
+(src/org/hsqldb/test/TestAllTypes.java:399)9
+  CloneClass 332 (Type 1)
+(src/org/hsqldb/test/TestOdbcTypes.java:793)21
+(src/org/hsqldb/test/TestOdbcTypes.java:826)21
+  CloneClass 333 (Type 1)
+(src/org/hsqldb/types/IntervalType.java:150)12
+(src/org/hsqldb/types/IntervalType.java:176)12
+(src/org/hsqldb/types/IntervalType.java:461)12
+(src/org/hsqldb/types/IntervalType.java:661)12
+  CloneClass 334 (Type 1)
+(src/org/hsqldb/ParserDQL.java:5176)20
+(src/org/hsqldb/ParserDML.java:1184)20
+  CloneClass 335 (Type 1)
+(src/org/hsqldb/server/Servlet.java:149)51
+(doc-src/verbatim/src/org/hsqldb/server/Servlet.java:149)51
+  CloneClass 336 (Type 1)
+(src/org/hsqldb/RangeVariableJoined.java:318)20
+(src/org/hsqldb/RangeVariable.java:917)20
+  CloneClass 338 (Type 1)
+(src/org/hsqldb/test/TestBench.java:763)20
+(src/org/hsqldb/test/TestBench.java:933)21
+  CloneClass 339 (Type 1)
+(src/org/hsqldb/util/DatabaseManagerSwing.java:1742)18
+(src/org/hsqldb/util/DatabaseManager.java:926)18
+  CloneClass 340 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5009)16
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5373)16
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5480)16
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5596)16
+  CloneClass 341 (Type 1)
+(src/org/hsqldb/cmdline/SqlFile.java:6150)8
+(src/org/hsqldb/cmdline/SqlFile.java:6162)8
+(src/org/hsqldb/server/OdbcUtil.java:256)8
+(src/org/hsqldb/server/OdbcUtil.java:268)8
+  CloneClass 342 (Type 1)
+(test-src/org/hsqldb/auth/SlaveAuthBeanTest.java:169)10
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:156)10
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:207)10
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:259)10
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:311)10
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:351)10
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:480)10
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:532)10
+(test-src/org/hsqldb/auth/JaasAuthBeanTest.java:188)10
+(test-src/org/hsqldb/auth/JaasAuthBeanTest.java:238)10
+  CloneClass 343 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:1132)10
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:1149)10
+  CloneClass 344 (Type 1)
+(src/org/hsqldb/rights/GranteeManager.java:584)9
+(src/org/hsqldb/rights/GranteeManager.java:605)9
+  CloneClass 345 (Type 1)
+(integration/extAuthWithSpring/src/org/hsqldb/sample/SpringExtAuth.java:118)21
+(integration/extAuthWithSpring/src/org/hsqldb/sample/SpringExtAuth.java:153)21
+  CloneClass 346 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:286)10
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:341)10
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:371)10
+  CloneClass 347 (Type 1)
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:310)21
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:479)21
+  CloneClass 348 (Type 1)
+(src/org/hsqldb/test/TestOdbcTypes.java:870)17
+(src/org/hsqldb/test/TestOdbcTypes.java:910)17
+(src/org/hsqldb/test/TestOdbcTypes.java:951)17
+(src/org/hsqldb/test/TestOdbcTypes.java:991)17
+(src/org/hsqldb/test/TestOdbcTypes.java:1036)17
+(src/org/hsqldb/test/TestOdbcTypes.java:1076)17
+(src/org/hsqldb/test/TestOdbcTypes.java:1116)17
+(src/org/hsqldb/test/TestOdbcTypes.java:1156)17
+(src/org/hsqldb/test/TestOdbcTypes.java:1196)17
+(src/org/hsqldb/test/TestOdbcTypes.java:1278)17
+(src/org/hsqldb/test/TestOdbcTypes.java:1320)17
+(src/org/hsqldb/test/TestOdbcTypes.java:1367)17
+(src/org/hsqldb/test/TestOdbcTypes.java:1409)17
+  CloneClass 350 (Type 1)
+(src/org/hsqldb/lib/DoubleIntIndex.java:470)10
+(src/org/hsqldb/lib/DoubleIntIndex.java:552)10
+  CloneClass 351 (Type 1)
+(src/org/hsqldb/rowio/RowInputText.java:266)15
+(src/org/hsqldb/rowio/RowInputText.java:283)15
+  CloneClass 352 (Type 1)
+(src/org/hsqldb/test/TestBench.java:389)34
+(src/org/hsqldb/test/JDBCBench.java:415)34
+  CloneClass 353 (Type 1)
+(src/org/hsqldb/jdbc/JDBCPreparedStatement.java:1564)14
+(src/org/hsqldb/jdbc/JDBCPreparedStatement.java:1638)14
+(src/org/hsqldb/jdbc/JDBCPreparedStatement.java:1713)14
+  CloneClass 354 (Type 1)
+(src/org/hsqldb/TransactionManagerMV2PL.java:365)22
+(src/org/hsqldb/TransactionManagerMVCC.java:629)22
+  CloneClass 356 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:3506)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:8371)7
+  CloneClass 357 (Type 1)
+(src/org/hsqldb/test/TestDbBackup.java:302)13
+(src/org/hsqldb/test/TestDbBackup.java:337)13
+  CloneClass 358 (Type 1)
+(src/org/hsqldb/StatementSchema.java:267)14
+(src/org/hsqldb/StatementCommand.java:207)14
+(src/org/hsqldb/StatementSession.java:233)14
+  CloneClass 359 (Type 1)
+(src/org/hsqldb/test/TestOdbcService.java:100)5
+(src/org/hsqldb/test/TestOdbcService.java:229)5
+(src/org/hsqldb/test/TestOdbcService.java:277)5
+(src/org/hsqldb/test/TestOdbcService.java:312)5
+  CloneClass 360 (Type 1)
+(src/org/hsqldb/util/PostgresTransferHelper.java:79)11
+(src/org/hsqldb/util/PostgresTransferHelper.java:120)12
+(src/org/hsqldb/util/OracleTransferHelper.java:98)12
+  CloneClass 361 (Type 1)
+(src/org/hsqldb/StatementSchemaDefinition.java:59)15
+(src/org/hsqldb/StatementSimple.java:121)15
+  CloneClass 362 (Type 1)
+(src/org/hsqldb/Table.java:2615)9
+(src/org/hsqldb/Table.java:2663)9
+  CloneClass 363 (Type 1)
+(src/org/hsqldb/navigator/RowSetNavigatorClient.java:111)11
+(src/org/hsqldb/navigator/RowSetNavigatorData.java:247)11
+  CloneClass 364 (Type 1)
+(src/org/hsqldb/test/TestPreparedStatements.java:176)8
+(src/org/hsqldb/test/TestPreparedSubQueries.java:133)8
+  CloneClass 366 (Type 1)
+(src/org/hsqldb/util/ConnectionDialogSwing.java:381)11
+(src/org/hsqldb/util/ConnectionDialog.java:340)11
+  CloneClass 367 (Type 1)
+(src/org/hsqldb/SetFunction.java:638)12
+(test-src/org/hsqldb/lib/HsqlTimerTest.java:356)12
+  CloneClass 368 (Type 1)
+(src/org/hsqldb/ParserRoutine.java:1715)15
+(src/org/hsqldb/ParserRoutine.java:1757)15
+  CloneClass 369 (Type 1)
+(src/org/hsqldb/server/Servlet.java:209)32
+(doc-src/verbatim/src/org/hsqldb/server/Servlet.java:209)32
+  CloneClass 370 (Type 1)
+(src/org/hsqldb/test/TestOdbcService.java:112)19
+(src/org/hsqldb/test/TestOdbcService.java:252)19
+(src/org/hsqldb/test/TestOdbcService.java:286)20
+  CloneClass 371 (Type 1)
+(src/org/hsqldb/sample/TriggerSample.java:370)11
+(doc-src/verbatim/src/org/hsqldb/sample/TriggerSample.java:370)11
+  CloneClass 372 (Type 1)
+(src/org/hsqldb/jdbc/JDBCCallableStatement.java:1346)10
+(src/org/hsqldb/jdbc/JDBCResultSet.java:4819)10
+  CloneClass 373 (Type 1)
+(src/org/hsqldb/SchemaManager.java:1217)10
+(src/org/hsqldb/SchemaManager.java:1242)11
+  CloneClass 374 (Type 1)
+(src/org/hsqldb/lib/HashMappedList.java:203)9
+(src/org/hsqldb/lib/HashMappedList.java:218)9
+  CloneClass 375 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCPreparedStatementTest.java:132)9
+(test-src/org/hsqldb/jdbc/JDBCPreparedStatementTest.java:144)9
+  CloneClass 376 (Type 1)
+(src/org/hsqldb/rowio/RowInputText.java:500)16
+(src/org/hsqldb/rowio/RowInputText.java:519)16
+  CloneClass 377 (Type 1)
+(src/org/hsqldb/lib/Storage.java:44)24
+(src/org/hsqldb/persist/RandomAccessInterface.java:41)24
+  CloneClass 378 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3630)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3661)12
+  CloneClass 379 (Type 1)
+(test-src/org/hsqldb/jdbc/testbase/BaseArrayTestCase.java:356)9
+(test-src/org/hsqldb/jdbc/testbase/BaseArrayTestCase.java:387)9
+  CloneClass 380 (Type 1)
+(integration/hibernate_3_3_1/src/org/hibernate/dialect/HSQLDialect.java:289)76
+(integration/hibernate/src/org/hibernate/dialect/HSQLDialect.java:309)76
+  CloneClass 381 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:761)9
+(src/org/hsqldb/test/TestCacheSize.java:849)9
+(src/org/hsqldb/test/TestAllTypes.java:399)9
+  CloneClass 382 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:537)8
+(src/org/hsqldb/test/TestAllTypes.java:324)8
+  CloneClass 383 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4989)16
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5357)16
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5577)16
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5747)15
+  CloneClass 384 (Type 1)
+(src/org/hsqldb/Routine.java:329)3
+(src/org/hsqldb/Routine.java:349)3
+  CloneClass 385 (Type 1)
+(src/org/hsqldb/test/TestPreparedStatements.java:205)12
+(src/org/hsqldb/test/TestPreparedSubQueries.java:144)12
+  CloneClass 386 (Type 1)
+(src/org/hsqldb/NumberSequence.java:189)26
+(src/org/hsqldb/NumberSequence.java:234)26
+  CloneClass 390 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2606)25
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3359)22
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3704)19
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4312)27
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7851)22
+  CloneClass 391 (Type 1)
+(src/org/hsqldb/test/TestJDBCGeneratedColumns.java:88)9
+(src/org/hsqldb/test/TestJDBCGeneratedColumns.java:102)9
+(src/org/hsqldb/test/TestJDBCGeneratedColumns.java:117)9
+  CloneClass 392 (Type 1)
+(src/org/hsqldb/jdbc/JDBCResultSetMetaData.java:959)6
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:753)7
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:948)7
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:1707)7
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2573)6
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2728)6
+(src/org/hsqldb/jdbc/JDBCParameterMetaData.java:366)6
+  CloneClass 393 (Type 1)
+(doc-src/verbatim/src/org/hsqldb/sample/SqlFileEmbedder.java:124)26
+(src/org/hsqldb/sample/SqlFileEmbedder.java:124)26
+  CloneClass 394 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:106)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:115)5
+  CloneClass 395 (Type 1)
+(src/org/hsqldb/FunctionSQL.java:1411)7
+(src/org/hsqldb/FunctionSQL.java:1435)7
+  CloneClass 396 (Type 1)
+(src/org/hsqldb/StatementDML.java:1020)8
+(src/org/hsqldb/StatementDML.java:1247)8
+  CloneClass 397 (Type 1)
+(src/org/hsqldb/StatementCommand.java:326)10
+(src/org/hsqldb/StatementCommand.java:347)10
+  CloneClass 398 (Type 1)
+(src/org/hsqldb/Expression.java:1567)13
+(src/org/hsqldb/ExpressionTable.java:187)13
+  CloneClass 399 (Type 1)
+(src/org/hsqldb/Tokens.java:2502)11
+(doc-src/verbatim/src/org/hsqldb/Tokens.java:2502)11
+  CloneClass 400 (Type 1)
+(src/org/hsqldb/test/TestHashStructures.java:271)7
+(src/org/hsqldb/test/TestHashStructures.java:336)7
+  CloneClass 401 (Type 1)
+(src/org/hsqldb/persist/Log.java:584)8
+(src/org/hsqldb/persist/Log.java:623)8
+  CloneClass 402 (Type 1)
+(src/org/hsqldb/ParserDQL.java:3191)17
+(src/org/hsqldb/ParserDQL.java:3273)17
+(src/org/hsqldb/ParserDQL.java:3299)17
+  CloneClass 403 (Type 1)
+(src/org/hsqldb/test/TestDima.java:101)8
+(src/org/hsqldb/test/TestDima.java:111)8
+  CloneClass 404 (Type 1)
+(test-src/org/hsqldb/jdbc/pool/JDBCXAConnectionTest.java:121)16
+(test-src/org/hsqldb/jdbc/pool/JDBCXAConnectionTest.java:185)18
+  CloneClass 405 (Type 1)
+(src/org/hsqldb/jdbc/JDBCSQLXML.java:1726)9
+(src/org/hsqldb/jdbc/JDBCSQLXML.java:1792)9
+  CloneClass 406 (Type 1)
+(src/org/hsqldb/index/IndexAVL.java:767)22
+(src/org/hsqldb/index/IndexAVL.java:812)22
+  CloneClass 407 (Type 1)
+(src/org/hsqldb/RangeVariableResolver.java:425)13
+(src/org/hsqldb/RangeVariableResolver.java:441)13
+  CloneClass 408 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5033)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5397)5
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5621)5
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5866)7
+  CloneClass 409 (Type 1)
+(src/org/hsqldb/jdbc/JDBCClobFile.java:168)11
+(src/org/hsqldb/jdbc/JDBCClobFile.java:276)11
+  CloneClass 411 (Type 1)
+(src/org/hsqldb/Expression.java:1512)14
+(src/org/hsqldb/ExpressionArithmetic.java:606)14
+(src/org/hsqldb/ExpressionLogical.java:1131)14
+  CloneClass 412 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:222)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:250)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:277)6
+  CloneClass 413 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:572)18
+(src/org/hsqldb/test/TestCacheSize.java:607)18
+  CloneClass 414 (Type 1)
+(src/org/hsqldb/ExpressionArithmetic.java:116)4
+(src/org/hsqldb/ExpressionOp.java:193)4
+  CloneClass 415 (Type 1)
+(src/org/hsqldb/TextTable.java:335)4
+(src/org/hsqldb/TextTable.java:358)4
+(src/org/hsqldb/Table.java:513)5
+(src/org/hsqldb/Table.java:575)4
+(src/org/hsqldb/Table.java:600)4
+  CloneClass 416 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCPreparedStatementTest.java:794)12
+(test-src/org/hsqldb/jdbc/JDBCPreparedStatementTest.java:826)12
+(test-src/org/hsqldb/jdbc/JDBCResultSetTest.java:835)12
+  CloneClass 417 (Type 1)
+(src/org/hsqldb/FunctionSQL.java:1189)11
+(src/org/hsqldb/FunctionCustom.java:1852)11
+  CloneClass 418 (Type 1)
+(src/org/hsqldb/store/BaseHashMap.java:416)36
+(src/org/hsqldb/store/BaseHashMap.java:611)35
+  CloneClass 419 (Type 1)
+(src/org/hsqldb/test/TestMultiInsert.java:69)19
+(src/org/hsqldb/test/TestMerge.java:73)23
+  CloneClass 420 (Type 1)
+(src/org/hsqldb/types/IntervalType.java:150)12
+(src/org/hsqldb/types/IntervalType.java:176)12
+  CloneClass 421 (Type 1)
+(src/org/hsqldb/util/TransferTable.java:147)16
+(src/org/hsqldb/util/TransferTable.java:362)16
+  CloneClass 422 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCPreparedStatementTest.java:778)30
+(test-src/org/hsqldb/jdbc/JDBCPreparedStatementTest.java:810)30
+  CloneClass 423 (Type 1)
+(src/org/hsqldb/cmdline/sqltool/SqlFileScanner.java:118)6
+(src/org/hsqldb/cmdline/sqltool/SqlFileScanner.java:220)6
+(src/org/hsqldb/cmdline/sqltool/SqlFileScanner.java:267)6
+  CloneClass 424 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:384)17
+(src/org/hsqldb/test/TestAllTypes.java:216)17
+  CloneClass 425 (Type 1)
+(src/org/hsqldb/RowAction.java:638)17
+(src/org/hsqldb/RowAction.java:712)17
+  CloneClass 427 (Type 1)
+(src/org/hsqldb/ParserRoutine.java:939)9
+(src/org/hsqldb/ParserRoutine.java:952)9
+  CloneClass 428 (Type 1)
+(src/org/hsqldb/Tokens.java:2067)359
+(doc-src/verbatim/src/org/hsqldb/Tokens.java:2067)359
+  CloneClass 429 (Type 1)
+(src/org/hsqldb/MasterTestSuite.java:211)100
+(test-src/org/hsqldb/HsqlDbMasterTestSuite.java:211)100
+  CloneClass 430 (Type 1)
+(src/org/hsqldb/Expression.java:893)10
+(src/org/hsqldb/ExpressionColumn.java:959)10
+  CloneClass 431 (Type 1)
+(src/org/hsqldb/QuerySpecification.java:1199)10
+(src/org/hsqldb/QuerySpecification.java:1216)10
+  CloneClass 432 (Type 1)
+(src/org/hsqldb/FunctionCustom.java:2438)9
+(src/org/hsqldb/FunctionCustom.java:2505)9
+(src/org/hsqldb/FunctionCustom.java:2545)9
+  CloneClass 433 (Type 1)
+(src/org/hsqldb/jdbc/JDBCResultSetMetaData.java:957)11
+(src/org/hsqldb/jdbc/JDBCParameterMetaData.java:364)11
+  CloneClass 434 (Type 1)
+(src/org/hsqldb/index/IndexAVL.java:704)10
+(src/org/hsqldb/index/IndexAVL.java:719)10
+  CloneClass 435 (Type 1)
+(src/org/hsqldb/TransactionManagerMV2PL.java:213)22
+(src/org/hsqldb/TransactionManagerMVCC.java:275)22
+  CloneClass 436 (Type 1)
+(src/org/hsqldb/types/ArrayType.java:105)8
+(src/org/hsqldb/types/ArrayType.java:119)8
+(src/org/hsqldb/types/ArrayType.java:133)8
+  CloneClass 437 (Type 1)
+(src/org/hsqldb/persist/LobStoreInJar.java:113)28
+(src/org/hsqldb/persist/ScaledRAFileInJar.java:218)28
+  CloneClass 439 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4646)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4975)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5104)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5564)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5652)8
+  CloneClass 440 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5610)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:8260)12
+  CloneClass 441 (Type 1)
+(src/org/hsqldb/test/TestJDBCSavepoints.java:151)34
+(src/org/hsqldb/test/TestJDBCSavepoints.java:502)19
+  CloneClass 442 (Type 1)
+(src/org/hsqldb/StatementProcedure.java:380)10
+(src/org/hsqldb/StatementExpression.java:186)11
+  CloneClass 443 (Type 1)
+(src/org/hsqldb/ParserCommand.java:569)11
+(src/org/hsqldb/ParserCommand.java:596)11
+(src/org/hsqldb/ParserCommand.java:1874)11
+  CloneClass 444 (Type 1)
+(test-src/org/hsqldb/server/OdbcPacketOutputStreamTest.java:286)6
+(test-src/org/hsqldb/server/OdbcPacketOutputStreamTest.java:313)6
+  CloneClass 445 (Type 1)
+(src/org/hsqldb/lib/ClosableByteArrayOutputStream.java:163)12
+(src/org/hsqldb/lib/ClosableCharArrayWriter.java:158)12
+  CloneClass 447 (Type 1)
+(src/org/hsqldb/StatementDMQL.java:635)14
+(src/org/hsqldb/StatementDMQL.java:675)14
+  CloneClass 448 (Type 1)
+(src/org/hsqldb/rights/Grantee.java:587)17
+(src/org/hsqldb/rights/Grantee.java:606)17
+  CloneClass 449 (Type 1)
+(src/org/hsqldb/test/TestLobs.java:413)15
+(src/org/hsqldb/test/TestLobs.java:439)15
+  CloneClass 450 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCResultSetTest.java:387)22
+(test-src/org/hsqldb/jdbc/JDBCResultSetTest.java:423)21
+(test-src/org/hsqldb/jdbc/JDBCResultSetTest.java:461)21
+  CloneClass 451 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:96)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:115)5
+  CloneClass 452 (Type 1)
+(src/org/hsqldb/store/BaseHashMap.java:394)12
+(src/org/hsqldb/store/BaseHashMap.java:444)13
+  CloneClass 453 (Type 1)
+(src/org/hsqldb/ExpressionArithmetic.java:214)16
+(src/org/hsqldb/ExpressionOp.java:291)16
+(src/org/hsqldb/ExpressionLogical.java:607)16
+  CloneClass 455 (Type 1)
+(src/org/hsqldb/sample/TriggerSample.java:410)30
+(doc-src/verbatim/src/org/hsqldb/sample/TriggerSample.java:410)30
+  CloneClass 456 (Type 1)
+(src/org/hsqldb/TransactionManagerMV2PL.java:213)9
+(src/org/hsqldb/TransactionManagerMVCC.java:275)9
+(src/org/hsqldb/TransactionManager2PL.java:164)9
+  CloneClass 457 (Type 1)
+(src/org/hsqldb/test/TestBench.java:629)21
+(src/org/hsqldb/test/JDBCBench.java:730)21
+  CloneClass 458 (Type 1)
+(src/org/hsqldb/util/Tree.java:350)16
+(src/org/hsqldb/util/Tree.java:480)16
+  CloneClass 459 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:176)13
+(src/org/hsqldb/index/NodeAVLDisk.java:220)13
+  CloneClass 460 (Type 1)
+(src/org/hsqldb/test/TestOdbcTypes.java:152)17
+(src/org/hsqldb/test/TestOdbcTypes.java:182)17
+(src/org/hsqldb/test/TestOdbcTypes.java:212)17
+(src/org/hsqldb/test/TestOdbcTypes.java:241)17
+(src/org/hsqldb/test/TestOdbcTypes.java:305)17
+(src/org/hsqldb/test/TestOdbcTypes.java:334)17
+(src/org/hsqldb/test/TestOdbcTypes.java:363)17
+(src/org/hsqldb/test/TestOdbcTypes.java:392)17
+(src/org/hsqldb/test/TestOdbcTypes.java:421)17
+(src/org/hsqldb/test/TestOdbcTypes.java:451)17
+(src/org/hsqldb/test/TestOdbcTypes.java:481)17
+(src/org/hsqldb/test/TestOdbcTypes.java:512)17
+(src/org/hsqldb/test/TestOdbcTypes.java:541)17
+(src/org/hsqldb/test/TestOdbcTypes.java:603)17
+(src/org/hsqldb/test/TestOdbcTypes.java:633)17
+(src/org/hsqldb/test/TestOdbcTypes.java:662)17
+(src/org/hsqldb/test/TestOdbcTypes.java:690)17
+(src/org/hsqldb/test/TestOdbcTypes.java:723)16
+(src/org/hsqldb/test/TestOdbcTypes.java:758)17
+(src/org/hsqldb/test/TestOdbcTypes.java:794)19
+(src/org/hsqldb/test/TestOdbcTypes.java:827)19
+  CloneClass 461 (Type 1)
+(src/org/hsqldb/FunctionSQL.java:1359)18
+(src/org/hsqldb/FunctionSQL.java:1385)18
+  CloneClass 462 (Type 1)
+(src/org/hsqldb/ParserDDL.java:805)7
+(src/org/hsqldb/ParserDDL.java:845)7
+  CloneClass 464 (Type 1)
+(src/org/hsqldb/ParserRoutine.java:1339)12
+(src/org/hsqldb/ParserRoutine.java:1715)12
+(src/org/hsqldb/ParserRoutine.java:1757)12
+(src/org/hsqldb/ParserRoutine.java:1789)12
+(src/org/hsqldb/ParserRoutine.java:1841)12
+  CloneClass 465 (Type 1)
+(src/org/hsqldb/StatementSchema.java:941)4
+(src/org/hsqldb/StatementSchema.java:951)4
+  CloneClass 466 (Type 1)
+(src/org/hsqldb/StatementExpression.java:95)23
+(src/org/hsqldb/StatementSet.java:129)23
+  CloneClass 467 (Type 1)
+(src/org/hsqldb/StatementSchema.java:1176)8
+(src/org/hsqldb/SchemaManager.java:990)7
+  CloneClass 468 (Type 1)
+(src/org/hsqldb/server/OdbcUtil.java:256)10
+(src/org/hsqldb/server/OdbcUtil.java:268)10
+  CloneClass 469 (Type 1)
+(src/org/hsqldb/jdbc/JDBCClobFile.java:733)15
+(src/org/hsqldb/jdbc/JDBCBlobFile.java:618)15
+  CloneClass 470 (Type 1)
+(src/org/hsqldb/Scanner.java:1876)13
+(src/org/hsqldb/Scanner.java:1908)13
+  CloneClass 471 (Type 1)
+(src/org/hsqldb/test/TestOdbcTypes.java:143)7
+(src/org/hsqldb/test/TestOdbcTypes.java:172)7
+(src/org/hsqldb/test/TestOdbcTypes.java:202)7
+  CloneClass 472 (Type 1)
+(src/org/hsqldb/ParserRoutine.java:453)9
+(src/org/hsqldb/ParserDML.java:563)9
+  CloneClass 473 (Type 1)
+(src/org/hsqldb/lib/tar/TarReader.java:99)11
+(src/org/hsqldb/lib/tar/DbBackup.java:141)11
+  CloneClass 474 (Type 1)
+(src/org/hsqldb/TriggerDef.java:318)3
+(src/org/hsqldb/TriggerDef.java:325)3
+  CloneClass 475 (Type 1)
+(src/org/hsqldb/persist/Logger.java:1649)6
+(src/org/hsqldb/persist/Logger.java:1656)6
+  CloneClass 476 (Type 1)
+(src/org/hsqldb/test/TestTextTables.java:208)12
+(src/org/hsqldb/test/TestTextTables.java:225)11
+  CloneClass 477 (Type 1)
+(src/org/hsqldb/Scanner.java:1547)17
+(src/org/hsqldb/Scanner.java:1595)17
+  CloneClass 478 (Type 1)
+(src/org/hsqldb/test/TestBase.java:157)13
+(doc-src/verbatim/src/org/hsqldb/test/TestBase.java:157)13
+  CloneClass 479 (Type 1)
+(src/org/hsqldb/StatementDML.java:1185)10
+(src/org/hsqldb/StatementCommand.java:1116)10
+  CloneClass 480 (Type 1)
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:156)18
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:207)18
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:259)18
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:532)18
+  CloneClass 481 (Type 1)
+(src/org/hsqldb/jdbc/JDBCResultSet.java:460)13
+(src/org/hsqldb/jdbc/JDBCResultSet.java:784)13
+  CloneClass 482 (Type 1)
+(src/org/hsqldb/types/NumberType.java:1456)12
+(src/org/hsqldb/types/NumberType.java:1505)12
+(src/org/hsqldb/types/NumberType.java:1553)12
+(src/org/hsqldb/types/NumberType.java:1604)12
+  CloneClass 483 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:456)12
+(src/org/hsqldb/index/NodeAVLDisk.java:475)12
+  CloneClass 484 (Type 1)
+(src/org/hsqldb/jdbc/JDBCCallableStatement.java:980)21
+(src/org/hsqldb/jdbc/JDBCResultSet.java:1986)21
+  CloneClass 485 (Type 1)
+(src/org/hsqldb/index/IndexAVL.java:909)11
+(src/org/hsqldb/index/IndexAVLMemory.java:220)11
+  CloneClass 486 (Type 1)
+(src/org/hsqldb/jdbc/JDBCClobFile.java:946)14
+(src/org/hsqldb/jdbc/JDBCClobClient.java:744)15
+  CloneClass 487 (Type 1)
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:158)14
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:209)14
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:261)14
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:313)14
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:353)14
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:424)14
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:482)14
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:534)14
+  CloneClass 488 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:250)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:268)6
+  CloneClass 489 (Type 1)
+(src/org/hsqldb/jdbc/JDBCPreparedStatement.java:4009)10
+(src/org/hsqldb/jdbc/JDBCPreparedStatement.java:4029)10
+  CloneClass 490 (Type 1)
+(src/org/hsqldb/cmdline/SqlFile.java:6284)8
+(src/org/hsqldb/cmdline/SqlFile.java:6323)7
+  CloneClass 491 (Type 1)
+(src/org/hsqldb/RangeVariableJoined.java:98)13
+(src/org/hsqldb/RangeVariable.java:206)13
+  CloneClass 492 (Type 1)
+(src/org/hsqldb/test/TestBench.java:105)13
+(src/org/hsqldb/test/JDBCBench.java:93)13
+  CloneClass 493 (Type 1)
+(src/org/hsqldb/Expression.java:1027)10
+(src/org/hsqldb/Expression.java:1041)10
+(src/org/hsqldb/ExpressionArithmetic.java:238)9
+(src/org/hsqldb/ExpressionOp.java:322)9
+  CloneClass 494 (Type 1)
+(src/org/hsqldb/persist/HsqlProperties.java:502)5
+(src/org/hsqldb/persist/HsqlProperties.java:534)5
+  CloneClass 495 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:232)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:259)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:277)5
+  CloneClass 496 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:169)10
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:191)10
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:213)10
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:260)10
+  CloneClass 497 (Type 1)
+(src/org/hsqldb/test/TestBench.java:355)6
+(src/org/hsqldb/test/JDBCBench.java:371)6
+  CloneClass 499 (Type 1)
+(src/org/hsqldb/persist/LobManager.java:1126)7
+(src/org/hsqldb/persist/LobManager.java:1161)7
+  CloneClass 500 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7960)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:8210)7
+  CloneClass 501 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:763)20
+(src/org/hsqldb/test/TestCacheSize.java:809)20
+(src/org/hsqldb/test/TestCacheSize.java:851)20
+  CloneClass 502 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:572)6
+(src/org/hsqldb/test/TestCacheSize.java:607)6
+(src/org/hsqldb/test/TestAllTypes.java:347)6
+  CloneClass 504 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6727)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7346)12
+  CloneClass 505 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCResultSetTest.java:423)21
+(test-src/org/hsqldb/jdbc/JDBCResultSetTest.java:461)21
+  CloneClass 506 (Type 1)
+(src/org/hsqldb/ParserDQL.java:2748)21
+(src/org/hsqldb/ParserDQL.java:3151)24
+  CloneClass 508 (Type 1)
+(src/org/hsqldb/StatementExpression.java:120)13
+(src/org/hsqldb/StatementSet.java:273)13
+(src/org/hsqldb/StatementSimple.java:106)13
+(src/org/hsqldb/StatementCompound.java:201)13
+  CloneClass 509 (Type 1)
+(src/org/hsqldb/cmdline/SqlFile.java:2299)12
+(src/org/hsqldb/cmdline/SqlFile.java:2769)11
+  CloneClass 510 (Type 1)
+(src/org/hsqldb/FunctionCustom.java:2394)9
+(src/org/hsqldb/FunctionCustom.java:2407)9
+  CloneClass 511 (Type 1)
+(test-src/org/hsqldb/server/OdbcPacketInputStreamTest.java:55)8
+(test-src/org/hsqldb/server/OdbcPacketOutputStreamTest.java:61)8
+  CloneClass 512 (Type 1)
+(src/org/hsqldb/MasterTestSuite.java:619)29
+(test-src/org/hsqldb/HsqlDbMasterTestSuite.java:619)29
+  CloneClass 513 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:728)13
+(src/org/hsqldb/test/TestCacheSize.java:770)13
+(src/org/hsqldb/test/TestCacheSize.java:816)13
+(src/org/hsqldb/test/TestCacheSize.java:858)13
+  CloneClass 514 (Type 1)
+(src/org/hsqldb/types/NumberType.java:1175)12
+(src/org/hsqldb/types/NumberType.java:1199)12
+  CloneClass 515 (Type 1)
+(src/org/hsqldb/jdbc/JDBCPreparedStatement.java:1287)12
+(src/org/hsqldb/jdbc/JDBCPreparedStatement.java:1378)12
+  CloneClass 516 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5041)13
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6762)14
+  CloneClass 517 (Type 1)
+(src/org/hsqldb/ParserRoutine.java:506)10
+(src/org/hsqldb/ParserDML.java:561)10
+  CloneClass 520 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2016)12
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2137)12
+  CloneClass 522 (Type 1)
+(src/org/hsqldb/Expression.java:582)11
+(src/org/hsqldb/Expression.java:669)11
+  CloneClass 523 (Type 1)
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:194)14
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:249)14
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:270)14
+  CloneClass 524 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:245)10
+(src/org/hsqldb/test/TestAllTypes.java:157)9
+  CloneClass 525 (Type 1)
+(src/org/hsqldb/SchemaManager.java:946)16
+(src/org/hsqldb/TableWorks.java:902)16
+  CloneClass 526 (Type 1)
+(src/org/hsqldb/jdbc/pool/JDBCXADataSource.java:136)12
+(src/org/hsqldb/jdbc/pool/JDBCPooledDataSource.java:99)12
+(src/org/hsqldb/jdbc/JDBCDataSource.java:256)12
+  CloneClass 527 (Type 1)
+(src/org/hsqldb/lib/RefCapablePropertyResourceBundle.java:222)16
+(src/org/hsqldb/lib/RefCapablePropertyResourceBundle.java:270)16
+  CloneClass 528 (Type 1)
+(src/org/hsqldb/ParserDML.java:718)21
+(src/org/hsqldb/ParserDML.java:761)20
+  CloneClass 529 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:8144)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:8263)12
+  CloneClass 530 (Type 1)
+(src/org/hsqldb/cmdline/SqlFile.java:2331)5
+(src/org/hsqldb/cmdline/SqlFile.java:2372)7
+(src/org/hsqldb/cmdline/SqlFile.java:2744)5
+  CloneClass 531 (Type 1)
+(src/org/hsqldb/util/ConnectionDialogSwing.java:357)9
+(src/org/hsqldb/util/ConnectionDialog.java:156)9
+  CloneClass 532 (Type 1)
+(src/org/hsqldb/lib/ArrayUtil.java:1456)5
+(src/org/hsqldb/lib/ArrayUtil.java:1479)5
+(src/org/hsqldb/lib/ArrayUtil.java:1500)5
+  CloneClass 533 (Type 1)
+(src/org/hsqldb/ParserDQL.java:2591)14
+(src/org/hsqldb/ParserDQL.java:2706)14
+  CloneClass 534 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:541)3
+(src/org/hsqldb/test/TestAllTypes.java:328)3
+(src/org/hsqldb/test/TestAllTypes.java:350)3
+  CloneClass 535 (Type 1)
+(src/org/hsqldb/types/Charset.java:144)9
+(src/org/hsqldb/types/Charset.java:166)9
+  CloneClass 536 (Type 1)
+(src/org/hsqldb/util/DatabaseManager.java:475)14
+(src/org/hsqldb/util/Transfer.java:409)14
+  CloneClass 538 (Type 1)
+(src/org/hsqldb/MasterTestSuite.java:109)100
+(test-src/org/hsqldb/HsqlDbMasterTestSuite.java:109)100
+  CloneClass 539 (Type 1)
+(src/org/hsqldb/rights/Grantee.java:530)11
+(src/org/hsqldb/rights/Grantee.java:549)11
+(src/org/hsqldb/rights/Grantee.java:568)11
+(src/org/hsqldb/rights/Grantee.java:587)11
+(src/org/hsqldb/rights/Grantee.java:606)11
+(src/org/hsqldb/rights/Grantee.java:625)11
+  CloneClass 540 (Type 1)
+(src/org/hsqldb/store/BitMap.java:459)17
+(src/org/hsqldb/store/BitMap.java:482)17
+  CloneClass 541 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:1916)9
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:1949)9
+  CloneClass 542 (Type 1)
+(src/org/hsqldb/sample/TriggerSample.java:255)21
+(doc-src/verbatim/src/org/hsqldb/sample/TriggerSample.java:255)21
+  CloneClass 543 (Type 1)
+(src/org/hsqldb/jdbc/JDBCPool.java:223)5
+(src/org/hsqldb/jdbc/JDBCPool.java:235)5
+  CloneClass 544 (Type 1)
+(src/org/hsqldb/NumberSequence.java:333)35
+(src/org/hsqldb/NumberSequence.java:463)35
+(src/org/hsqldb/NumberSequence.java:504)35
+  CloneClass 545 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2639)26
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3389)25
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3731)21
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4339)28
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5919)26
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7881)23
+  CloneClass 546 (Type 1)
+(src/org/hsqldb/TransactionManagerCommon.java:565)14
+(src/org/hsqldb/TransactionManagerCommon.java:709)14
+  CloneClass 547 (Type 1)
+(src/org/hsqldb/rowio/RowInputTextLog.java:417)16
+(src/org/hsqldb/rowio/RowInputTextLog.java:455)16
+  CloneClass 548 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4989)17
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5577)17
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5747)16
+  CloneClass 549 (Type 1)
+(src/org/hsqldb/test/TestHashStructures.java:411)7
+(src/org/hsqldb/test/TestHashStructures.java:435)8
+  CloneClass 550 (Type 1)
+(src/org/hsqldb/MasterTestSuite.java:415)100
+(test-src/org/hsqldb/HsqlDbMasterTestSuite.java:415)100
+  CloneClass 551 (Type 1)
+(src/org/hsqldb/test/TestBench.java:834)21
+(src/org/hsqldb/test/JDBCBench.java:919)21
+  CloneClass 552 (Type 1)
+(src/org/hsqldb/store/BitMap.java:107)14
+(src/org/hsqldb/store/BitMap.java:131)14
+  CloneClass 553 (Type 1)
+(src/org/hsqldb/test/TestDatabaseMetaData.java:115)10
+(src/org/hsqldb/test/TestDatabaseMetaData.java:158)10
+  CloneClass 554 (Type 1)
+(src/org/hsqldb/jdbc/JDBCResultSet.java:4408)11
+(src/org/hsqldb/jdbc/JDBCResultSet.java:7609)11
+  CloneClass 555 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:3005)8
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:3425)7
+  CloneClass 556 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:572)6
+(src/org/hsqldb/test/TestAllTypes.java:347)6
+  CloneClass 557 (Type 1)
+(src/org/hsqldb/ExpressionAccessor.java:65)7
+(src/org/hsqldb/Expression.java:1029)8
+(src/org/hsqldb/Expression.java:1043)8
+(src/org/hsqldb/ExpressionArithmetic.java:240)7
+(src/org/hsqldb/ExpressionOp.java:324)7
+  CloneClass 558 (Type 1)
+(src/org/hsqldb/jdbc/JDBCResultSet.java:7278)16
+(src/org/hsqldb/jdbc/JDBCResultSet.java:7564)16
+  CloneClass 559 (Type 1)
+(src/org/hsqldb/FunctionSQL.java:1740)8
+(src/org/hsqldb/FunctionSQL.java:1764)7
+  CloneClass 560 (Type 1)
+(src/org/hsqldb/ParserDQL.java:2416)11
+(src/org/hsqldb/ParserDQL.java:3583)11
+  CloneClass 561 (Type 1)
+(src/org/hsqldb/StatementDML.java:1052)12
+(src/org/hsqldb/StatementDML.java:1288)12
+  CloneClass 562 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:241)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:268)5
+  CloneClass 563 (Type 1)
+(src/org/hsqldb/util/DatabaseManagerSwing.java:1888)5
+(src/org/hsqldb/util/DatabaseManagerSwing.java:1924)5
+  CloneClass 565 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCSQLXMLTest.java:212)14
+(test-src/org/hsqldb/jdbc/JDBCSQLXMLTest.java:266)14
+  CloneClass 566 (Type 1)
+(src/org/hsqldb/index/NodeAVLDisk.java:357)16
+(src/org/hsqldb/index/NodeAVLDisk.java:380)16
+(src/org/hsqldb/index/NodeAVLDisk.java:405)16
+  CloneClass 567 (Type 1)
+(src/org/hsqldb/sample/TriggerSample.java:388)20
+(doc-src/verbatim/src/org/hsqldb/sample/TriggerSample.java:388)20
+  CloneClass 569 (Type 1)
+(src/org/hsqldb/ParserDML.java:507)24
+(src/org/hsqldb/ParserDML.java:643)24
+  CloneClass 570 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7471)15
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7665)15
+  CloneClass 571 (Type 1)
+(src/org/hsqldb/jdbc/JDBCClob.java:612)14
+(src/org/hsqldb/jdbc/JDBCClob.java:712)14
+  CloneClass 574 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5666)16
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7760)16
+  CloneClass 575 (Type 1)
+(src/org/hsqldb/jdbc/JDBCCallableStatement.java:925)13
+(src/org/hsqldb/jdbc/JDBCResultSet.java:1679)13
+  CloneClass 576 (Type 1)
+(src/org/hsqldb/test/TestStoredProcedure.java:197)13
+(src/org/hsqldb/test/TestStoredProcedure.java:224)14
+(src/org/hsqldb/test/TestStoredProcedure.java:262)13
+  CloneClass 577 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:220)12
+(src/org/hsqldb/index/NodeAVLDisk.java:264)12
+  CloneClass 578 (Type 1)
+(src/org/hsqldb/ParserBase.java:773)9
+(src/org/hsqldb/ParserBase.java:800)9
+(src/org/hsqldb/ParserBase.java:818)9
+  CloneClass 579 (Type 1)
+(src/org/hsqldb/Constraint.java:332)6
+(src/org/hsqldb/Constraint.java:388)6
+  CloneClass 580 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2921)7
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:3348)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4561)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4738)7
+  CloneClass 581 (Type 1)
+(src/org/hsqldb/server/WebServer.java:184)16
+(src/org/hsqldb/server/Server.java:2508)16
+(doc-src/verbatim/src/org/hsqldb/server/WebServer.java:184)16
+  CloneClass 582 (Type 1)
+(src/org/hsqldb/StatementDML.java:553)16
+(src/org/hsqldb/StatementDML.java:779)16
+  CloneClass 583 (Type 1)
+(src/org/hsqldb/cmdline/SqlFile.java:2404)7
+(src/org/hsqldb/cmdline/SqlFile.java:2546)7
+(src/org/hsqldb/cmdline/SqlFile.java:2610)7
+  CloneClass 584 (Type 1)
+(test-src/org/hsqldb/jdbc/pool/JDBCXAResourceTest.java:150)9
+(test-src/org/hsqldb/jdbc/pool/JDBCXAResourceTest.java:192)8
+(test-src/org/hsqldb/jdbc/pool/JDBCXAResourceTest.java:230)8
+  CloneClass 585 (Type 1)
+(src/org/hsqldb/types/ClobType.java:121)14
+(src/org/hsqldb/types/BlobType.java:134)14
+(src/org/hsqldb/types/CharacterType.java:394)14
+  CloneClass 586 (Type 1)
+(src/org/hsqldb/TransactionManagerMV2PL.java:312)10
+(src/org/hsqldb/TransactionManagerMVCC.java:576)10
+  CloneClass 587 (Type 1)
+(src/org/hsqldb/lib/ArrayUtil.java:377)7
+(src/org/hsqldb/lib/ArrayUtil.java:397)8
+  CloneClass 588 (Type 1)
+(src/org/hsqldb/lib/ClosableByteArrayOutputStream.java:163)10
+(src/org/hsqldb/lib/ClosableCharArrayWriter.java:158)10
+(src/org/hsqldb/lib/ClosableCharArrayWriter.java:195)11
+  CloneClass 589 (Type 1)
+(src/org/hsqldb/StatementExpression.java:120)10
+(src/org/hsqldb/StatementSet.java:273)10
+(src/org/hsqldb/FunctionSQL.java:2090)10
+(src/org/hsqldb/StatementSimple.java:106)10
+(src/org/hsqldb/StatementCompound.java:201)10
+  CloneClass 590 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:188)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:195)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:204)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:213)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:222)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:232)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:241)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:250)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:259)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:268)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:277)5
+  CloneClass 591 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3566)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3590)12
+  CloneClass 592 (Type 1)
+(src/org/hsqldb/TransactionManagerMV2PL.java:134)22
+(src/org/hsqldb/TransactionManagerMVCC.java:187)22
+  CloneClass 593 (Type 1)
+(src/org/hsqldb/types/NumberType.java:1456)14
+(src/org/hsqldb/types/NumberType.java:1505)14
+(src/org/hsqldb/types/NumberType.java:1553)14
+  CloneClass 594 (Type 1)
+(src/org/hsqldb/store/ValuePoolHashMap.java:204)8
+(src/org/hsqldb/store/ValuePoolHashMap.java:249)8
+(src/org/hsqldb/store/ValuePoolHashMap.java:376)8
+  CloneClass 595 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:241)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:259)6
+  CloneClass 596 (Type 1)
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:221)21
+(src/org/hsqldb/persist/ScaledRAFileNIO.java:299)21
+  CloneClass 597 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:204)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:232)6
+  CloneClass 598 (Type 1)
+(src/org/hsqldb/cmdline/SqlFile.java:3325)4
+(src/org/hsqldb/cmdline/SqlFile.java:3427)4
+(src/org/hsqldb/cmdline/SqlFile.java:3534)4
+  CloneClass 599 (Type 1)
+(src/org/hsqldb/test/TestINPredicateParameterizationAndCorrelation.java:120)15
+(src/org/hsqldb/test/TestINPredicateParameterizationAndCorrelation.java:136)15
+  CloneClass 601 (Type 1)
+(src/org/hsqldb/TableWorks.java:617)11
+(src/org/hsqldb/TableWorks.java:660)11
+(src/org/hsqldb/TableWorks.java:685)11
+  CloneClass 602 (Type 1)
+(src/org/hsqldb/types/DateTimeType.java:641)10
+(src/org/hsqldb/types/DateTimeType.java:675)10
+  CloneClass 603 (Type 1)
+(src/org/hsqldb/index/NodeAVLDisk.java:213)10
+(src/org/hsqldb/index/NodeAVLDisk.java:235)10
+(src/org/hsqldb/index/NodeAVLDisk.java:257)10
+(src/org/hsqldb/index/NodeAVLDisk.java:304)10
+  CloneClass 604 (Type 1)
+(src/org/hsqldb/util/DatabaseManagerSwing.java:942)20
+(src/org/hsqldb/util/DatabaseManagerSwing.java:1140)22
+  CloneClass 605 (Type 1)
+(src/org/hsqldb/test/TestJDBCGeneratedColumns.java:196)11
+(src/org/hsqldb/test/TestJDBCGeneratedColumns.java:213)11
+  CloneClass 606 (Type 1)
+(src/org/hsqldb/test/TestLobs.java:113)21
+(src/org/hsqldb/test/TestLobs.java:844)21
+  CloneClass 607 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCPreparedStatementTest.java:780)15
+(test-src/org/hsqldb/jdbc/JDBCPreparedStatementTest.java:814)13
+(test-src/org/hsqldb/jdbc/JDBCResultSetTest.java:822)13
+  CloneClass 608 (Type 1)
+(test-src/org/hsqldb/auth/SlaveAuthBeanTest.java:79)8
+(test-src/org/hsqldb/auth/JaasAuthBeanTest.java:73)8
+  CloneClass 609 (Type 1)
+(src/org/hsqldb/test/TestOdbcTypes.java:870)16
+(src/org/hsqldb/test/TestOdbcTypes.java:910)16
+(src/org/hsqldb/test/TestOdbcTypes.java:951)16
+(src/org/hsqldb/test/TestOdbcTypes.java:991)16
+(src/org/hsqldb/test/TestOdbcTypes.java:1036)16
+(src/org/hsqldb/test/TestOdbcTypes.java:1076)16
+(src/org/hsqldb/test/TestOdbcTypes.java:1116)16
+(src/org/hsqldb/test/TestOdbcTypes.java:1156)16
+(src/org/hsqldb/test/TestOdbcTypes.java:1196)16
+(src/org/hsqldb/test/TestOdbcTypes.java:1278)16
+(src/org/hsqldb/test/TestOdbcTypes.java:1320)16
+(src/org/hsqldb/test/TestOdbcTypes.java:1367)16
+(src/org/hsqldb/test/TestOdbcTypes.java:1409)16
+(src/org/hsqldb/test/TestOdbcTypes.java:1537)15
+(src/org/hsqldb/test/TestOdbcTypes.java:1589)15
+  CloneClass 610 (Type 1)
+(src/org/hsqldb/StatementDML.java:1106)5
+(src/org/hsqldb/StatementDML.java:1313)5
+  CloneClass 611 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:204)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:250)5
+  CloneClass 612 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCConnectionTest.java:639)22
+(test-src/org/hsqldb/jdbc/JDBCConnectionTest.java:667)22
+  CloneClass 613 (Type 1)
+(src/org/hsqldb/util/TransferSQLText.java:374)11
+(src/org/hsqldb/util/TransferSQLText.java:702)11
+  CloneClass 614 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:286)10
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:341)10
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:371)10
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:418)10
+  CloneClass 615 (Type 1)
+(src/org/hsqldb/lib/IntKeyHashMap.java:83)10
+(src/org/hsqldb/lib/OrderedIntKeyHashMap.java:98)10
+(src/org/hsqldb/lib/HashMap.java:96)10
+  CloneClass 616 (Type 1)
+(test-src/org/hsqldb/jdbc/pool/JDBCXAConnectionWrapperTest.java:218)13
+(test-src/org/hsqldb/jdbc/pool/JDBCXAConnectionWrapperTest.java:248)13
+  CloneClass 617 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5384)14
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:8139)14
+  CloneClass 618 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3459)25
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4186)25
+  CloneClass 619 (Type 1)
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:156)20
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:207)20
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:259)20
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:311)20
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:351)20
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:480)20
+  CloneClass 620 (Type 1)
+(test-src/org/hsqldb/auth/SlaveAuthBeanTest.java:107)18
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:113)18
+(test-src/org/hsqldb/auth/JaasAuthBeanTest.java:136)18
+  CloneClass 622 (Type 1)
+(test-src/org/hsqldb/auth/SlaveAuthBeanTest.java:106)19
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:112)19
+  CloneClass 623 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCCallableStatementTest.java:441)10
+(test-src/org/hsqldb/jdbc/JDBCCallableStatementTest.java:542)7
+  CloneClass 624 (Type 1)
+(src/org/hsqldb/TransactionManagerMV2PL.java:454)14
+(src/org/hsqldb/TransactionManagerMVCC.java:716)14
+  CloneClass 625 (Type 1)
+(src/org/hsqldb/SchemaManager.java:2642)7
+(src/org/hsqldb/SchemaManager.java:2660)6
+(src/org/hsqldb/SchemaManager.java:2680)6
+  CloneClass 626 (Type 1)
+(src/org/hsqldb/persist/LobManager.java:430)12
+(src/org/hsqldb/persist/LobManager.java:455)12
+  CloneClass 627 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:720)8
+(src/org/hsqldb/test/TestAllTypes.java:376)8
+  CloneClass 628 (Type 1)
+(src/org/hsqldb/ExpressionArrayAggregate.java:129)12
+(src/org/hsqldb/Expression.java:370)12
+(src/org/hsqldb/ExpressionArithmetic.java:154)12
+(src/org/hsqldb/ExpressionOp.java:248)12
+(src/org/hsqldb/ExpressionLogical.java:515)12
+(src/org/hsqldb/ExpressionAggregate.java:138)12
+(src/org/hsqldb/ExpressionValue.java:81)12
+  CloneClass 629 (Type 1)
+(src/org/hsqldb/SessionData.java:126)8
+(src/org/hsqldb/SessionData.java:163)8
+  CloneClass 630 (Type 1)
+(src/org/hsqldb/test/TestLibSpeed.java:152)5
+(src/org/hsqldb/test/TestLibSpeed.java:166)5
+(src/org/hsqldb/test/TestLibSpeed.java:179)5
+(src/org/hsqldb/test/TestLibSpeed.java:192)5
+(src/org/hsqldb/test/TestLibSpeed.java:206)5
+(src/org/hsqldb/test/TestLibSpeed.java:217)5
+  CloneClass 631 (Type 1)
+(src/org/hsqldb/sample/Testdb.java:109)13
+(doc-src/verbatim/src/org/hsqldb/sample/Testdb.java:109)13
+  CloneClass 632 (Type 1)
+(src/org/hsqldb/types/ClobDataID.java:72)16
+(src/org/hsqldb/types/BlobDataID.java:132)16
+  CloneClass 633 (Type 1)
+(src/org/hsqldb/rights/User.java:151)5
+(src/org/hsqldb/rights/User.java:170)5
+  CloneClass 634 (Type 1)
+(src/org/hsqldb/ParserDQL.java:2190)21
+(src/org/hsqldb/ParserDQL.java:2253)21
+  CloneClass 635 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:768)13
+(src/org/hsqldb/test/TestCacheSize.java:814)13
+(src/org/hsqldb/test/TestCacheSize.java:856)13
+(src/org/hsqldb/test/TestCacheSize.java:907)13
+(src/org/hsqldb/test/TestCacheSize.java:951)13
+  CloneClass 636 (Type 1)
+(src/org/hsqldb/types/NumberType.java:1484)8
+(src/org/hsqldb/types/NumberType.java:1531)8
+(src/org/hsqldb/types/NumberType.java:1583)8
+  CloneClass 638 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:753)9
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:948)9
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:1707)9
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2573)8
+  CloneClass 639 (Type 1)
+(src/org/hsqldb/jdbc/JDBCPreparedStatement.java:1924)26
+(src/org/hsqldb/jdbc/JDBCStatement.java:1096)26
+  CloneClass 640 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:213)11
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:260)11
+  CloneClass 641 (Type 1)
+(src/org/hsqldb/SessionData.java:229)9
+(src/org/hsqldb/SessionData.java:248)9
+  CloneClass 642 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:286)10
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:318)10
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:341)10
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:371)10
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:418)10
+  CloneClass 643 (Type 1)
+(src/org/hsqldb/types/BitType.java:451)21
+(src/org/hsqldb/types/BinaryType.java:609)22
+  CloneClass 644 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:341)16
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:371)16
+  CloneClass 645 (Type 1)
+(src/org/hsqldb/lib/ClosableByteArrayOutputStream.java:295)9
+(src/org/hsqldb/lib/ClosableCharArrayWriter.java:330)9
+  CloneClass 646 (Type 1)
+(src/org/hsqldb/jdbc/JDBCClobClient.java:367)14
+(src/org/hsqldb/jdbc/JDBCClobClient.java:489)14
+  CloneClass 647 (Type 1)
+(src/org/hsqldb/server/ServerConnection.java:674)15
+(src/org/hsqldb/server/ServerConnection.java:710)15
+  CloneClass 648 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:753)10
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:948)12
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2573)9
+  CloneClass 649 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:751)9
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:946)9
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:1705)9
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2726)8
+  CloneClass 650 (Type 1)
+(src/org/hsqldb/test/TestOdbcService.java:166)9
+(src/org/hsqldb/test/TestOdbcService.java:271)9
+(src/org/hsqldb/test/TestOdbcService.java:306)9
+  CloneClass 651 (Type 1)
+(src/org/hsqldb/cmdline/SqlFile.java:2578)4
+(src/org/hsqldb/cmdline/SqlFile.java:2950)5
+  CloneClass 652 (Type 1)
+(src/org/hsqldb/StatementDML.java:1245)6
+(src/org/hsqldb/StatementDML.java:1314)6
+  CloneClass 653 (Type 1)
+(src/org/hsqldb/test/TestBench.java:244)13
+(src/org/hsqldb/test/JDBCBench.java:225)13
+  CloneClass 654 (Type 1)
+(src/org/hsqldb/StatementCompound.java:496)34
+(src/org/hsqldb/StatementCompound.java:567)34
+  CloneClass 655 (Type 1)
+(src/org/hsqldb/rowio/RowOutputBase.java:256)11
+(src/org/hsqldb/rowio/RowOutputBinary.java:392)11
+(src/org/hsqldb/rowio/RowInputBase.java:226)11
+(src/org/hsqldb/types/IntervalType.java:150)11
+(src/org/hsqldb/types/IntervalType.java:176)11
+(src/org/hsqldb/types/IntervalType.java:461)11
+(src/org/hsqldb/types/IntervalType.java:661)11
+(src/org/hsqldb/types/IntervalType.java:837)11
+(src/org/hsqldb/types/IntervalType.java:888)10
+  CloneClass 656 (Type 1)
+(src/org/hsqldb/index/IndexAVL.java:1720)23
+(src/org/hsqldb/index/IndexAVL.java:1834)23
+  CloneClass 657 (Type 1)
+(src/org/hsqldb/lib/IntValueHashMap.java:92)10
+(src/org/hsqldb/lib/LongValueHashMap.java:91)10
+  CloneClass 658 (Type 1)
+(src/org/hsqldb/cmdline/SqlFile.java:954)19
+(src/org/hsqldb/cmdline/SqlFile.java:1006)18
+  CloneClass 659 (Type 1)
+(src/org/hsqldb/persist/RAShadowFile.java:277)10
+(src/org/hsqldb/lib/InputStreamWrapper.java:80)10
+  CloneClass 660 (Type 1)
+(src/org/hsqldb/persist/HsqlProperties.java:450)8
+(src/org/hsqldb/persist/HsqlProperties.java:464)8
+  CloneClass 661 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6220)10
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6259)10
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6298)9
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6335)9
+  CloneClass 662 (Type 1)
+(src/org/hsqldb/store/BaseHashMap.java:664)9
+(src/org/hsqldb/store/BaseHashMap.java:778)9
+  CloneClass 664 (Type 1)
+(src/org/hsqldb/TransactionManagerCommon.java:568)11
+(src/org/hsqldb/TransactionManagerCommon.java:712)11
+(src/org/hsqldb/TransactionManagerCommon.java:738)11
+  CloneClass 665 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:3348)13
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4738)15
+  CloneClass 666 (Type 1)
+(src/org/hsqldb/server/Server.java:395)9
+(src/org/hsqldb/server/Server.java:1442)7
+  CloneClass 667 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2605)62
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3358)58
+  CloneClass 668 (Type 1)
+(src/org/hsqldb/NumberSequence.java:95)26
+(src/org/hsqldb/NumberSequence.java:335)26
+(src/org/hsqldb/NumberSequence.java:465)26
+(src/org/hsqldb/NumberSequence.java:506)26
+  CloneClass 669 (Type 1)
+(src/org/hsqldb/Routine.java:1115)10
+(src/org/hsqldb/Routine.java:1246)10
+  CloneClass 670 (Type 1)
+(src/org/hsqldb/types/RowType.java:117)16
+(src/org/hsqldb/types/RowType.java:358)17
+(src/org/hsqldb/types/ArrayType.java:143)16
+  CloneClass 671 (Type 1)
+(src/org/hsqldb/jdbc/JDBCDatabaseMetaData.java:3941)10
+(src/org/hsqldb/jdbc/JDBCDatabaseMetaData.java:4057)10
+  CloneClass 672 (Type 1)
+(src/org/hsqldb/StatementDML.java:999)8
+(src/org/hsqldb/StatementDML.java:1227)8
+  CloneClass 673 (Type 1)
+(src/org/hsqldb/index/IndexAVL.java:668)17
+(src/org/hsqldb/index/IndexAVLMemory.java:154)17
+  CloneClass 675 (Type 1)
+(src/org/hsqldb/util/DatabaseManagerSwing.java:1099)7
+(src/org/hsqldb/util/DatabaseManager.java:584)7
+  CloneClass 676 (Type 1)
+(src/org/hsqldb/test/TestJDBCGeneratedColumns.java:213)9
+(src/org/hsqldb/test/TestJDBCGeneratedColumns.java:251)10
+  CloneClass 677 (Type 1)
+(src/org/hsqldb/test/TestHashStructures.java:321)7
+(src/org/hsqldb/test/TestHashStructures.java:337)7
+  CloneClass 678 (Type 1)
+(src/org/hsqldb/StatementExpression.java:135)19
+(src/org/hsqldb/StatementSet.java:288)19
+  CloneClass 679 (Type 1)
+(src/org/hsqldb/Tokens.java:2470)30
+(doc-src/verbatim/src/org/hsqldb/Tokens.java:2470)30
+  CloneClass 680 (Type 1)
+(src/org/hsqldb/StatementDMQL.java:636)14
+(src/org/hsqldb/StatementDMQL.java:652)14
+  CloneClass 681 (Type 1)
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:155)21
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:206)21
+  CloneClass 682 (Type 1)
+(src/org/hsqldb/ParserRoutine.java:1891)9
+(src/org/hsqldb/ParserRoutine.java:2020)9
+(src/org/hsqldb/ParserRoutine.java:2056)9
+  CloneClass 684 (Type 1)
+(src/org/hsqldb/result/ResultLob.java:574)18
+(src/org/hsqldb/result/ResultLob.java:630)18
+  CloneClass 686 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:198)13
+(src/org/hsqldb/index/NodeAVLDisk.java:242)13
+  CloneClass 687 (Type 1)
+(src/org/hsqldb/util/TransferTable.java:285)21
+(src/org/hsqldb/util/TransferTable.java:440)21
+  CloneClass 689 (Type 1)
+(src/org/hsqldb/ExpressionAccessor.java:77)8
+(src/org/hsqldb/ExpressionAggregate.java:224)8
+(src/org/hsqldb/ExpressionTable.java:97)8
+  CloneClass 690 (Type 1)
+(src/org/hsqldb/util/DatabaseManagerSwing.java:1072)7
+(src/org/hsqldb/util/DatabaseManager.java:564)6
+  CloneClass 691 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:593)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3522)12
+  CloneClass 692 (Type 1)
+(src/org/hsqldb/test/TestLikePredicateOptimizations.java:185)14
+(src/org/hsqldb/test/TestLikePredicateOptimizations.java:235)14
+  CloneClass 693 (Type 1)
+(src/org/hsqldb/jdbc/JDBCArray.java:257)11
+(src/org/hsqldb/jdbc/JDBCArrayBasic.java:246)11
+  CloneClass 694 (Type 1)
+(src/org/hsqldb/util/DatabaseManagerSwing.java:1894)13
+(src/org/hsqldb/util/DatabaseManager.java:1108)13
+  CloneClass 695 (Type 1)
+(src/org/hsqldb/index/IndexAVL.java:1560)22
+(src/org/hsqldb/index/IndexAVL.java:1585)22
+  CloneClass 696 (Type 1)
+(src/org/hsqldb/persist/RowStoreAVLDiskData.java:204)16
+(src/org/hsqldb/persist/RowStoreAVLMemory.java:173)16
+  CloneClass 697 (Type 1)
+(src/org/hsqldb/test/TestJDBCGeneratedColumns.java:45)16
+(src/org/hsqldb/test/TestJDBCGeneratedColumns.java:159)16
+  CloneClass 698 (Type 1)
+(src/org/hsqldb/persist/LobManager.java:213)16
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:128)15
+  CloneClass 699 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:222)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:250)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:268)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:277)6
+  CloneClass 700 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5627)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7093)13
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:8274)12
+  CloneClass 701 (Type 1)
+(src/org/hsqldb/jdbc/JDBCClobFile.java:221)18
+(src/org/hsqldb/jdbc/JDBCClobFile.java:503)18
+  CloneClass 702 (Type 1)
+(src/org/hsqldb/index/NodeAVLDisk.java:330)10
+(src/org/hsqldb/index/NodeAVLDisk.java:357)10
+(src/org/hsqldb/index/NodeAVLDisk.java:380)10
+(src/org/hsqldb/index/NodeAVLDisk.java:405)10
+  CloneClass 703 (Type 1)
+(src/org/hsqldb/TransactionManagerCommon.java:570)11
+(src/org/hsqldb/TransactionManagerCommon.java:600)11
+  CloneClass 704 (Type 1)
+(src/org/hsqldb/FunctionSQL.java:1312)7
+(src/org/hsqldb/FunctionSQL.java:1325)7
+(src/org/hsqldb/FunctionSQL.java:1338)7
+  CloneClass 705 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:1683)19
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4265)20
+  CloneClass 706 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2471)6
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3284)6
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3459)6
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4186)6
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5670)6
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7764)6
+  CloneClass 707 (Type 1)
+(src/org/hsqldb/sample/TriggerSample.java:442)33
+(doc-src/verbatim/src/org/hsqldb/sample/TriggerSample.java:442)33
+  CloneClass 708 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2921)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4561)15
+  CloneClass 709 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:763)23
+(src/org/hsqldb/test/TestCacheSize.java:809)23
+  CloneClass 710 (Type 1)
+(src/org/hsqldb/result/ResultLob.java:606)11
+(src/org/hsqldb/result/ResultLob.java:664)11
+  CloneClass 711 (Type 1)
+(src/org/hsqldb/types/ClobDataID.java:98)11
+(src/org/hsqldb/types/BlobDataID.java:58)11
+  CloneClass 712 (Type 1)
+(src/org/hsqldb/util/TransferTable.java:176)17
+(src/org/hsqldb/util/TransferTable.java:208)17
+(src/org/hsqldb/util/TransferTable.java:240)17
+(src/org/hsqldb/util/TransferTable.java:423)17
+  CloneClass 713 (Type 1)
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:207)21
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:259)21
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:311)21
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:351)21
+  CloneClass 714 (Type 1)
+(src/org/hsqldb/ParserRoutine.java:384)20
+(src/org/hsqldb/ParserRoutine.java:441)20
+  CloneClass 715 (Type 1)
+(src/org/hsqldb/types/DateTimeType.java:742)6
+(src/org/hsqldb/types/DateTimeType.java:791)6
+  CloneClass 717 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:232)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:259)6
+  CloneClass 720 (Type 1)
+(src/org/hsqldb/SchemaManager.java:1056)33
+(src/org/hsqldb/SchemaManager.java:1104)33
+  CloneClass 721 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6727)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6844)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6953)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7063)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7346)12
+  CloneClass 724 (Type 1)
+(src/org/hsqldb/test/TestUtil.java:991)19
+(src/org/hsqldb/test/TestUtil.java:1077)19
+(src/org/hsqldb/test/TestUtil.java:1299)19
+  CloneClass 725 (Type 1)
+(src/org/hsqldb/FunctionSQL.java:1359)9
+(src/org/hsqldb/FunctionSQL.java:1385)9
+(src/org/hsqldb/FunctionCustom.java:1920)9
+  CloneClass 726 (Type 1)
+(src/org/hsqldb/TransactionManagerMV2PL.java:415)15
+(src/org/hsqldb/TransactionManagerMVCC.java:683)15
+(src/org/hsqldb/TransactionManager2PL.java:276)15
+  CloneClass 727 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2479)9
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3470)9
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4197)9
+  CloneClass 728 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:691)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:707)8
+  CloneClass 729 (Type 1)
+(src/org/hsqldb/rights/User.java:80)5
+(src/org/hsqldb/rights/User.java:197)5
+(src/org/hsqldb/rights/User.java:217)5
+  CloneClass 731 (Type 1)
+(src/org/hsqldb/types/ClobDataID.java:220)11
+(src/org/hsqldb/types/BlobDataID.java:186)11
+  CloneClass 732 (Type 1)
+(src/org/hsqldb/ParserCommand.java:418)10
+(src/org/hsqldb/ParserCommand.java:1844)10
+  CloneClass 733 (Type 1)
+(src/org/hsqldb/RangeVariable.java:539)10
+(src/org/hsqldb/RangeVariable.java:583)10
+  CloneClass 734 (Type 1)
+(src/org/hsqldb/types/BinaryData.java:200)10
+(src/org/hsqldb/types/BlobDataID.java:228)10
+  CloneClass 736 (Type 1)
+(src/org/hsqldb/Tokens.java:1735)330
+(doc-src/verbatim/src/org/hsqldb/Tokens.java:1735)330
+  CloneClass 737 (Type 1)
+(src/org/hsqldb/SessionData.java:594)20
+(src/org/hsqldb/SessionData.java:636)20
+  CloneClass 738 (Type 1)
+(src/org/hsqldb/DatabaseManager.java:340)10
+(src/org/hsqldb/DatabaseManager.java:363)10
+(src/org/hsqldb/DatabaseManager.java:394)10
+  CloneClass 739 (Type 1)
+(src/org/hsqldb/types/CharacterType.java:918)10
+(src/org/hsqldb/types/CharacterType.java:940)10
+  CloneClass 740 (Type 1)
+(src/org/hsqldb/MasterTestSuite.java:7)100
+(test-src/org/hsqldb/HsqlDbMasterTestSuite.java:7)100
+  CloneClass 741 (Type 1)
+(src/org/hsqldb/TransactionManagerMV2PL.java:126)9
+(src/org/hsqldb/TransactionManagerMVCC.java:172)9
+(src/org/hsqldb/TransactionManager2PL.java:101)9
+  CloneClass 742 (Type 1)
+(src/org/hsqldb/FunctionCustom.java:2438)7
+(src/org/hsqldb/FunctionCustom.java:2505)7
+(src/org/hsqldb/FunctionCustom.java:2545)7
+(src/org/hsqldb/FunctionCustom.java:2616)7
+  CloneClass 743 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCNClobTest.java:135)12
+(test-src/org/hsqldb/jdbc/testbase/BaseClobTestCase.java:326)10
+  CloneClass 744 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:234)10
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:247)10
+  CloneClass 746 (Type 1)
+(src/org/hsqldb/lib/LongKeyHashMap.java:160)11
+(src/org/hsqldb/lib/IntKeyHashMapConcurrent.java:130)11
+  CloneClass 747 (Type 1)
+(test-src/org/hsqldb/server/ServerSuite.java:59)4
+(test-src/org/hsqldb/server/OdbcPacketInputStreamTest.java:105)4
+  CloneClass 748 (Type 1)
+(src/org/hsqldb/lib/HsqlDeque.java:242)10
+(src/org/hsqldb/lib/LongDeque.java:207)10
+(src/org/hsqldb/lib/LongDeque.java:270)10
+  CloneClass 749 (Type 1)
+(src/org/hsqldb/rights/Grantee.java:938)20
+(src/org/hsqldb/rights/Grantee.java:973)20
+  CloneClass 750 (Type 1)
+(src/org/hsqldb/SchemaManager.java:2250)15
+(src/org/hsqldb/SchemaManager.java:2266)15
+  CloneClass 751 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7494)15
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7689)15
+  CloneClass 752 (Type 1)
+(src/org/hsqldb/rowio/RowOutputBase.java:255)12
+(src/org/hsqldb/rowio/RowInputBase.java:225)12
+  CloneClass 753 (Type 1)
+(src/org/hsqldb/ParserCommand.java:568)16
+(src/org/hsqldb/ParserCommand.java:595)16
+  CloneClass 754 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5020)9
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6744)9
+  CloneClass 755 (Type 1)
+(src/org/hsqldb/lib/HsqlDeque.java:309)13
+(src/org/hsqldb/lib/LongDeque.java:301)13
+  CloneClass 756 (Type 1)
+(src/org/hsqldb/ExpressionArrayAggregate.java:167)14
+(src/org/hsqldb/ExpressionAggregate.java:208)14
+  CloneClass 757 (Type 1)
+(src/org/hsqldb/ParserDQL.java:981)18
+(src/org/hsqldb/ParserDQL.java:1073)20
+  CloneClass 759 (Type 1)
+(src/org/hsqldb/lib/KMPSearchAlgorithm.java:461)28
+(src/org/hsqldb/lib/KMPSearchAlgorithm.java:499)25
+  CloneClass 760 (Type 1)
+(src/org/hsqldb/cmdline/SqlFile.java:3321)9
+(src/org/hsqldb/cmdline/SqlFile.java:3423)9
+  CloneClass 761 (Type 1)
+(src/org/hsqldb/test/TestOdbcTypes.java:856)6
+(src/org/hsqldb/test/TestOdbcTypes.java:896)6
+(src/org/hsqldb/test/TestOdbcTypes.java:936)6
+(src/org/hsqldb/test/TestOdbcTypes.java:977)6
+(src/org/hsqldb/test/TestOdbcTypes.java:1022)6
+(src/org/hsqldb/test/TestOdbcTypes.java:1062)6
+(src/org/hsqldb/test/TestOdbcTypes.java:1102)6
+(src/org/hsqldb/test/TestOdbcTypes.java:1142)6
+(src/org/hsqldb/test/TestOdbcTypes.java:1182)6
+(src/org/hsqldb/test/TestOdbcTypes.java:1262)6
+(src/org/hsqldb/test/TestOdbcTypes.java:1306)6
+(src/org/hsqldb/test/TestOdbcTypes.java:1353)6
+(src/org/hsqldb/test/TestOdbcTypes.java:1395)6
+(src/org/hsqldb/test/TestOdbcTypes.java:1523)6
+(src/org/hsqldb/test/TestOdbcTypes.java:1575)6
+  CloneClass 762 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:195)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:204)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:232)6
+  CloneClass 763 (Type 1)
+(src/org/hsqldb/Expression.java:370)19
+(src/org/hsqldb/ExpressionArithmetic.java:154)19
+(src/org/hsqldb/ExpressionOp.java:248)19
+(src/org/hsqldb/ExpressionLogical.java:515)19
+  CloneClass 764 (Type 1)
+(src/org/hsqldb/types/NumberType.java:932)9
+(src/org/hsqldb/types/NumberType.java:1094)9
+(src/org/hsqldb/types/NumberType.java:1145)9
+  CloneClass 765 (Type 1)
+(src/org/hsqldb/sample/Testdb.java:124)24
+(doc-src/verbatim/src/org/hsqldb/sample/Testdb.java:124)24
+  CloneClass 767 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2606)59
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3359)55
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3704)48
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7851)53
+  CloneClass 768 (Type 1)
+(src/org/hsqldb/types/DateTimeType.java:265)32
+(src/org/hsqldb/types/DateTimeType.java:314)34
+  CloneClass 769 (Type 1)
+(src/org/hsqldb/test/TestBench.java:196)27
+(src/org/hsqldb/test/JDBCBench.java:181)27
+  CloneClass 771 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:1887)14
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2151)13
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2820)15
+  CloneClass 772 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCConnectionPrepareStatementTest.java:144)10
+(test-src/org/hsqldb/jdbc/JDBCConnectionPrepareCallTest.java:144)10
+  CloneClass 773 (Type 1)
+(src/org/hsqldb/jdbc/JDBCSQLXML.java:1505)11
+(src/org/hsqldb/jdbc/JDBCSQLXML.java:1588)11
+  CloneClass 774 (Type 1)
+(src/org/hsqldb/TransactionManagerMV2PL.java:413)29
+(src/org/hsqldb/TransactionManager2PL.java:274)30
+  CloneClass 775 (Type 1)
+(src/org/hsqldb/test/TestOdbcTypes.java:152)18
+(src/org/hsqldb/test/TestOdbcTypes.java:182)18
+(src/org/hsqldb/test/TestOdbcTypes.java:212)18
+(src/org/hsqldb/test/TestOdbcTypes.java:241)18
+(src/org/hsqldb/test/TestOdbcTypes.java:363)18
+(src/org/hsqldb/test/TestOdbcTypes.java:392)18
+(src/org/hsqldb/test/TestOdbcTypes.java:421)18
+(src/org/hsqldb/test/TestOdbcTypes.java:451)18
+(src/org/hsqldb/test/TestOdbcTypes.java:481)18
+(src/org/hsqldb/test/TestOdbcTypes.java:512)18
+(src/org/hsqldb/test/TestOdbcTypes.java:541)18
+(src/org/hsqldb/test/TestOdbcTypes.java:603)18
+(src/org/hsqldb/test/TestOdbcTypes.java:633)18
+(src/org/hsqldb/test/TestOdbcTypes.java:662)18
+(src/org/hsqldb/test/TestOdbcTypes.java:690)18
+(src/org/hsqldb/test/TestOdbcTypes.java:794)20
+(src/org/hsqldb/test/TestOdbcTypes.java:827)20
+  CloneClass 776 (Type 1)
+(src/org/hsqldb/lib/ArrayUtil.java:536)18
+(src/org/hsqldb/lib/ArrayUtil.java:560)18
+  CloneClass 777 (Type 1)
+(src/org/hsqldb/test/TestOdbcTypes.java:1140)8
+(src/org/hsqldb/test/TestOdbcTypes.java:1180)8
+  CloneClass 778 (Type 1)
+(src/org/hsqldb/lib/IntValueHashMap.java:76)10
+(src/org/hsqldb/lib/LongValueHashMap.java:75)10
+  CloneClass 779 (Type 1)
+(test-src/org/hsqldb/jdbc/pool/JDBCXAConnectionWrapperTest.java:130)11
+(test-src/org/hsqldb/jdbc/pool/JDBCXAConnectionWrapperTest.java:158)11
+  CloneClass 780 (Type 1)
+(src/org/hsqldb/rights/Grantee.java:485)13
+(src/org/hsqldb/rights/Grantee.java:508)13
+  CloneClass 781 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2639)30
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4339)32
+  CloneClass 782 (Type 1)
+(src/org/hsqldb/types/BitType.java:444)26
+(src/org/hsqldb/types/CharacterType.java:865)26
+  CloneClass 783 (Type 1)
+(src/org/hsqldb/result/ResultLob.java:648)9
+(src/org/hsqldb/result/ResultLob.java:675)7
+  CloneClass 784 (Type 1)
+(src/org/hsqldb/test/TestLibSpeed.java:140)4
+(src/org/hsqldb/test/TestLibSpeed.java:153)4
+(src/org/hsqldb/test/TestLibSpeed.java:167)4
+(src/org/hsqldb/test/TestLibSpeed.java:180)4
+(src/org/hsqldb/test/TestLibSpeed.java:193)4
+(src/org/hsqldb/test/TestLibSpeed.java:207)4
+(src/org/hsqldb/test/TestLibSpeed.java:218)4
+  CloneClass 785 (Type 1)
+(src/org/hsqldb/test/TestBench.java:323)13
+(src/org/hsqldb/test/JDBCBench.java:336)13
+  CloneClass 786 (Type 1)
+(src/org/hsqldb/FunctionSQL.java:1276)12
+(src/org/hsqldb/FunctionSQL.java:1300)12
+  CloneClass 787 (Type 1)
+(src/org/hsqldb/cmdline/SqlFile.java:2340)4
+(src/org/hsqldb/cmdline/SqlFile.java:2384)7
+(src/org/hsqldb/cmdline/SqlFile.java:2758)3
+  CloneClass 789 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2005)10
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2025)9
+  CloneClass 790 (Type 1)
+(src/org/hsqldb/cmdline/SqlFile.java:6003)8
+(src/org/hsqldb/cmdline/SqlFile.java:6032)8
+  CloneClass 791 (Type 1)
+(src/org/hsqldb/test/TestDateTime.java:175)17
+(src/org/hsqldb/test/TestDateTime.java:270)17
+  CloneClass 792 (Type 1)
+(src/org/hsqldb/StatementSchema.java:687)5
+(src/org/hsqldb/StatementSchema.java:731)5
+  CloneClass 793 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2609)58
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3362)54
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5889)58
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7854)52
+  CloneClass 794 (Type 1)
+(test-src/org/hsqldb/jdbc/testbase/BaseArrayTestCase.java:203)4
+(test-src/org/hsqldb/jdbc/testbase/BaseArrayTestCase.java:280)4
+(test-src/org/hsqldb/jdbc/testbase/BaseArrayTestCase.java:311)4
+(test-src/org/hsqldb/jdbc/testbase/BaseArrayTestCase.java:360)4
+(test-src/org/hsqldb/jdbc/testbase/BaseArrayTestCase.java:391)4
+  CloneClass 795 (Type 1)
+(src/org/hsqldb/test/TestBench.java:877)28
+(src/org/hsqldb/test/JDBCBench.java:964)28
+  CloneClass 796 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:401)15
+(src/org/hsqldb/index/NodeAVLDisk.java:430)15
+  CloneClass 797 (Type 1)
+(src/org/hsqldb/lib/ArrayUtil.java:467)4
+(src/org/hsqldb/lib/ArrayUtil.java:499)4
+  CloneClass 798 (Type 1)
+(src/org/hsqldb/Expression.java:1139)13
+(src/org/hsqldb/ExpressionArithmetic.java:252)13
+  CloneClass 799 (Type 1)
+(src/org/hsqldb/SchemaManager.java:1166)11
+(src/org/hsqldb/SchemaManager.java:1192)10
+(src/org/hsqldb/SchemaManager.java:1217)10
+(src/org/hsqldb/SchemaManager.java:1242)11
+  CloneClass 800 (Type 1)
+(src/org/hsqldb/SchemaManager.java:1551)9
+(src/org/hsqldb/SchemaManager.java:1563)10
+  CloneClass 801 (Type 1)
+(src/org/hsqldb/test/TestBench.java:117)21
+(src/org/hsqldb/test/JDBCBench.java:117)21
+  CloneClass 802 (Type 1)
+(src/org/hsqldb/QueryExpression.java:756)10
+(src/org/hsqldb/QuerySpecification.java:1892)10
+  CloneClass 803 (Type 1)
+(src/org/hsqldb/jdbc/JDBCClobFile.java:1081)14
+(src/org/hsqldb/jdbc/JDBCBlobFile.java:861)14
+  CloneClass 804 (Type 1)
+(test-src/org/hsqldb/jdbc/pool/JDBCXAConnectionTest.java:107)8
+(test-src/org/hsqldb/jdbc/pool/JDBCXAConnectionTest.java:178)7
+  CloneClass 805 (Type 1)
+(test-src/org/hsqldb/auth/SlaveAuthBeanTest.java:169)10
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:156)10
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:207)10
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:259)10
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:532)10
+(test-src/org/hsqldb/auth/JaasAuthBeanTest.java:188)10
+(test-src/org/hsqldb/auth/JaasAuthBeanTest.java:238)10
+  CloneClass 806 (Type 1)
+(src/org/hsqldb/store/ValuePoolHashMap.java:204)27
+(src/org/hsqldb/store/ValuePoolHashMap.java:249)27
+  CloneClass 807 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2984)10
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:3408)10
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5161)10
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7476)10
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7670)10
+  CloneClass 808 (Type 1)
+(src/org/hsqldb/util/DatabaseManagerSwing.java:2135)26
+(src/org/hsqldb/util/DatabaseManagerSwing.java:2173)26
+  CloneClass 809 (Type 1)
+(src/org/hsqldb/types/NumberType.java:1093)11
+(src/org/hsqldb/types/NumberType.java:1144)11
+  CloneClass 810 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3296)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3476)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4203)8
+  CloneClass 811 (Type 1)
+(src/org/hsqldb/jdbc/JDBCPreparedStatement.java:1638)20
+(src/org/hsqldb/jdbc/JDBCPreparedStatement.java:1713)20
+  CloneClass 812 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5384)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6861)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:8139)7
+  CloneClass 813 (Type 1)
+(src/org/hsqldb/StatementDMQL.java:327)11
+(src/org/hsqldb/StatementProcedure.java:299)11
+(src/org/hsqldb/StatementExpression.java:100)11
+(src/org/hsqldb/StatementSet.java:134)11
+  CloneClass 814 (Type 1)
+(src/org/hsqldb/util/TransferSQLText.java:387)17
+(src/org/hsqldb/util/TransferSQLText.java:713)17
+  CloneClass 815 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3284)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3459)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4186)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5670)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7764)12
+  CloneClass 816 (Type 1)
+(test-src/org/hsqldb/jdbc/testbase/BaseArrayTestCase.java:276)9
+(test-src/org/hsqldb/jdbc/testbase/BaseArrayTestCase.java:307)9
+  CloneClass 817 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3281)15
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3456)15
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5667)15
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7761)15
+  CloneClass 819 (Type 1)
+(src/org/hsqldb/test/TestOdbcTypes.java:152)18
+(src/org/hsqldb/test/TestOdbcTypes.java:182)18
+(src/org/hsqldb/test/TestOdbcTypes.java:212)18
+(src/org/hsqldb/test/TestOdbcTypes.java:241)18
+(src/org/hsqldb/test/TestOdbcTypes.java:305)18
+(src/org/hsqldb/test/TestOdbcTypes.java:334)18
+(src/org/hsqldb/test/TestOdbcTypes.java:363)18
+(src/org/hsqldb/test/TestOdbcTypes.java:392)18
+(src/org/hsqldb/test/TestOdbcTypes.java:421)18
+(src/org/hsqldb/test/TestOdbcTypes.java:451)18
+(src/org/hsqldb/test/TestOdbcTypes.java:481)18
+(src/org/hsqldb/test/TestOdbcTypes.java:512)18
+(src/org/hsqldb/test/TestOdbcTypes.java:541)18
+(src/org/hsqldb/test/TestOdbcTypes.java:603)18
+(src/org/hsqldb/test/TestOdbcTypes.java:633)18
+(src/org/hsqldb/test/TestOdbcTypes.java:662)18
+(src/org/hsqldb/test/TestOdbcTypes.java:690)18
+(src/org/hsqldb/test/TestOdbcTypes.java:794)20
+(src/org/hsqldb/test/TestOdbcTypes.java:827)20
+  CloneClass 820 (Type 1)
+(src/org/hsqldb/index/NodeAVLDisk.java:330)10
+(src/org/hsqldb/index/NodeAVLDisk.java:380)10
+(src/org/hsqldb/index/NodeAVLDisk.java:405)10
+  CloneClass 821 (Type 1)
+(src/org/hsqldb/test/TestSqlPersistent.java:434)131
+(src/org/hsqldb/test/TestSql.java:359)131
+  CloneClass 822 (Type 1)
+(src/org/hsqldb/SchemaManager.java:2533)12
+(src/org/hsqldb/SchemaManager.java:2691)12
+  CloneClass 823 (Type 1)
+(src/org/hsqldb/lib/HsqlDeque.java:242)11
+(src/org/hsqldb/lib/LongDeque.java:207)11
+  CloneClass 824 (Type 1)
+(doc-src/verbatim/src/org/hsqldb/Trigger.java:83)45
+(src/org/hsqldb/Trigger.java:83)45
+  CloneClass 825 (Type 1)
+(src/org/hsqldb/types/TimestampData.java:95)15
+(src/org/hsqldb/types/TimeData.java:93)15
+  CloneClass 826 (Type 1)
+(test-src/org/hsqldb/testbase/BaseTestCase.java:1216)5
+(test-src/org/hsqldb/testbase/BaseTestCase.java:1231)5
+  CloneClass 827 (Type 1)
+(src/org/hsqldb/util/Grid.java:187)17
+(src/org/hsqldb/util/Tree.java:171)16
+  CloneClass 828 (Type 1)
+(test-src/org/hsqldb/server/OdbcPacketOutputStreamTest.java:158)9
+(test-src/org/hsqldb/server/OdbcPacketOutputStreamTest.java:184)9
+(test-src/org/hsqldb/server/OdbcPacketOutputStreamTest.java:210)9
+(test-src/org/hsqldb/server/OdbcPacketOutputStreamTest.java:234)9
+  CloneClass 829 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3549)9
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3665)9
+  CloneClass 830 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2978)13
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4576)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4657)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4753)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4906)12
+  CloneClass 831 (Type 1)
+(src/org/hsqldb/rowio/RowInputText.java:172)11
+(src/org/hsqldb/rowio/RowInputTextQuoted.java:140)11
+  CloneClass 832 (Type 1)
+(src/org/hsqldb/Table.java:2189)19
+(src/org/hsqldb/Table.java:2211)19
+  CloneClass 833 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:204)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:241)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:250)5
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:268)5
+  CloneClass 834 (Type 1)
+(src/org/hsqldb/lib/StringUtil.java:220)13
+(src/org/hsqldb/lib/StringUtil.java:254)13
+(src/org/hsqldb/lib/StringUtil.java:272)13
+  CloneClass 835 (Type 1)
+(src/org/hsqldb/DatabaseManager.java:337)13
+(src/org/hsqldb/DatabaseManager.java:360)13
+  CloneClass 836 (Type 1)
+(src/org/hsqldb/scriptio/ScriptWriterEncode.java:62)12
+(src/org/hsqldb/scriptio/ScriptWriterEncode.java:79)12
+  CloneClass 837 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCNClobTest.java:162)14
+(test-src/org/hsqldb/jdbc/JDBCNClobTest.java:191)13
+  CloneClass 838 (Type 1)
+(src/org/hsqldb/TransactionManagerCommon.java:712)13
+(src/org/hsqldb/TransactionManagerCommon.java:738)13
+  CloneClass 839 (Type 1)
+(src/org/hsqldb/test/TestOdbcService.java:122)6
+(src/org/hsqldb/test/TestOdbcService.java:208)6
+(src/org/hsqldb/test/TestOdbcService.java:262)6
+(src/org/hsqldb/test/TestOdbcService.java:297)6
+  CloneClass 840 (Type 1)
+(src/org/hsqldb/lib/IntValueHashMap.java:60)10
+(src/org/hsqldb/lib/LongValueHashMap.java:59)10
+  CloneClass 841 (Type 1)
+(src/org/hsqldb/ExpressionArrayAggregate.java:129)8
+(src/org/hsqldb/ExpressionAccessor.java:175)8
+(src/org/hsqldb/Expression.java:370)8
+(src/org/hsqldb/ExpressionArithmetic.java:154)8
+(src/org/hsqldb/ExpressionOp.java:248)8
+(src/org/hsqldb/ExpressionLogical.java:515)8
+(src/org/hsqldb/ExpressionAggregate.java:138)8
+(src/org/hsqldb/ExpressionValue.java:81)8
+(src/org/hsqldb/ExpressionTable.java:76)8
+  CloneClass 842 (Type 1)
+(src/org/hsqldb/test/TestCacheSize.java:993)11
+(src/org/hsqldb/test/TestHashStructures.java:540)11
+(src/org/hsqldb/test/TestAllTypes.java:418)11
+  CloneClass 844 (Type 1)
+(src/org/hsqldb/Table.java:939)20
+(src/org/hsqldb/Table.java:971)20
+  CloneClass 845 (Type 1)
+(src/org/hsqldb/util/TransferSQLText.java:404)8
+(src/org/hsqldb/util/TransferSQLText.java:541)8
+  CloneClass 846 (Type 1)
+(src/org/hsqldb/SchemaObjectSet.java:85)15
+(src/org/hsqldb/SchemaObjectSet.java:116)15
+  CloneClass 847 (Type 1)
+(src/org/hsqldb/persist/Logger.java:1624)5
+(src/org/hsqldb/persist/Logger.java:1631)5
+(src/org/hsqldb/persist/Logger.java:1637)5
+(src/org/hsqldb/persist/Logger.java:1643)5
+(src/org/hsqldb/persist/Logger.java:1649)5
+(src/org/hsqldb/persist/Logger.java:1656)5
+(src/org/hsqldb/persist/Logger.java:1663)5
+(src/org/hsqldb/persist/Logger.java:1670)5
+(src/org/hsqldb/persist/Logger.java:1677)5
+(src/org/hsqldb/persist/Logger.java:1684)5
+(src/org/hsqldb/persist/Logger.java:1691)5
+(src/org/hsqldb/persist/Logger.java:1698)5
+(src/org/hsqldb/persist/Logger.java:1711)5
+  CloneClass 849 (Type 1)
+(src/org/hsqldb/persist/LobManager.java:542)15
+(src/org/hsqldb/persist/LobManager.java:1016)15
+  CloneClass 850 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCSQLXMLTest.java:290)16
+(test-src/org/hsqldb/jdbc/JDBCSQLXMLTest.java:311)17
+  CloneClass 851 (Type 1)
+(src/org/hsqldb/jdbc/JDBCCallableStatement.java:4263)15
+(src/org/hsqldb/jdbc/JDBCResultSet.java:1921)15
+  CloneClass 852 (Type 1)
+(src/org/hsqldb/TextTable.java:331)8
+(src/org/hsqldb/TextTable.java:354)8
+  CloneClass 853 (Type 1)
+(src/org/hsqldb/test/TestUtil.java:969)15
+(src/org/hsqldb/test/TestUtil.java:1056)15
+  CloneClass 854 (Type 1)
+(src/org/hsqldb/jdbc/JDBCCallableStatement.java:1283)14
+(src/org/hsqldb/jdbc/JDBCResultSet.java:4729)14
+  CloneClass 855 (Type 1)
+(src/org/hsqldb/Expression.java:1139)8
+(src/org/hsqldb/ExpressionArithmetic.java:252)8
+(src/org/hsqldb/FunctionSQL.java:1189)8
+(src/org/hsqldb/FunctionCustom.java:1852)8
+  CloneClass 856 (Type 1)
+(src/org/hsqldb/test/TestUtil.java:951)11
+(src/org/hsqldb/test/TestUtil.java:1043)11
+  CloneClass 857 (Type 1)
+(src/org/hsqldb/types/BitType.java:121)17
+(src/org/hsqldb/types/CharacterType.java:257)17
+  CloneClass 858 (Type 1)
+(src/org/hsqldb/lib/ArrayUtil.java:858)8
+(src/org/hsqldb/lib/ArrayUtil.java:892)8
+  CloneClass 859 (Type 1)
+(src/org/hsqldb/lib/tar/DbBackup.java:189)9
+(src/org/hsqldb/lib/tar/DbBackup.java:213)9
+  CloneClass 860 (Type 1)
+(src/org/hsqldb/types/Type.java:1076)13
+(src/org/hsqldb/types/Types.java:706)13
+  CloneClass 861 (Type 1)
+(src/org/hsqldb/StatementDML.java:1522)6
+(src/org/hsqldb/StatementDML.java:1534)6
+  CloneClass 862 (Type 1)
+(src/org/hsqldb/persist/LobStoreInJar.java:70)9
+(src/org/hsqldb/persist/LobStoreRAFile.java:85)9
+  CloneClass 863 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:946)11
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:1705)11
+  CloneClass 865 (Type 1)
+(src/org/hsqldb/types/IntervalType.java:441)16
+(src/org/hsqldb/types/NumberType.java:668)16
+  CloneClass 866 (Type 1)
+(src/org/hsqldb/navigator/RowSetNavigatorDataTable.java:196)10
+(src/org/hsqldb/navigator/RowSetNavigatorData.java:197)11
+  CloneClass 867 (Type 1)
+(src/org/hsqldb/jdbc/JDBCClobFile.java:963)26
+(src/org/hsqldb/jdbc/JDBCBlobFile.java:770)26
+  CloneClass 868 (Type 1)
+(src/org/hsqldb/server/ServerConnection.java:844)24
+(src/org/hsqldb/server/ServerConnection.java:1360)23
+  CloneClass 869 (Type 1)
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:169)8
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:191)8
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:213)8
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:234)8
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:247)8
+(src/org/hsqldb/index/NodeAVLDiskLarge.java:260)8
+  CloneClass 870 (Type 1)
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:250)6
+(src/org/hsqldb/lib/ValidatingResourceBundle.java:277)6
+  CloneClass 871 (Type 1)
+(src/org/hsqldb/test/TestSql.java:155)18
+(src/org/hsqldb/test/TestSql.java:175)18
+  CloneClass 872 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:753)7
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:948)7
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:1707)7
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2573)6
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2728)6
+  CloneClass 873 (Type 1)
+(src/org/hsqldb/Expression.java:370)17
+(src/org/hsqldb/ExpressionArithmetic.java:154)17
+(src/org/hsqldb/ExpressionOp.java:248)17
+(src/org/hsqldb/ExpressionLogical.java:515)17
+(src/org/hsqldb/ExpressionValue.java:81)17
+  CloneClass 874 (Type 1)
+(src/org/hsqldb/util/Grid.java:344)11
+(src/org/hsqldb/util/Tree.java:318)11
+  CloneClass 875 (Type 1)
+(src/org/hsqldb/StatementSchema.java:116)18
+(src/org/hsqldb/StatementSchema.java:713)18
+  CloneClass 876 (Type 1)
+(src/org/hsqldb/util/DatabaseManagerSwing.java:171)10
+(src/org/hsqldb/util/ConnectionDialogCommon.java:317)12
+  CloneClass 877 (Type 1)
+(src/org/hsqldb/ExpressionAccessor.java:77)8
+(src/org/hsqldb/ExpressionAggregate.java:224)8
+  CloneClass 878 (Type 1)
+(src/org/hsqldb/util/PostgresTransferHelper.java:116)28
+(src/org/hsqldb/util/OracleTransferHelper.java:94)28
+  CloneClass 879 (Type 1)
+(src/org/hsqldb/SchemaManager.java:2756)8
+(src/org/hsqldb/persist/DataFileDefrag.java:219)8
+  CloneClass 880 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCResultSetTest.java:1713)22
+(test-src/org/hsqldb/jdbc/JDBCResultSetTest.java:1745)22
+  CloneClass 881 (Type 1)
+(src/org/hsqldb/rowio/RowInputText.java:402)15
+(src/org/hsqldb/rowio/RowInputText.java:420)15
+  CloneClass 882 (Type 1)
+(src/org/hsqldb/test/TestStoredProcedure.java:224)23
+(src/org/hsqldb/test/TestStoredProcedure.java:262)22
+  CloneClass 883 (Type 1)
+(src/org/hsqldb/ParserRoutine.java:2016)21
+(src/org/hsqldb/ParserRoutine.java:2052)21
+  CloneClass 884 (Type 1)
+(src/org/hsqldb/ParserDQL.java:631)8
+(src/org/hsqldb/ParserDML.java:806)8
+(src/org/hsqldb/ParserDML.java:884)8
+  CloneClass 886 (Type 1)
+(src/org/hsqldb/Scanner.java:698)14
+(src/org/hsqldb/Scanner.java:730)14
+  CloneClass 887 (Type 1)
+(src/org/hsqldb/jdbc/JDBCResultSet.java:1915)12
+(src/org/hsqldb/jdbc/JDBCResultSet.java:4470)11
+  CloneClass 888 (Type 1)
+(src/org/hsqldb/jdbc/JDBCBlob.java:231)13
+(src/org/hsqldb/jdbc/JDBCBlob.java:274)13
+  CloneClass 889 (Type 1)
+(src/org/hsqldb/test/TestStoredProcedure.java:450)10
+(src/org/hsqldb/test/TestStoredProcedure.java:470)10
+  CloneClass 890 (Type 1)
+(src/org/hsqldb/util/TransferTable.java:287)19
+(src/org/hsqldb/util/TransferTable.java:341)19
+(src/org/hsqldb/util/TransferTable.java:442)19
+  CloneClass 891 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCResultSetTest.java:84)34
+(test-src/org/hsqldb/jdbc/JDBCResultSetTest.java:121)34
+  CloneClass 892 (Type 1)
+(src/org/hsqldb/sample/TriggerSample.java:128)19
+(doc-src/verbatim/src/org/hsqldb/sample/TriggerSample.java:128)19
+  CloneClass 893 (Type 1)
+(src/org/hsqldb/test/TestHashStructures.java:58)16
+(src/org/hsqldb/test/TestHashStructures.java:138)12
+  CloneClass 894 (Type 1)
+(src/org/hsqldb/test/TestLobs.java:297)4
+(src/org/hsqldb/test/TestLobs.java:348)4
+  CloneClass 895 (Type 1)
+(src/org/hsqldb/util/TransferSQLText.java:387)17
+(src/org/hsqldb/util/TransferSQLText.java:454)17
+(src/org/hsqldb/util/TransferSQLText.java:713)17
+  CloneClass 896 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5025)15
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5389)13
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5613)13
+  CloneClass 897 (Type 1)
+(src/org/hsqldb/util/DatabaseManagerSwing.java:1283)9
+(src/org/hsqldb/util/DatabaseManager.java:742)9
+  CloneClass 898 (Type 1)
+(src/org/hsqldb/ClientConnection.java:598)11
+(src/org/hsqldb/Session.java:2084)11
+  CloneClass 899 (Type 1)
+(src/org/hsqldb/ParserCommand.java:884)24
+(src/org/hsqldb/ParserCommand.java:1461)24
+  CloneClass 900 (Type 1)
+(src/org/hsqldb/StatementDML.java:292)9
+(src/org/hsqldb/StatementQuery.java:94)9
+(src/org/hsqldb/StatementProcedure.java:381)9
+(src/org/hsqldb/StatementExpression.java:188)9
+(src/org/hsqldb/StatementSet.java:347)9
+  CloneClass 901 (Type 1)
+(src/org/hsqldb/test/TestOdbcService.java:229)5
+(src/org/hsqldb/test/TestOdbcService.java:277)5
+(src/org/hsqldb/test/TestOdbcService.java:312)5
+  CloneClass 903 (Type 1)
+(src/org/hsqldb/RowAction.java:815)10
+(src/org/hsqldb/RowAction.java:847)10
+  CloneClass 904 (Type 1)
+(src/org/hsqldb/lib/StringConverter.java:224)5
+(src/org/hsqldb/lib/StringConverter.java:252)5
+  CloneClass 905 (Type 1)
+(test-src/org/hsqldb/auth/SlaveAuthBeanTest.java:169)17
+(test-src/org/hsqldb/auth/JaasAuthBeanTest.java:188)17
+(test-src/org/hsqldb/auth/JaasAuthBeanTest.java:238)17
+  CloneClass 906 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4975)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5564)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5652)8
+  CloneClass 907 (Type 1)
+(src/org/hsqldb/util/DatabaseManagerSwing.java:464)75
+(src/org/hsqldb/util/DatabaseManager.java:243)75
+  CloneClass 908 (Type 1)
+(src/org/hsqldb/util/Transfer.java:441)11
+(src/org/hsqldb/util/Transfer.java:470)11
+  CloneClass 909 (Type 1)
+(src/org/hsqldb/lib/DoubleIntIndex.java:494)11
+(src/org/hsqldb/lib/DoubleIntIndex.java:521)11
+(src/org/hsqldb/lib/DoubleIntIndex.java:547)11
+  CloneClass 910 (Type 1)
+(src/org/hsqldb/ExpressionAccessor.java:65)10
+(src/org/hsqldb/Expression.java:1029)11
+(src/org/hsqldb/ExpressionArithmetic.java:240)10
+(src/org/hsqldb/ExpressionOp.java:324)10
+  CloneClass 911 (Type 1)
+(src/org/hsqldb/persist/RowStoreAVLDisk.java:259)20
+(src/org/hsqldb/persist/RowStoreAVLMemory.java:180)20
+  CloneClass 912 (Type 1)
+(src/org/hsqldb/lib/LongDeque.java:207)10
+(src/org/hsqldb/lib/LongDeque.java:270)10
+  CloneClass 913 (Type 1)
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:113)19
+(test-src/org/hsqldb/auth/JaasAuthBeanTest.java:136)19
+  CloneClass 914 (Type 1)
+(src/org/hsqldb/ExpressionLogical.java:1697)8
+(src/org/hsqldb/ExpressionLogical.java:1769)8
+  CloneClass 915 (Type 1)
+(src/org/hsqldb/ExpressionLogical.java:947)4
+(src/org/hsqldb/ExpressionLogical.java:982)4
+  CloneClass 916 (Type 1)
+(src/org/hsqldb/Expression.java:617)10
+(src/org/hsqldb/Expression.java:681)26
+  CloneClass 917 (Type 1)
+(src/org/hsqldb/util/ConnectionDialog.java:292)7
+(src/org/hsqldb/util/Transfer.java:1140)7
+  CloneClass 918 (Type 1)
+(test-src/org/hsqldb/auth/SlaveAuthBeanTest.java:169)10
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:156)10
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:207)10
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:259)10
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:532)10
+  CloneClass 919 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4818)11
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7429)11
+  CloneClass 920 (Type 1)
+(src/org/hsqldb/ParserCommand.java:617)21
+(src/org/hsqldb/ParserCommand.java:654)21
+  CloneClass 921 (Type 1)
+(src/org/hsqldb/Session.java:1422)21
+(src/org/hsqldb/Session.java:1479)21
+  CloneClass 922 (Type 1)
+(src/org/hsqldb/types/RowType.java:303)20
+(src/org/hsqldb/types/RowType.java:331)20
+  CloneClass 923 (Type 1)
+(test-src/org/hsqldb/jdbc/JDBCCallableStatementTest.java:572)51
+(test-src/org/hsqldb/jdbc/JDBCCallableStatementTest.java:706)51
+  CloneClass 924 (Type 1)
+(src/org/hsqldb/StatementDMQL.java:636)13
+(src/org/hsqldb/StatementDMQL.java:652)13
+(src/org/hsqldb/StatementDMQL.java:676)13
+  CloneClass 925 (Type 1)
+(src/org/hsqldb/cmdline/SqlFile.java:6150)10
+(src/org/hsqldb/cmdline/SqlFile.java:6162)10
+  CloneClass 926 (Type 1)
+(src/org/hsqldb/cmdline/SqlFile.java:3495)4
+(src/org/hsqldb/cmdline/SqlFile.java:3537)5
+  CloneClass 927 (Type 1)
+(src/org/hsqldb/jdbc/JDBCClobFile.java:503)15
+(src/org/hsqldb/jdbc/JDBCBlobFile.java:437)15
+  CloneClass 928 (Type 1)
+(src/org/hsqldb/types/BitType.java:121)13
+(src/org/hsqldb/types/BinaryType.java:187)13
+(src/org/hsqldb/types/CharacterType.java:257)13
+  CloneClass 929 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6873)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:8155)12
+  CloneClass 930 (Type 1)
+(src/org/hsqldb/test/TestOdbcService.java:116)6
+(src/org/hsqldb/test/TestOdbcService.java:202)6
+(src/org/hsqldb/test/TestOdbcService.java:256)6
+(src/org/hsqldb/test/TestOdbcService.java:291)6
+  CloneClass 931 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2464)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3289)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3464)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4191)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5675)7
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7769)7
+  CloneClass 932 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3549)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3602)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3634)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3665)8
+  CloneClass 933 (Type 1)
+(src/org/hsqldb/test/TestBase.java:100)42
+(doc-src/verbatim/src/org/hsqldb/test/TestBase.java:100)42
+  CloneClass 934 (Type 1)
+(src/org/hsqldb/ParserDQL.java:629)10
+(src/org/hsqldb/ParserDML.java:882)10
+  CloneClass 935 (Type 1)
+(src/org/hsqldb/Tokens.java:45)1688
+(doc-src/verbatim/src/org/hsqldb/Tokens.java:45)1688
+  CloneClass 936 (Type 1)
+(test-src/org/hsqldb/auth/AuthFunctionTest.java:95)7
+(test-src/org/hsqldb/auth/JaasAuthBeanTest.java:71)7
+  CloneClass 937 (Type 1)
+(src/org/hsqldb/server/Servlet.java:243)102
+(doc-src/verbatim/src/org/hsqldb/server/Servlet.java:243)102
+  CloneClass 938 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6753)10
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6866)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6975)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7086)8
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7244)8
+  CloneClass 939 (Type 1)
+(src/org/hsqldb/server/WebServer.java:139)68
+(doc-src/verbatim/src/org/hsqldb/server/WebServer.java:139)68
+  CloneClass 940 (Type 1)
+(src/org/hsqldb/persist/LobStoreMem.java:62)8
+(src/org/hsqldb/persist/LobStoreMem.java:94)8
+  CloneClass 941 (Type 1)
+(src/org/hsqldb/test/TestOdbcService.java:131)12
+(src/org/hsqldb/test/TestOdbcService.java:318)12
+  CloneClass 942 (Type 1)
+(src/org/hsqldb/Table.java:513)5
+(src/org/hsqldb/Table.java:575)4
+  CloneClass 943 (Type 1)
+(src/org/hsqldb/test/TestOdbcService.java:237)8
+(src/org/hsqldb/test/TestOdbcService.java:341)8
+  CloneClass 944 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:1887)11
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2151)10
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2820)12
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4470)10
+  CloneClass 945 (Type 1)
+(src/org/hsqldb/test/TestHashStructures.java:457)7
+(src/org/hsqldb/test/TestHashStructures.java:489)8
+  CloneClass 946 (Type 1)
+(test-src/org/hsqldb/jdbc/pool/JDBCPooledDataSourceTest.java:107)12
+(test-src/org/hsqldb/jdbc/pool/JDBCXAConnectionTest.java:123)12
+(test-src/org/hsqldb/jdbc/pool/JDBCXAConnectionTest.java:188)12
+  CloneClass 947 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4474)10
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6551)12
+  CloneClass 948 (Type 1)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6753)10
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7244)8
+  CloneClass 949 (Type 1)
+(src/org/hsqldb/types/DateTimeType.java:1165)13
+(src/org/hsqldb/types/DateTimeType.java:1197)13
+This is for clone class 2
+  CloneClass 72 (Type 2)
+(src/org/hsqldb/test/TestOdbcService.java:202)19
+(src/org/hsqldb/test/TestOdbcService.java:256)19
+(src/org/hsqldb/test/TestOdbcService.java:291)19
+  CloneClass 99 (Type 2)
+(src/org/hsqldb/persist/Logger.java:1677)12
+(src/org/hsqldb/persist/Logger.java:1691)12
+  CloneClass 136 (Type 2)
+(test-src/org/hsqldb/jdbc/pool/JDBCPooledDataSourceTest.java:95)48
+(test-src/org/hsqldb/jdbc/pool/JDBCXAConnectionTest.java:110)49
+  CloneClass 167 (Type 2)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4186)20
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5670)20
+  CloneClass 176 (Type 2)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3456)23
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5667)23
+  CloneClass 212 (Type 2)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:2963)33
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:3390)30
+  CloneClass 229 (Type 2)
+(src/org/hsqldb/FunctionSQL.java:1203)16
+(src/org/hsqldb/FunctionSQL.java:1611)18
+  CloneClass 253 (Type 2)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:1541)20
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3792)19
+  CloneClass 292 (Type 2)
+(src/org/hsqldb/test/TestOdbcTypes.java:653)27
+(src/org/hsqldb/test/TestOdbcTypes.java:682)26
+  CloneClass 365 (Type 2)
+(src/org/hsqldb/test/TestOdbcTypes.java:296)27
+(src/org/hsqldb/test/TestOdbcTypes.java:325)27
+  CloneClass 389 (Type 2)
+(src/org/hsqldb/cmdline/SqlFile.java:6145)25
+(src/org/hsqldb/server/OdbcUtil.java:251)25
+  CloneClass 438 (Type 2)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2264)51
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2382)51
+  CloneClass 454 (Type 2)
+(src/org/hsqldb/test/TestBench.java:153)23
+(src/org/hsqldb/test/JDBCBench.java:145)23
+  CloneClass 498 (Type 2)
+(src/org/hsqldb/lib/KMPSearchAlgorithm.java:248)41
+(src/org/hsqldb/lib/KMPSearchAlgorithm.java:322)38
+  CloneClass 568 (Type 2)
+(src/org/hsqldb/cmdline/SqlFile.java:2330)15
+(src/org/hsqldb/cmdline/SqlFile.java:2371)21
+  CloneClass 621 (Type 2)
+(src/org/hsqldb/test/TestOdbcTypes.java:594)27
+(src/org/hsqldb/test/TestOdbcTypes.java:623)28
+  CloneClass 683 (Type 2)
+(src/org/hsqldb/test/TestOdbcTypes.java:383)27
+(src/org/hsqldb/test/TestOdbcTypes.java:412)27
+  CloneClass 685 (Type 2)
+(src/org/hsqldb/jdbc/JDBCPreparedStatement.java:4335)30
+(src/org/hsqldb/jdbc/JDBCPreparedStatement.java:4403)34
+  CloneClass 718 (Type 2)
+(src/org/hsqldb/test/TestOdbcTypes.java:1521)42
+(src/org/hsqldb/test/TestOdbcTypes.java:1573)42
+  CloneClass 730 (Type 2)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4561)27
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4738)27
+  CloneClass 758 (Type 2)
+(src/org/hsqldb/test/TestStressInsert.java:151)21
+(src/org/hsqldb/test/TestStressInsert.java:174)21
+  CloneClass 843 (Type 2)
+(src/org/hsqldb/test/TestLobs.java:487)32
+(src/org/hsqldb/test/TestLobs.java:560)32
+  CloneClass 864 (Type 2)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5373)28
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5480)28
+  CloneClass 885 (Type 2)
+(src/org/hsqldb/test/TestOdbcService.java:116)12
+(src/org/hsqldb/test/TestOdbcService.java:202)12
+  CloneClass 902 (Type 2)
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:3110)97
+(src/org/hsqldb/dbinfo/DatabaseInformationMain.java:3214)98
+This is for clone class 3
+  CloneClass 19 (Type 3)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6699)27
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7037)26
+  CloneClass 26 (Type 3)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5009)34
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5596)33
+  CloneClass 41 (Type 3)
+(src/org/hsqldb/persist/Logger.java:1624)30
+(src/org/hsqldb/persist/Logger.java:1656)33
+  CloneClass 53 (Type 3)
+(src/org/hsqldb/Scanner.java:2033)30
+(src/org/hsqldb/Scanner.java:2185)33
+  CloneClass 88 (Type 3)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6844)30
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6953)30
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7063)31
+  CloneClass 112 (Type 3)
+(src/org/hsqldb/types/ClobType.java:85)25
+(src/org/hsqldb/types/BlobType.java:88)24
+  CloneClass 127 (Type 3)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5009)30
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5480)28
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5596)29
+  CloneClass 134 (Type 3)
+(src/org/hsqldb/TransactionManagerMVCC.java:114)26
+(src/org/hsqldb/TransactionManagerMVCC.java:158)30
+  CloneClass 139 (Type 3)
+(src/org/hsqldb/jdbc/JDBCArray.java:549)49
+(src/org/hsqldb/jdbc/JDBCArrayBasic.java:509)46
+  CloneClass 148 (Type 3)
+(src/org/hsqldb/types/NumberType.java:1553)36
+(src/org/hsqldb/types/NumberType.java:1604)47
+  CloneClass 153 (Type 3)
+(test-src/org/hsqldb/testbase/BaseScriptedTestCase.java:588)40
+(src/org/hsqldb/test/TestUtil.java:734)62
+  CloneClass 161 (Type 3)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6727)37
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:7063)32
+  CloneClass 174 (Type 3)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2133)31
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2789)46
+  CloneClass 211 (Type 3)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6727)36
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6844)30
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:6953)30
+  CloneClass 222 (Type 3)
+(src/org/hsqldb/test/TestBench.java:689)43
+(src/org/hsqldb/test/JDBCBench.java:789)41
+  CloneClass 242 (Type 3)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4975)33
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5564)32
+  CloneClass 248 (Type 3)
+(src/org/hsqldb/util/ConnectionDialogSwing.java:321)16
+(src/org/hsqldb/util/ConnectionDialog.java:305)16
+  CloneClass 261 (Type 3)
+(src/org/hsqldb/util/DatabaseManagerSwing.java:1293)26
+(src/org/hsqldb/util/DatabaseManager.java:750)19
+  CloneClass 265 (Type 3)
+(src/org/hsqldb/test/TestLibSpeed.java:166)18
+(src/org/hsqldb/test/TestLibSpeed.java:192)19
+  CloneClass 330 (Type 3)
+(src/org/hsqldb/result/ResultLob.java:383)19
+(src/org/hsqldb/result/ResultLob.java:407)18
+  CloneClass 337 (Type 3)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:593)31
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2579)23
+  CloneClass 349 (Type 3)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5009)31
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5373)29
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5596)30
+  CloneClass 355 (Type 3)
+(src/org/hsqldb/types/BlobType.java:161)29
+(src/org/hsqldb/types/BlobType.java:206)23
+  CloneClass 387 (Type 3)
+(src/org/hsqldb/test/TestLibSpeed.java:140)17
+(src/org/hsqldb/test/TestLibSpeed.java:167)17
+  CloneClass 388 (Type 3)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3280)24
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3455)29
+  CloneClass 410 (Type 3)
+(src/org/hsqldb/test/TestLibSpeed.java:140)31
+(src/org/hsqldb/test/TestLibSpeed.java:193)29
+  CloneClass 426 (Type 3)
+(test-src/org/hsqldb/auth/JaasAuthBeanTest.java:160)45
+(test-src/org/hsqldb/auth/JaasAuthBeanTest.java:211)44
+  CloneClass 446 (Type 3)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2470)18
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4185)21
+  CloneClass 463 (Type 3)
+(src/org/hsqldb/store/BitMap.java:307)35
+(src/org/hsqldb/store/BitMap.java:382)34
+  CloneClass 503 (Type 3)
+(src/org/hsqldb/cmdline/SqlFile.java:4077)59
+(src/org/hsqldb/cmdline/SqlFile.java:4473)48
+  CloneClass 507 (Type 3)
+(src/org/hsqldb/test/TestOdbcTypes.java:172)28
+(src/org/hsqldb/test/TestOdbcTypes.java:202)28
+  CloneClass 518 (Type 3)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4975)30
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5347)26
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:5564)29
+  CloneClass 519 (Type 3)
+(src/org/hsqldb/test/TestLobs.java:633)73
+(src/org/hsqldb/test/TestLobs.java:708)75
+  CloneClass 521 (Type 3)
+(src/org/hsqldb/ExpressionLogical.java:855)21
+(src/org/hsqldb/ExpressionLogical.java:876)20
+  CloneClass 537 (Type 3)
+(src/org/hsqldb/util/DatabaseManagerSwing.java:1632)50
+(src/org/hsqldb/util/DatabaseManager.java:853)43
+  CloneClass 564 (Type 3)
+(src/org/hsqldb/test/TestOdbcTypes.java:143)27
+(src/org/hsqldb/test/TestOdbcTypes.java:172)28
+(src/org/hsqldb/test/TestOdbcTypes.java:202)28
+  CloneClass 572 (Type 3)
+(src/org/hsqldb/test/TestCacheSize.java:876)44
+(src/org/hsqldb/test/TestCacheSize.java:927)37
+  CloneClass 573 (Type 3)
+(src/org/hsqldb/persist/Logger.java:1624)24
+(src/org/hsqldb/persist/Logger.java:1649)26
+  CloneClass 600 (Type 3)
+(integration/hibernate_3_3_1/src/org/hibernate/dialect/HSQLDialect.java:72)58
+(integration/hibernate/src/org/hibernate/dialect/HSQLDialect.java:72)61
+  CloneClass 637 (Type 3)
+(src/org/hsqldb/util/DatabaseManagerSwing.java:1795)77
+(src/org/hsqldb/util/DatabaseManager.java:973)74
+  CloneClass 663 (Type 3)
+(src/org/hsqldb/lib/HsqlDeque.java:269)24
+(src/org/hsqldb/lib/LongDeque.java:230)24
+  CloneClass 674 (Type 3)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3284)20
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:4186)25
+  CloneClass 688 (Type 3)
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:2471)17
+(src/org/hsqldb/dbinfo/DatabaseInformationFull.java:3459)20
+  CloneClass 716 (Type 3)
+(src/org/hsqldb/persist/Logger.java:1624)12
+(src/org/hsqldb/persist/Logger.java:1637)11
+  CloneClass 719 (Type 3)
+(src/org/hsqldb/types/NumberType.java:1456)36
+(src/org/hsqldb/types/NumberType.java:1505)34
+  CloneClass 722 (Type 3)
+(src/org/hsqldb/types/RowType.java:117)37
+(src/org/hsqldb/types/ArrayType.java:143)37
+  CloneClass 723 (Type 3)
+(src/org/hsqldb/persist/Logger.java:1663)19
+(src/org/hsqldb/persist/Logger.java:1684)19
+  CloneClass 735 (Type 3)
+(src/org/hsqldb/test/TestLibSpeed.java:140)31
+(src/org/hsqldb/test/TestLibSpeed.java:180)31
+  CloneClass 745 (Type 3)
+(src/org/hsqldb/cmdline/SqlFile.java:2331)13
+(src/org/hsqldb/cmdline/SqlFile.java:2372)19
+(src/org/hsqldb/cmdline/SqlFile.java:2744)17
+  CloneClass 766 (Type 3)
+(src/org/hsqldb/ParserDML.java:456)53
+(src/org/hsqldb/ParserDML.java:585)54
+  CloneClass 770 (Type 3)
+(src/org/hsqldb/persist/Logger.java:1649)26
+(src/org/hsqldb/persist/Logger.java:1677)26
+  CloneClass 788 (Type 3)
+(src/org/hsqldb/test/TestCacheSize.java:746)37
+(src/org/hsqldb/test/TestCacheSize.java:834)37
+  CloneClass 818 (Type 3)
+(src/org/hsqldb/persist/Logger.java:1624)37
+(src/org/hsqldb/persist/Logger.java:1663)40
+  CloneClass 848 (Type 3)
+(src/org/hsqldb/persist/Logger.java:1624)18
+(src/org/hsqldb/persist/Logger.java:1643)18
+Found 2514 clones in 949 cases.
+Net cloned lines = 31481
